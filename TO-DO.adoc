@@ -1,0 +1,16 @@
+= TO-DO of _Dictionarium de Interlingue_
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-08-14
+
+// This file is part of project
+// _Dictionarium de Interlingue_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201908141707
+
+

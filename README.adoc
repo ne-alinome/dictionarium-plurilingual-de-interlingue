@@ -1,0 +1,37 @@
+= Dictionarium de Interlingue
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-08-14
+
+// This file is part of project
+// _Dictionarium de Interlingue_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201908141745
+
+== Interlingue
+
+=== Pri ti projecte
+
+Scope:: Crear un modern e actualisabil dictionarium plurilingual de
+Interlingue.
+
+Formates final:: DICT, EPUB, ODT, PDF e altris.
+
+Formate del data:: Database textual MDF ("Multi-lingual Dictionary
+Format"), un del formates creat de http://sil.org[SIL] por su
+programas.
+
+Lingues:: In prim tis del Interlingue-dictionariums ya disponibil in
+diversi documentes digital: anglesi (Charles Kemp e F.R. Pope, 1958),
+esperantic (Bedřich Plavec, circa 2005), german (Thomas Schmidt,
+2014), e tchec (Bedřich Plavec, 2006). Poy anc hispan e altris, secun
+li colaboratores.
+
+Autor:: Marcos Cruz, 2019.
+
+Web-loc:: http://ne.alinome.net[ne.alinome.net]
