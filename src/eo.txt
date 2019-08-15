@@ -181,7 +181,9 @@ ambicie - ambicio
 ambiciosi - ambicia
 ambigui - ambigua
 ambiguiitá - ambigueco
-amic/o,-al,-itá - amik/o,-a,-eco
+amico - amiko
+amical - amika
+amicitá - amikeco
 amidon - amelo
 ampli - ampleksa
 amusar - amuzi
@@ -218,7 +220,9 @@ aparer - ŝajni
 aparir - aperi
 apart - aparta
 apartener - aparteni
-ap/e,-iere,-iera - abel/o,-ujo,-ejo
+ape - abelo
+apiere - abelujo
+apiera - abelejo
 apen - apenaŭ
 apert - aperta
 aperter - aperti
@@ -331,7 +335,9 @@ aurora - aŭroro
 austeri - rigora
 autentic - aŭtent/ik/a
 autun - aŭtuno
-auxili/ar,-ari,-e - help/i,-a,-o
+auxiliar - helpi
+auxiliari - helpa
+auxilie - helpo
 avan (loc) - antaŭ
 avans/ar,-e - avanc/i,-/ad/o
 aventage,-osi - avantaĝ/o,-a
@@ -1345,7 +1351,9 @@ ferie - foiro
 feroci - feroca, kruela
 ferre - fero
 fertil - fruktodona
-ferv/er,-ent,-ore - fervor/i,-a,-o
+ferver - fervori
+fervent - fervora
+fervore - fervoro
 festa - festo
 festine - festeno
 feston - festono
@@ -1684,7 +1692,9 @@ inferiori - neplenvalora
 inferne - infero
 inflamm/ar,-ette - /ek/bruligi; alumeto
 infl/ar,-ation - plenblovi; inflacio
-influ/er,-ent,-entie - influ/i,-a,-o
+influer - influi
+influent - influa
+influentie - influo
 infra - malsupre
 infuser - infuzi
 ingred/ir,-ientie - almiks/i ,-aĵo
@@ -1728,7 +1738,9 @@ inter - inter
 intercalar - enmeti, enŝovi
 interdict - malpermeso
 interdicter - malpermesi
-interess/ar,-ant,-e - interes/i,-a,-o
+interessar - interesi
+interessant - interesa
+interesse - intereso
 interest - interezo, procentaĵo
 interim - intertempe
 intern, interiori - interna
@@ -1882,7 +1894,9 @@ liverar - liveri
 livid - mortpala
 lixive - lesivo
 lob - lobo
-loc/o,-al,-ar - lok/o,-a,-i
+loco - loko
+local - loka
+locar - loki
 logí,-ar - loĝ/ejo,-i
 long,-ore - long/a,-/ec/o
 longitudine - longitudo
@@ -1899,7 +1913,9 @@ lucer - lumi
 lucrar - lukri
 lucte - lukto
 lucter - lukti
-lud/e,-er,-ette - lud/o,-i,-ilo
+lude - ludo
+luder - ludi
+ludette - ludilo
 lullar - luli
 lulluore - lulilo
 lune - luno
@@ -1948,7 +1964,9 @@ mantel - mantelo
 manu - mano
 manual - mana
 manuale - manlibro, instrulibro
-mar/e,-in,-inero - mar/o,-a,-isto
+mare - maro
+marin - mara
+marinero - maristo
 marca - marko
 marcer - marki
 march/a,-ar - marŝ/o,-i
@@ -1990,8 +2008,12 @@ medie - medio
 mediocri - mezvalora
 melcar - melki
 mem - eĉ
-membr/e,-itá,-ité - merabr/o,-eco,-aro
-memor/ar,-ie,-ebil - memor/i,-o,-inda
+membre - membro
+membritá - membreco
+membrité - membraro
+memorar - memori
+memorie - memoro
+memorabil - memorinda
 menacie - minaco
 menaciar - minaci
 menage,-ar - mastrum/aĵo,-i
@@ -2034,7 +2056,9 @@ mill,-ennie - mil,-jaro
 militare - armeo
 militari - armea
 milz - laktumo
-mim/o,-ic,-ar - mim/o,-a,-i
+mimo - mimo
+mimic - mima
+mimar - mimi
 mine - mino
 minte - minto
 minu - malpli
@@ -2098,7 +2122,9 @@ mudde - koto
 muff - mufo
 muir - muĝi
 mult - multe
-mund/e,-al,-an - mond/o,-a,-uma
+munde - mondo
+mundal - monda
+mundan - monduma
 munir - provizi
 mur - muro
 mur/ar,-age,-ero - mason/i,-aĵo,-isto
@@ -2238,7 +2264,9 @@ ocul,-are/s/ - okul/o,-vitro/j/
 ocult,-isme - sekreta, okultismo
 ocupar - okupi
 ocupation - okupo
-odi/e,-ar,-osi - malam/o,-i,-a
+odie - malamo
+odiar - malami
+odiosi - malama
 odore - odoro
 odorar - odori
 ofender - ofendi
@@ -2282,7 +2310,9 @@ orel - orelo
 orfan - orfano
 organ - 1.organo 2.orgeno
 orgollie - orgojlo
-origin/e,-al,-ar - origin/o,-ala,-i
+orígine - origino
+original - originala
+originar - origini
 orn/ar,-ament - ornam/i,-/aĵ/o
 ortografie - ortografio
 oscill/ar,-ator - oscil/i, -ilo
@@ -2441,7 +2471,9 @@ pesar - pezi
 pesa - pezo
 pessim - plej malbona
 peste - pesto
-pet/ir,-ida,-ition - pet/i,-o,-icio
+petir - peti
+petida - peto
+petition - peticio
 petr/e,-in - ŝton/o,-a
 petrosel - petroselo
 pezze - peco
@@ -2633,7 +2665,9 @@ profetisar - profeti
 profite - profito
 profitar - profiti
 profund,-ar - profund/a, pli-igi
-progress/e,-er,-iv - progres/o,-i,-a
+progresse - progreso
+progresser - progresi
+progressiv - progresa
 projecte - projekto
 projecter - projekti
 prolongar - plilongigi
@@ -2677,7 +2711,9 @@ púber - pubera
 pubertá - pubereco
 public,-a,-ar - publik/e,-o,-/ig/i
 publicist - publicisto
-pud/er,-ent,-entie - hont/i,-ema,-emo
+puder - honti
+pudent - hontema
+pudentie - hontemo
 puella - knabino
 puer - knabo
 pulce - pulo
@@ -2940,7 +2976,9 @@ rey - reĝo
 rican/ar ,-ament - rikan/i,-o
 rich - rica
 richesse - riceco
-ri/der,-sion,-sibil - rid/i,-o,-inda
+rider - ridi
+rision - rido
+risibil - ridinda
 ridicul=risibil - ridinda
 riff - rifo
 rigid - rigida
@@ -3006,7 +3044,9 @@ sacrific/ar,-ie - ofer-/i,-/aĵ/o
 sacrilegie - sakrilegio
 sagaci - sagaca
 sagi,-tá - saĝ/a,-eco
-sal/e,-ar,-in - sal/o,-i,-ita
+sale - salo
+salar - sali
+salin - salita
 sala - salono
 salade - salato
 salamandre - salamandro
@@ -3062,7 +3102,9 @@ scarlat - skarlato
 scarp/at/ - kruta
 scatulle - skatolo
 sceptre - sceptro
-scient/ie,-ic,-ist - scienc/o,-a,-ulo
+scientie - scienco
+scientic - scienca
+scientist - scienculo
 scintille - fajrero, /el./ parko
 sclave - sklavo
 scluse - akvobaraĵo, flu-baro
@@ -3072,7 +3114,9 @@ scorbut - skorbuto
 scorie - skorio
 scrappar - skrapi
 scren - ekrano
-scr/ir,-ition,-itura - skrib/i,-ado,-o
+scrir - skribi
+scrition - skribado
+scritura - skribo
 scroful - skrofulo
 scrupul - skrupulo
 scrupulosi - skrupula
@@ -3125,7 +3169,9 @@ sense - senco
 sensibil - sentema
 sensu - senso
 sensual - sensa
-sent/e,-ir,-ibil - sent/o,-i,-ebla
+sente - sento
+sentir - senti
+sentibil - sentebla
 separar - separi
 separation - separo
 septembre - septembro
@@ -3159,7 +3205,9 @@ sicc - seka
 siccar - sekigi
 sifflar - fajfi
 sigill - sigelo
-sign/e,-ar,-ificar - sign/o,-i,-ifi
+signe - signo
+signar - signi
+significar - signifi
 silent - silenta
 silentie - silento
 silk - silko
@@ -3251,7 +3299,9 @@ splend/er,-id - brili, belega
 splinte - ŝtipo
 splittre - lignero, splito
 spoliar - priŝteli
-spon/der,-so,-sa - fianĉ/i,-o,-ino
+sponder - fianĉi
+sponso - fianĉo
+sponsa - fianĉino
 spongie - spongo
 spontan - spontana
 sporadic - sporada
@@ -3378,7 +3428,9 @@ sucusser - skui
 sud - sudo
 sudic - suda
 sud/ar,-ore - ŝvit/i,-o
-su/er,-tion,-tura - kudr/i,-ado,-aĵo
+suer - kudri
+sution - kudrado
+sutura - kudraĵo
 suficer - sufiĉi
 sufixe - sufikso
 suflé - sufleo
@@ -3451,7 +3503,9 @@ tactar - takti
 tal - tia
 talc - talko
 táler - talero
-talli/e,-ar,-ero - tajl/o,-i,-oro
+tallie - tajlo
+talliar - tajli
+talliero - tajloro
 talmen - tiamaniere
 talon - kalkanumo
 talpe - talpo
@@ -3538,7 +3592,9 @@ tif - tifo
 til - ĝis
 tilie - tilio
 timbale - timbalo
-tim/er,-id,-ore - tim/i,-ema,-o
+timer - timi
+timid - timema
+timore - timo
 timon - timono
 timpane - timpano
 tindre - tindro
@@ -3559,7 +3615,9 @@ titular - tltoli
 to - tio
 toale - mantuko
 toffe - tufo
-toler/ar,-ant,-abil - toler/i,-ema,-ebla
+tolerar - toleri
+tolerant - tolerema
+tolerabil - tolerebla
 tom - volumo
 tombe - tombo
 tomberia - tombejo
@@ -3726,7 +3784,9 @@ urogallo - urogalo
 urso - urso
 ursin - ursa
 urtica - urtiko
-us/ar,-a,-ada - uz/i,-o,-ado
+usar - uzi
+usa - uzo
+usada - uzado
 usina - uzino
 usu - kutimo
 usual - kutima
@@ -3745,7 +3805,9 @@ vaccine - vakcino
 vaccinar - vakcini
 vaccinie - vakcinio
 vacilar - trembrili
-vacu/i,-ar,-um - vaku/a,-i,-o
+vacui - vakua
+vacuar - vakui
+vacuum - vakuo
 vada - vadejo
 vader - iri
 vaffle - vaflo
@@ -3755,7 +3817,9 @@ vagard - vegulo
 vagine - vagino
 vaginal - vagina
 vagon - vagono
-val/er,-id,-iditá - valid/i,-a,-eco
+valer - validi
+valid - valida
+validitá - valideco
 valise - valizo
 valore - valoro
 vall - remparo
@@ -3788,7 +3852,9 @@ veler - vuali
 vell: yo vell far - ai farus
 veloci - rapida
 velur - veluro
-vend/ir,-e,-ibil - vend/i,-o,-ebla
+vendir - vendi
+vende - vendo
+vendibil - vendebla
 vene - vejno
 venen - veneno
 venerer - honori
@@ -3847,7 +3913,9 @@ vice,-ar - anstateŭ,-i
 vicie - malvirto
 viciosi - malvirte
 vicin,-o,-itá - nsjbar/a,-o,-eco
-vict/er,-or,-orie - venk/i,-into,-o
+victer - venki
+victor - venkinto
+victorie - venko
 victime - viktimo
 victuales - nutraĵoj
 vider - vidi
@@ -3888,7 +3956,9 @@ vital - vitala
 vitalitá - vitaleco
 vite - vito
 vitr/e,-ine - vitr/o,-ino /vitroŝranko/
-viv/e,-er,-aci - viv/o,-i,-ema
+vive - vivo
+viver - vivi
+vivaci - vivema
 vivificar - revivigi
 vivipari - vivonaska
 vocar - voki
