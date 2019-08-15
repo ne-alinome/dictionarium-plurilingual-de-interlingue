@@ -62,7 +62,9 @@ acompaniament - akompano
 acord - akordo
 acordar - akordi
 acri - akra
-act,-er,-ion - ag/o,-i,-ado
+act - ago
+acter - agi
+action - agado
 action,-ario - akci/o,-ano,-ulo
 activ - aktiva
 activitá - aktiveco
@@ -316,7 +318,9 @@ astonament - mirego
 astor - akcipitro
 astre - astro
 astral - astra
-astut,-ie,-o - ruz/a,-o,-ulo
+astut - ruza
+astutie - ruzo
+astuto - ruzulo
 atacca - atako
 ataccar - ataki
 atachar - alkroĉi
@@ -366,7 +370,9 @@ aventura - aventuro
 averse - averso
 avid - avida
 avie - birdo
-avi/ar,-ator,-on - avi/adi ,-adisto,-o
+aviar - aviadi 
+aviator - aviadisto
+avion - avio
 avigilar - veki
 avise - avizo
 av/o,-a - av/o,-in.o
@@ -560,7 +566,9 @@ calcul - kalkulo
 calcular - kalkuli
 caldiere - vaporkaldrono
 caldron - kaldrono
-cal/er,-id,-ore - varm/i ,-a,-o
+caler - varmi 
+calid - varma
+calore - varmo
 calentar - hejti
 calentation - hejtado
 calle - kalo
@@ -577,7 +585,9 @@ camel - kamelo
 cámera - kamero
 camin(e) - kameno
 camise - ĉemizo
-camp,-ania,-ar - kamp/o,-aro,-i
+camp - kampo
+campania - kamparo
+campar - kampi
 campanie - kapanjo
 cánabe - kanabo
 cane - hundo
@@ -670,7 +680,9 @@ celebrar - celebri
 celebri - celebra
 cellul - celulo
 cellulose - celulozo
-cens/er,-or,-ura - cenzur/i,-isto ,-o
+censer - cenzuri
+censor - cenzuristo
+censura - cenzuro
 censu - censo
 cent,-ene,-esim - cent,-o,-a
 centfolie - centifolio
@@ -960,7 +972,10 @@ coron - korono, krono
 corpo - korpuso
 córpor - korpo
 corpulent - korpulenta
-corect,-er,-or,-ura - korekt/a,-i,isto,-aĵo
+corect - korekta
+corecter - korekti
+corector - korektisto
+corectura - korektaĵo
 coresponder - korespondi
 corespondentie - korespondaĵo
 corelativ - koreletiva
@@ -2055,7 +2070,9 @@ matre - patrino
 matrin - patrina
 matrina - baptopatrino
 matte - mato
-matur,-ar,-ite - matur/a,-iĝi,-eco
+matur - matura
+maturar - maturiĝi
+maturitá - matureco
 maxille - makzelo
 max(im) - plej
 maxime - maksimo
@@ -2095,7 +2112,9 @@ mercurdí - merkredo
 meriter - meriti
 meritosi - merita
 merle - merlo
-mersí,-ar,-osi - dank/o,-i,-(em)a
+mersí - danko
+mersiar - danki
+mersiosi - dank(em)a
 mespil - mespilo
 mesquin - tre malriĉa
 messe - meso
@@ -2173,7 +2192,9 @@ more - moro
 morale - moralo
 morir - morti
 morosi - moroza
-mort,-e,-ar - mort/a,-o,-igi
+mort - morta
+morte - morto
+mortar - mortigi
 mortre - mortero
 mosca - muŝo
 mosquite - moskito
@@ -2193,7 +2214,9 @@ mundal - monda
 mundan - monduma
 munir - provizi
 mur - muro
-mur/ar,-age,-ero - mason/i,-aĵo,-isto
+murar - masoni
+murage - masonaĵo
+murero - masonisto
 murmurar - murmuri
 mus - muso
 musco - mosko
@@ -2218,7 +2241,9 @@ nausear - naŭzi
 nave - navo; ŝipo
 navigar - navigi
 navigation - navigado
-nebul,-ar,-osi - nebul/o,-i,-a
+nebul - nebulo
+nebular - nebuli
+nebulosi - nebula
 necessi - necesa
 necessitá - neceso
 necos - nenio
@@ -2331,7 +2356,9 @@ obstructer - obstrukti
 obstruction - obstrukto
 obtener - obteni
 obtus(i) - obtuza
-ocasion, -al,-ar - okaz/o,-a,-i
+ocasion - okazo
+ocasional - okaza
+ocasionar - okazigi
 occident - okcidento
 occidental - okcidenta
 ocre - okro
@@ -2804,7 +2831,9 @@ psaltre - psalmaro
 psiche - psiĥo
 púber - pubera
 pubertá - pubereco
-public,-a,-ar - publik/e,-o,-(ig)i
+public - publika
+publica - publiko
+publicar - publikigi
 publicist - publicisto
 puder - honti
 pudent - hontema
@@ -3245,7 +3274,9 @@ secluder - apartigi
 seconde - sekundo
 secreer - sekrecii
 secretion - sekrecio
-secret,-e,-ario - sekret/a,-o,-ario
+secret - sekreta
+secrete - sekreto
+secretario - sekretario
 secta - sekto
 sectano - sektano
 sect/er,-ion - (dis)sekc/i,-o
@@ -3330,7 +3361,9 @@ silkin - silka
 sillabe - silebo
 sillabar - silebi
 simie - simio
-simil,-ar,-itá - simil/a,-i,-eco
+simil - simila
+similar - simili
+similitá - simileco
 simplic - simpla
 simplificar - simpligi
 simular - simuli
@@ -3435,7 +3468,9 @@ stabil - stabila
 stabilisar - stabiligi
 stal,-in - ŝtal/o,-a
 stalle - stalo
-stamp,-e,-ar - stamp/ilo,-aĵo,-i
+stamp - stampilo
+stampe - stampaĵo
+stampar - stampi
 standar - farti
 standarde - normo
 standardisar - normigi
@@ -3602,7 +3637,9 @@ surprise - surprizo
 surprisar - surprizi
 surtir - eliri
 surtida - eliro
-suspect,-er,-ion - suspekt/a,-i,-o
+suspect - suspekta
+suspecter - suspekti
+suspection - suspekto
 suspender - eksigi
 suspension - eksigo
 susurrar - susuri
@@ -3701,7 +3738,9 @@ terror - teroro
 terrorisar - teroradi
 ters - triono
 tese - tezo
-test,-ar,-ament - test/o,-i,-amento
+test - testo
+testar - testi
+testament - testamento
 testimon,-ie,-iar - atest(anto)o,-i
 tette - mampinto, cico
 texter - teksi
@@ -3786,7 +3825,9 @@ trahition - perfido
 tramp - trampo
 tranchar - tranĉi
 trenché - tranĉeo
-tranquil,-itá,-isar - trankvil/e,-o,-igi
+tranquil - trankvile
+tranquilitá - trankvilo
+tranquilisar - trankviligi
 trans - trans
 transacter - transakcii
 transaction - transakcio
@@ -4048,7 +4089,9 @@ vicario - vikario
 vice,-ar - anstateŭ,-i
 vicie - malvirto
 viciosi - malvirte
-vicin,-o,-itá - nsjbar/a,-o,-eco
+vicin - najbara
+vicino - najbaro
+vicinitá - najbareco
 victer - venki
 victor - venkinto
 victorie - venko
@@ -4145,7 +4188,9 @@ yo - mi
 yodlar - jodli
 yoll - jolo
 yufte - jufto
-yun,-o,-esse - yun/a,-ulo,-eco
+yun - yuna
+yuno - yunulo
+yunesse - yuneco
 zebre - zebro
 zefire - zefiro
 zenite - zenito
