@@ -243,7 +243,7 @@ agreabil | angenehm
 agricultura | Landwirtschaft
 agricultural | landwirtschaftlich
 agullie | Nadel
-ah! | ah! ach! ha!
+ah! | ah!, ach!, ha!
 ahontar | beschämen
 ajornar | aufschieben, vertagen
 al- | unbestimmt, irgend
@@ -4350,741 +4350,741 @@ gangren | heißer Brand (med.)
 gania | Verdienst, Gewinn
 ganie | Gewinn
 ganiar | verdienen
-ganiar un gradu universitari graduieren, einen akademischen Grad erwerben | gans(a)
-Gans | gansello
-Gänschen | ganso
-Gänserich | gante
-Handschuh | gantes
-Handschuhe | gapar
-gaffen | gapon
-Gaffer | garage
-Garage | garant
-Garant, Bürge | garantie
-Garantie | garantir
-garantieren, bürgen | garbe
-Garbe | garda-ocules
-Schutzbrille | garda-robe
-Garderobe | gardar
-hüten, behüten, aufbewahren, bewachen | garde
-Wache | gardero
-Wächter | gargule
-Wasserspeier | garite
-Wachhäuschen | garnir
-garnieren, ausstatten, verzieren | garniment
-Garnierung | garnison
-Garnison | garnitura
-Garnitur, Verzierung | garot
-Würgeschraube, Knebel | garotar
-knebeln, würgen | garson
-Junge | litt garson
-kleiner Junge | garson de café
-Kellner | gas
-Gas | gast
-Gast | gastería
-Gasthaus | gastrite
-Gastritis | gastronom
-Gastronom | gastronomic
-gastronomisch | gastronomie
-Gastronomie | gaudiar
-lustig sein, fröhlich sein | gaudie
-Lustigkeit, Freude | gaudiosi
-fröhlich, lustig | gay
-froh, heiter, lustig, fröhlich | gayesse
-Frohsinn, Heiterkeit | gayitá
-Frohsinn, Heiterkeit | gaze
-Gaze | gazelle
-Gazelle | gazette
-Zeitung | gazon
-Rasen | gela
-Frost | gelar
-gefrieren | gelate
-Speiseeis | gelateería
-Eisdiele | gelatine
-Gelatine | gelé
-Gelee, Sülze | gemelle
-Zwilling | gemida
-Seufzer, Stöhnen | gemir
-ächzen, seufzen | gena
-Qual, Bedrängnis, Verlegenheit, Hindernis | genar
-belästigen, bedrängen | gendarme
-Gendarm, Polizist | genealogie
-Genealogie | generale
-General | generar
-erzeugen, hervorbringen | generator
-Generator | generation
-Generation | génere
-Gattung, Geschlecht (gram.) | génere homan
-Menschengeschlecht | generosi
-großzügig, freigiebig | generositá
-Großzügigkeit, Freigiebigkeit | genese
-Genesis (Bibel), Entstehung | genetic
-genetisch | gengive
-Zahnfleisch | genie
-Genie | genital
-genital | genitallia
-Geschlechtsorgane | geniter
-zeugen, erzeugen | genitive
-Genitiv | genitores
-Eltern | genitura
-Sprössling | gente
-Leute | gentiane
-Enzian | gentil
-nett, höflich | gentilesse
-Höflichkeit, Artigkeit | gentilmann
-Gentleman | genú
-Knie | genuin
-echt | genuitá
-Echtheit | geodesie
-Geodäsie | Georgia
-Georgien | geograf
-Geograph | geografic
-geographisch | geografie
-Geographie | geolog
-Geologe | geologic
-geologisch | geologie
-Geologie | geometric
-geometrisch | geometrie
-Geometrie | geranie
-Geranie | gerantie
-Management, Geschäftsleitung | gerer
-verwalten, managen, besorgen | german
-Deutsch, deutsch | Germania
-Deutschland | germinar
-keimen, ausschlagen | gérmine
-Keim, Saat | gerundie
-Gerundium | gestation
-Trächtigkeit, Schwangerschaft | geste
-Geste, Gebärde | gesticular
-gestikulieren, Gebärden machen | geyser
-Geysir | ghetto
-Ghetto | gigante
-Riese | gigantesc
-riesig, riesenhaft | gigantic
-gigantisch, riesig | gilet
-Weste | gimnasium
-Gymnasium | gimnast
-Turner | gimnastic
-gymnastisch | gimnastic-anell
-Gymnastikreifen | gimnastic-balle
-Gymnastikball | gimnastic-bande
-Gymnastikband | gimnastic corde
-Gymnastikseil | gimnastica
-Turnen, Gymnastik | gin
-Gin | giraffe
-Giraffe | girar
-kreisen, sich drehen, rotieren | giration
-Drehung, Rotation | giratori
-rotierend, kreisend | girette
-Wetterhahn, Wetterfahne | giron
-Kreisel | glacial
-Eis- | glaciar
-gefrieren | glacie
-Eis | glacie-monte
-Eisberg | glaciero
-Gletscher | gladiar
-fechten, mit dem Schwert kämpfen | gladiator
-Gladiator | gladie
-Schwert | glande
-Eichel | gladiol
-Gladiole | glandul
-Drüse | glasero
-Glaser | glass
-Trinkglas | glatt
-glatt | glattuore
-Bügeleisen | gleb
-Scholle, Erdklumpen | glicerine
-Glyzerin | glicine
-Glyzine | gliptoteca
-Glyptothek | glire
-Siebenschläfer | glissa-glacie
-Glatteis | glissar
-ausrutschen, gleiten | glissid
-rutschig | glissuore
-Rutschbahn, Kufe, Schlitten | glob
-Globus, Erdball | global
-global | globul
-Kügelchen, Körperchen, Pille | glom
-Knäuel (Garn), Strähne (Garn) | glorie
-Ruhm | glorificar
-glorifizieren | gloriosi
-ruhmreich | glossarium
-Glossar | glosse
-Glosse (Zeitung) | glotir
-herunter schlucken, verschlingen | gloton
-Vielfraß | glucose
-Traubenzucker, Glukose | glutinar
-kleben | glutine
-Klebstoff | gnistar
-knistern | gnome
-Gnom, Zwerg | gnu
-Gnu | gol
-Tor (Sport) | golf
-Golf | gonde
-Türangel | góndol
-Gondel | gondolar
-gondeln | gondolero
-Gondoliere | gong
-Gong | gonoréa
-Tripper | gorille
-Gorilla | gotic
-gotisch | governar
-erziehen | governessa
-Erzieherin, Gouvernante | gracie
-Liebreiz, Anmut, Gnade | gracil
-schlank, zierlich | graciosi
-anmutig | graciositá
-Anmut | gradu
-Grad | gradual
-graduell | graduar
-graduieren, einen Universitätsabschluss machen | grafic
-graphisch | grafica
-Graphik | grafite
-Graphit | gramatica
-Grammatik | gramm
-Gramm | granat
-Granat | grand
-groß | gradesse
-Größe | grandiosi
-grandios, hervorragend | granditá
-Größe | Grand Britannia
-Großbritannien | grandiosi
-großartig | grand-matre
-Großmutter | grandore
-Größe | grand-patre
-Großvater | grane
-Korn | graniere
-Kornspeicher | granite
-Granit | granul
-Körnchen | granulari
-körnig | grass
-fett, dick | grasse
-Fett | grassosi
-fettig | grat
-dankbar | grate
-Gitter, Gatter | gratificar
-beschenken | gratification
-Bonus, Geschenk | gratiment
-Trinkgeld | gratitá
-Dankbarkeit | grattar
-kratzen | gratuit
-kostenlos, gratis | gratulation
-Gratulation, Glückwunsch | grav
-ernst, schwer | graver
-einschneiden, gravieren, eingraben | gravura
-Gravur | gravitá
-Schwere | gravid
-schwanger | graviditá
-Schwangerschaft | gravie
-Kies | graviera
-Kiesgrube | gravitation
-Erdanziehungskraft, Gravitation | grec
-Griechisch, griechisch | Grecia
-Griechenland | greftar
-pfropfen | grefte
-Pfropfen | grel
-Hagel | grelar
-hageln | grelun
-Hagelkorn | gremie
-Schoss | grenade
-Granate | grenadero
-Grenadier | Grenland
-Grönland | griffe
-Klaue, Kralle | grill
-Grill | grillar
-grillen | grillat
-gegrillt | grillie
-Grille | grimar se
-sich schminken | grime
-Schminke | grimpar
-klettern | grinar
-grinsen | grinsar
-knirschen | grippe
-Grippe | grisi
-grau | grisú
-schlagendes Wetter, schlechtes Wetter | grivar
-grämen | grive
-Gram, Kummer | grog
-Glühwein | gross
-dick, beleibt, stark, geschwollen | grosse
-Groß (12 Dutzend) | grossieri
-grob, gemein, schmutzig | grossist
-Grossist, Großhändler | grotesc
-grotesk | grotte
-Grotte | grue
-Kranich | gruel
-Graupe, Haferschleim | grunida
-Grunzen | grunir
-grunzen | gruppe
-Gruppe | guanciar
-ohrfeigen | guanciade
-Ohrfeige | guancie
-Wange, Backe | guardian
-Wächter, Hüter | guardie
-Wacht | guardist
-Gardist | guatar
-lauern, aufpassen | gudron
-Teer | gudronar
-teeren | guerraci
-kriegerisch | guerrar
-Krieg führen | guerre
-Krieg | guerre intern
-Bürgerkrieg | guerrear
-Krieg führen | guerrero
-Krieger | guerrilla
-Guerilla | guerrillero
-Guerillero | guf
-Uhu | guidar
-führen | guide
-Führung | guidero
-Führer | guidon
-Lenkstange (Fahrrad), Lenker | guilde
-Gilde | guillotine
-Guillotine, Fallbeil | guirlande
-Girlande | guitarre
-Gitarre | gumme
-Gummi, Radiergummi | gurgul
-Speiseröhre, Gurgel | gurgulear
-gurgeln | gurmand
-leckerhaft, gefräßig, feinschmeckerisch | gust
-Geschmack, Lust, Neigung | gustar
-schmecken, kosten | gutte
-Tropfen | guttear
-tropfen | guttiere
-Regenrinne | gúttur
-Rachen | guvernament
-Regierung | guvernar
-regieren | guvernator
-Gouverneur | guvernero
-Gouverneur | ha
-hat (Perfektpartikel) | habil
-geschickt | habilitar
-habilitieren | habitar
-wohnen | habitante
-Einwohner | habitar
-wohnen | habitation
-Wohnung | hábitu
-Gewohnheit | hacca
-Hacke | haccar
-hacken | haccat carne
-Hackfleisch | hachette
-Beil | haccuore
-Fleischwolf | hachar
-zerkleinern, zerhacken | hache
-Beil | hag(a)
-Hecke | hala
-Atem, Hauch | halar
-atmen, hauchen | halation
-Atmung | halebarde
-Hellebarde | hall
-Halle | halta
-Halt, Stillstand | haltar
-anhalten | haltere
-Hantel | halucinar
-halluzinieren | hamoc
-Hängematte | hamstre
-Hamster | hanche
-Hüfte | handicapat
-behindert | hangare
-Schuppen | happar
-erhaschen, schnappen | har
-haben (als Hilfszeitwort) | harem
-Harem | hareng
-Hering | harmonic
-harmonisch | harmonie
-Harmonie | harmonisar
-harmonisieren | harness
-Harnisch, Pferdegeschirr | harpe
-Harfe | harpero
-Harfenspieler | harpunar
-harpunieren | harpune
-Harpune | hasard(e)
-Zufall, Glück | hasardal
-zufällig | hasta
-Eile | hastar
-eilen | hat
-hatte (Plusquamperfektpartikel) | hauster
-erschöpfen, ausschöpfen | haver
-haben (besitzen) | haver … annus
-alt sein | haver li gust de
-schmecken nach | haver li jure
-dürfen | haver rason
-Recht haben | hay
-es gibt, es sind | hebréa
-Jüdin | hebreic
-hebräisch, jüdisch | hebréo
-Hebräer, Jude | hegemonie
-Hegemonie | helice
-Propeller, Schiffsschraube | hem
-Heim | hem-tache
-Hausaufgabe | hemorides
-Hämorriden | hépate
-Leber | heralde
-Herold | heraldica
-Heraldik | herbe
-Gras | heredage
-Erbe | heredar
-erben | heredie
-Erbe | heresie
-Ketzerei | heretic
-ketzerisch | heretico
-Ketzer | herisser
-empor richten, sträuben (Haare, Stacheln)) | herisson
-Igel | hermafrodite
-Zwitter | hermeline
-Hermelin | heróa
-Heldin | heróe
-Held | heroic
-heldenhaft | heroisme
-Heldentum | heron
-Reiher | hérpes
-Herpes | hersar
-eggen | herse
-Egge | hesitar
-zögern | hesitativ
-zögerlich | hetera
-Hure, Prostituierte | heterogen
-heterogen | heterosexual
-heterosexuell | hiacinte
-Hyazinthe | hiada
-Gähnen | hiar
-gähnen | hibride
-Kreuzung | hibridisar
-kreuzen | hicca
-Schluckauf | hiccar
-aufstoßen, Schluckauf haben | hideosi
-hässlich, scheußlich | hideositá
-Hässlichkeit, Scheußlichkeit | hidrante
-Hydrant | hidraulica
-Hydraulik | hidre
-Hydra | hien
-Hyäne | hierarchie
-Hierarchie | hiereoglife
-Hieroglyphe | higiene
-Hygiene | higienic
-hygienisch | hilari
-lachend | himne
-Hymne | hinduistic
-hinduistisch | hinnida
-Wiehern | hinnir
-wiehern | hipnose
-Hypnose | hipnotisar
-hypnotisieren | hipopotam
-Nilpferd, Flusspferd | hipoteca
-Hypothek | hipotese
-Hypothese | hirar
-heuern (anwerben) | hirunde
-Schwalbe | hispan
-Spanisch, spanisch | Hispania
-Spanien | hissar
-hissen | histeric
-hysterisch | histerie
-Hysterie | historic
-geschichtlich | historico
-Historiker | historie
-Geschichte | histric
-Stachelschwein | hivernal
-winterlich | hivernar
-Winterschlaf halten | hivernation
-Winterschlaf | hiverne
-Winter | ho-
-heutig-, diesjährig- (Vorsilbe) | hobóe
-Oboe | hobby
-Hobby | hoccar
-hocken | hockey sur glacie
-Eishockey | hockey sur terre
-Hockey, Feldhockey | hodíe
-heute | holocaust
-Holocaust | hom
-Mensch | homage
-Huldigung | homan
-menschlich | homanitá
-Menschlichkeit | homanité
-Menschheit | homeopat
-Homöopath | homeopatic
-homöopathisch | homeropatie
-Homöopathie | homes
-Menschen, Leute | homicid
-Mordtat | homosexual
-homosexuell | homosexualitá
-Homosexualität | honest
-ehrlich, ehrbar, schicklich, anständig | honestitá
-Anstand, Ehrlichkeit | ho-nocte
-heute Nacht | honor
-Ehre | honorabil
-ehrenvoll | honorarie
-Gehalt, Honorar | honte
-Schande | hor de consultation
-Sprechstunde | hor
-Stunde | quel hora it es?
-wie spät ist es? | horarium
-Stundenplan, Fahrplan | horde
-Horde | hordeo
-Gerste | horizontal
-horizontal | horizonte
-Horizont | horloge
-Uhr | hormon
-Hormon | horologero
-Uhrmacher | horrer
-schaudern, sich entsetzen | horrid
-entsetzlich | horribil
-entsetzlich | hortensia
-Hortensie | hósped
-Gastgeber | hospedal
-gastfreundlich | hospedalitá
-Gastfreundschaft | hospicie
-Klosterherberge, Zufluchtsstätte | hospital
-Krankenhaus | hostil
-feindlich | hostilitá
-Feindseligkeit | hotel
-Hotel | ho-vésper
-heute Abend | huf
-Huf | huf-forjero
-Hufschmied | human
-menschlich | humanist
-Humanist | humanitá
-Menschlichkeit | humid
-nass, feucht | humidar
-anfeuchten | humiditá
-Nässe, Feuchtigkeit | humil
-demütig, unterwürfig | humilar se
-sich unterwerfen | humilitá
-Demut, Unterwürfigkeit | humo
-Humus, Fruchterde | humor
-Laune, Stimmung, Humor | humoristic
-humoristisch | humorist
-Humorist, Spaßvogel | Hungaria
-Ungarn | hurrá
-hurra | hussar
-Husar | iamb
-Jambus | icon (-ic)
-Ikone, Heiligenbild | idé
-Idee, Gedanke | ideal
-ideal | ideale
-Ideal | idealisar
-idealisieren | idealisme
-Idealismus | idealist
-Idealist | ideolog
-Ideologe | ideologie
-Ideologie | identic
-identisch | identitá
-Identität | identificar
-identifizieren | identification
-Identifikation | idille
-Idylle | idioma
-Idiom, Sprache | idiomatic
-idiomatisch | idiot
-Idiot | idiotic
-idiotisch | idol
-Idol, Abgott, Götze | idolatrie
-Abgötterei | idolisar
-idolisieren | ignivori
-Feuer fressend | ignominie
-Schmach | ignominosi
-voller Schmach | ignorant
-ignorant | ignorantie
-Ignoranz | ignorar
-ignorieren, nicht wissen | il
-er | ili
-sie (3. Pers. Pl. alle Geschlechter) | *illa
-sie (3. Pers. Sgl. f.) veraltete Form heute: ella! | *illas
-sie (3. Pers. Pl. f.), veraltete Form heute: ellas! | illicit
-unerlaubt | illos
-sie (3. Pers. Pl. m.) | iluder
-täuschen | iluminar
-beleuchten, erleuchten | ilumination
-Beleuchtung, Erleuchtung | ilusion
-Illusion, Täuschung | ilusionist
-Illusionist | ilustrar
-illustrieren | ilustration
-Illustration | ilustrator
-Illustrator | image
-Bild | imaginar
-(sich) vorstellen | imaginari
-imaginär | imagination
-Vorstellung | imbecil
-blödsinnig | imbecilitá
-Blödsinnigkeit | imens(i)
-unermesslich, ungeheuer | imensitá
-Unermesslichkeit, Ungeheuerlichkeit | iminent
-nahe bevorstehend, drohend | iminer
-drohen, bevorstehen | imitar
-nachahmen, imitieren | imitation
-Imitation, Nachahmung | imitator
-Imitator | imolar
-opfern | imolation
-Opferung | ínpartial
-unparteiisch | impediment
-Hindernis, Verhinderung | impedir
-hindern, verhindern | imperar
-befehlen | imperative
-Imperativ | imperator
-Kaiser | imperatoressa
-Kaiserin | imperfecte
-Imperfekt (gram.) | imperia
-Kaiserreich (Land) | imperial
-imperial, Reichs- | imperialisme
-Imperialismus | imperie
-Reich (Herrschaftsgebiet) | impertinent
-unverschämt | impertinentie
-Unverschämtheit, Impertinenz | ímpetu
-Impuls, Wucht | impetuosi
-ungestüm, heftig, wuchtig | impetuositá
-Heftigkeit, Ausbruch | implorar
-anflehen | important
-wichtig | importantie
-Wichtigkeit | importar
-importieren, einführen | importation
-Import, Einfuhr | importator
-Importeur | imposir
-verhängen, auferlegen | imposant
-imposant | imposar
-einflössen | impost(e)
-Steuer | impostar
-besteuern | imprecar
-Flüche ausstoßen, verwünschen | imprecation
-Verwünschung, Fluch | impregnar
-durchtränken, imprägnieren | impregnation
-Imprägnierung | impresser
-ausdrücken, aufdrücken, beeindrucken | impression
-Eindruck | impresssionisme
-Impressionismus | impressiv
-eindrucksvoll | improvisar
-improvisieren, aus dem Stehgreif reden | improvisation
-Improvisation | improvisator
-Improvisator | impulse
-Impuls | impulsiv
-impulsiv | impulsivon
-Heißsporn | impunitá
-Straflosigkeit | imputar
-zuschreiben, anrechnen | imun
-immun | imunisar
-immunisieren | imunisation
-Immunisierung | imunitá
-Immunität | in
-in | in facte
-de facto, tatsächlich | ínaccessibil
-unzugänglich | ínamico
-Feind | inamorar se
-sich verlieben | inamorat
-verliebt | inan
-eitel, vergeblich, dumm | ínapt
-ungeeignet | ínatentiv
-unaufmerksam, achtlos | inaugural
-inaugural, Einweihungs- | inaugurar
-einweihen, feierlich eröffnen | inauguration
-Einweihung | inballage
-Verpackung | inballar
-einpacken, verpacken | inbarcar
-an Bord gehen | inboccatura
-Einmündung (Fluss), Mündung (Fluss) | inboscada
-Hinterhalt | inboscar
-in einen Hinterhalt legen | inbotellar
-in Flaschen abfüllen | inbrament
-Entflammen, in Brandsetzung | inbrasar
-entflammen, in Brand stecken | inbrassade
-Umarmen | inbrassament
-Umarmung | inbrassar
-umarmen | inbrolliar
-verwickeln, verwirren | incadrar
-einrahmen | incagear
-in einen Käfig sperren | incantar
-bezaubern | incantation
-Bezauberung | incantatori
-bezaubernd | íncapabil
-unfähig | incarcerar
-einkerkern, einsperren | incarceration
-Inhaftierung | incarnar
-verkörpern | incarnation
-Verkörperung, Inkarnation | incatarrat
-erkältet | íncaut
-unvorsichtig | incendiar
-in Brand setzen | incendiario
-Brandstifter, Aufrührer | incendiation
-Brandstiftung | incendie
-Brand, Feuersbrunst | incendie-brigade
-Feuerwehr | incense
-Weihrauch | incensuore
-Weihrauchgefäß | íncert
-unsicher | íncessant
-unaufhörlich | incestu
-Inzest, Blutschande | inch
-Inch (Längenmaß) | ínchast
-zügellos, unkeusch | incidente
-Zwischenfall | incindrar
-einäschern | incindration
-Einäscherung | incitament
-Anheizung, Anregung | incitar
-antreiben, anheizen, aufhetzen | incitation
-Anheizen, Aufhetzen | íncivil
-unhöflich | incivilitá
-Unhöflichkeit | ínclement
-rau, streng (Wetter) | inclinar
-beugen, neigen | inclination
-Neigung | includer
-einschließen | inclusion
-Einschluss, Inklusion | inclusiv
-inbegriffen | incolerar
-wütend werden, in Zorn geraten | íncolori
-farblos | incombrar
-versperren | íncomensurabil
-unmessbar | íncomod
-unbequem | íncompatibil
-unvereinbar | íncompatibilitá
-Unvereinbarkeit | íncompetent
-inkompetent | íncomplet
-unvollständig | íncomprensibil
-unverständlich | ínconscient
-bewusstlos, unbewusst | ínconscientie
-Bewusstlosigkeit, Unbewusstheit | ínconsequent
-inkonsequent | ínconsiderat
-unbedacht | íncontinent
-inkontinent (med.) | incontra
-Treffen | incontrar se
-sich treffen | incontrar
-treffen | ínconvenent
-ungebührlich, unschicklich | ínconvenentie
-Ungebührlichkeit, Unschicklichkeit | ínconvenient
-unzuträglich, nachteilig | ínconvenientie
-Unannehmlichkeit | incorageament
-Ermutigung | incoragear
-ermutigen | íncorect
-unkorrekt, falsch | incorporar
-verkörpern, assimilieren, einverleiben | incorporation
-Verkörperung, Einverleibung | incrassar
-verschmutzen, schmutzig machen | incre
-Tinte | íncredibil
-unglaublich | íncredaci
-ungläubig | íncredul
-ungläubig, skeptisch | increiere
-Tintenfass | increment
-Zuwachs | increscement
-Zuwachs | incriminar
-anschuldigen, beschuldigen | incrimination
-Anschuldigung, Beschuldigung | incrustar
-inkrustieren, einlegen | incrustat
-überzogen, bedeckt | incubar
-ausbrüten | incude
-Amboss | inculcar
-eintrichtern | inculpar
-anklagen, beschuldigen | inculpation
-Anschuldigung, Beschuldigung | íncult
-unbewirtschaftet, vernachlässigt, wild | íncurabil
-unheilbar | íncurvar
-einwärts krümmen | indangerar
-gefährden | índefinit
-unbestimmt, unklar | índelebil
-unauslöschlich | índelebilitá
-Unauslöschlichkeit | indemni
-unverletzt, unbeschädigt | indemnisar
-entschädigen | indemnisation
-Entschädigen | indemnitá
-Schadensersatz, Entschädigung | índependent
-unabhängig | índependentie
-Unabhängigkeit | índescribil
-unbeschreiblich | índex
-Index, Inhaltsangabe, Register | India
-Indien | indicar
-´ | angeben, anzeigen, hinweisen
+ganiar un gradu universitari | graduieren, einen akademischen Grad erwerben
+gans(a) | Gans
+gansello | Gänschen
+ganso | Gänserich
+gante | Handschuh
+gantes | Handschuhe
+gapar | gaffen
+gapon | Gaffer
+garage | Garage
+garant | Garant, Bürge
+garantie | Garantie
+garantir | garantieren, bürgen
+garbe | Garbe
+garda-ocules | Schutzbrille
+garda-robe | Garderobe
+gardar | hüten, behüten, aufbewahren, bewachen
+garde | Wache
+gardero | Wächter
+gargule | Wasserspeier
+garite | Wachhäuschen
+garnir | garnieren, ausstatten, verzieren
+garniment | Garnierung
+garnison | Garnison
+garnitura | Garnitur, Verzierung
+garot | Würgeschraube, Knebel
+garotar | knebeln, würgen
+garson | Junge
+litt garson | kleiner Junge
+garson de café | Kellner
+gas | Gas
+gast | Gast
+gastería | Gasthaus
+gastrite | Gastritis
+gastronom | Gastronom
+gastronomic | gastronomisch
+gastronomie | Gastronomie
+gaudiar | lustig sein, fröhlich sein
+gaudie | Lustigkeit, Freude
+gaudiosi | fröhlich, lustig
+gay | froh, heiter, lustig, fröhlich
+gayesse | Frohsinn, Heiterkeit
+gayitá | Frohsinn, Heiterkeit
+gaze | Gaze
+gazelle | Gazelle
+gazette | Zeitung
+gazon | Rasen
+gela | Frost
+gelar | gefrieren
+gelate | Speiseeis
+gelateería | Eisdiele
+gelatine | Gelatine
+gelé | Gelee, Sülze
+gemelle | Zwilling
+gemida | Seufzer, Stöhnen
+gemir | ächzen, seufzen
+gena | Qual, Bedrängnis, Verlegenheit, Hindernis
+genar | belästigen, bedrängen
+gendarme | Gendarm, Polizist
+genealogie | Genealogie
+generale | General
+generar | erzeugen, hervorbringen
+generator | Generator
+generation | Generation
+génere | Gattung, Geschlecht (gram.)
+génere homan | Menschengeschlecht
+generosi | großzügig, freigiebig
+generositá | Großzügigkeit, Freigiebigkeit
+genese | Genesis (Bibel), Entstehung
+genetic | genetisch
+gengive | Zahnfleisch
+genie | Genie
+genital | genital
+genitallia | Geschlechtsorgane
+geniter | zeugen, erzeugen
+genitive | Genitiv
+genitores | Eltern
+genitura | Sprössling
+gente | Leute
+gentiane | Enzian
+gentil | nett, höflich
+gentilesse | Höflichkeit, Artigkeit
+gentilmann | Gentleman
+genú | Knie
+genuin | echt
+genuitá | Echtheit
+geodesie | Geodäsie
+Georgia | Georgien
+geograf | Geograph
+geografic | geographisch
+geografie | Geographie
+geolog | Geologe
+geologic | geologisch
+geologie | Geologie
+geometric | geometrisch
+geometrie | Geometrie
+geranie | Geranie
+gerantie | Management, Geschäftsleitung
+gerer | verwalten, managen, besorgen
+german | Deutsch, deutsch
+Germania | Deutschland
+germinar | keimen, ausschlagen
+gérmine | Keim, Saat
+gerundie | Gerundium
+gestation | Trächtigkeit, Schwangerschaft
+geste | Geste, Gebärde
+gesticular | gestikulieren, Gebärden machen
+geyser | Geysir
+ghetto | Ghetto
+gigante | Riese
+gigantesc | riesig, riesenhaft
+gigantic | gigantisch, riesig
+gilet | Weste
+gimnasium | Gymnasium
+gimnast | Turner
+gimnastic | gymnastisch
+gimnastic-anell | Gymnastikreifen
+gimnastic-balle | Gymnastikball
+gimnastic-bande | Gymnastikband
+gimnastic corde | Gymnastikseil
+gimnastica | Turnen, Gymnastik
+gin | Gin
+giraffe | Giraffe
+girar | kreisen, sich drehen, rotieren
+giration | Drehung, Rotation
+giratori | rotierend, kreisend
+girette | Wetterhahn, Wetterfahne
+giron | Kreisel
+glacial | Eis-
+glaciar | gefrieren
+glacie | Eis
+glacie-monte | Eisberg
+glaciero | Gletscher
+gladiar | fechten, mit dem Schwert kämpfen
+gladiator | Gladiator
+gladie | Schwert
+glande | Eichel
+gladiol | Gladiole
+glandul | Drüse
+glasero | Glaser
+glass | Trinkglas
+glatt | glatt
+glattuore | Bügeleisen
+gleb | Scholle, Erdklumpen
+glicerine | Glyzerin
+glicine | Glyzine
+gliptoteca | Glyptothek
+glire | Siebenschläfer
+glissa-glacie | Glatteis
+glissar | ausrutschen, gleiten
+glissid | rutschig
+glissuore | Rutschbahn, Kufe, Schlitten
+glob | Globus, Erdball
+global | global
+globul | Kügelchen, Körperchen, Pille
+glom | Knäuel (Garn), Strähne (Garn)
+glorie | Ruhm
+glorificar | glorifizieren
+gloriosi | ruhmreich
+glossarium | Glossar
+glosse | Glosse (Zeitung)
+glotir | herunter schlucken, verschlingen
+gloton | Vielfraß
+glucose | Traubenzucker, Glukose
+glutinar | kleben
+glutine | Klebstoff
+gnistar | knistern
+gnome | Gnom, Zwerg
+gnu | Gnu
+gol | Tor (Sport)
+golf | Golf
+gonde | Türangel
+góndol | Gondel
+gondolar | gondeln
+gondolero | Gondoliere
+gong | Gong
+gonoréa | Tripper
+gorille | Gorilla
+gotic | gotisch
+governar | erziehen
+governessa | Erzieherin, Gouvernante
+gracie | Liebreiz, Anmut, Gnade
+gracil | schlank, zierlich
+graciosi | anmutig
+graciositá | Anmut
+gradu | Grad
+gradual | graduell
+graduar | graduieren, einen Universitätsabschluss machen
+grafic | graphisch
+grafica | Graphik
+grafite | Graphit
+gramatica | Grammatik
+gramm | Gramm
+granat | Granat
+grand | groß
+gradesse | Größe
+grandiosi | grandios, hervorragend
+granditá | Größe
+Grand Britannia | Großbritannien
+grandiosi | großartig
+grand-matre | Großmutter
+grandore | Größe
+grand-patre | Großvater
+grane | Korn
+graniere | Kornspeicher
+granite | Granit
+granul | Körnchen
+granulari | körnig
+grass | fett, dick
+grasse | Fett
+grassosi | fettig
+grat | dankbar
+grate | Gitter, Gatter
+gratificar | beschenken
+gratification | Bonus, Geschenk
+gratiment | Trinkgeld
+gratitá | Dankbarkeit
+grattar | kratzen
+gratuit | kostenlos, gratis
+gratulation | Gratulation, Glückwunsch
+grav | ernst, schwer
+graver | einschneiden, gravieren, eingraben
+gravura | Gravur
+gravitá | Schwere
+gravid | schwanger
+graviditá | Schwangerschaft
+gravie | Kies
+graviera | Kiesgrube
+gravitation | Erdanziehungskraft, Gravitation
+grec | Griechisch, griechisch
+Grecia | Griechenland
+greftar | pfropfen
+grefte | Pfropfen
+grel | Hagel
+grelar | hageln
+grelun | Hagelkorn
+gremie | Schoss
+grenade | Granate
+grenadero | Grenadier
+Grenland | Grönland
+griffe | Klaue, Kralle
+grill | Grill
+grillar | grillen
+grillat | gegrillt
+grillie | Grille
+grimar se | sich schminken
+grime | Schminke
+grimpar | klettern
+grinar | grinsen
+grinsar | knirschen
+grippe | Grippe
+grisi | grau
+grisú | schlagendes Wetter, schlechtes Wetter
+grivar | grämen
+grive | Gram, Kummer
+grog | Glühwein
+gross | dick, beleibt, stark, geschwollen
+grosse | Groß (12 Dutzend)
+grossieri | grob, gemein, schmutzig
+grossist | Grossist, Großhändler
+grotesc | grotesk
+grotte | Grotte
+grue | Kranich
+gruel | Graupe, Haferschleim
+grunida | Grunzen
+grunir | grunzen
+gruppe | Gruppe
+guanciar | ohrfeigen
+guanciade | Ohrfeige
+guancie | Wange, Backe
+guardian | Wächter, Hüter
+guardie | Wacht
+guardist | Gardist
+guatar | lauern, aufpassen
+gudron | Teer
+gudronar | teeren
+guerraci | kriegerisch
+guerrar | Krieg führen
+guerre | Krieg
+guerre intern | Bürgerkrieg
+guerrear | Krieg führen
+guerrero | Krieger
+guerrilla | Guerilla
+guerrillero | Guerillero
+guf | Uhu
+guidar | führen
+guide | Führung
+guidero | Führer
+guidon | Lenkstange (Fahrrad), Lenker
+guilde | Gilde
+guillotine | Guillotine, Fallbeil
+guirlande | Girlande
+guitarre | Gitarre
+gumme | Gummi, Radiergummi
+gurgul | Speiseröhre, Gurgel
+gurgulear | gurgeln
+gurmand | leckerhaft, gefräßig, feinschmeckerisch
+gust | Geschmack, Lust, Neigung
+gustar | schmecken, kosten
+gutte | Tropfen
+guttear | tropfen
+guttiere | Regenrinne
+gúttur | Rachen
+guvernament | Regierung
+guvernar | regieren
+guvernator | Gouverneur
+guvernero | Gouverneur
+ha | hat (Perfektpartikel)
+habil | geschickt
+habilitar | habilitieren
+habitar | wohnen
+habitante | Einwohner
+habitar | wohnen
+habitation | Wohnung
+hábitu | Gewohnheit
+hacca | Hacke
+haccar | hacken
+haccat carne | Hackfleisch
+hachette | Beil
+haccuore | Fleischwolf
+hachar | zerkleinern, zerhacken
+hache | Beil
+hag(a) | Hecke
+hala | Atem, Hauch
+halar | atmen, hauchen
+halation | Atmung
+halebarde | Hellebarde
+hall | Halle
+halta | Halt, Stillstand
+haltar | anhalten
+haltere | Hantel
+halucinar | halluzinieren
+hamoc | Hängematte
+hamstre | Hamster
+hanche | Hüfte
+handicapat | behindert
+hangare | Schuppen
+happar | erhaschen, schnappen
+har | haben (als Hilfszeitwort)
+harem | Harem
+hareng | Hering
+harmonic | harmonisch
+harmonie | Harmonie
+harmonisar | harmonisieren
+harness | Harnisch, Pferdegeschirr
+harpe | Harfe
+harpero | Harfenspieler
+harpunar | harpunieren
+harpune | Harpune
+hasard(e) | Zufall, Glück
+hasardal | zufällig
+hasta | Eile
+hastar | eilen
+hat | hatte (Plusquamperfektpartikel)
+hauster | erschöpfen, ausschöpfen
+haver | haben (besitzen)
+haver … annus | alt sein
+haver li gust de | schmecken nach
+haver li jure | dürfen
+haver rason | Recht haben
+hay | es gibt, es sind
+hebréa | Jüdin
+hebreic | hebräisch, jüdisch
+hebréo | Hebräer, Jude
+hegemonie | Hegemonie
+helice | Propeller, Schiffsschraube
+hem | Heim
+hem-tache | Hausaufgabe
+hemorides | Hämorriden
+hépate | Leber
+heralde | Herold
+heraldica | Heraldik
+herbe | Gras
+heredage | Erbe
+heredar | erben
+heredie | Erbe
+heresie | Ketzerei
+heretic | ketzerisch
+heretico | Ketzer
+herisser | empor richten, sträuben (Haare, Stacheln))
+herisson | Igel
+hermafrodite | Zwitter
+hermeline | Hermelin
+heróa | Heldin
+heróe | Held
+heroic | heldenhaft
+heroisme | Heldentum
+heron | Reiher
+hérpes | Herpes
+hersar | eggen
+herse | Egge
+hesitar | zögern
+hesitativ | zögerlich
+hetera | Hure, Prostituierte
+heterogen | heterogen
+heterosexual | heterosexuell
+hiacinte | Hyazinthe
+hiada | Gähnen
+hiar | gähnen
+hibride | Kreuzung
+hibridisar | kreuzen
+hicca | Schluckauf
+hiccar | aufstoßen, Schluckauf haben
+hideosi | hässlich, scheußlich
+hideositá | Hässlichkeit, Scheußlichkeit
+hidrante | Hydrant
+hidraulica | Hydraulik
+hidre | Hydra
+hien | Hyäne
+hierarchie | Hierarchie
+hiereoglife | Hieroglyphe
+higiene | Hygiene
+higienic | hygienisch
+hilari | lachend
+himne | Hymne
+hinduistic | hinduistisch
+hinnida | Wiehern
+hinnir | wiehern
+hipnose | Hypnose
+hipnotisar | hypnotisieren
+hipopotam | Nilpferd, Flusspferd
+hipoteca | Hypothek
+hipotese | Hypothese
+hirar | heuern (anwerben)
+hirunde | Schwalbe
+hispan | Spanisch, spanisch
+Hispania | Spanien
+hissar | hissen
+histeric | hysterisch
+histerie | Hysterie
+historic | geschichtlich
+historico | Historiker
+historie | Geschichte
+histric | Stachelschwein
+hivernal | winterlich
+hivernar | Winterschlaf halten
+hivernation | Winterschlaf
+hiverne | Winter
+ho- | heutig-, diesjährig- (Vorsilbe)
+hobóe | Oboe
+hobby | Hobby
+hoccar | hocken
+hockey sur glacie | Eishockey
+hockey sur terre | Hockey, Feldhockey
+hodíe | heute
+holocaust | Holocaust
+hom | Mensch
+homage | Huldigung
+homan | menschlich
+homanitá | Menschlichkeit
+homanité | Menschheit
+homeopat | Homöopath
+homeopatic | homöopathisch
+homeropatie | Homöopathie
+homes | Menschen, Leute
+homicid | Mordtat
+homosexual | homosexuell
+homosexualitá | Homosexualität
+honest | ehrlich, ehrbar, schicklich, anständig
+honestitá | Anstand, Ehrlichkeit
+ho-nocte | heute Nacht
+honor | Ehre
+honorabil | ehrenvoll
+honorarie | Gehalt, Honorar
+honte | Schande
+hor de consultation | Sprechstunde
+hor | Stunde
+quel hora it es? | wie spät ist es?
+horarium | Stundenplan, Fahrplan
+horde | Horde
+hordeo | Gerste
+horizontal | horizontal
+horizonte | Horizont
+horloge | Uhr
+hormon | Hormon
+horologero | Uhrmacher
+horrer | schaudern, sich entsetzen
+horrid | entsetzlich
+horribil | entsetzlich
+hortensia | Hortensie
+hósped | Gastgeber
+hospedal | gastfreundlich
+hospedalitá | Gastfreundschaft
+hospicie | Klosterherberge, Zufluchtsstätte
+hospital | Krankenhaus
+hostil | feindlich
+hostilitá | Feindseligkeit
+hotel | Hotel
+ho-vésper | heute Abend
+huf | Huf
+huf-forjero | Hufschmied
+human | menschlich
+humanist | Humanist
+humanitá | Menschlichkeit
+humid | nass, feucht
+humidar | anfeuchten
+humiditá | Nässe, Feuchtigkeit
+humil | demütig, unterwürfig
+humilar se | sich unterwerfen
+humilitá | Demut, Unterwürfigkeit
+humo | Humus, Fruchterde
+humor | Laune, Stimmung, Humor
+humoristic | humoristisch
+humorist | Humorist, Spaßvogel
+Hungaria | Ungarn
+hurrá | hurra
+hussar | Husar
+iamb | Jambus
+icon (-ic) | Ikone, Heiligenbild
+idé | Idee, Gedanke
+ideal | ideal
+ideale | Ideal
+idealisar | idealisieren
+idealisme | Idealismus
+idealist | Idealist
+ideolog | Ideologe
+ideologie | Ideologie
+identic | identisch
+identitá | Identität
+identificar | identifizieren
+identification | Identifikation
+idille | Idylle
+idioma | Idiom, Sprache
+idiomatic | idiomatisch
+idiot | Idiot
+idiotic | idiotisch
+idol | Idol, Abgott, Götze
+idolatrie | Abgötterei
+idolisar | idolisieren
+ignivori | Feuer fressend
+ignominie | Schmach
+ignominosi | voller Schmach
+ignorant | ignorant
+ignorantie | Ignoranz
+ignorar | ignorieren, nicht wissen
+il | er
+ili | sie (3. Pers. Pl. alle Geschlechter)
+*illa | sie (3. Pers. Sgl. f.) veraltete Form heute: ella!
+*illas | sie (3. Pers. Pl. f.), veraltete Form heute: ellas!
+illicit | unerlaubt
+illos | sie (3. Pers. Pl. m.)
+iluder | täuschen
+iluminar | beleuchten, erleuchten
+ilumination | Beleuchtung, Erleuchtung
+ilusion | Illusion, Täuschung
+ilusionist | Illusionist
+ilustrar | illustrieren
+ilustration | Illustration
+ilustrator | Illustrator
+image | Bild
+imaginar | (sich) vorstellen
+imaginari | imaginär
+imagination | Vorstellung
+imbecil | blödsinnig
+imbecilitá | Blödsinnigkeit
+imens(i) | unermesslich, ungeheuer
+imensitá | Unermesslichkeit, Ungeheuerlichkeit
+iminent | nahe bevorstehend, drohend
+iminer | drohen, bevorstehen
+imitar | nachahmen, imitieren
+imitation | Imitation, Nachahmung
+imitator | Imitator
+imolar | opfern
+imolation | Opferung
+ínpartial | unparteiisch
+impediment | Hindernis, Verhinderung
+impedir | hindern, verhindern
+imperar | befehlen
+imperative | Imperativ
+imperator | Kaiser
+imperatoressa | Kaiserin
+imperfecte | Imperfekt (gram.)
+imperia | Kaiserreich (Land)
+imperial | imperial, Reichs-
+imperialisme | Imperialismus
+imperie | Reich (Herrschaftsgebiet)
+impertinent | unverschämt
+impertinentie | Unverschämtheit, Impertinenz
+ímpetu | Impuls, Wucht
+impetuosi | ungestüm, heftig, wuchtig
+impetuositá | Heftigkeit, Ausbruch
+implorar | anflehen
+important | wichtig
+importantie | Wichtigkeit
+importar | importieren, einführen
+importation | Import, Einfuhr
+importator | Importeur
+imposir | verhängen, auferlegen
+imposant | imposant
+imposar | einflössen
+impost(e) | Steuer
+impostar | besteuern
+imprecar | Flüche ausstoßen, verwünschen
+imprecation | Verwünschung, Fluch
+impregnar | durchtränken, imprägnieren
+impregnation | Imprägnierung
+impresser | ausdrücken, aufdrücken, beeindrucken
+impression | Eindruck
+impresssionisme | Impressionismus
+impressiv | eindrucksvoll
+improvisar | improvisieren, aus dem Stehgreif reden
+improvisation | Improvisation
+improvisator | Improvisator
+impulse | Impuls
+impulsiv | impulsiv
+impulsivon | Heißsporn
+impunitá | Straflosigkeit
+imputar | zuschreiben, anrechnen
+imun | immun
+imunisar | immunisieren
+imunisation | Immunisierung
+imunitá | Immunität
+in | in
+in facte | de facto, tatsächlich
+ínaccessibil | unzugänglich
+ínamico | Feind
+inamorar se | sich verlieben
+inamorat | verliebt
+inan | eitel, vergeblich, dumm
+ínapt | ungeeignet
+ínatentiv | unaufmerksam, achtlos
+inaugural | inaugural, Einweihungs-
+inaugurar | einweihen, feierlich eröffnen
+inauguration | Einweihung
+inballage | Verpackung
+inballar | einpacken, verpacken
+inbarcar | an Bord gehen
+inboccatura | Einmündung (Fluss), Mündung (Fluss)
+inboscada | Hinterhalt
+inboscar | in einen Hinterhalt legen
+inbotellar | in Flaschen abfüllen
+inbrament | Entflammen, in Brandsetzung
+inbrasar | entflammen, in Brand stecken
+inbrassade | Umarmen
+inbrassament | Umarmung
+inbrassar | umarmen
+inbrolliar | verwickeln, verwirren
+incadrar | einrahmen
+incagear | in einen Käfig sperren
+incantar | bezaubern
+incantation | Bezauberung
+incantatori | bezaubernd
+íncapabil | unfähig
+incarcerar | einkerkern, einsperren
+incarceration | Inhaftierung
+incarnar | verkörpern
+incarnation | Verkörperung, Inkarnation
+incatarrat | erkältet
+íncaut | unvorsichtig
+incendiar | in Brand setzen
+incendiario | Brandstifter, Aufrührer
+incendiation | Brandstiftung
+incendie | Brand, Feuersbrunst
+incendie-brigade | Feuerwehr
+incense | Weihrauch
+incensuore | Weihrauchgefäß
+íncert | unsicher
+íncessant | unaufhörlich
+incestu | Inzest, Blutschande
+inch | Inch (Längenmaß)
+ínchast | zügellos, unkeusch
+incidente | Zwischenfall
+incindrar | einäschern
+incindration | Einäscherung
+incitament | Anheizung, Anregung
+incitar | antreiben, anheizen, aufhetzen
+incitation | Anheizen, Aufhetzen
+íncivil | unhöflich
+incivilitá | Unhöflichkeit
+ínclement | rau, streng (Wetter)
+inclinar | beugen, neigen
+inclination | Neigung
+includer | einschließen
+inclusion | Einschluss, Inklusion
+inclusiv | inbegriffen
+incolerar | wütend werden, in Zorn geraten
+íncolori | farblos
+incombrar | versperren
+íncomensurabil | unmessbar
+íncomod | unbequem
+íncompatibil | unvereinbar
+íncompatibilitá | Unvereinbarkeit
+íncompetent | inkompetent
+íncomplet | unvollständig
+íncomprensibil | unverständlich
+ínconscient | bewusstlos, unbewusst
+ínconscientie | Bewusstlosigkeit, Unbewusstheit
+ínconsequent | inkonsequent
+ínconsiderat | unbedacht
+íncontinent | inkontinent (med.)
+incontra | Treffen
+incontrar se | sich treffen
+incontrar | treffen
+ínconvenent | ungebührlich, unschicklich
+ínconvenentie | Ungebührlichkeit, Unschicklichkeit
+ínconvenient | unzuträglich, nachteilig
+ínconvenientie | Unannehmlichkeit
+incorageament | Ermutigung
+incoragear | ermutigen
+íncorect | unkorrekt, falsch
+incorporar | verkörpern, assimilieren, einverleiben
+incorporation | Verkörperung, Einverleibung
+incrassar | verschmutzen, schmutzig machen
+incre | Tinte
+íncredibil | unglaublich
+íncredaci | ungläubig
+íncredul | ungläubig, skeptisch
+increiere | Tintenfass
+increment | Zuwachs
+increscement | Zuwachs
+incriminar | anschuldigen, beschuldigen
+incrimination | Anschuldigung, Beschuldigung
+incrustar | inkrustieren, einlegen
+incrustat | überzogen, bedeckt
+incubar | ausbrüten
+incude | Amboss
+inculcar | eintrichtern
+inculpar | anklagen, beschuldigen
+inculpation | Anschuldigung, Beschuldigung
+íncult | unbewirtschaftet, vernachlässigt, wild
+íncurabil | unheilbar
+íncurvar | einwärts krümmen
+indangerar | gefährden
+índefinit | unbestimmt, unklar
+índelebil | unauslöschlich
+índelebilitá | Unauslöschlichkeit
+indemni | unverletzt, unbeschädigt
+indemnisar | entschädigen
+indemnisation | Entschädigen
+indemnitá | Schadensersatz, Entschädigung
+índependent | unabhängig
+índependentie | Unabhängigkeit
+índescribil | unbeschreiblich
+índex | Index, Inhaltsangabe, Register
+India | Indien
+indicar | angeben, anzeigen, hinweisen
 indication | Merkmal, Hinweis, Angabe
 indicator | Indikator, Kennzeichen
 indicie | Anzeichen, Indiz

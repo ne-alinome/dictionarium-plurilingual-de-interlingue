@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908152159
+// Last modified 201908160033
 
 == Esperanto
 
@@ -26,3 +26,8 @@
 - Fix notation of duplicated forms, e.g. "atra(c)tiv - altira", "cycle
   (cicle) - ciklo".
 - Fix notation of comments, e.g. "avan (loc) - antaŭ".
+
+== German
+
+- Fix "respít | Atempause, Ruhepause"
+- Fix "resultatar | resultieren, zum Ergebnis haben"
