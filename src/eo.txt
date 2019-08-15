@@ -1,4 +1,5 @@
-a, ad - al
+a - al
+ad - al
 abandonar - forlasi
 abassar - malaltigi
 abat - abato
@@ -65,7 +66,8 @@ acri - akra
 act - ago
 acter - agi
 action - agado
-action,-ario - akci/o,-ano,-ulo
+action - akcio
+actionario - akciano, akciulo
 activ - aktiva
 activitá - aktiveco
 actor - aktoro
@@ -83,7 +85,8 @@ adaptation - adapto
 addir - adicii
 adequat - adekvata
 adherer - adheri
-adí/o,-ar - adiaŭ,-i
+adío - adiaŭ
+adíar - adiaŭi
 adjacer - apudkuŝi, najbari
 adjunter - aligi, almeti
 adjurar - ĵurpeti
@@ -455,10 +458,10 @@ benevolent - bonvole
 benque - kvankam
 bentost - baldaŭ
 bere - bero
-* brambere - frambo
-* crusbere - ribo
-* frasbere - frago
-* spin-crusbere - groso
+brambere - frambo
+crusbere - ribo
+frasbere - frago
+spin-crusbere - groso
 besa - kiso
 besar - kisi
 beson - bezono
@@ -694,7 +697,9 @@ censer - cenzuri
 censor - cenzuristo
 censura - cenzuro
 censu - censo
-cent,-ene,-esim - cent,-o,-a
+cent - cent
+centene - cento
+centesim - centa
 centfolie - centifolio
 centimetre - centimetro
 centre - centro
@@ -761,7 +766,8 @@ cinter - zoni
 cintura - zono
 circa - cirkaŭ
 circul - rondo,(geom) cirklo
-circum,-ear - ĉirkaŭ,-iri
+circum - ĉirkaŭ
+circumear - ĉirkaŭiri
 circumstantie - cirkonstanco
 cire - vakso
 cisel - cizilo
@@ -850,7 +856,7 @@ competir - konkuri
 competition - konkurado
 compleer - kompletigi
 complet - kompleta
-* -ment - komplemento
+complement - komplemento
 compleser - komplezi
 complicar - kompliki
 complicst - komplika
@@ -1059,7 +1065,8 @@ cruste - krusto
 crure - krura
 cube - kubo
 cubic - kuba
-cucú - kukol/o; -i = cantar "cucú"
+cucú - kukolo
+cantar "cucú" - kukoli
 cucombre - kukurbo
 cude - kubuto
 cuida - zcrgo
@@ -1319,7 +1326,7 @@ essay - eseo
 esser - esti
 estimar - estimi
 estive - somero
-estuche - ujo, -ujo
+estuche - ujo
 etá - aĝo
 etablisser - establi
 etablissement - establ(aĵ)o
@@ -1617,7 +1624,8 @@ gracil - gracila
 gradu - grado
 grafite - grafito
 gran - grajno
-grand,-issim - grand/a, plej granda
+grand - granda
+grandissim - grandega
 grass - grasa
 grasse - graso
 grat - dankema
@@ -1671,7 +1679,7 @@ hamstre - hamstro
 hanche - kokso
 happar - kapti
 hareng - haringo
-harness - ĵung/aĵo,-ilaro
+harness - ĵungaĵo, ĵungilaro
 harpe - harpo
 hasard - hazardo
 hauster - ĉerpi
@@ -1776,7 +1784,7 @@ infante - infano
 infecter - infekti
 inferiori - neplenvalora
 inferne - infero
-inflamm/ar - (ek)bruligi
+inflammar - (ek)bruligi
 inflammette - alumeto
 inflar - plenblovi
 inflation - inflacio
@@ -1834,7 +1842,8 @@ interessant - interesa
 interesse - intereso
 interest - interezo, procentaĵo
 interim - intertempe
-intern, interiori - interna
+intern - interna
+interiori - interna
 interprender - interpreni
 interpretar - interpreti
 interprete - interpretisto
@@ -1929,7 +1938,8 @@ land - lando
 languir - soifi
 lanse - lanco
 lápid - ŝtono
-lapp,-ar - flik(aĵ)o,-i
+lapp - flik(aĵ)o
+lappar - flik(aĵ)i
 larde - lardo
 larg - larĝa
 lasciv - lasciva
@@ -1952,7 +1962,9 @@ lection - lekcio
 leder - difekti
 leer - legi
 letor - leganto
-lege=ley - leĝo
+lege - leĝo
+legal - leĝa, laŭleĝa
+ley - leĝo
 legion - legio
 legume - legomo
 lent - lanta=malrapida
@@ -2177,7 +2189,8 @@ migrar - migri
 mild - delikata
 milie - mejlo
 miliari - mejla
-mill,-ennie - mil,-jaro
+mill - mil
+millennie - jarmilo
 militare - armeo
 militari - armea
 milz - laktumo
@@ -2209,8 +2222,7 @@ moderar - moderigi, mildigi
 modest - modesta
 modestie - modesteco
 modic - malkara
-moer=mover - movi
-moer=movement - movado
+moer - movi
 mofa - ŝimo
 mofar - ŝimi
 mol - muelŝtono
@@ -2322,7 +2334,8 @@ nett - neta
 netto - nete
 nevo - nevo
 neva - nevino
-ni - eĉ ne, nek...nek
+ni - nek, eĉ ne
+ni ... ni - nek ... nek
 niche - niĉo
 nigri - nigra
 nigrar - nigrigi
@@ -2361,8 +2374,8 @@ notori - fama
 nov - nova
 novitá - novaĵo
 novembre - novembro
-nu - nu; nun
-nu...nu - jen...jen
+nu - nun
+nu ... nu - jen ... jen
 nuancie - nuanco
 nuanciar - nuanci
 nube - nubo
@@ -2381,7 +2394,8 @@ nuptie - nupto
 nutrir - nutri
 nutriment - nutraĵo
 ó - ho
-o, o...o - aŭ, aŭ,..aŭ
+o - aŭ
+o ... o - aŭ, aŭ ... aŭ
 obedir - obei
 obedient - obeema
 obesi - dika
@@ -2417,7 +2431,8 @@ ocre - okro
 octobre - oktobro
 ocul - okulo
 oculare(s) - okulvitro(j)
-ocult,-isme - sekreta, okultismo
+ocult - okulta
+ocultisme - okultismo
 ocupar - okupi
 ocupation - okupo
 odie - malamo
@@ -2495,7 +2510,8 @@ padelle - pato, muldilo
 pagano - pagano
 págine - paĝo
 páginar - paĝonumeri
-país,-age - kamparo, pejzaĝo
+país - kamparo
+paísage - pejzaĝo
 pal - fosto
 palace - palaco
 palate - palato
@@ -2658,7 +2674,8 @@ petrin - ŝtona
 petrosel - petroselo
 pezze - peco
 pian(i) - mallaŭte
-pic,-ar - pinto, piki
+pic - pinto
+picar - piki
 picter - pentri
 pictor - pentristo
 pie - pia
@@ -2822,7 +2839,8 @@ prevaler - superi, domini
 preventer - preventi
 prevention - prevento
 pri - pri
-prim,-ari - unua; primara
+prim - unua
+primari - primara
 primul - primulo
 prince - princo
 princessa - princino
@@ -3375,7 +3393,8 @@ section - (dis)sekco
 secuer=sequer - sekvi
 sécul - jarcento, centjaro
 secun - laŭ
-secund,-ari - dua, sekundara
+secund - dua
+secundari - sekundara
 secur - sekura
 securar - sekurigi
 seder - sidi
@@ -3423,8 +3442,8 @@ sergente - serĝento
 serpente - serpento
 serpentin - serpenta
 seriosi - serioza
-serrar - *kunpremi
-serrette - *premtenilo
+serrar - kunpremi
+serrette - premtenilo
 serrure - seruro
 service - servico
 servicie - servo, deĵoro
@@ -3467,7 +3486,8 @@ sinap - sinapo
 sinceri - sincera
 sindicate - sindikato
 singlutar - plorsingulti
-singul,-are - unuopa, singularo
+singul - unuopa
+singulare - singularo
 sinistri - sinistra
 sinlabor - senlabora
 sinu - sino
@@ -3476,7 +3496,7 @@ sisme - tertremo
 sitell - sitelo
 situar - situi
 situation - situacio
-sive...sive - aŭ...aŭ
+sive ... sive - aŭ ... aŭ
 six - ses
 slamm - ŝlimo
 slifar - akrigi
@@ -3487,7 +3507,7 @@ slittar - sledi
 smeril - smirgo
 sobri - sobra
 societé - socio
-social - socia,-ala
+social - socia, sociala
 socio - kunulo
 socle - soklo
 soflar - blovi
@@ -3509,7 +3529,8 @@ somniar - sonĝi
 somnie - sonĝo
 son - sono
 sonar - soni
-sond/e,-ar - son
+sonde - sondilo
+sondar - sondi
 sordid - sordida
 sorte - speco
 sospire - suspiro
@@ -3574,7 +3595,9 @@ standardisar - normigi
 standarte - standardo
 stanno - stano
 star - stari
-stat/e,-al,-mann = ŝtat/o,-a,-viro
+state = ŝtato
+statal = ŝtata
+statmann = ŝtatviro
 station - stacio, stacidomo
 statu - stato
 statue - statuo
@@ -3708,8 +3731,9 @@ sup - supo
 supiere - supujo
 supé - vespermanĝo
 supear - vespermanĝi
-súper,-ar - super,-i
-superb - superba=belega
+súper - super
+superar - superi
+superb - superba, belega
 superficie - surfaco
 superficial - surfaca
 superflú - superflua
@@ -3803,7 +3827,8 @@ tegment - tegmento
 tegul - tegolo
 tema - temo
 tematic - tema
-temp/e;-este - vetero;-tempesto
+tempe - vetero
+tempeste - tempesto
 temperar - moderigi
 tempie - tempio
 temple - templo
@@ -3842,7 +3867,9 @@ tese - tezo
 test - testo
 testar - testi
 testament - testamento
-testimon,-ie,-iar - atest(anto)o,-i
+testimon - atestanto
+testimonie - atesto
+testimoniar - atesti
 tette - mampinto, cico
 texter - teksi
 textero - teksisto
@@ -4040,7 +4067,10 @@ ultim - lasta
 ultra - krom, escepte de
 ulular - ululi
 unbilico - unbiliko
-un,-ésim,-ir,-itá - unu,-a,-igi,-eco
+un - unu
+unesim - unua
+unir - unuigi
+unitá - unueco
 unaltru - reciproke
 uncie - unco
 uncter - ŝmiri
@@ -4107,7 +4137,8 @@ valute - valuto
 valve - valvo
 van - vana
 vanitá - vaneco
-vanit/ari,-osi - vant(em)a
+vanitari - vant(em)a
+vanitosi - vant(em)a
 vaniglorie - vanteco
 vapor - vaporo
 vapor-nave - vaporŝipo
@@ -4126,7 +4157,8 @@ vé! - ve!
 vegetar - vegeti
 vegetariane - vegetarano
 vehement - energia
-vehicul,-ar - vehiklo; vetur/ili
+vehicul - vehiklo
+vehicular - vehikli
 vele - vualo
 veler - vuali
 vell: yo vell far - ai farus
@@ -4149,7 +4181,7 @@ ventre - ventro
 ventricul - ventriklo
 ver - vera
 veritá - vero
-ver,-ificar - legalizi
+verificar - verificar
 verbe - verbo
 verdi - verde
 verdeer - verdiĝi
@@ -4186,14 +4218,15 @@ vestigie - vestiĝo
 veterinario - veterinaro
 vexar - turmenti
 vez: du vez - duoble
-vi - vidu,- jen
+vi - vidu, jen
 via - vojo
 viage - vojaĝo
 viagear - vojaĝi
 viaducte - viadukto
 viarium - horaro, horlibro
 vicario - vikario
-vice,-ar - anstateŭ,-i
+vice - anstataŭ
+vicear - anstataŭigi
 vicie - malvirto
 viciosi - malvirte
 vicin - najbara
@@ -4210,7 +4243,8 @@ viduo - vidvo
 vidua - vidvino
 vigil - vigla
 vigilar - vigli
-vig/ore,-er - vivpotenco, esti vitala
+vigore - vivpotenco
+viger - esti vitala
 vili - malnobla
 vilan - fia
 village - vilaĝo
