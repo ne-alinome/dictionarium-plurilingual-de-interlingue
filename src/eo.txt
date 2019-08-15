@@ -997,7 +997,8 @@ culpa - kulpo
 cultivar - kultivi
 cultel - tranĉilo
 cúmine - kumino
-cúmul,-ar - amas/o,-igi
+cúmul - amaso
+cumular - amasigi
 cuneo - kojno
 cunicul - kuniklo
 cupar - tranĉi, tondi
@@ -2332,7 +2333,8 @@ parent - parenta
 parente - parento
 parentese - parentezo
 pari - para
-perí,-ar - vet/o,-i
+perí - veto
+periar - veti
 parlar - peroli
 paroc/o,-ia - paroĥ/estro,-o
 parol - vorto
@@ -2385,7 +2387,8 @@ pecca - peko
 peccar - peki
 pech - peĉo
 péctin/e,-ar - komb/ilo,-i
-péctor,-al - brust/o,-a
+péctor - brusto
+pectoral - brusta
 pecunie=moné - mono
 ped/e,-ale - piedo, pedalo
 pedicul - pediko
@@ -2670,7 +2673,8 @@ pruvar - pruvi
 psalm - psalmo
 psaltre - psalmaro
 psiche - psiĥo
-púber,-tá - puber/a,-eco
+púber - pubera
+pubertá - pubereco
 public,-a,-ar - publik/e,-o,-/ig/i
 publicist - publicisto
 pud/er,-ent,-entie - hont/i,-ema,-emo
@@ -3400,7 +3404,8 @@ súper,-ar - super,-i
 superb - superba=belega
 superficie - surfaco
 superficial - surfaca
-superflú,-er - superflu/a,-i
+superflú - superflua
+superfluer - superflui
 superiori - supera
 superstici/e,-osi - superstiĉ/o,-a
 supervider - supervidi
@@ -3673,7 +3678,8 @@ tsaressa - carino
 tu, tui - ci, cia
 tube - tubo
 túbere - túbero
-tubércul,-ose - tuberkul/o,-ozo
+tubércul - tuberkulo
+tuberculose - tuberkulozo
 tuchar - tuŝi
 tulip - tulipo
 tum/er,-ore - ŝvel/i.-aĵo, tumoro
@@ -3817,7 +3823,8 @@ verter - reversi
 vertice - vertico
 vertical - vertikala
 vertigine - vertiĝo
-vertú,-osi - virt/o,-a
+vertú - virto
+vertuosi - virta
 veruca - veruko
 verve - vervo
 vesícul - veziketo
