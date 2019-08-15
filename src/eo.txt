@@ -120,7 +120,7 @@ advertiment - averto
 aere - aero
 aerar - aerumi
 afabil - afabla
-afabilita - afableco
+afabilitá - afableco
 afamar - malsati
 afectar - afekti
 afectation - afekto
@@ -194,7 +194,7 @@ ambi - ambaŭ
 ambicie - ambicio
 ambiciosi - ambicia
 ambigui - ambigua
-ambiguiitá - ambigueco
+ambiguitá - ambigueco
 amico - amiko
 amical - amika
 amicitá - amikeco
@@ -275,7 +275,8 @@ ardore - ardo
 ardese - ardezo
 area - areo
 argente - arĝento
-arguer=argumentar - argumenti
+arguer - argumenti
+argumentar - argumenti
 arid - arida
 arivar - alveni
 arlekin - arlekeno
@@ -389,7 +390,7 @@ a(d)vocate - advokato
 a(d)vocatie - advokateco
 axe - akso
 axille - akselo
-szur - lazuro
+azur - lazuro
 bagage - bagaĝo
 bal - balo
 balenciar - pesi
@@ -458,7 +459,6 @@ benevolent - bonvole
 benque - kvankam
 bentost - baldaŭ
 bere - bero
-brambere - frambo
 crusbere - ribo
 frasbere - frago
 spin-crusbere - groso
@@ -765,7 +765,7 @@ cindre - cindro
 cinter - zoni
 cintura - zono
 circa - cirkaŭ
-circul - rondo,(geom) cirklo
+circul - rondo, (geom.) cirklo
 circum - ĉirkaŭ
 circumear - ĉirkaŭiri
 circumstantie - cirkonstanco
@@ -793,7 +793,8 @@ clini - dekliva
 clinc - klinko
 cliquettar - tintegi
 clob - klabo
-clocca=hora - horo
+clocca - horo
+hora - horo
 cloche - sonorilo
 clochear - sonorigi
 clove - najlo
@@ -919,7 +920,8 @@ congruer - kongrui
 conifere - konifero
 conjugar - konjugi
 conjecter - konjekti
-conjuncter=conjunter - kunligi
+conjunter - kunligi
+conjuncter - kunligi
 conexer - interligi, koneksi
 conecter - konekti
 conjurar - ĵurpeti
@@ -1475,7 +1477,8 @@ flarar - flari
 flattar - flati
 fleche - sago
 flexer - fleksi
-flicca=puella - bubino, knabino
+flicca - bubino, knabino
+puella - bubino, knabino
 floc - floko
 flor - floro
 fluer - flui
@@ -1864,7 +1867,8 @@ inventer - inventi
 inversi - inversa
 investigar - esplori, serĉi
 investir - investi
-inviar=misser - sendi
+inviar - sendi
+misser - sendi
 invidie - envio
 invitar - inviti
 iride - irido
@@ -1967,7 +1971,7 @@ legal - leĝa, laŭleĝa
 ley - leĝo
 legion - legio
 legume - legomo
-lent - lanta=malrapida
+lent - lanta, malrapida
 lentige - lentugo
 lentille - lento
 leon - leono
@@ -2044,7 +2048,7 @@ lunedí - lundo
 lupo - lupo
 lurar - logi
 lure - logaĵo
-luxar - elartikigi,luksacii,tordi
+luxar - elartikigi, luksacii, tordi
 luxu - lukso
 luxuosi - luksa
 ma - sed
@@ -2057,7 +2061,8 @@ macular - makuli
 magnánim - grandanima
 magnific - grsndioza
 magri - magra
-mai=may - majo
+mai - majo
+may - majo
 mais - maizo
 najestic - majesta
 mal - malbona
@@ -2286,7 +2291,7 @@ mutar - mutacii
 mutation - mutacio
 mutilar - kripligi, mutili
 mutual - mutuala
-mutualite - mutualeco
+mutualité - mutualeco
 nam - ĉar
 nano - nano
 narice - naztruo
@@ -2327,7 +2332,8 @@ nequande - neniam
 nequant - neniom, tute nenio
 nequel - neniu
 nequi - neniu
-nequó=necos - nenio
+nequó - nenio
+necos - nenio
 nest - nesto
 nestar - nesti
 nett - neta
@@ -2335,7 +2341,7 @@ netto - nete
 nevo - nevo
 neva - nevino
 ni - nek, eĉ ne
-ni ... ni - nek ... nek
+ni … ni - nek … nek
 niche - niĉo
 nigri - nigra
 nigrar - nigrigi
@@ -2357,7 +2363,8 @@ nodar - nodi
 noi - ni
 nómine - nomo
 nóminar - nomi
-nonna=monaca - monahino
+nonna - monahino
+monaca - monahino
 nor - nia
 nord - nordo
 nordic - nordlanda
@@ -2375,7 +2382,7 @@ nov - nova
 novitá - novaĵo
 novembre - novembro
 nu - nun
-nu ... nu - jen ... jen
+nu … nu - jen … jen
 nuancie - nuanco
 nuanciar - nuanci
 nube - nubo
@@ -2395,7 +2402,7 @@ nutrir - nutri
 nutriment - nutraĵo
 ó - ho
 o - aŭ
-o ... o - aŭ, aŭ ... aŭ
+o … o - aŭ, aŭ … aŭ
 obedir - obei
 obedient - obeema
 obesi - dika
@@ -2695,7 +2702,7 @@ pinselar - peniki
 pioche - pioĉo
 piochar - pioĉi
 pip - pipo
-pipiar - pepi, kviki=kviviti
+pipiar - pepi, kviki, kviviti
 pipre - pipro
 piprar - pipri
 pire - piro
@@ -2751,7 +2758,7 @@ poete - poeto
 poetic - poeta
 polir - poluri
 pollen - poleno
-pollice - polekso=digfingro
+pollice - polekso, dikfingro
 polve - polvo
 pom - pomo
 pomiero - pomarbo
@@ -2787,7 +2794,7 @@ potent - potenca
 potentie - potenco
 potte - poto
 pottero - potfaristo
-povri - povra=malriĉa
+povri - povra, malriĉa
 poy - poste, post tio
 practic - praktika
 practica - praktiko
@@ -2849,8 +2856,8 @@ principie - principo
 printar - presi
 printage - presajo
 priori - entaŭa, eminenta, ĉefa
-priorite - prioritato
-prison - prizono=malliberejo
+priorité - prioritato
+prison - prizono, malliberejo
 privar - senigi
 pro - pro
 pro que - car; pro tio, ke
@@ -2866,7 +2873,7 @@ procrastinar - prokrasti
 procurar - havigi
 procuration - prokuro
 procurator - prokuroro
-prodigar - prodigi=malŝpari
+prodigar - prodigi, malŝpari
 producte - produkto
 producter - produkti
 profan - profana
@@ -3219,7 +3226,7 @@ richesse - riceco
 rider - ridi
 rision - rido
 risibil - ridinda
-ridicul=risibil - ridinda
+ridicul - ridinda
 riff - rifo
 rigid - rigida
 rim - rimo
@@ -3271,7 +3278,8 @@ rugir - kriegi
 ruir - falruiniĝi
 rul - rulo
 rular - ruli
-ruminar=remachar - remaĉi
+ruminar - remaĉi
+remachar - remaĉi
 rupter - rompi
 rure - kamparo
 rurano - kamparano
@@ -3390,7 +3398,8 @@ secta - sekto
 sectano - sektano
 secter - (dis)sekci
 section - (dis)sekco
-secuer=sequer - sekvi
+secuer - sekvi
+sequer - sekvi
 sécul - jarcento, centjaro
 secun - laŭ
 secund - dua
@@ -3418,7 +3427,8 @@ semblar - ŝajni
 semblantie - ŝajno
 seme - semo
 semar - semi
-semi=demi - duon
+semi - duon
+demí - duon
 sempre - ĉiam
 senior - sinjoro
 seniora - sinjorino
@@ -3496,7 +3506,7 @@ sisme - tertremo
 sitell - sitelo
 situar - situi
 situation - situacio
-sive ... sive - aŭ ... aŭ
+sive … sive - aŭ … aŭ
 six - ses
 slamm - ŝlimo
 slifar - akrigi
@@ -3520,7 +3530,7 @@ soledí - dimanĉo
 solemni - solena
 solid - solida
 solidari - solidara
-solidariita - solidareco
+solidaritá - solidareco
 solicitar - pretendi
 soluer - solvi
 solution - solv(aĵ)o
@@ -3561,7 +3571,7 @@ spingle - pinglo
 spirar - spiri
 spira - spiro
 spirite - spirito
-spíritu - menso,spirito
+spíritu - menso, spirito
 splender - brili
 splendid - belega
 splinte - ŝtipo
@@ -3595,9 +3605,9 @@ standardisar - normigi
 standarte - standardo
 stanno - stano
 star - stari
-state = ŝtato
-statal = ŝtata
-statmann = ŝtatviro
+state - ŝtato
+statal - ŝtata
+statmann - ŝtatviro
 station - stacio, stacidomo
 statu - stato
 statue - statuo
@@ -3621,7 +3631,7 @@ stoic - stoika
 stoicisme - stoikismo
 stomac - stomako
 stomacal - stomaka
-stoppar - stopi,haltigi
+stoppar - stopi, haltigi
 storc - cikonio
 storm - ŝtormo
 stove - stovo
@@ -3837,12 +3847,12 @@ tempore - tempo
 tenaci - obstina
 tenda - tendo
 tender - streĉi
-tension - streĉo,tensio
+tension - streĉo, tensio
 tendentie - tendenco
 tendentiosi - tendenca
 tendon - tendeno
 tendri - tenera
-tenebre - tenebro=mallumo
+tenebre - tenebro, mallumo
 tener - teni
 tenette - tenilo
 tenia - tenio
@@ -4316,7 +4326,7 @@ west - okcidento
 whisky - viskio
 wist - vistludo
 wist-lude - vistludo
-X-radies - x-radioj,iks-radioj
+X-radies - x-radioj, iks-radioj
 xenolexico - fremdvortaro
 xilofon - ksilofono
 xilografie - ksilografio

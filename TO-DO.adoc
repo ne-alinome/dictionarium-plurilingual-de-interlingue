@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908152137
+// Last modified 201908152159
 
 == Esperanto
 
@@ -23,3 +23,6 @@
 - Fix "model - moda (verbo)".
 - Fix "tremer - tremi, skui".
 - Fix "ley": archaism..
+- Fix notation of duplicated forms, e.g. "atra(c)tiv - altira", "cycle
+  (cicle) - ciklo".
+- Fix notation of comments, e.g. "avan (loc) - antaŭ".
