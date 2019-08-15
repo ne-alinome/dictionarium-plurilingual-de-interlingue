@@ -342,7 +342,8 @@ atribut - atributo
 atroci - abomena, naŭza
 aturdir - svenigi
 au! - aŭ!
-auction,-ar - aŭkci/o,-i
+auction - aŭkcio
+auctionar - aŭkcii
 audacie - aŭdaco
 audaciar - aŭdaci
 audir - aŭdi
@@ -362,7 +363,8 @@ auxilie - helpo
 avan (loc) - antaŭ
 avansar - avanci
 avanse - avanc(ad)o
-aventage,-osi - avantaĝ/o,-a
+avantage - avantaĝo
+avantageosi - avantaĝa
 avantale - antaŭtuko
 avari - avara
 avaron - avarulo
@@ -524,13 +526,15 @@ brodar - brodi
 brodular - bruboli
 bronchie - bronko
 bronne - puto
-bross,-ar - broŝ/o,-i
+bross - broŝo
+brossar - broŝi
 brove - brovo
 bruir - brui
 brular - bruli
 brun - bruna
 brusqui - bruska
-brut/e;-al - brut/o;-ala
+brute - bruto
+brutal - brutala
 brutto - brutte
 buc - virkapro
 buchar - buĉi
@@ -701,7 +705,8 @@ cerebre - cerbo
 cerebral - cerba
 cerese - ĉerizo
 cernar - ĉirkaŭigi
-cert,-it'a - cert/a,-eco
+cert - certa
+certitá - certeco
 cervo - cervo
 cerva - cervino
 cervulade - cervelaso
@@ -718,7 +723,7 @@ chancelar - ŝanceli
 change - ŝanĝo
 chap - bravulo
 chapel - ĉapelo
-charit'a - bonfarado
+charitá - bonfarado
 charge - ŝarĝo
 charme - ĉarmo
 charnire - pordhoko
@@ -968,7 +973,8 @@ convicter - konvikti
 convoy - konvojo
 cope - pokalo
 cor - ĥoro
-corage,-osi - kuraĝ/o,-a
+corage - kuraĝo
+corageosi - kuraĝa
 corb - korbo
 corc - korko
 corde - kordo
@@ -1036,7 +1042,8 @@ crímine - krimo
 críminard - krimulo
 crine - krino
 croc - hoko
-crochet,-ar - kroĉet/ilo,-i
+crochet - kroĉetilo
+crochetar - kroĉeti
 cropp - kropo
 cruc - lambastono
 cruce - kruco
@@ -1085,7 +1092,8 @@ cycle (cicle) - ciklo
 cyclon (ciclon) - ciklono
 cygne (cigne) - cigno
 cypress (cipress) - cipreso
-damage,-ar - damaĝ/o,-i
+damage - damaĝo
+damagear - damaĝi
 damnar - damni
 damnation - damno
 dangere - danĝero
@@ -1186,7 +1194,8 @@ dill - aneto
 diluer - dilui
 diluvie - diluvo
 diminuer - dimimui, etigi
-diné,-ar - tagmanĵ/o,-i
+diné - tagmanĝo
+dinéar - tagmanĝi
 dir - diri
 directer - direkti
 disciplo - disĉiplo
@@ -1246,7 +1255,8 @@ ebrie - ebria
 ebrietá - ebri(ec)o
 eclesie - eklezio
 eclesia - preĝejo
-eco,-ar - eĥ/o,-iĝi
+eco - eĥo
+ecoar - eĥiĝi
 economie - ekonomio
 ecran - ekrano
 edict - edikto
@@ -1743,7 +1753,8 @@ incre - inko
 incude - inkudo
 index - indekso, /mat./ indico
 indicar - indiki
-indigen,-e - indiĝen/a,-o
+indigen - indiĝena
+indigene - indiĝeno
 indiger - malhavi
 indignation - indigno
 indolent - mallaborema
@@ -1853,7 +1864,8 @@ jambon - ŝinko
 jardin - ĝardeno
 jaque - ĵaketo
 jettar - ĵeti
-joc,-ar - ŝerc/o,-i
+joc - ŝerco
+jocar - ŝerci
 jolli - bel(et)a
 jonglar - ĵongli
 jovedí - ĵaŭdo
@@ -1890,7 +1902,8 @@ labil - labila
 laborar - labori
 labore - laboro
 lacayo - lakeo
-lace,-ar - laĉ/o,-i
+lace - laĉo
+lacear - laĉi
 lacerar - disŝiri
 laconic - lakona
 lácrime - larmo
@@ -1980,7 +1993,8 @@ lob - lobo
 loco - loko
 local - loka
 locar - loki
-logí,-ar - loĝ/ejo,-i
+logí - loĝejo
+logíar - loĝi
 long - longa
 longore - long(ec)o
 longitudine - longitudo
@@ -2390,7 +2404,8 @@ occident - okcidento
 occidental - okcidenta
 ocre - okro
 octobre - oktobro
-ocul,-are(s) - okul/o,-vitro(j)
+ocul - okulo
+oculare(s) - okulvitro(j)
 ocult,-isme - sekreta, okultismo
 ocupar - okupi
 ocupation - okupo
@@ -2406,7 +2421,8 @@ ofertar - oferti
 oficero - oficiro
 ofici/e,-ario - ofic(ej)o,-isto
 oficina - metiejo
-old,-esse - old/a=maljun/a,-eco
+old - olda=maljun/a
+oldesse - oldeco
 oleo - oleo
 olear - olei
 ombre - ombro
@@ -2426,7 +2442,8 @@ oportun - oportuna
 oposition - opozicio
 opress/er,-ion - subprem(ad)i,-o
 optim - plej bona
-opulent,-ie - riĉ/a,-eco
+opulent - riĉa
+opulentie - riĉeco
 orange - oranĝo
 orator - oratoro
 oratori - oratora
@@ -2530,7 +2547,8 @@ passional - pasia
 Passione - Pasiono
 pass(a)parol - pasvorto
 passport - pasporto
-passu,-ar - paŝ/o,-i
+passu - paŝo
+passuar - paŝi
 pasta - pasto
 paster - paŝti
 pastero - paŝtisto
@@ -2650,7 +2668,8 @@ pipre - pipro
 piprar - pipri
 pire - piro
 pise - pizo(j)
-pisc,-ar - fiŝ/o,-i
+pisc - fiŝo
+piscar - fiŝi
 pissar - pisi
 pistar - pisti
 pistuore - pistujo
@@ -2764,7 +2783,8 @@ preposition - prepozicio
 presc - preskaŭ
 prescrir - preskribi
 prescrition - preskribo
-present,-ie - ĉeest/a,-o
+present - ĉeesta
+presentie - ĉeesto
 presentar - prezenti
 preservar - ŝirmi
 preservation - ŝirmilo
@@ -3126,7 +3146,7 @@ restoration - restoracio, gastería
 restituer - restitui
 restricter - restrikti
 resultar - rezulti
-resultate - rezulto '
+resultate - rezulto
 resumar - resumi
 resumé - resumo
 retardar - malantaŭigi
@@ -3226,7 +3246,8 @@ sacrificar - ofer-i
 sacrificie - ofer-(aĵ)o
 sacrilegie - sakrilegio
 sagaci - sagaca
-sagi,-tá - saĝ/a,-eco
+sagi - saĝa
+sagitá - saĝeco
 sale - salo
 salar - sali
 salin - salita
@@ -3312,7 +3333,8 @@ scruvar - ŝraŭbi
 scude - ŝildo
 sculpter - skulpti
 sculptor - skulptisto
-scum,-ar - ŝaŭm/o,-i
+scum - ŝaŭmo
+scumar - ŝaŭmi
 scurel - sciuro
 se - sin
 sebe - sebo
@@ -3518,7 +3540,8 @@ squermar - skermi
 squelette - skeleto
 stabil - stabila
 stabilisar - stabiligi
-stal,-in - ŝtal/o,-a
+stal - ŝtalo
+stalin - ŝtala
 stalle - stalo
 stamp - stampilo
 stampe - stampaĵo
@@ -3654,13 +3677,15 @@ suicidie - sinmortigo
 sulca - sulko
 sulcar - sulki
 suldar - luti
-sulfur,ric - sulfur/o,-a
+sulfur - sulfuro
+sulfuric - sulfura
 summa - sumo
 summar - sumigi
 suol - tero, grundo
 sup - supo
 supiere - supujo
-supé,-ar - vespermanĵ/o,-i
+supé - vespermanĝo
+supear - vespermanĝi
 súper,-ar - super,-i
 superb - superba=belega
 superficie - surfaco
@@ -3735,7 +3760,8 @@ tanta - onklino
 tapete - tapeto
 tapetar - tapeti
 tapisse - tapiŝo
-tapon,-ar - ŝtop/ilo,-i
+tapon - ŝtopilo
+taponar - ŝtopi
 tappar - esti malcerta
 tard - malfrua, tarda
 tarif - tarifo
@@ -3827,8 +3853,8 @@ tirar - 1.tiri 2.pafi
 tiranne - tirano
 tirannissr - tirani
 titillar - tikli
-titul - tltolo
-titular - tltoli
+titul - titolo
+titular - titoli
 to - tio
 toale - mantuko
 toffe - tufo
