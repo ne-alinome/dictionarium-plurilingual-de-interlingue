@@ -58,7 +58,8 @@ acordar - akordi
 acri - akra
 act,-er,-ion - ag/o,-i,-ado
 action,-ario - akci/o,-ano,/-ulo/
-activ,-itá - aktiv/a,-eco
+activ - aktiva
+activitá - aktiveco
 actor - aktoro
 actual - aktuala
 acuchar - akuŝi
@@ -178,7 +179,8 @@ ambassade - ambasado
 ambi - ambaŭ
 ambicie - ambicio
 ambiciosi - ambicia
-ambigui,-itá - ambigu/a,-eco
+ambigui - ambigua
+ambiguiitá - ambigueco
 amic/o,-al,-itá - amik/o,-a,-eco
 amidon - amelo
 ampli - ampleksa
@@ -432,7 +434,8 @@ bétul - betulo
 bible - biblio
 bilie - galo
 billet - bileto
-bir,-ería - bier/o,-farejo
+bir - biero
+birería - bierfarejo
 biscuit - biskvito
 bivac - bivako
 bivacar - bivaki
@@ -695,7 +698,8 @@ ci - ĉi tie
 cible - celtabulo
 cicatre - cikatro
 cicoré - cikorio
-ciec,-itá - blind/a,-eco
+ciec - blinda
+ciecitá - blindeco
 ciel - ĉielo
 cil - cilio
 cime - verto
@@ -1296,7 +1300,8 @@ exultar - ĝojkrii, jubili
 fabe - fabo
 fabul - fabulo
 facie - vizaĵo
-facil,-itá - facil/a,-eco
+facil - facila
+facilitá - facileco
 fact - fakto, faro
 factura - fakturo
 fecultativ - fakultativa
@@ -1605,7 +1610,8 @@ hirunde - hirundo
 hiverne - vintro
 hoccar - kaŭri
 hodie - hodiaŭ
-hom,-anité - hom/o,-aro
+hom - homo
+homanité - homaro
 honest - honesta
 honor - honoro
 honte - honto
@@ -2039,7 +2045,8 @@ miserar - mizeri
 mission - misio
 mite - mito
 mixt/er,-ura - miks/i,-aĵo
-mobil,-itá - movebl/a,-o
+mobil - movebla
+mobilitá - moveblo
 moble - meblo
 moc/ar,-ada - mok/i,-/ad/o
 mod/e,-el - mod/o,-a /verbo/
@@ -2328,7 +2335,8 @@ pari - para
 perí,-ar - vet/o,-i
 parlar - peroli
 paroc/o,-ia - paroĥ/estro,-o
-parol,-órdine - vort/o,-ordo
+parol - vorto
+parolórdine - vortordo
 parsimonie - avareco
 parte - parto
 partial - parta
@@ -2754,7 +2762,8 @@ rang - rango
 range - vico
 rangear - vicigi
 rap - rapo
-rapid,-itá - rapid/a,-eco
+rapid - rapida
+rapiditá - rapideco
 raporte - raporto
 raportar - raporti
 rapter - forrabi
@@ -2774,7 +2783,8 @@ ravisser - ravi
 ravissent - rava
 reacter - reakcii
 reaction - reakcio
-real,-itá - real/a,-eco
+real - reala
+realitá - realeco
 recenser - recenzi
 recension - recenzo
 recent - antaьnelonga
@@ -3013,7 +3023,8 @@ salvar - savi
 salvation - savo
 salve - salvo
 sam - sama
-san,-itá - san/a,-o
+san - sana
+sanitá - sano
 sand - sablo
 sangu/e,-ar - sang/o,-/ad/i
 sanguisuc - hirudo
@@ -3185,7 +3196,8 @@ soci/ete,-al - soci/o,-a,-ala
 socio - kunulo
 socle - soklo
 soflar - blovi
-sol,-itá - sol/a,-eco
+sol - sola
+solitá - soleco
 sole - suno
 solari - suna
 solea - ŝu-plando
@@ -3744,7 +3756,8 @@ vall - remparo
 valley - valo
 valute - valuto
 valve - valvo
-van,-itá - van/a,-eco
+van - vana
+vanitá - vaneco
 vanit/ari,-osi - vant/em/a
 vaniglorie - vanteco
 vapor - vaporo
@@ -3781,7 +3794,8 @@ ventosi - venta
 ventol - ventumilo
 ventre - ventro
 ventricul - ventriklo
-ver,-itá - ver/a,-o
+ver - vera
+veritá - vero
 ver,-ificar - legalizi
 verbe - verbo
 verd/i,-eer - verd/e,-iĝi
@@ -3863,7 +3877,8 @@ visitar - viziti
 visitation - vizito
 visivitá - vidkapablo
 vista - vidaĵo
-vital,-itá - vital/a,-eco
+vital - vitala
+vitalitá - vitaleco
 vite - vito
 vitr/e,-ine - vitr/o,-ino /vitroŝranko/
 viv/e,-er,-aci - viv/o,-i,-ema
