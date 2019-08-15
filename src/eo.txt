@@ -375,7 +375,7 @@ aventura - aventuro
 averse - averso
 avid - avida
 avie - birdo
-aviar - aviadi 
+aviar - aviadi
 aviator - aviadisto
 avion - avio
 avigilar - veki
@@ -575,7 +575,7 @@ calcul - kalkulo
 calcular - kalkuli
 caldiere - vaporkaldrono
 caldron - kaldrono
-caler - varmi 
+caler - varmi
 calid - varma
 calore - varmo
 calentar - hejti
@@ -829,7 +829,8 @@ comercie - komerco
 cometter - estigi, fari
 comic - komika
 comico - komikulo
-comiss/er -ion - komisi/i,-o
+comisser - komisii
+comission - komisio
 comité - komitato
 comma - komo
 commí - komizo
@@ -843,7 +844,8 @@ comparative - komparativo
 compatir - kompati
 compatiment - kompato
 compatriot - samlandano
-compens/ar,-ation - kompens/i,ado
+compensar - kompensi
+compensation - kompensado
 competir - konkuri
 competition - konkurado
 compleer - kompletigi
@@ -886,7 +888,8 @@ concluder - konkludi
 conclusion - konkludo
 concordar - konkordi
 concordie - konkordo
-concurr/er,-entie - konkurenc/i-o
+concurrer - konkurenci
+concurrentie - konkurenco
 condamnar - kondamni
 condensar - kondensi
 condiment - kondimento
@@ -1013,7 +1016,8 @@ costume - kostumo
 coton - kotono
 covar - kovi
 covert - koverto
-covr/ir,-iment_- kovr/i,-ilo
+covrir - kovri
+covriment - kovrilo
 cramp - kramfo
 crampon - krampo
 cran - gruo (maŝino)
@@ -1172,7 +1176,7 @@ detallie - detal(aĵ)o
 detecter - detekti
 detra - malantaŭen
 devastar - dezertigi
-devenir-fariĝi
+devenir - fariĝi
 dever - devi
 devise - devizo
 developar - evoluigi
@@ -1288,7 +1292,8 @@ emotion - emocio
 employar - okupigi
 enigma - enigmo
 enorm - enorma
-enoyar (se) - enu/igi /-i/
+enoyar - enuigi
+enoyar se - enui
 ente - estaĵo, estulo
 entender - akordiĝi
 enunciar - elparoli
@@ -1475,7 +1480,9 @@ folli - fola
 fonder - fandi
 fonte - fonto
 for - for
-for/ar,-ator,-e - bor/i,ilo,truo
+forar - bori
+forator - borilo
+fore - truo
 foren - fremda, fremdlanda
 forest - arbaro, forsto
 forjar - forĝi
@@ -1718,7 +1725,8 @@ idé - ideo
 identic - identa
 idioma - idiomo
 idol - idolo
-il, ili - li, ili
+il - li
+ili - ili
 iluminar - ilumini
 image - bildo
 imaginar - imagi
@@ -1751,7 +1759,7 @@ includer - inkludi
 incontrar - renkonti
 incre - inko
 incude - inkudo
-index - indekso, /mat./ indico
+index - indekso, (mat.) indico
 indicar - indiki
 indigen - indiĝena
 indigene - indiĝeno
@@ -2176,7 +2184,7 @@ mimar - mimi
 mine - mino
 minte - minto
 minu - malpli
-minusc-ul - minusklo
+minuscul - minusklo
 miracul - miraklo
 miraculosi - mirakla
 misere - mizero
@@ -2480,7 +2488,8 @@ paddle - pagajlo
 paddlar - pagajli
 padelle - pato, muldilo
 pagano - pagano
-págin/e,-ar - paĝ/o, paĝonumeri
+págine - paĝ/o
+páginar - paĝonumeri
 país,-age - kamparo, pejzaĝo
 pal - fosto
 palace - palaco
@@ -2608,7 +2617,8 @@ perdrice - perdriko
 peregrino - pilgrimanto
 peregrinar - pilgrimi
 peregrinage - pilgrimo
-perfect,-ionar - perfekt/a, pli-igi
+perfect - perfekta
+perfectionar - pliperfektigi
 perfid - perfida
 perforar - perfori
 perir - perei
@@ -2684,14 +2694,16 @@ planca - planko
 plante - planto
 plantar - planti
 plastre - plastro
-plat,-ó - plat/a, alt-aĵo
+plat - plata
+plató - altplataĵo
 platil - telero
 plazza - placo; loko
 plazzar - placo; loki
 plecter - plekti
 plen - plena
 plenar - plenigi
-plend/ir,-e - plend/i
+plendir - plendi
+plende - plendo
 ples - bonvolu
 pleser - plaĉi
 plesura - plezuro
@@ -2841,7 +2853,9 @@ profete - profeto
 profetisar - profeti
 profite - profito
 profitar - profiti
-profund,-ar - profund/a, pli-igi
+profund - profunda
+aprofundar - pliprofundigi
+inprofundar - pliprofundigi
 progresse - progreso
 progresser - progresi
 progressiv - progresa
@@ -3104,7 +3118,8 @@ reparar - riperi
 repartir - apartigi
 repaste - manĝtempo
 repenter - penti
-repet/ir-ition - ripet/i,-o
+repetir - ripeti
+repetition - ripeto
 reposar - ripozi
 repose - ripozo
 representar - reprezenti
@@ -3242,8 +3257,8 @@ rutine - rutino
 sabre - sabro
 sac - sako
 sacri - sakrala
-sacrificar - ofer-i
-sacrificie - ofer-(aĵ)o
+sacrificar - oferi
+sacrificie - ofer(aĵ)o
 sacrilegie - sakrilegio
 sagaci - sagaca
 sagi - saĝa
@@ -3312,7 +3327,7 @@ sceptre - sceptro
 scientie - scienco
 scientic - scienca
 scientist - scienculo
-scintille - fajrero, /el./ parko
+scintille - fajrero, (el.) sparko
 sclave - sklavo
 scluse - akvobaraĵo, flu-baro
 scola - lernejo
@@ -3986,7 +4001,8 @@ trunc - trunko
 trute - truto
 tsar - caro
 tsaressa - carino
-tu, tui - ci, cia
+tu - ci
+tui - cia
 tube - tubo
 túbere - túbero
 tubércul - tuberkulo
@@ -4257,7 +4273,8 @@ vultur - vulturo
 watt - vato, vatto
 west - okcidento
 whisky - viskio
-wist/-lude/ - vistludo
+wist - vistludo
+wist-lude - vistludo
 X-radies - x-radioj,iks-radioj
 xenolexico - fremdvortaro
 xilofon - ksilofono
