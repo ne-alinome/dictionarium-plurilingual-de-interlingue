@@ -1776,8 +1776,10 @@ infante - infano
 infecter - infekti
 inferiori - neplenvalora
 inferne - infero
-inflamm/ar,-ette - (ek)bruligi; alumeto
-infl/ar,-ation - plenblovi; inflacio
+inflamm/ar - (ek)bruligi
+inflammette - alumeto
+inflar - plenblovi
+inflation - inflacio
 influer - influi
 influent - influa
 influentie - influo
@@ -2035,7 +2037,8 @@ luxu - lukso
 luxuosi - luksa
 ma - sed
 macerar - maceri
-mach/ar,-uore - maĉi, makzelo
+machar - maĉi
+machuore - makzelo
 machine - maŝino
 macul - makulo
 macular - makuli
@@ -2427,9 +2430,10 @@ ofense - ofendo
 oferta - oferto
 ofertar - oferti
 oficero - oficiro
-ofici/e,-ario - ofic(ej)o,-isto
+oficie - ofic(ej)o
+oficiario - oficisto
 oficina - metiejo
-old - olda=maljun/a
+old - olda, maljuna
 oldesse - oldeco
 oleo - oleo
 olear - olei
@@ -2448,7 +2452,8 @@ opinion - opinio
 oponer - oponi
 oportun - oportuna
 oposition - opozicio
-opress/er,-ion - subprem(ad)i,-o
+opresser - subprem(ad)i
+opression - subprem(ad)o
 optim - plej bona
 opulent - riĉa
 opulentie - riĉeco
@@ -2488,7 +2493,7 @@ paddle - pagajlo
 paddlar - pagajli
 padelle - pato, muldilo
 pagano - pagano
-págine - paĝ/o
+págine - paĝo
 páginar - paĝonumeri
 país,-age - kamparo, pejzaĝo
 pal - fosto
@@ -2885,7 +2890,8 @@ provar - provi
 prova - provo
 provenir - deveni, origini
 proverbie - proverbo
-proxim - proksim/a,-e
+proxim - proksima
+proximmen - proksime
 provider - provizi
 provision - provizo
 prud - pruda
@@ -3296,7 +3302,8 @@ sant - sankta
 santificar - sankti
 sapate - ŝuo
 sapatero - ŝuisto
-sap/er,-orosi - gust/i, bongusta
+saper - gusti
+saporosi - bongusta
 sapon - sapo
 saponar - sapumi
 sappe - sapeo
