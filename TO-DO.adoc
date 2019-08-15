@@ -11,6 +11,11 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908141707
+// Last modified 201908151936
 
 
+== Esperanto
+
+- Fix "implorar - (al)voki, peti pri helpo".
+- Fix "interrupter - inter(rupt)i".
+- Check "novitá - novaĵo", "raritá - raraĵo".

@@ -21,7 +21,8 @@ aboyar - boji
 abricot - abrikoto
 abrupt - abrupta
 abscess - absceso
-absent,-ie - forest/anta,-(ad)o
+absent - forestanta
+absentie - forest(ad)o
 absoluer - absolvi
 absolut - absoluta
 absorpt/er,-ion - absorb/i,-(ad)o
@@ -29,7 +30,8 @@ abstiner - abstini
 abstinentie - abstineco
 abstraer - abstrakti
 abstract - abstrakta
-absurd,-itá - absurd/a,-(ec)o
+absurd - absurda
+absurditá - absurd(ec)o
 abund/ar,-antie - abund/i,-(ec)o
 acacie - akacio
 acaparar - akapari
@@ -41,7 +43,8 @@ acceptar - akcepti
 acceptabil - akceptebla
 access - aliro
 accessibil - alirebla
-accessori,-e - akcesor/a,-aĵo
+accessori - akcesora
+accessorie - akcesoraĵo
 accider - okazi
 accidente - akcidento
 acerb - acerba
@@ -247,7 +250,8 @@ aquisiter - akiri
 arané - araneo
 arangear - aranĝi
 arbitr/o,-age - arbitr/anto,-acio
-arbitrari,-ie - arbitr/a,-(ec)o
+arbitrari - arbitra
+arbitrarie - arbitr(ec)o
 árbor - arbo
 arbuste - arbusto
 arc - arko
@@ -327,7 +331,8 @@ au! - aŭ!
 auction,-ar - aŭkci/o,-i
 audaci/e,-ar - aŭdac/o,-i
 aud/ir,-itor - aŭd/i,-anto
-augur,-ar - augur/isto,-ar
+augur - auguristo
+augurar - auguri
 aure - oro
 aurin - ora
 auripelle - orum(aĵ)o
@@ -374,7 +379,8 @@ balle - pilko
 balne - bano
 balnear - bani
 balustrade - balustrado
-banal,-itá - banal/a ,-(ec)o
+banal - banala
+banalitá - banal(ec)o
 banca - benko
 band - bendo
 band/ar,-age - bandaĝ/i,-o
@@ -571,7 +577,8 @@ cantar - kanti
 cantarell - kantarelo
 canzon - kanzono
 cap - kapo
-capabil,-itá - kapabl/a,-(ec)o
+capabil - kapabla
+capabilitá - kapabl(ec)o
 capacitá - kapacito
 capella - kapelo
 capistrap - jugo
@@ -743,7 +750,8 @@ clinc - klinko
 cliquettar - tintegi
 clob - klabo
 clocca=hora - horo
-cloche,-ar - sonor/ilo,-igi
+cloche - sonorilo
+clochear - sonorigi
 clove - najlo
 cluder - fermi
 cobold - koboldo
@@ -1183,7 +1191,8 @@ dur - malmola
 durar - daŭri
 e - kaj
 ear - iri
-ebrie,-tá - ebri/a,-(ec)o
+ebrie - ebria
+ebrietá - ebri(ec)o
 eclesie - eklezio
 eclesia - preĝejo
 eco,-ar - eĥ/o,-iĝi
@@ -1884,11 +1893,14 @@ limit/ar,-e - lim/igi,-o
 limpid - klara
 lin - lino
 linin - lina
-line/a,-ar ,-ale - lini/o ,-i,-ilo
+linea - linio
+linear - linii
+lineale - liniilo
 lingue - lingvo
 lingual - lingva
 linse - lenso
-liquid,-e - fluid/a,-aĵo
+liquid - fluida
+liquide - fluidaĵo
 liste - listo
 litt - malgranda
 liverar - liveri
@@ -1899,7 +1911,8 @@ loco - loko
 local - loka
 locar - loki
 logí,-ar - loĝ/ejo,-i
-long,-ore - long/a,-(ec)o
+long - longa
+longore - long(ec)o
 longitudine - longitudo
 lontan - malproksima
 lontanie - malproksimo
@@ -2018,7 +2031,8 @@ memorie - memoro
 memorabil - memorinda
 menacie - minaco
 menaciar - minaci
-menage,-ar - mastrum/aĵo,-i
+menage - mastrumaĵo
+menagear - mastrumi
 mendic/o,-ar - almoz/ulo,-i
 mensu - monato
 mensual - monata
@@ -2030,7 +2044,9 @@ mentir - mensogi
 mentie - mensogo
 menton - mentono
 mercate - merkato
-merc/e,-ar,-ero - komerc/aĵo,-i,-isto
+merce - komercaĵo
+mercar - komerci
+mercero - komercisto
 mercurdí - merkredo
 meriter - meriti
 meritosi - merita
@@ -2215,7 +2231,8 @@ not/e,-ar - not/o,-i .
 noticie - notico
 notion - nocio
 notori - fama
-nov,-ita - nov/a,-aĵo
+nov - nova
+novitá - novaĵo
 novembre - novembro
 nu - nu; nun
 nu...nu - jen...jen
@@ -2237,7 +2254,9 @@ o, o...o - aŭ, aŭ,..aŭ
 obedir - obei
 obedient - obeema
 obes/i.-itá - dik/a,-(ec)o
-object/e,-iv,-ive - objekt/o,-iva, -ivo
+objecte - objekto
+objectiv - objektiva
+objective - objektivo
 obje(c)ter - objeti
 obliger - obligacii
 obligation - obligacio
@@ -2432,7 +2451,9 @@ pelle - haŭto
 pelmel - pelmelo
 pelote - fadenbulo
 peloton - pelotono
-pen/a,-ar,-osi - pen/ado,-i,-ega
+pena - penado
+penar - peni
+penosi - penega
 pender - pendi
 pendul - pendolo
 penetrar - penetri
@@ -2441,13 +2462,16 @@ peniter - penti
 pensa - penso
 pensar - pensi
 Pentecost - Penteksto
-percent,-age - procent/o,-aĵo
+percent - procento
+percentage - procentaĵo
 percepter - percepti
 perception - percepto
 perde - perdo
 perdir - perdi
 perdrice - perdriko
-peregrin/o,-ar,-age - pilrim/anto,-i,-o
+peregrino - pilgrimanto
+peregrinar - pilgrimi
+peregrinage - pilgrimo
 perfect,-ionar - perfekt/a, pli-igi
 perfid - perfida
 perforar - perfori
@@ -2484,7 +2508,8 @@ pian(i) - mallaьte
 pic,-ar - pinto, piki
 picter - pentri
 pictor - pentristo
-pie,-tá - pi/a,-(ec)o
+pie - pia
+pietá - pi(ec)o
 piga - pigo
 pigri - pigra
 pilare - piliero
@@ -2533,7 +2558,8 @@ plicar - faldi
 plongear - plonĝi
 plor/ar ,-ada - plor/i,-o
 plu - pli
-plug,-ar - plug/ilo,-i
+plug - plugilo
+plugar - plugi
 pluche - pluŝo
 plum - plumo
 plumbe - plumbo
@@ -2780,13 +2806,15 @@ quiet - kvieta
 quin - kvin
 quincallia - merceraĵo
 quirlar - kirli
-quitt,-ar - kvit/a,-iĝi
+quitt - kvita
+quittar - kvitiĝi
 quo - kio
 quocunc - kio ajn
 quotidian - ĉiutaga
 rabie - rabio
 rabiosi - rabia
-rabot,-ar - rabot/ilo,-i
+rabot - rabotilo
+rabotar - raboti
 raconta - rakonto
 racontar - rakonti
 radica - radiko
@@ -2812,7 +2840,8 @@ raporte - raporto
 raportar - raporti
 rapter - forrabi
 raption - forrabo
-rar,-itá - rar/a,-aĵo
+rar - rara
+raritá - raraĵo
 rasar - razi
 rasuore - razilo
 rason - 1.motivo 2.racio
@@ -2890,7 +2919,8 @@ releter - rilati
 reletion - rilato
 relé - relajso
 religion - religio
-rem,-ar - rem/ilo,-i
+rem - remilo
+remar - remi
 remachar - remaĉi
 remaner - resti
 remarcar - rimarki
@@ -3348,7 +3378,8 @@ stil - stilo
 stimul - stimulo
 stimular - stimuli
 stípite - pedunklo
-stir,-ar - stir/ilo,-i
+stir - stirilo
+stirar - stiri
 stock - stoko
 stoff - ŝtofo
 stoic - stoika
@@ -3711,7 +3742,8 @@ tribuer - imposti
 tribular - turmenti
 tribunale - tribunalo
 tric - truko
-tricot,-age - trikot/o,-aĵo
+tricot - trikoto
+tricotage - trikotaĵo
 trifolie - trifolio
 trill - trilo
 trillar - trili
