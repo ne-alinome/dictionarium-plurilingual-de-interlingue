@@ -1948,7 +1948,8 @@ mamá - panjo
 mamm/e,-ifere - mam/o ,-besto
 manca - manko
 mancar - manki
-manch/e,-ette - maniko, manumo
+manche - maniko
+manchette - manumo
 mandar - mendi
 mandul - migdalo
 maner - resti
@@ -2419,8 +2420,9 @@ pech - peĉo
 péctin/e,-ar - komb/ilo,-i
 péctor - brusto
 pectoral - brusta
-pecunie=moné - mono
-ped/e,-ale - piedo, pedalo
+pecunie - mono
+pede - piedo
+pedale - pedalo
 pedicul - pediko
 pejor - pli malbona
 pelisse - pelto
@@ -3095,7 +3097,7 @@ scabelle - skabelo
 scabie - skabio
 scaf - ŝranko
 scafalde - skafaldo
-scale - l.skalo 2.stupetaro
+scale - l.skalo 2.ŝtupetaro
 scaliere - ŝtuparo
 scarabé - skarabo
 scarlat - skarlato
@@ -3108,7 +3110,8 @@ scientist - scienculo
 scintille - fajrero, /el./ parko
 sclave - sklavo
 scluse - akvobaraĵo, flu-baro
-scol/a,-e - lernejo, skolo
+scola - lernejo
+scole - skolo
 scope - celo
 scorbut - skorbuto
 scorie - skorio
