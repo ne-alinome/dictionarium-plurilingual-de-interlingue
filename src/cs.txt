@@ -5812,7 +5812,6 @@ industrie | průmysl
 inebriar | se opít se
 ínegal | nestejný, různý; -itá nestejnost, různost
 inept | nezpůsobilý; nejapný; -ie, -itá nejapnost
-inertie | moment setrvačnosti; -an okamžitý; přechodný, chvilkový
 inert | netečný, nečinný; setrvačný; -ie netečnost; setrv.
 ínexorabil | neúprosný
 ínexpectat | neočekávaný
@@ -5983,7 +5982,8 @@ inseniament | vyučování
 inseniar | vyučovat
 ínsensat | nesmyslný
 ínseparabil | ne(od)dělitelný, nerozlučný
-inserter | vložit, vsunout; ~ un anuncie in li jurnale inzerovat
+inserter | vložit, vsunout
+inserter un anuncie in li jurnale | inzerovat
 insertete | vložka
 insertion | vložení, vsunutí; inzerce
 insidiar | strojit úklady
@@ -5991,7 +5991,8 @@ insidie | úklad
 insidiosi | záludný, zákeřný
 insigne | odznak
 ínsignificant | bezvýzmaný; -ie bezvýznamnost
-insinuar | vnuknout; našept(áv)at; ~ se vlichotit se, vloudit se, vetřít se (do přízně koho)
+insinuar | vnuknout; našept(áv)at
+insinuar se | vlichotit se, vloudit se, vetřít se (do přízně koho)
 insinuation | našeptávání
 ínsipid | bez chuti, nijaký, nanicovatý; -itá nanicovatost
 insister | trvat na čem, naléhat nač
@@ -6033,7 +6034,8 @@ in | summa celkem, dohromady, úhrnem; krátce řečeno
 insurecter | vzbouřit se, povstat (proti komu)
 insurection | povstání, vzpoura
 insurgent | vzbouřený
-insurger | pobuřovat; vzbouřit; ~ se vzepřít se, postavit se (proti komu)
+insurger | pobuřovat; vzbouřit
+insurger se | vzepřít se, postavit se (proti komu)
 insurrecter | v. insurecter
 insurrection | v. insurection
 intact | nedotčený, neporušený
@@ -6204,7 +6206,8 @@ involute | závin, závitek kuch.; harengo-involute zavináč
 iode | jód chem.
 iodoform | jodoform
 ion | ion(t) chem; -isar ionizovat; -osfere ionosféra
-iota | měkké i, iota; ni un ~ ani ň = nic
+iota | měkké i, iota
+ni un iota | ani ň = nic
 iradiar | vyzařovat; sálat
 iradiation | vyzařování
 Irak | Irák; i-esi irácký; i-eso Iráčan
@@ -6230,7 +6233,8 @@ irritar | v. iritar
 irritation | v. iritation
 irrupter | v. irupter
 irruption | v. iruption
-irupter | vtrhnout; ~ se vloupat se
+irupter | vtrhnout
+irupter se | vloupat se
 iruption | vpád, vtrhnutí
 islamic | islámský
 islamisar | islamizovat
@@ -6259,7 +6263,8 @@ ja | již, už
 jalon | měřičská tyč; -ar vytyčovat; -ament vytyčení
 jalusie | žárlivost
 jalusi | žárlivý
-jamá | (ně)kdy (vůbec kdy); nequí ~ nikdo nikdy
+jamá | (ně)kdy (vůbec kdy)
+nequí jamá | nikdo nikdy
 jambon | šunka; uzená vepřová kýta
 januar | leden
 Japan | Japonsko; j-esi japonský; japonština; j-eso Japonec
@@ -6273,7 +6278,9 @@ Java | Jáva; j-neso Javánec; j-nesi javánský
 jazz | džez
 jersé | vlněná tkanina, žerzej
 jesuit | jezuita; -ic jezuitský; órden de jesuites j. řád
-Jesú | Ježíš; ~ Cristo Ježíš Kristus; infant ~ Ježíšek
+Jesú | Ježíš
+Jesú Cristo | Ježíš Kristus
+infant Jesú | Ježíšek
 jettallia | smetiště
 jettar | házet, metat, vrhat (i pohledy)
 jocar | žertovat, šprýmovat; -aci, -osi žertovný
@@ -6417,7 +6424,9 @@ laringe | *lary... hrtan
 laringite | zánět hrtanu
 larve | larva
 lasciv | necudný, nemravný; -itá necudnost; -on necuda
-lassar | nechat; ~ le tranquil n. in pace nechat ho na pokoji
+lassar | nechat
+lassar le tranquil | nechat ho na pokoji
+lassar le in pace | nechat ho na pokoji
 lass | (pomocné vybízecí sloveso): lass nos cantar! zpívejme!
 láteral | postranní, boční
 látere | strana, bok
@@ -6487,7 +6496,9 @@ lettiere | lehátkové nosítko hist.
 lettre | dopis
 lettrero | listonoš
 leutenante | poručík
-levar | zvedat; ~ se zvedat se; vycházet (slunce, měsíc): -antar (se) zvednout (se), vstát
+levar | zvedat
+levar se | zvedat se; vycházet (slunce, měsíc)
+levantar (se) | zvednout (se), vstát
 leven | droždí
 levere, | -ette páka: -uore zvedák; e-ar zvýšit, vyzdvihnout; pěstovat, vychovávat; sub-ar (se) (po)zdvihnout (se)
 levi | lehký
@@ -6527,8 +6538,10 @@ limallia | piliny (kovové)
 limar | pilovat
 lime | pilník
 limfa | *lympha (lymfa) míza, lymfa anat.; -tic mízní, lymfatický
-límitar | omezit; ~ con hraničit s; -ation omezení
-límitativ | omezující; de-ar ohraničit, vymezit
+limitar | omezit
+limitar con | hraničit s
+limitation | omezení
+limitativ | omezující; de-ar ohraničit, vymezit
 límite | mez, hranice
 limon | citrón
 limpid | čirý; -itá čirost
@@ -6617,7 +6630,8 @@ lucerne | vojtěška bot.
 lucer | svítit; -id jasný; -iditá jasnost, přehlednost; -idar osvětlit
 luce | světlo
 lucio | štika
-lu | (člen pro abstrakta): ~ bell to krásné = krásno
+lu | (člen pro abstrakta)
+lu bell | to krásné = krásno
 lucrar | získat, vydělat
 lucrativ | výnosný
 lucre | zisk, výdělek
@@ -6703,8 +6717,11 @@ magritá, | -ore hubenost
 mahagon | mahagon
 mahometan | mohamedánský
 máis | kukuřice
-majestá | veličenstvo (titul); su ~ jeho (její) veličenstvo; majestic, -osi vznešený, majestátní
-majestá | veličenstvo (titul); su ~ jeho (její) veličenstvo; majest/ie vznešenost, majestátnost
+majestá | veličenstvo (titul)
+su majestá | jeho (její) veličenstvo 
+majestic | vznešený, majestátní
+majestosi | vznešený, majestátní
+majestie | vznešenost, majestátnost
 majólica | majolika
 majori | plnoletý (= plen-etosi); větší; dur hud.
 majoritá | plnoletost; -ité většina; -atu majorát
@@ -6777,7 +6794,8 @@ manifestar | projevit, dát najevo; manifestovat, demonstrovat
 manifestation | projev(ování), manifestace, demonstrace
 mani | mnohý, leckterý; -cos leccos
 manipular | zacházet s čím, manipulovat
-manivelle | klika stroje; axe de ~ zalomený hřídel
+manivelle | klika stroje
+axe de manivelle | zalomený hřídel
 manjage | jídlo; -allia žrádlo hanl.; -atoria jídelna: -abil jedlý
 manjar | jíst
 manjuore | jesle, krmelec; koryto, žlab (ve chlévě)
@@ -6860,7 +6878,9 @@ masturbation | onanie
 matemátic | *math... matematický; -a matematika
 material | hmotný, materiální; -e materiál; -ist materialista: -isme materialismus; -isar materializovat
 materie | hmota, látka
-maternal | mateřský (péče); z matčiny strany (příbuzný): -itá mateřství; congedie de ~ mateřská dovolená
+maternal | mateřský (péče); z matčiny strany (příbuzný)
+maternitá | mateřství
+congedie de maternal | mateřská dovolená
 matinal | ranní, jitřní
 matinear | rozednívat se
 matine | ráno, jitro
@@ -6881,7 +6901,8 @@ matur | dospělý, zralý; -itá dospělost, zralost
 matutines | ranní mše círk.
 maximal | největší, nejvyšší, krajní
 máxime | životní zásada, pravidlo
-max(im) | nej-; ~ bon (= bonissim) nejlepší
+max(im) | nej-
+max(im) bon | (= bonissim) nejlepší
 máximum | nejvyšší míra n. množství
 may | květen
 meandre | zákrut (řeky)
@@ -6922,7 +6943,8 @@ membre | člen; úd
 membritá | členství
 membrité | členstvo; dis-ar rozčlánkovat, rozčlenit
 mem | i, ba i, dokonce i
-me | mne, mě, mi; yo lava ~ myji se
+me | mne, mě, mi
+yo lava me | myji se
 memorabil | památný, pamětihodný: -antie vzpomínka; -ativ památný; -ation pamatování: -isar učit se zpaměti
 memorar | pamatovat (si)
 memorie | paměť; památka; vzpomínka: -iale památník; a-ar připomenout (komu co); re-ar vzpomínat; co-ar vzpomenout (výročí), připomínat si
@@ -6970,11 +6992,15 @@ merser | nořit, máčet; e-er vynořit se, vyčnívat (z vody); in-er vnořit, 
 mersí | dík; -ar (po)děkovat; -osi vděčný; -ositá vděk
 méspil | mišpule
 mesquin | nuzný, skromný
-messe | mše; dir n. celebrar li ~ sloužit mši
+messe | mše
+dir li messe | sloužit mši
+celebrar li messe | sloužit mši
 mestieral | řemeslný
 mestiere | řemeslo
 mestisse | míšenec, mestic
-mesura | měření, míra; opatření; takt hud.; batter li ~ udávat takt; prender li -as učinit opatření
+mesura | měření, míra; opatření; takt hud.
+batter li mesura | udávat takt
+prender li mesuras | učinit opatření
 mesurar | měřit
 metáfor | *...phor metafora; -ic metaforický
 metalle | kov
@@ -7006,7 +7032,8 @@ microbio | mikrob; -logo mokrobiolog; -logie mikrobiologie
 microcosmo | mikrokosmos
 microfilm | mikrofilm; -fon *-phon mikrofon; -metre mikrometr; -organisme mikroorganismus; -scop mikroskop
 microscópic | mokroskopický
-midí | poledne; in plen ~ v pravé poledne
+midí | poledne
+in plen midí | v pravé poledne
 miel | med; -at medový (s medem); -osi medový (i hlas)
 migrar | putovat, stěhovat se
 migration | stěhování (obyvatelstva); pravidelné stěhování ptáků aj. živočichů zool.
@@ -7014,7 +7041,8 @@ migren | migréna
 mild | jemný; mírný
 milician | milicionářský
 miliciano | milicionář
-milicie | milice; ~ territorial domobrana
+milicie | milice
+milicie territorial | domobrana
 milie | míle; petre mi(l)liari milník (i přen.)
 militant | bojov(n)ý, bojující; válečný
 militante | bojovnk polit.: -are vojsko; -ari vojenský (soud); válečný (soud, umění): -arisation militarizace; -arisme militarismus
@@ -7033,12 +7061,15 @@ mimo | mim
 mimose | mimóza bot.
 mi | můj, moje
 mine | důl; mina
-mineral | minerální; aqua ~ minerálka; -e minerál, nerost
+mineral | minerální
+aqua mineral | minerálka
+minerale | minerál, nerost
 minero | havíř, horník
 minibus | mikrobus
 miniera | důl
 minimal | nejmenší, nejnižší, krajně malý, minimální
-mínim | nejméně; ~ bon nejhorší
+minim | nejméně
+minim bon | nejhorší
 mínimum | nejmeněí míra n. množství, minimum
 minion | oblíbenec, miláček; -a oblíbenkyně
 ministerial | ministerský
@@ -7054,7 +7085,10 @@ minte | máta peprná bot.
 minthe | v. minte
 minucie | maličkost; drobnůstka
 minuciosi | velmi podrobný, zevrubný; puntičkářsky přesný
-minu | méně; ~ bon horší; -er (u)menšit; -ende menšenec
+minu | méně;
+minu bon | horší
+minuer | (u)menšit
+minuende | menšenec
 minúscul | malé písmeno
 mínus | méně, bez, minus mat.
 minute | minuta
@@ -7069,7 +7103,8 @@ mire | muška (u pušky)
 miriade | *my... myriáda
 mirra | *myrrha myrha bot.
 mirte | *my... myrta bot.
-mirtille | *my... borůvka; ~ rubi brusinka
+mirtille | *my... borůvka
+mirtille rubi | brusinka
 misanthrop | v. misantrop
 misantrop | škarohlíd, misantrop; -ie misantropie
 miserabil, | -i bídný, nuzný
@@ -7136,7 +7171,10 @@ moline | mlýn
 moll | měkký; -itá, -esse měkkost; -ar měkčit
 molo | molo, přístavní hráz
 mol | žernov, mlýnský kámen; -ar semlít, rozemlít; rozmělnit (zuby); -ari třenový; -are stolička (zub)
-moment | okamžik, chvilka, moment; -e moment fyz.: ~ de
+moment | okamžik, chvilka, moment
+momente | moment fyz.
+moment de inertie | moment setrvačnosti
+momentan okamžitý; přechodný, chvilkový
 mónaca | jeptiška; -al mnišský; -atu mnišství (situace); -isme mnišství (systém)
 mónacha | v. mónaca
 mónachiera | v. mónaciera
@@ -7168,7 +7206,9 @@ monte | hora, kopec
 monter | montovat, sestavit (přístroj)
 montero | montér
 montette | pahorek
-monument | památka (historická, umělecká), památník; pomník; ~ sepultori náhrobek; -al velkolepý
+monument | památka (historická, umělecká), památník; pomník
+monument sepultori | náhrobek
+monumental | velkolepý
 moppar | utírat mopem
 moppe | mop (utěrka na holi)
 mops | mopslík
@@ -7232,7 +7272,8 @@ mundal | světový; -an světský
 mundano | světák
 munde | svět
 municipalité | městská vrchnost
-municipal | městský, obecní; dom ~ radnice
+municipal | městský, obecní
+dom monumental | radnice
 municipie | obec (městská)
 munificent | šlechetný, velkodušný; štědrý
 munir | vybavit, zásobit (čím)
@@ -7290,7 +7331,8 @@ narrarator | vyprávěč
 narrar | vyprávět
 narration | vyprávění
 nasal | nosní; nosový gram.; nasecorn nosorožec
-nascentie | narození, vznik, zrod; dar ~ a zplodit
+nascentie | narození, vznik, zrod
+dar nascentie a | zplodit
 nascent | rodící se
 nascer | (na-, z)rodit se, povstat; vzniknout
 nase | nos
@@ -7338,7 +7380,8 @@ negocie | obchod; záležitost
 negrello | černoušek
 negressa | černoška
 negro | černoch
-ne | ne (zápor před slovesem): ~ parlante pri nemluvě o
+ne | ne (zápor před slovesem)
+ne parlante pri | nemluvě o
 nenufare | *nenuphare leknín
 neologisme | neologismus, jazykový novotvar
 neo- | (= nov-) (ve složeninách značí novo-)
@@ -7391,7 +7434,8 @@ nociv | škodlivý
 noctal | noční
 nocte | noc
 nodar | zauzlit
-node | uzel; ligni ~ suk
+node | uzel
+ligni node | suk
 noi | my
 nomade | kočovník, nomád
 nomadic | kočovný
@@ -7457,7 +7501,9 @@ numeró | číslo; -tar (o)číslovat
 númerosi | četný, hojný
 nuncio | nuncius (papežský)
 nu | ... nu hned ... hned
-nu | nyní, teď; nuž(e); desde ~ od nynějška; ~ bon! nuž(e) dobrá!
+nu | nyní, teď; nuž(e)
+desde nu | od nynějška
+nu bon! | nuž(e) dobrá!
 nuptial | svatební
 nuptie | svatba
 nutrir | (u)živit, krmit
@@ -7508,7 +7554,10 @@ obturation | ucpání
 obturator | uzávěr (na pušce i fot.)
 obtusitá | tupost (i přen.)
 obtusi | tupý (úhel i přen.)
-ocasion | příležitost; per ~ příležitostně; -al příležitostný, nahodilý; -ar způsobit
+ocasion | příležitost
+per ocasion | příležitostně
+ocasional | příležitostný, nahodilý
+ocasionar | způsobit
 occasion | v. ocasion
 Occidente | Západ; o-al západní; o-alist okcidentalista
 occult | v. ocult
@@ -7526,7 +7575,8 @@ octobre | říjen
 octroyar | propůjčit, udělit
 ócul | oko; -ari oční; očitý (svědek); -are okulár; -ares brýle; -ar zběžně pohlédnout (na); zběžně projít (co): -ettar pokukovat; -ist oční lékař; -ístic oční (lékařství)
 ocult | skrytý, tajný, okultní; -ar skrývat, tajit; -ation utajení, utajování; -isme okultismus
-ocupar | zaměstnat; obsadit (místo); zastávat (úřad); ~ se (pri) zabývat se (kým, čím)
+ocupar | zaměstnat; obsadit (místo); zastávat (úřad)
+ocuparse se (pri) | zabývat se (kým, čím)
 ocupation | zaměstnání; obsazení, okupace
 ocurrer | stá(va)t se, přihodit se, udát se, vyskytnout se: -entie výskyt; událost
 odiar | nenávidět
@@ -7545,12 +7595,10 @@ offensive | v. ofensive
 offertar | v. ofertar
 offerta | v. oferta
 officero | v. oficero
-officero | v. oficero
 officiario | v. oficiario
 officia | v. oficia
 officie | v. oficie
 officina | v. oficina
-oficero | de ~ pobočník (dříve důstojnický sluha)
 oficero | důstojník
 oficia | kancelář; -al úřední, oficiální; -osi poloúřední
 oficiario | úředník
@@ -7637,7 +7685,9 @@ ordinal | řadový (číslovka)
 ordinari | řádný; obyčejný
 órdinar | uspořádat
 órdine | řád; pořádek; uspořádání
-ordon | nařízení, rozkaz; -ar nařídit, rozkázat; -antie:
+ordon | nařízení, rozkaz
+ordonar | nařídit, rozkázat
+oficero de ordonantie | pobočník (dříve důstojnický sluha)
 orelion | (= parotite) zánět příušnic med.
 orel | ucho anat.; -ari ušní; -ist ušní lékař
 órfan | *orph... sirotek; -age siroba, osiřelost; -i osiřelý
@@ -7649,7 +7699,10 @@ organisme | organismus
 órganist | varhaník
 orgollie | pýcha, nadutost
 orgolliosi | pyšný, nadutý
-oriente | východ (území); O- Orient (země na východě); Extrem ~ Dálný Východ; o-al východní, orientální
+oriente | východ (území)
+Oriente | Orient (země na východě)
+Extrem Oriente | Dálný Východ
+oriental | východní, orientální
 oríginal | originální, původní: -ale originál; -alitá originalita
 oríginar | pocházet; vznikat: -ari pocházející z, původem z; původní (vlast)
 orígine | původ, počátek, vznik
@@ -7680,7 +7733,8 @@ ošetřování | nemocných; -ar (pri) pečovat, starat se (o koho, oč); -osi p
 osse | kost
 ossificar | zkostnatět
 ossin | kostěný; -osi kostnatý; -age kosti; -ament, -atura kostra; -ette kůstka
-ostage | rukojmí; tener in ~ držet jako rukojmí
+ostage | rukojmí
+tener in ostage | držet jako rukojmí
 ostentar | stavět na odiv
 ostentation | okázalost, vyzývavost: -ativ okázalý, vyzývavý
 ostre | ústřice
@@ -7697,7 +7751,8 @@ ovrache | zpackanina
 ovre | dílo
 ovrero | dělník; -erité dělnictvo; -ar pracovat: -age dílo (výtvor); -achar zpackat
 oxale | šťovík bot.
-oxidar | okysličovat; ~ se rezavět
+oxidar | okysličovat
+oxidar se | rezavět
 oxidation | okysličování, oxidace
 oxide | kysličník
 oxigen | *oxygen kyslík
