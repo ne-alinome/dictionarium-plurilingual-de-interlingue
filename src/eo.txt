@@ -617,7 +617,8 @@ capacitá | kapacito
 capella | kapelo
 capistrap | jugo
 capille | haro
-capital;-e | ĉefa; kapitalo
+capital | ĉefa
+capitale | kapitalo
 capitele | kapitelo
 capitul | ĉapitro
 caporale | kaporalo
@@ -1672,7 +1673,8 @@ habitu | kutimo
 hacca | hakfosilo
 hache | hakilo
 hag | barilo, ĉirkaŭbarilo
-hala; inhalar | spiro; inhali
+hala | spiro
+inhalar | inhali
 halde | amaso
 hall | halo
 halt! | haltu!
@@ -2751,7 +2753,9 @@ plumbin | plumba
 pluri | pluraj
 pluvie | pluvo
 pluviar | pluvi
-poc; un poc | malmulte; iom
+poc | malmulta
+poc | malmulte
+un poc | iom
 poc a poc | iom post iom
 poema | poemo
 poete | poeto
@@ -3428,7 +3432,7 @@ semblantie | ŝajno
 seme | semo
 semar | semi
 semi | duon
-demí | duon
+demí- | duon
 sempre | ĉiam
 senior | sinjoro
 seniora | sinjorino
@@ -3945,7 +3949,8 @@ tortug | testudo
 tortura | torturo
 torturar | torturi
 tost | frua
-tot; totala | tuta; totala
+tot | tuta
+totala | totala
 toxic | toksa
 tra | tra
 traché | traĥeo
@@ -4067,7 +4072,9 @@ tussar | tusi
 tussilago | tusilago
 tutear | ci-diri
 tutor | kuratoro, protektoro
-ú; ad ú; de ú | kie; kien; de kie
+u | kie
+ad u | kien
+de u | de kie
 ubiqui | ĉie(est)a
 ucunc | kieajn
 ul | strigo
