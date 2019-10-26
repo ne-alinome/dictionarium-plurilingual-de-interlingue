@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201908141707
+# Last modified 201910261156
 # See change log at the end of the file
 
 # ==============================================================
@@ -14,6 +14,7 @@
 # - dbtoepub
 # - dictfmt
 # - pandoc
+# - vim
 # - xsltproc
 
 # ==============================================================
@@ -64,9 +65,37 @@ $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 .PHONY: dict
 dict: target/$(dict_basename).dict.dz
 
+.PHONY: mdf
+mdf: tmp/interlingue.txt
+
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
+
+# ==============================================================
+# Create the Interlingue MDF data file
+
+# The MDF format is used by several dictionary programs created by SIL
+# (http://sil.org), e.g. Lexique Pro and Toolbox.
+
+tmp/interlingue.txt: tmp/de.txt tmp/eo.txt
+	cat $^ | \
+	sort | \
+	vim \
+		- \
+		-e \
+		-c '%substitute@\(\\lx .\{-} \+\\g\)\(...\+\)\n\1@\1\2 \\g@e' \
+		-c '%substitute@\\lx@\r&@e' \
+		-c '%substitute@\s\(\\g\a\a\)@\r\1@ge' \
+		-c "wq! $@"
+
+# ==============================================================
+# Convert text data files to pre-MDF files
+# (MDF markups, but still one line per record)
+
+tmp/%.txt: src/%.txt
+	sed "s@^@\\\\lx @" $< | \
+	sed "s@ | @ \\\\g$(basename $(notdir $<)) @" > $@
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -206,3 +235,7 @@ uninstall:
 # Change log
 
 # 2019-08-14: Start.
+#
+# 2019-08-16: Create draft rules for creating the MDF file from the sources.
+#
+# 2019-10-26: Add note about the MDF format.
