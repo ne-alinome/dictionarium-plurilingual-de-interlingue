@@ -1,5 +1,5 @@
 a | k, ke, ku (předl. 3. pádu)
-ad | v. a
+ad | v. a; ad u kam XXX FIXME --
 abandonament | opuštění
 abandonar | opustit
 abassament | snížení, (s)klopení; ponížení; a bass dolů
@@ -35,7 +35,7 @@ abnegation | zřekmutí se, odmítnutí, odříkání
 aboccar | zakousnout se, zabrat, brát (o rybě)
 abolir | zrušit, odstranit
 abolition | zrušení, odstranění
-abominábil | odporný, hnusný, ohavný
+abominabil | odporný, hnusný, ohavný
 abomination | odpor, hnus
 abominar | ošklivit si
 abonar | vylepšit
@@ -63,9 +63,12 @@ abrogation | odstranění, zrušení
 abrupt | strmý, srázný, příkrý; strohý, úsečný (řeč)
 abscess(e) | hlíza, vřed, absces med.
 abscissa | úsečka geom.
-absent | nepřítomný; -ar se vzdálit se; -ie nepřítomnost, absence
+absent | nepřítomný
+absenter se | vzdálit se
+absentie | nepřítomnost, absence
 absinte | *absinthe pelyněk; absint (kořalka)
-absoluer | zprostit (viny, závazku); dát rozhřešení círk: -t absolutní, naprostý
+absoluer | zprostit (viny, závazku); dát rozhřešení círk
+absoluet | absolutní, naprostý
 absolution | zproštění (viny, závazku); rozhřešení círk.
 absolutisme | absolutismus
 absorpter | pohltit, vstřebat, nasát, absorbovat
@@ -109,16 +112,18 @@ accentu | přízvuk, důraz
 accentuar | klást přízvuk, zdůraznit
 acceptabilitá | přijatelnost
 acceptation | přijetí, akceptace (směnky)
-acceptábil | přijatelný
+acceptabil | přijatelný
 acceptar | přijmout
-accessíbil | přístupný, dosažitelný, dostupný
+accessibil | přístupný, dosažitelný, dostupný
 accessori | vedlejší, přídavný
 accessories | příslušenství
 accessories de moda | módní doplňky
 accessories de inseniament | učební pomůcky
-access | přístup; příval (citu); záchvat med.; -ssion přistoupení (k) práv.
-access | v. acceder
-accidente | příhoda, nehoda: -ental náhodný, nahodilý
+access | přístup; příval (citu); záchvat med. XXX FIXME --
+accession | přistoupení (k) práv.
+access | v. acceder XXX FIXME --
+accidente | příhoda, nehoda
+accidental | náhodný, nahodilý
 accidentie | nahodilost
 accider | přihodit se, udát se
 acclamar | v. aclamar
@@ -157,7 +162,9 @@ acerb | trpký, hořký (též přen.), zatrpklý
 acetate | octan
 acete | ocet
 acetosi | octový, kyselý, zkysaný
-acid | kyselý; -e kyselina; -itá kyselost
+acid | kyselý
+acide | kyselina
+aciditá | kyselost
 aclamar | nadšeně souhlasit, hlasitě pozdravovat
 aclamation | veřejný projev souhlasu; veřejné hlasování, aklamace
 aclarar | (= clarificar) objasnit, vyjasnit
@@ -174,16 +181,21 @@ aconnosser | v. aconosser
 aconossement | uznání
 aconosser | uznat
 acordar | shodovat se, souhlasit; ladit
-acordeon | harmonika (chromatická); -ist harmonikář
+acordeon | harmonika (chromatická)
+acordeonist | harmonikář
 acorde | shoda, souhlas, soulad; akord hud.
 acre | akr
 acreditar | pověřovat (vyslance)
 acri | ostrý, sžíravý, palčivý
 acrocar | zavěsit (na hák), zaháknout
 acte | čin, skutek, akt; jednání (hry)
-acter | jednat, pracovat (jako), působit; -ion činnost, jednání, postup, akce; akcie; -ionario akcionář; -iv činný, aktivní
+acter | jednat, pracovat (jako), působit
+action | činnost, jednání, postup, akce; akcie
+actionario | akcionář
+activ | činný, aktivní
 actor | herec; aktér, aktivní účastník (události apod.)
-actual | skutečný, současný, aktuální; -itá aktualita
+actual | skutečný, současný, aktuální
+actualitá | aktualita
 acuchar | slehnout
 acuchatoria | porodnice
 acuchera | porod. bába
@@ -193,28 +205,36 @@ acumulator | akumulátor, baterie el.
 acuplament | spojení, spojka tech.
 acuplar | spojit, spřáhnou; zapojit
 acuplator | spojka (motoru)
-acurat | přesný, dochvilný; -esse přesnost, dochvilnost
+acurat | přesný, dochvilný
+acuratesse | přesnost, dochvilnost
 acurtar | zkrátit
 acurtation | zkrácení, zkratka (cesty)
 acusar | obvinit, obžalovat
-acusation | obvinění, obžaloba: -ative akuzativ gram.
+acusation | obvinění, obžaloba
+acusative | akuzativ gram.
 acusator | žalobce
-acústic | akustický; -a akustika
+acustic | akustický
+acústica | akustika
 acustomar | se (a) zvykat si (na)
-acut | ostrý, špičatý; prudký, akutní; -ar ostřit
+acut | ostrý, špičatý; prudký, akutní
+acutar | ostřit
 ad | (= a): admáxim nanejvýše; admínim nejméně, alespoň; ad u kam
 adaptabilitá | přizpůsobivost
 adaptar | upravit, přizpůsobit
-adaptation | přizpůsobení; úprava; -ábil přizpůsobivý
-adavan | dopředu; ~! vpřed!
+adaptation | přizpůsobení; úprava
+adaptatabil | přizpůsobivý
+adavan | dopředu
+adavan! | vpřed!
 adcurrer | přiběhnout
 addir | dodat, přidat; sečíst
-addition | dodatek; sčítání: -itional dodatečný, další, navíc
+addition | dodatek; sčítání
+additional | dodatečný, další, navíc
 additiv | přídavný
 adducter | přivést
 adepte | přívrženec, stoupenec
 adequat | přiměřený, odpovídající, vhodný
-adherentie | oddanost, náklonnost; -sion přilnavost
+adherentie | oddanost, náklonnost
+adhesion | přilnavost
 adherer | připojit se, přilnout, být stoupencem
 adhesiv | přilnavý
 adío! | sbohem!, má úcta!
@@ -234,26 +254,33 @@ adjuration | zaklínání se
 adjustament | nastavení, seřízení
 adjustar | nastavit, seřídit
 adjutante | pobočník
-admáxim | nanejvýš
+admáxim | nanejvýš(e)
 admínim | alespoň, nejméně, přinejmenším
 administrar | spravovat, vést, řídit (úřad, podnik)
-administration | administrace, vedení, řízení, správa; -ativ administrativní
+administration | administrace, vedení, řízení, správa
+administrativ | administrativní
 administrator | správce
 admirar | obdivovat
 admiration | obdiv
-admirator | obdivovatel: -ábil obdivuhodný
+admirator | obdivovatel
+admirabil obdivuhodný
 admisser | připustit, svolit
-admission | připuštění, svolení: -íbil přípustný
+admission | připuštění, svolení
+admisibil přípustný
 admonir | napomínat, upomínat
-admonition | napomenutí, upomínka; -itor napomínatel
-admonitiv, | -itori napomínací
-adolescent | dospívající, mladistvý; -ente jinoch, mládenec
+admonition | napomenutí, upomínka
+admonitor | napomínatel
+admonitiv | napomínací
+admonitiori napomínací
+adolescent | dospívající, mladistvý
+adolescente jinoch, mládenec
 adolescentie | dospívání, jinošství
 adolescer | dospívat
 adopter | adoptovat
 adoption | adopce
 adoptiv | adoptivní
-adorábil | zbožňováníhodný; -ation zbožňování
+adorabil | zbožňováníhodný
+adoration | zbožňování
 adorar | zbožňovat
 adorator | zbožňovatel
 adplu | k tomu, navíc
@@ -275,20 +302,24 @@ adversitá | protivenství
 advertiment | upozornění, zpráva, výstraha
 advertir | upozornit, zpravit, varovat
 advocar | (též: far venir) přivolat
-aerar | větrat; aer-pumpe vývěva
+aerar | větrat
+aer-pumpe | vývěva
 aere | vzduch
-afábil | laskavý, vlídný; -itá laskavost, vlídnost
+afabil | laskavý, vlídný
+afabilitá | laskavost, vlídnost
 afacilar | (= facilisar) usnadnit
 afamar | vyhladovět
 afectar | počínat si strojeně
 afectation | strojenost, přetvářka
 afecte | afekt, citové rozrušení
 afecter | postihnout, zachvátit
-afection | náklonnost; -ar mít zalíbení; -at láskyplný
+afection | náklonnost
+afectionar | mít zalíbení
+afectionat | láskyplný
 afeminar | zhýčkat, rozmazlit; zženštit
 afemination | zženštilost
 afere | aféra, věc, záležitost, obchod
-affábil | v. afábil
+affabil | v. afabil
 affamar | v. afamar
 affectar | v. afectar
 affectation | v. afectation
@@ -321,7 +352,8 @@ afiliation | přičlenění, přidružení
 afini | příbuzný
 afinitá | příbuznost, příbuzenství
 afirmar | přisvědčit, ujistit
-afirmation | přisvědčení, ujištění: -ativ kladný, potvrzující, souhlasný
+afirmation | přisvědčení, ujištění
+afirmativ | kladný, potvrzující, souhlasný
 áfise | *aph... mšice zool.
 afixe | afix gram. = předpona / přípona
 aflicter | zarmoutit
@@ -349,13 +381,15 @@ aggression | v. agression
 aggressor | v. agressor
 aggruppament | v. agruppament
 aggruppar | v. agruppar
-agil | čilý, hbitý, agilní; -itá čilost, hbitost, agilnost
+agil | čilý, hbitý, agilní
+agilitá | čilost, hbitost, agilnost
 agitar | mávat, třepat (čím)
 aglomerar | shlukovat, hromadit
 aglomeration | aglomerace
 aglutinar | stmelit, slepit
 aglutination | (s)tmelení, slepování
-agnello | jehně; -in ovčí
+agnello | jehně
+agnellin | ovčí
 agne | ovce
 agno | beran, skopec zool.
 agonic | agonický
@@ -365,13 +399,18 @@ agraffar | sepnout sponou
 agraffe | spon(k)a
 agrandar | zvětšit (rozměr)
 agrari | zemědělský
-agravar | zostřit (situaci, trest); ~ se přiostřit se (situace)
-agreábil | příjemný; -itá příjemnost, přívětivost
+agravar | zostřit (situaci, trest)
+agravar se | přiostřit se (situace)
+agreabil | příjemný
+agreabilitá | příjemnost, přívětivost
 agre | pole, role
 agresser | útočit, napadnout
-agression | útok, napadení, agrese; -iv útočný, agresivní
+agression | útok, napadení, agrese
+agressiv | útočný, agresivní
 agressor | útočník, agresor
-agronom | agronom; -ie agronomie; -ic agronomický
+agronom | agronom
+agronomie | agronomie
+agronomic | agronomický
 agruppament | seskupení
 agruppar | (se) seskupit (se)
 agullie | jehla
@@ -399,13 +438,18 @@ alcaloide | alkaloid
 alchimie | alchymie
 alchimist | alchymista
 alchimístic | alchymistický
-alcohol | alkohol; -ic alkoholický, lihový; -ico alkoholik: -isme alkoholismus
+alcohol | alkohol
+alcoholic | alkoholický, lihový
+alcoholico | alkoholik
+alcoholisme | alkoholismus
 alco | los zool.
 alcove | alkovna, přístěnek
 alcú | někde, kdesi
 alcun | nějaký, některý; někdo
-alegar | odvolávat se (nač); uvádět (za důvod), citovat: -ation uvádění, citování (z knih, zákonů ap.)
-alegresse, | -itá veselost, živost
+alegar | odvolávat se (nač); uvádět (za důvod), citovat
+alegation | uvádění, citování (z knih, zákonů ap.)
+alegresse | veselost, živost
+alegritá | veselost, živost
 alegri | čilý, živý, veselý
 ale | křídlo
 alen | šídlo (nástroj)
@@ -415,13 +459,23 @@ aleviar | (od-, u)lehčit, zmírnit
 alfabete | *alph... abeceda
 alfabetic | abecední (pořádek)
 alga | vodní řasa
-algebra | algebra; -ic algebraický
+algebra | algebra
+algebric | algebraický
 Alger | Alžír (město)
-Algeria | Alžírsko; a-an alžírský; a-ano Alřížan
+Algeria | Alžírsko
+algerian | alžírský
+algeriano | Alřížan
 alias | jinak zvaný, alias
 alie | česnek
-alien | cizí (patřící jinému); -ar zcizit; odcizit (koho komu): -ation zcizení; odcizení (vzájemné mezi přáteli); (pocit) odcizení, alienace; duševní porucha; -ábil zcizitelný: -ist psychiatr
-aliment | potrava; strava; -ar (se) živit (se); stravovat (se); -ation výživa; stravování; -ari potravinářský
+alien | cizí (patřící jinému)
+alienar | zcizit; odcizit (koho komu)
+alienation | zcizení; odcizení (vzájemné mezi přáteli); (pocit) odcizení, alienace; duševní porucha
+alienabil | zcizitelný
+alienist | psychiatr
+aliment | potrava; strava
+alimentar (se) | živit (se); stravovat (se)
+alimentation | výživa; stravování
+alimentari | potravinářský
 alinea | odstavec
 alinear | vyrovnat (řadu); ~ se seřadit se
 allactar | v. alactar
@@ -452,7 +506,8 @@ almanac | kalendář (s články), ročenka
 almen | alespoň
 almosne | almužna
 alne | olše
-along | podél; -ar prodloužit (šaty)
+along | podél
+alongar | prodloužit (šaty)
 alontanar | (se) vzdálit (se)
 alor | nuže, tedy, tudíž; tehdy
 Alpes | Alpy
@@ -466,12 +521,20 @@ alquicos | (= alquó) něco
 alquí | někdo
 alterar | (z)měnit (k horšímu)
 alteration | změna (k horšímu)
-alternant | střídavý (proud); -ation střídání; -ativ daný na výběr; střídavý: -ative dvojí možnost
+alternant | střídavý (proud)
+alternation | střídání
+alternativ | daný na výběr; střídavý
+alternatative | dvojí možnost
 alternar | střídat (se), nahradit, zaskočit (za)
 alternator | alternátor el.
 altparlator | reproduktor el.
-altri | jiný; -cos něco jiného; -men jinak
-alt | vysoký; A-esse Výsost (titul); -itá výše; -ore výška
+altri | jiný
+altricos | něco jiného
+altrimen | jinak
+alt | vysoký
+altesse | Výsost (titul)
+altitá | výše
+altore | výška
 aluder | dělat narážky
 aluente | přítok (řeky)
 aluentie | nával (práce)
@@ -490,19 +553,24 @@ amarrar | přivázat loď, připoutat balón
 amarre | kotevní lano
 amassar | nakupit, shromáždit
 amasse | kupa, hromada
-amator | milovník (čeho); amatér: -ore láska; -ábil roztomilý
+amator | milovník (čeho); amatér
+amatore | láska
+amabil | roztomilý
 ambassade | velvyslanectví
 ambassador | velvyslanec
 ambicie | ctižádost
 ambiciosi | ctižádostivý
 ambigui | dvojsmyslný, dvojznačný
 ambi | oba
-ambulant | pojízdný (knihovna); potulný (herec), podomní (obchodník); -ie sanitní vůz; ambulance, ošetřovna
+ambulant | pojízdný (knihovna); potulný (herec), podomní (obchodník)
+ambulantie | sanitní vůz; ambulance, ošetřovna
 ameliorar | zlepšit
 amelioration | zlepšení
 amemorar | připomínat (komu co)
 amen | amen
-América | Amerika; a-an americký; a-ano Američan
+America | Amerika
+american | americký
+americano | Američan
 ametiste | *amethy... (amety...) ametyst min.
 amfibic | obojživelný
 amfibie | *amph... obojživelník zool.
@@ -511,7 +579,8 @@ amfiteatre | *amphith... amfiteátr
 amícal | přátelský
 amícitá | přátelství
 amíco | přítel
-amidon | škrob; -ar škrobit
+amidon | škrob
+amidonar | škrobit
 amirale | admirál
 ammoniac | v. amoniac
 ammunir | v. amunir
@@ -521,7 +590,8 @@ amnestie | amnestie
 amok | amok
 amollar | (= mollificar) změkčit
 amoniac | amoniak chem.
-amorf | *amorph beztvárný, beztvarý; -ie beztvárnost
+amorf | *amorph beztvárný, beztvarý
+amorfie | beztvárnost
 ampere | ampér fyz.
 ampli | rozsáhlý, širý
 amplore | rozsáhlost, šíře
@@ -543,7 +613,8 @@ analfabetisme | negramotnost
 analisar | analyzovat
 analise | *analy... analýza
 analitic | analitický
-analog | obdobný, analogický; -ie analogie
+analog | obdobný, analogický
+analogie | analogie
 ananás | ananas
 anarchie | anarchie
 anarchist | anarchie
@@ -553,21 +624,27 @@ anatema | klatba círk.
 anatemisar | dát do klatby
 anathema | v. anatema
 anathemisar | v. anatemisar
-anatom | anatom; -ie anatomie; -ic anatomický
-ancian | starý, dřívější, bývalý, dávný; -itá stáří
+anatom | anatom
+anatomie | anatomie
+anatomic | anatomický
+ancian | starý, dřívější, bývalý, dávný
+ancianitá | stáří
 ancor | ještě
 ancrage | tech. kotvení
 ancrar | kotvit
 ancre | kotva
 anc | také, též, i
 Andes | Andy
-Andorra | Andora; a-an andorský; a-ano Andořan
+Andorra | Andora
+andoran | andorský
+andorano | Andořan
 anelle | kroužek, prsten
 anemic | chudokrevný
 anemie | chudokrevnost
 anemone | sasanka bot.
 anestesie | anestézie med.
-anestetic | anestetický: -tico anestetikum
+anestetic | anestetický
+anestetico | anestetikum
 anesthesie | v. anestesie
 anesthetic | v. anestetic
 anete | kopr
@@ -575,12 +652,15 @@ anethe | v. anete
 anexe | příloha
 anexer | připojit (území)
 anexion | připojení
-ángel | anděl; -ic andělský
+ángel | anděl
+angelic | andělský
 angina | angína
 anglesi | anglický; angličtina
-angleso | Angličan; A-ia Anglie
+angleso | Angličan
+Anglia | Anglie
 anguille | úhoř
-ángul | úhel, roh, kout; -ari rohový, úhlový
+angul | úhel, roh, kout
+angulari | rohový, úhlový
 angustie | úzkost, bázeň
 anhelar | supět, těžce oddychovat
 anhelation | supění
@@ -588,7 +668,9 @@ anihilar | zničit
 anihilation | zničení
 anihilativ | zničující
 ánima | duše v. ánim duše
-animal | zvířecí (tuk, svět), živočišný; -e zvíře, živočich: -esc zvířecí (pud)
+animal | zvířecí (tuk, svět), živočišný
+animale | zvíře, živočich
+animalesc | zvířecí (pud)
 animar | oživit, vzpružit
 animation | oživení
 ánim | duše
@@ -606,14 +688,17 @@ annotation | v. anotation
 annunciar | v. anunciar
 annuncie | v. anuncie
 annu | rok
-anónim | *...nym anonymní; -e anonym (i dopis): -itá anonymita, anonymnost
+anonim | *...nym anonymní
+anonime |anonym (i dopis)
+anonimitá | anonymita, anonymnost
 anorak | větrovka (bunda)
 anorectic | anorektický
 anorexie | anorexie med.
 anotar | opatřit poznámkami
 anotation | poznámka
 anse | držadlo, ucho (nádoby)
-antárctic | antarktický; A-a Antarktida, Antarktis
+antarctic | antarktický
+Antarctica | Antarktida, Antarktis
 antecedent | předchozí, předešlý
 anteceder | předcházet
 antecessor | předchůdce
@@ -621,9 +706,12 @@ antedatar | opatřit dřívějším datem
 antediluvian | předpotopní
 antemidí | dopoledne
 antenne | anténa; tykadlo
-ante | před (časově); -cedent předchozí; ~ que dříve než
+ante | před (časově)
+antecedent | předchozí
+ante que | dříve než
 anteriori | dřívější, předešlý
-antey | dříve, předtím; -an dřívější, předchozí
+antey | dříve, předtím
+anteyan | dřívější, předchozí
 anteyer | předevčírem
 anthracite | v. antracite
 anthropologie | v. antropologie
@@ -639,12 +727,16 @@ antipatic | protivný, nesympatický
 antipatie | nechuť, odpor
 antipode | protinožec
 anti- | proti-: antialcohólic protialkoholický
-antiquar | antikvovat; -itá starověk, dávnověk; antika; -ariatu antikvariát; -áric antikvární; -ario antikvář
+antiquar | antikvovat
+antiquitá | starověk, dávnověk; antika
+antiquariatu antikvariát
+antiquaric | antikvární
+antiquario | antikvář
 antiquat | zastaralý
 antiqui | starobylý, starověký, dávný, starožitný
 antisemite | antisemita
 antisemitic | antisemitický
-antisemitisme | a-ismus
+antisemitisme | antisemitismus
 antiséptic | antiseptický
 antracite | antracit (uhlí)
 antre | doupě
@@ -664,7 +756,8 @@ aparir | objevit se, vyjít
 aparition | objevení se, vyjití (knihy); zjev(ení), přízrak
 apartenentie | příslušnost
 apartener | patřit, náležet
-apart | zvláštní; -ament byt, apartmá
+apart | zvláštní
+apartament | byt, apartmá
 apathic | v. apatic
 apathie | v. apatie
 apatic | apatický
@@ -673,17 +766,21 @@ apellar | dovolávat se (čeho, koho); odvolávat se (ke komu, proti)
 apellation | odvolání práv.
 apell(e) | výzva
 apender | přivěsit, připojit
-apéndice | dodatek (díla); přívěsek slepého střeva med.: -ite zánět slepého střeva
+apendice | dodatek (díla); přívěsek slepého střeva med.
+apendicite | zánět slepého střeva
 apen | sotva, stěží
 apercepter | postřehnout, spatřit, zpozorovat
 aperception | postřeh
 aperitive | aperitiv
-apert | otevřený; -er otevřít; -ura otevření, otvor
+apert | otevřený
+aperter | otevřít
+apertura | otevření, otvor
 apetite | chuť (k jídlu)
 apetitisant | vzbuzující chuť
 apetitosi | chutný
 ape | včela
-apicultura | včelařství; -iera včelín
+apicultura | včelařství
+apiera | včelín
 apiere | úl
 aplanar | (u-, vy-, s)rovnat, (z)planýrovat (terén)
 aplastar | (roz)drtit; ~ per li pede rozdupat, rozšlapat
@@ -698,14 +795,18 @@ apoplexie | (= colpe de a.) mrtvice med.
 aportar | přinést
 aposir | přiložit
 aposition | přiložení; přístavek, apozice gram.
-apóstol | apoštol; -atu apoštolát; -ic apoštolský
-apostrof | *apostroph apostrof gram.; -ar apostrofovat
+apóstol | apoštol
+apostolatu | apoštolát
+apostolic | apoštolský
+apostrof | *apostroph apostrof gram.
+apostrofar | apostrofovat
 apoteca | lékárna
 apotecario | (též: farmacist) lékárník
 apothecario | v. apotecario
 apotheca | v. apoteca
 apovrir | ochudit, ožebračit
-apoy | opora, podpěra; -ar (se) opírat (se), podpírat
+apoy | opora, podpěra
+apoyar (se) | opírat (se), podpírat
 apparate | v. aparate
 apparentie | v. aparentie
 apparent | v. aparent
@@ -764,7 +865,8 @@ aprentisage | učební doba
 aprentiso | učedník, učeň
 apretar | upravit
 apretation | úprava
-april | duben; -ar (= april-dupar) vyvést aprílem
+april | duben
+aprilar | (= april-dupar) vyvést aprílem
 aprobar | schválit
 aprobation | schválení
 aprobativ | schvalovací
@@ -775,18 +877,27 @@ a | propó mimochodem, abych nezapomněl
 apropriar | (se) osvojit (si), přivlastnit (si)
 apropriation | osvojení, přivlastnění
 aproximar | (se) přiblížit (se)
-aproximativ | přibližný; -ation apt vhodný, způsobilý
+aproximativ | přibližný
+aproximation | apt vhodný, způsobilý
 aproximitá | vhodnost, způsobilost
 apuntar | mířit, cílit, zaostřit
 apu | vedle (čeho)
-aqua | voda; -relle akvarel; -rium akvárium; -tic vodní: -vite kořalka
+aqua | voda
+aquarelle | akvarel
+aquarium | akvárium
+aquatic | vodní
+aqua-vite | kořalka
 áquil | orel
 aquisiter | získat, nabýt
 aquisition | získání, nabytí
 aquisitor | nabyvatel
 árabe | Arab
-arabesc | arabeskový; -a arabeska
-Arabia | Arábie; arab, -ian, -ic arabský
+arabesc | arabeskový
+arabesca | arabeska
+Arabia | Arábie
+arab | arabský
+arabian | arabský
+arabic | arabský
 arané | pavouk
 arangeament | uspořádání
 arangear | pořádat, uspořádat
@@ -794,7 +905,9 @@ arar | orat
 ar | ar (plošná míra)
 aration | orba
 arbalest | kuše, samostříl
-arbitrar | rozsoudit; -age rozhodčí řízení, arbitráž; -ari libovolný, svévolný
+arbitrar | rozsoudit
+arbitrage | rozhodčí řízení, arbitráž
+arbitrari | libovolný, svévolný
 arbitre | rozhodčí
 arbitrie | libovůle, zvůle
 árbor | strom
@@ -812,47 +925,63 @@ architecte | architekt
 architectura | architektura
 archivario | archivář
 archive | archív
-arc | oblouk; luk; -ar klenout (do oblouku); -ade (obloukové) podloubí, arkáda; -ero lukostřelec; -ette smyčec
-árctic | arktický; Á-a Arktida, Arktis
+arc | oblouk; luk
+arcar | klenout (do oblouku)
+arcade | (obloukové) podloubí, arkáda
+arcero | lukostřelec
+arcette | smyčec
+arctic | arktický
+Arctica | Arktida, Arktis
 ardent | vroucí, vřelý, žhavý
 arder | žhnout, sálat
 ardese | břidlice
 ardore | žár, zápal, zanícení
-area | plocha; ~ habitábil obytná plocha
+area | plocha
+area habitabil | obytná plocha
 arena | aréna, zápasiště
 arenda | pronájem
 arendar | pronajmout
-arestar | zatknout (koho): -ation zatčení; uvěznění (vzetí do vazby)
+arestar | zatknout (koho)
+arestation | zatčení; uvěznění (vzetí do vazby)
 areste | zatčení; vazba (uvěznění) 
 argente | stříbro
-argentin | argentinský; A-a Argentina; a-o Argentinec
+argentin | argentinský
+Argentina | Argentina
+argentino | Argentinec
 argentin | stříbrný
-argil | hlína, jíl; -osi hlinitý, jílovitý
+argil | hlína, jíl
+argilosi | hlinitý, jílovitý
 argill | v. argil
 arguer | vyvozovat, dospět k závěru, uzavírat
 argumentar | argumentovat
 argument | důkaz, důvod
-arid | suchý, vyprahlý; -itá sucho, vyprahlost
+arid | suchý, vyprahlý
+ariditá | sucho, vyprahlost
 arie | árie hud.
 aristocrate | aristokrat
 aristocratic | aristokratický
 aristocratie | aristokracie
 arithmétic | v. aritmétic
-aritmétic | aritmetický; -a aritmetika
+aritmetic | aritmetický
+aritmetica | aritmetika
 aritmic | arytmický
 aritmie | *arrhyth... (aryt...) arytmie
 ariva | příchod, příjezd
 arivar | přij/et, -ít, dorazit (do)
-arlequin | harlekýn, šašek; -ade komedie, fraška
+arlequin | harlekýn, šašek
+arlequinade | komedie, fraška
 armament | zbrojení, výzbroj
 armar | ozbrojit
 armator | nám. rejdař, majitel lodi n. loděnic
 armé | armáda
-Armenia | Arménie; a-an arménský; a-ano Armén
+Armenia | Arménie
+armenian | arménský
+armeniano | Armén
 arme | zbraň
 armisticie | příměří
 armoracia | křen
-arogant | drze domýšlivý, arogantní: -antie drzá nadutost, domýšlivost, arogance
+arogant | drze domýšlivý, arogantní
+arogantie | drzá nadutost, domýšlivost, arogance
 arogar | se osobit si
 aroma | aróma
 aromátic | aromatický
@@ -871,14 +1000,17 @@ arrogar | v. arogar
 arrondar | v. arondar
 arrosear | v. arosear
 arsenale | arzenál, zbrojnice
-arsénic | arzén, arzenik chem.; -al arzénový
+arsenic | arzén, arzenik chem.
+arsenical | arzénový
 arterial | tepenní
 arterie | tepna (i přen.)
 artesian | artézský
 arte | umění
 arthrite | v. artrite
 artichoc | artyčok bot.
-artícul | článek; člen gram.; druh zboží, artikl; -ar článkovat; artikulovat; -ation kloub; artikulace
+articul | článek; člen gram.; druh zboží, artikl
+articular | článkovat; artikulovat
+articulation | kloub; artikulace
 artificial | umělý, strojený; nepravý
 artificie | úskok, lest
 artillerie | dělostřelectvo
@@ -895,7 +1027,11 @@ asfalte | *asph... asfalt
 asfixiar | se otrávit se (plynem)
 asfixiar | (u-, za)dusit
 asfixie | *asphy... (asfy...) (u-, za)dušení (plynem)
-Asia | Asie; ~ Minori Malá Asie; a-an asijský; a-ano Asijec; a-ate Asiat; a-átic asiatský
+Asia | Asie; ~ Minori Malá Asie
+asian | asijský
+asiano | Asijec
+asiate | Asiat
+asiatic | asiatský
 asil | *asyl útulek, útočiště, azyl
 asimetric | asymetrický
 asimetrie | *asymm... (asym...) asymetrie
@@ -908,7 +1044,8 @@ aspecte | vzhled, vzezření
 asperser | pokropit, postříkat
 aspersion | pokropení, postřik
 aspirar | vdechovat (do sebe), sát; ~ a dychtit (po čem)
-aspri | drsný, kostrbatý; -tá drsnost
+aspri | drsný, kostrbatý
+aspritá | drsnost
 assaltar | vzít útokem
 assalte | útok
 assassinar | zavraždit
@@ -924,7 +1061,8 @@ assentir | souhlasit
 asserter | tvrdit
 assertion | tvrzení
 ass | eso
-assidui | pilný, vytrvalý; -tá píle, vytrvalost
+assidui | pilný, vytrvalý
+assiduitá | píle, vytrvalost
 assignar | poukázat, obeslat
 assignation | poukázka, obsílka
 assimilar | přizpůsobit
@@ -941,23 +1079,32 @@ asthenico | v. astenico
 asthenic | v. astenic
 asthenie | v. astenie
 asthma | v. astma
-astma | astma med.; -tic astmatický; -tico astmatik
+astma | astma med.
+astmatic | astmatický
+astmatico | astmatik
 astonament | údiv, úžas
 astonant | úžasný
-astonar | udivit, uvést v úžas; ~ se divit se, esser -at žasnout
+astonar | udivit, uvést v úžas
+astonar se | divit se
+esser astonat | žasnout
 astor | jestřáb
 astral | hvězdný
 astre | hvězda
 astricter | stáhnout, sevřít
-astriction | stažení, sevření; -iv stahující, svíravý
+astriction | stažení, sevření
+astrictiv | stahující, svíravý
 astrictive | svíravý lék
 astrologic | astrologický
 astrologie | astrologie
 astrologo | astrolog
 astronaute | astronaut
 astronautica | astronautika
-astronom | astronom; -ie astronomie; -ic astronomický
-astut | lstivý; -ie lstivost; -o lstivec, zchytralec
+astronom | astronom
+astronomie | astronomie
+astronomic | astronomický
+astut | lstivý
+astutie | lstivost
+astuto | lstivec, zchytralec
 ataccar | (za)útočit, přepadnout
 atacca | útok, přepadení
 atachament | (při-, u)pevnění
@@ -994,20 +1141,25 @@ atinger | dosáhnout, dosíci (čeho)
 Atlántic | (Oceane) Atlantský oceán, Atlantik
 átlas | atlas
 atlete | atlet
-atletica, | -isme atletika
+atletica | atletika
+atleticisme | atletika
 atletic | atletický
 atmosfere | *atmosph... atmosféra (ovzduší)
 atmosferic | atmosférický
 atolle | atol, korálový ostrov
-atom | atom; -ic atomový (energie); -ístic atomový (teorie)
+atom | atom
+atomic | atomový (energie)
+atomistic | atomový (teorie)
 atraent | přitažlivý (kniha)
 atraer | přitahovat, vábit
 atrappar | nachytat (koho)
 atration | atrakce; přitažlivost fyz.; -(c)tiv přitažlivý (síla)
 atribuer | přičítat, připisovat (komu co)
-atribute | přívlastek: -tion přisouzení, udělení
+atribute | přívlastek
+atribution | přisouzení, udělení
 atributiv | přívlastkový
-atroci | ohavný, mrzký; -tá ohavnost, mrzkost
+atroci | ohavný, mrzký
+atrocitá | ohavnost, mrzkost
 attaccar | v. ataccar
 attacca | v. atacca
 attachament | v. atachament
@@ -1037,15 +1189,24 @@ attribuer | v. atribuer
 attribute | v. atribute
 attributiv | v. atributiv
 aturdir | omráčit (i přen.), omámit, ohromit
-auction | dražba; -ar dražit, vydražovat
-audaci | odvážný, smělý; -ar odvažovat se, troufat si: -e odvaha, smělost; -osi odvážný, smělý
+auction | dražba
+auctionar | dražit, vydražovat
+audaci | odvážný, smělý
+audaciar | odvažovat se, troufat si
+audacie | odvaha, smělost
+audaciosi | odvážný, smělý
 audie | sluch; ~ musical hudební sluch
-audir | slyšet: -ientie slyšení, audience; -ition slyšení, poslech: -itor posluchač; -itoria posluchárna
+audir | slyšet
+audientie | slyšení, audience
+audition | slyšení, poslech
+auditor | posluchač
+auditoria | posluchárna
 auditiv | sluchový
 augmentar | zvýšit, zvětšit
 augmentation | zvýšení, zvětšení, přírustek
 augmentativ | zvyšovací
-augur | věštec; -ar věštit
+augur | věštec
+augurar | věštit
 august | srpen
 aureol | svatozář
 aure | zlato
@@ -1059,18 +1220,27 @@ auscultation | vyšetření posl.
 auspicie | dobrá předzvěst, příznivé zamení
 auspicies | záštita; sub li ~ pod záštitou
 auspiciosi | příznivý
-austeri | strohý, upjatý, vážný; -tá strohost, upjatost
-Australia | Austrálie; a-an australský; a-ano Australan
-Austria | Rakousko; a-an rakouský; a-ano Rakušan
-auténtic | hodnověrný, autentický; -itá hodnověrnost, autentičnost; -isar ověřovat pravost n. původnost
+austeri | strohý, upjatý, vážný
+austeritá | strohost, upjatost
+Australia | Austrálie
+australian | australský
+australiano | Australan
+Austria | Rakousko
+austrian | rakouský
+austriano | Rakušan
+autentic | hodnověrný, autentický
+autenticitá | hodnověrnost, autentičnost
+autentisar | ověřovat pravost n. původnost
 authéntic | v. auténtic
 autochthon | v. autocton
-autocton | (autochton) domorodý, původní v dané oblasti; -e domorodec, původní obyvatel
+autocton | (autochton) domorodý, původní v dané oblasti
+autoctone | domorodec, původní obyvatel
 automate | automat
 automatic | automatický
 auto(móbile) | automobil
 autopsie | (= obduction) pitva med.
-autor | autor, původcem spisovatel; -essa autorka
+autor | autor, původcem spisovatel
+autoressa | autorka
 autoritá | pravomoc, autorita
 autoritativ | autoritativní
 autun | *autumnal podzimní
@@ -1081,11 +1251,15 @@ auxilie | pomoc
 ava | (= grandmatre) babička
 avalanche | lavina
 avan-guardie | předvoj
-avan | před (místně); ad-avan! vpřed!; (in) ~ vpředu
+avan | před (místně)
+ad-avan! vpřed!
+in avan | vpředu
 avansament | postup, pokrok
 avansar | jít, kráčet vpřed, předbíhat se (hodiny)
 avanse | *avanci/e záloha (peněžitá)
-avantage | výhoda, přednost; -ar zvýhodňovat; -osi výhodný
+avantage | výhoda, přednost
+avantagear | zvýhodňovat
+avantageosi | výhodný
 avantale | zástěra
 avari | lakomý, skoupý
 avaritá | lakota
@@ -1102,11 +1276,17 @@ averse | líc (přední strana mince, listiny aj.)
 aversi | nepříznivý, odpor vzbuzující
 aversion | averze, nechuť, odpor
 aviallia | (= volallia) drůbež
-aviar | létat; -ática, -ation letectví; -ator letec: -atori letecký
-avid | chtivý, lačný; -itá chtivost, lačnost
+aviar | létat
+aivatica | letecví
+aviation | letectví
+aviator | letec
+aviatori | letecký
+avid | chtivý, lačný
+aviditá | chtivost, lačnost
 avie | pták
 avigilar | probudit, oživit
-avigilation | probuzení, oživení: -ator oživovací zařízení tech.
+avigilation | probuzení, oživení
+avigilator | oživovací zařízení tech.
 avion | letadlo
 avisar | oznámit, upozornit
 avise | návěští, oznámení, upozornění
@@ -1320,7 +1500,7 @@ blagar | přehánět, chvástat se
 blagator | prášil, chvástal
 blamage | blamáž, ostuda
 blama | ostuda, zesměšnění
-blamar | blamovat, zostudit, zesměšnit; -ábil ostudný
+blamar | blamovat, zostudit, zesměšnit; -abil ostudný
 blanc | bílý; -ar bělit, bílit; -ator bělič; -ore bělost
 blancospine | hloh
 blanc-ovine | bílek
@@ -1629,7 +1809,7 @@ cante | zpěv
 canzon | píseň; -ette písnička
 cáos | chaos, zmatek
 cáotic | chaotický, zmatený
-capábil | schopný, způsobilý; -itá schopnost, způsobilost
+capabil | schopný, způsobilý; -itá schopnost, způsobilost
 capaci | chápavý; obsažný, prostorný
 capacitá | kapacita
 Cap | del Bon Esperantie Mys dobré naděje
@@ -2186,7 +2366,7 @@ combattivitá | bojovnost, bojechtivost
 combinar | spojovat, slučovat, sestavovat, kombinovat: -ation spojování, slučování, sestava
 combinativ | kombinační
 combuster | spalovat
-combustíbil | spalitelný, hořlavý
+combustibil | spalitelný, hořlavý
 combustion | spalování
 comedial | komediální
 comediante | komediant
@@ -2270,7 +2450,7 @@ compassar | měřit kružidlem
 compasse | kružidlo; (lodní) kompas
 compassion | soucit, soustrast
 compatibilitá | slučitelnost
-compatiment | politování, soucit; -íbil kompatibilní, slučitelný (s)
+compatiment | politování, soucit; -ibil kompatibilní, slučitelný (s)
 compatir | politovat, cítit soucit
 compatre | kmotr
 compatriot | krajan
@@ -2310,11 +2490,11 @@ compra | koupě, nákup: -ation (na)kupování
 comprar | (na)koupit, (na)kupovat
 comprator | kupující, zákazník
 comprender | (po)rozumět, chápat
-comprension | porozumění, pochopení; -síbil pochopitelný, srozumitelný; -siv chápavý, vnímavý
+comprension | porozumění, pochopení; -sibil pochopitelný, srozumitelný; -siv chápavý, vnímavý
 comprensivitá | chápavost, vnímavost
 compresser | stlačit
 compressibilitá | stlačitelnost
-compression | stlačení; -or kompresor tech.: -íbil stlačitelný
+compression | stlačení; -or kompresor tech.: -ibil stlačitelný
 compromettent | kompromitující
 comprometter | kompromitovat
 compromiss(e) | kompromis, ústupek v zájmu dohody: -er řešit kompromisem
@@ -2327,7 +2507,7 @@ comtia | hrabství
 comto | hrabě
 comunicaci | sdílný
 comunicar | sdělit, oznámit
-comunicate | úřední zpráva, komuniké: -ation sdělení, oznámení, zpráva; spoj(ení), komunikace: -ativ dorozumívací; sdílný; -ábil sdělitelný
+comunicate | úřední zpráva, komuniké: -ation sdělení, oznámení, zpráva; spoj(ení), komunikace: -ativ dorozumívací; sdílný; -abil sdělitelný
 comunient | přijímající
 comunier | (= reciver li co(m)munion) přijímat (svátost oltářní)
 comunion | přijímání (svátosti oltářní)
@@ -2483,7 +2663,7 @@ consequer | vyplývat (z čeho)
 conservar | uchovat, zachovat, konzervovat: -ation uchování, zachování, konzervace; -atisme konzervatismus; -ativ konzervativní; -ator správce (sbírky), konzervátor; -atori konzervační
 conservatoria | konzervatoř
 conserve | konzerva
-considerábil | značný, význačný
+considerabil | značný, význačný
 considerar | brát v úvahu; ~ quam pokládat, považovat za
 consideration | úvaha; ohled, zřetel
 consignar | uložit, deponovat; podat (k dopravě)
@@ -2549,7 +2729,7 @@ contener | obsahovat, pojmout
 contenete, | -entie obsah, náplň
 content | spokojený; -ar (se) (u)spokojit (se); -ativ uspokojovací; -ament spokojenost, uspokojení
 conte | počet, výčet
-contestábil | napadnutelný, sporný
+contestabil | napadnutelný, sporný
 contestar | napadnout (nárok); popírat (co), potírat (koho): -ation spor, rozepře
 contextu | souvislost, kontext; -al kontextový
 contigui | přilehlý, sousední, styčný
@@ -2749,7 +2929,7 @@ cortesi | zdvořilý, dvorný, galantní: -esie zdvořilost, dvornost, galantnos
 córtical | korový; des-ar zbavit kůry, odkornit
 córtice | kůra
 cortine | závěs, záclona, opona; rul-cortine roleta
-corupt | zkažený (mravně), úplatný, úplatkářský; -er (z)kazit (mravně), podplácet, korumpovat; -íbil úplatný; -ion mravní zkaženost; úplatnost, úplatkářství, korupce; -iv rozkladný, demoralizující
+corupt | zkažený (mravně), úplatný, úplatkářský; -er (z)kazit (mravně), podplácet, korumpovat; -ibil úplatný; -ion mravní zkaženost; úplatnost, úplatkářství, korupce; -iv rozkladný, demoralizující
 corvéa | robota hist.
 corvete | korveta nám.
 corvette | v. corvete
@@ -2798,7 +2978,7 @@ creation | tvorba, tvoření, stvoření: -ator stvořitel, tvůrce
 creativ | tvořivý, tvůrčí; nápaditý: -atura stvoření, tvor, bytost; výtvor
 creder | věřit; -entie víra
 crede | víra
-credíbil | uvěřitelný
+credibil | uvěřitelný
 credite | úvěr, kredit; důvěra, obecná vážnost, kredit: -er poskytnout úvěr
 creditive | bankovní příkaz
 creditor | věřitel
@@ -2904,7 +3084,7 @@ cúlminar | kulminovat, vrcholit: -ation vrchol, (vy)vrcholení
 cúlmine | vrchol, nejvyšší bod
 culotte | krátké kalhoty, šortky; ~ de sport trenýrky
 culpabilitá | provinilost
-culpar | vinit; -ábil vinen
+culpar | vinit; -abil vinen
 culpa | vina
 cultell(e) | nůž
 cultelleríe | nožířství
@@ -2963,7 +3143,7 @@ dadá | koníček, záliba, libůstka
 dama | dáma, paní; královna (v šachu)
 damage | škoda; it es ~ to je škoda; -ar poškodit; -osi škodlivý
 damnar | zatratit, proklít
-damnation | zatracení, věčné prokletí: -ábil zavrženíhodný
+damnation | zatracení, věčné prokletí: -abil zavrženíhodný
 dandy | hejsek, floutek
 danesi | dánský, dánština
 daneso | Dán; D-ia Dánsko
@@ -3103,7 +3283,7 @@ delater | udávat, donášet
 delation | udání, donášení
 delator | donašeč, udavač, denunciant
 del | = de li
-delectábil | potěšující, rozkošný
+delectabil | potěšující, rozkošný
 delectar | bavit, obveselovat; ~ se kochat se (čím): -ation potěcha, potěšení
 delegar | delegovat, vyslat jako zástupce
 delegate | delegát
@@ -3184,7 +3364,7 @@ depender | (de) záviset, záležet (na)
 deperir | slábnout, chřadnout, ztrácet se před očima: -ition slábnutí, chřadnutí
 deplazzar | přemístit, posunout
 deplazzation | přemístění
-deplorábil | žalostný, politováníhodný
+deplorabil | žalostný, politováníhodný
 deplorar | želet (čeho); oplakat (koho); naříkat (nad)
 depolvar | odstranit prach, oprášit
 depopular | vylidnit
@@ -3263,7 +3443,7 @@ desestimar | znevažovat
 desestimation | znevážení
 desfamar | škodit na pověsti
 desfamation | poškození pověsti
-desfavorábil | nepříznivý
+desfavorabil | nepříznivý
 desfavore | nepřízeň, nemilost
 desfide | nedůvěra
 desfidentie | nedůvěřivost
@@ -3276,8 +3456,8 @@ desgageament | vyplacení (zástavy)
 desgagear | vyplatit (získat zpět)
 desgust | znechucení; -ar znechutit
 deshonest | nečestný, nepoctivý; -ie nečestnost, nepoctivost
-deshonor | pohana, potupa; -ar hanobit, zneuctít; -ation hanobení, zneuctění; -ábil potupný, hanebný
-designábil | ustanovitelný
+deshonor | pohana, potupa; -ar hanobit, zneuctít; -ation hanobení, zneuctění; -abil potupný, hanebný
+designabil | ustanovitelný
 designar | označit, určit, ustanovit (do funkce)
 designation | označení, ustanovení (do funkce)
 desilusion | rozčarování; -ar rozčarovat
@@ -3286,7 +3466,7 @@ desinbarcation | vylodění
 desinclinar | odklonit
 desinclination | odklonění
 desinentie | koncovka gram.
-desirábil | žádoucí
+desirabil | žádoucí
 desirar | přát si, toužit
 desire | přání, touha
 desmeliorar | zhoršit
@@ -3322,7 +3502,7 @@ destinar | určit (k čemu)
 destinatario | adresát, příjemce
 destine | osud; -ation určení (k čemu); místo určení; -ator určovatel
 destituer | sesadit, zbavit úřadu
-destituíbil | sesaditelný
+destituibil | sesaditelný
 destitution | sesazení
 destructer | zničit, zmařit
 destruction | zničení, zmar, zkáza, úplný rozklad; -or ničitel
@@ -3345,7 +3525,7 @@ determinar | určit, rozhodnout, stanovit, vymezit
 determination | určení (k čemu)
 determinativ | blíže určující, vymezující
 deterrar | vykopat ze země, vyrýt, vyhrabat
-detestábil | ohavný, odporný, hnusný
+detestabil | ohavný, odporný, hnusný
 detestar | hnusit si, nenávidět; ~ li labor štítit se práce: -ation ošklivost (k)
 detonar | vybouchnout, detonovat, vybuchovat, třaskat: -ation výbuch, detonace, exploze
 detonator | rozbuška
@@ -3495,7 +3675,7 @@ discade | rozpad
 discader | rozpadnout se
 discernement | rozpoznání discipl/e, -o žák, následovník; stoupenec
 discerner | rozeznat, rozlišit
-discerníbil | rozeznatelný
+discernibil | rozeznatelný
 disciplinari | kázeňský
 disciplinar | ukáznit
 discipline | kázeň, disciplína
@@ -3531,7 +3711,7 @@ dispeptic | dyspeptický
 disperser | roztrousit, rozptýlit, rozprášit
 dispersion | rozptýlení, rozptyl, disperze
 dispezzar | rozbít, roztrhat (na kusy)
-disponente | disponent; -íbil použitelný, dostupný, k dispozici
+disponente | disponent; -ibil použitelný, dostupný, k dispozici
 disponer | volně nakládat (čím)
 disponibilitá | dostupnost
 disposir | rozestavit, umístit (po ruce)
@@ -3585,7 +3765,7 @@ divertissent | zábavný
 divertisser | bavit, obveselovat
 divider | (roz)dělit; ~ con sdílet (s)
 divin | božský; -itá božství, božská podstata; -ar hádat: -ation hádání; -ator hadač, jasnovidec
-divisíbil | dělitelný
+divisibil | dělitelný
 division | (roz)dělení, dělba (práce); oddělení (organizační); divize voj.
 divorciar | rozvést (manželský pár)
 divorcie | rozvod
@@ -3616,7 +3796,7 @@ domene | doména
 doméstic | domácí, domácký; krotký; -o sluha; -a služeb- ná; -ar ochočit
 dóminar | panovat, ovládat; vévodit (čemu): -ia panství, vláda; oblast
 dómino | pán; vládce
-domitábil | krotitelný
+domitabil | krotitelný
 domitar | krotit (šelmy)
 domitation | krocení
 don | dar; -ar dát, darovat; -ation darování; -ator dárce
@@ -3665,14 +3845,14 @@ dronada | tonutí
 dronar | utonout, utopit se
 dronation | utonutí
 drone | trubec
-dúbitábil, | -osi pochybný, nejistý
+dúbitabil | -osi pochybný, nejistý
 dúbitar | pochybovat
 dúbite | pochyba, pochybnost
 duchar | sprchovat
 duche | sprcha (lázeň)
 duchuore | sprcha (sprchový kout)
 ducter | vést
-ductíbil | poddajný: -or vůdce
+ductibil | poddajný: -or vůdce
 ductilitá | tažnost
 ductil | tažný (kov)
 duction | vedení; -iv vodivý
@@ -3692,11 +3872,11 @@ duperíe | šejdířství
 dúplic | dvojí (účel), dvojitý, dvojnásobný; -ar zdvojit, zdvojnásobit; -ation zdvojnásobení; -ator rozmnožovač: -itá dvojitost, zdvojení, dvojkolejnost (v řízení)
 durantie | trvalost
 durant | za, během (války); ~ que kdežto, zatím co
-durar | trvat; -ation trvání; -ábil trvalý, trvanlivý; -ada trvání
+durar | trvat; -ation trvání; -abil trvalý, trvanlivý; -ada trvání
 dura | trvání
 dur | tvrdý; -itá tvrdost
 e | a
-eábil | schůdný
+eabil | schůdný
 eada | chůze, chození
 ear | jít, chodit
 ebriar | opít
@@ -3742,7 +3922,7 @@ efaruchar | vyděsit, polekat, vyplašit
 efecter | mít účinek, působit; -iv účinný, působivý
 efecte | účinek, efekt fyz., tech., dojem
 efectivar | prosadit
-efectuábil | uskutečnitelný, proveditelný
+efectuabil | uskutečnitelný, proveditelný
 efectuar | uskutečnit, provést
 efectuation | uskutečnění, provedení
 efemera | jepice
@@ -3755,7 +3935,7 @@ effaruchar | v. efaruchar
 effecter | v. efecter
 effecte | v. efecte
 effectivar | v. efectivar
-effectuábil | v. efectuábil
+effectuabil | v. efectuabil
 effectuar | v. efectuar
 effectuation | v. efectuation
 effervescentie | v. efervescentie
@@ -3805,7 +3985,7 @@ elargation | rozšíření
 elástic | pružný, elastický; -itá pružnost, elastičnost
 Elbe | Labe
 electer | volit
-election | volba; -or volič; -iv volební (období): -íbil volitelný
+election | volba; -or volič; -iv volební (období): -ibil volitelný
 electoral | volební (místnost)
 eléctric | elektrický; -itá elektřina
 electrocuter | popravit (na el. křesle)
@@ -3860,7 +4040,7 @@ embolic | embolický
 embolie | embolie med.
 embrasura | výklenek (okna, dveří); střílna
 embrion | *embry... embryo; -ic zárodečný, počáteční, nevyvinutý
-emendábil | pozměnitelný
+emendabil | pozměnitelný
 emendar | zlepšit (situaci), opravit (chyby v textu), vylepšit (text); pozměnit, doplnit (návrh)
 emendation | zlepšení, oprava, vylepšení; -ament doplněk (zákona)
 emerit | vysloužilý (jsoucí na odpočinku); zasloužilý (umělec)
@@ -3968,7 +4148,7 @@ era | éra, doba, údobí
 eraser | (s-, vy)mazat
 erasura | vymazání, vymazané místo
 erecter | vzpřímit, vztyčit
-erectíbil | vztyčitelný
+erectibil | vztyčitelný
 erection | vzpřímení, vztyčení; -iv topořivý
 eremite | poustevník
 ergo | tedy, tudíž, proto
@@ -4037,7 +4217,7 @@ estetisme | estetismus
 esthete | v. estete
 esthetic | v. estetic
 esthetisme | v. estetisme
-estimábil | úctyhodný, vážený
+estimabil | úctyhodný, vážený
 estimar | vážit si, cenit si
 estimation | úcta, vážnost; ocenění, odhadnutí
 estival | letní
@@ -4121,7 +4301,7 @@ eversuore | výlevka
 evicter | vystrnadit, vypudit; soudně vystěhovat; zbavit držby
 eviction | vypuzení; soudní vystěhování
 evident | zřejmý, patrný; -ie zřejmost, očividnost; evidence; -iar ozřejmit
-evitábil | vyhnutelný
+evitabil | vyhnutelný
 evitar | vyhnout se (čemu)
 evocar | vybavit, vyvolat (vzpomínky)
 evocation | vyvolá(vá)ní
@@ -4153,7 +4333,7 @@ excessiv | nemírný, přehnaný, přílišný
 exchange | výměna; -ar vyměnit (zač), vyměnit si (vzájemně), směnit
 exciser | vyříznout, vykrojit, vystřihnout
 excision | operativní odnětí, vyříznutí; výstřižek
-excitábil | vznětlivý, popudlivý
+excitabil | vznětlivý, popudlivý
 excitar | vzrušit, rozčílit, pobouřit; (vz)budit (hněv, soucit): -ation vzrušení, rozčilení
 exclamar | zvolat, vykřiknout, provolávat
 exclamation | zvolání, výřik
@@ -4183,7 +4363,7 @@ excusa | omluva
 excusar | omluvit, prominout
 exeada | východ (místo)
 exear | vycházet, vyjít (ven)
-execrábil | ohavný, odporný, mizerný
+execrabil | ohavný, odporný, mizerný
 execrar | proklínat
 execration | proklínání, zatracování
 executer | vykonat, provést, splnit; vyřídit (objednávku); popravit (odsouzence)
@@ -4282,7 +4462,7 @@ extase | extáze
 extatic | extatický
 extender | roztáhnout, rozšířit, rozprostírat
 extensibilitá | roztažitelnost
-extension | roztažení, rozšíření, rozpětí; -siv rozsáhlý, značný: -síbil roztažitelný
+extension | roztažení, rozšíření, rozpětí; -siv rozsáhlý, značný: -sibil roztažitelný
 extenuar | vyčerpat, vysílit
 extenuation | vyčerpání, vysílení
 exteriore | (ze)vnějšek; exteriér
@@ -4346,7 +4526,7 @@ falcero | žnec
 falcette | srp; -ear sekat, kosit
 falcon | sokol; -ero sokolník
 fallibilitá | omylnost, klamnost (např. vnímání)
-falliment | úpadek (finanční); -íbil omylný, klamný
+falliment | úpadek (finanční); -ibil omylný, klamný
 fallir | neuspět, selhat, propadnout; chybit, minout se: -ida upadání
 falsette | falzet hud. (hlavový způsob zpěvu u muž. hlasů)
 fals | nepravdivý; nepravý, falešný; -ar překroutit (pravdu); -itá faleš(nost); -ificar padělat, falšovat; -ification padělání, falšování; -ator padělatel, falzifikátor
@@ -4372,7 +4552,7 @@ fantoma | *ph... přelud, přízrak, vidina
 faraon | *ph... faraón; -ic faraónský
 farcear | nadívat
 farce | nádivka kuch.
-far | dělat, činit, konat (ve složeninách fact-, -or, -íbil)
+far | dělat, činit, konat (ve složeninách fact-, -or, -ibil)
 fare | *ph... maják
 farinar | posypat moukou
 farine | mouka
@@ -4411,7 +4591,7 @@ fatuo | hejsek
 faucada | prskání, prskot
 faucar | prskat (o kočce)
 fauce | chřtán, jícen
-favorábil | příznivý; -ar podporovat (koho), přát (komu); -isar dávat někomu přednost, nadržovat mu; -ite oblíbenec; favorit
+favorabil | příznivý; -ar podporovat (koho), přát (komu); -isar dávat někomu přednost, nadržovat mu; -ite oblíbenec; favorit
 favore | přízeň; laskavost
 favoritisme | protekcionářství
 fayance | fajáns
@@ -4580,7 +4760,7 @@ fleche | šíp, šipka
 flechiere | toulec
 flegma | *ph... netečnost; -tic netečný
 flexer | ohnout, skrčit
-flexíbil | ohebný
+flexibil | ohebný
 flexion | ohýbání, flexe
 flicca | (= puella) dívka
 flirtar | flirtovat
@@ -4625,7 +4805,6 @@ fonde | tavba
 fonétic | *ph... fonetický; -a fonetika; -o fonetik
 fontane | kašna, fontána
 fonte | pramen, zdroj; zřídlo
-football | [fútbol] fotbal, kopaná
 football | [fútbol] kopaná, fotbal
 forar | vrtat
 forator | vrták (nástroj)
@@ -4702,7 +4881,7 @@ fresbere | jahoda
 fresberiero | jahodník
 fresco | freska
 frete | náklad; -ar nakládat
-friábil | drolivý
+friabil | drolivý
 friar | drobit, drolit
 fricassé | zadělávané maso, frikasé
 fricter | třít, mnout
@@ -4778,7 +4957,7 @@ furter | (u)krást
 furúncul | vřed, nežit
 fuser | tavit, slévat; sloučit (se)
 fusil | puška; -ar (od-, za)střelit; -ada střelba; -ero střelec
-fusion | tavba, slévání; sloučení, splynutí, fúze; -ionar sloučit (se), splynout: -íbil tavitelný; -ibilitá tavitelnost; -íbile, -ette pojistka el.
+fusion | tavba, slévání; sloučení, splynutí, fúze; -ionar sloučit (se), splynout: -ibil tavitelný; -ibilitá tavitelnost; -íbile, -ette pojistka el.
 fusuore | tavný kelímek, tyglík
 futil | nicotný, malicherný; -itá nicot/a, -nost, malichernost: -age nicotnost (bezcenná věc)
 future | budoucnost; budoucí čas gram.
@@ -5079,7 +5258,7 @@ gúttur | hrdlo, hltan, jícen, chřtán; -al hrdelní (hláska)
 guvernament | vláda; -ia gubernie
 guvernar | vládnout; ovládat (vášně)
 guvernator, | -ero gubernátor, guvernér
-hábil | obratný, dovedný, šikovný, zručný; -itá obratnost, dovednost, schopnost, zručnost; -itar uschopnit; oprávnit
+habil | obratný, dovedný, šikovný, zručný; -itá obratnost, dovednost, schopnost, zručnost; -itar uschopnit; oprávnit
 habitante | obyvatel
 habitar | bydlit
 habitation | obydlí, bydlení, bydliště
@@ -5256,7 +5435,7 @@ homolog | homologický; -ie homologie
 homónim | *...ym homonymní; -e homonymum; -ie homonymie
 homosexual | homosexuální; -itá homosexualita
 honest | poctivý, čestný; -itá poctivost, (po)čestnost
-honor | čest; počest, pocta; -ar (po)ctít; honorovat: -ation poctění; honorování; -ari čestný (člen); -arie honorář; -ábil ctihodný; -ífic čestný (titul)
+honor | čest; počest, pocta; -ar (po)ctít; honorovat: -ation poctění; honorování; -ari čestný (člen); -arie honorář; -abil ctihodný; -ífic čestný (titul)
 hontar | hanbit se
 honte | hanba
 hontosi | hanebný
@@ -5268,7 +5447,7 @@ horizonte | horizont
 horloge | hodin(k)y
 horlogero | hodinář
 horrer | děsit se
-horríbil | hrozný, strašný
+horribil | hrozný, strašný
 horrore | hrůza, děs
 horticultura | zahradnictví
 hósped | hostitel; -al pohostinný; -alitá pohostinnost
@@ -5534,12 +5713,12 @@ infinitesimal | nekonečný, jdoucí do nekonečna
 infinitive | infinitiv (neurčitý způsob slovesný)
 ínfirm | slabý, neduživý, churavý; -ero ošetřovatel
 inflammar | vznítit, zapálit
-inflammation | vzplanutí, zápal; zánět med.; -ábil hořlavý, vznětlivý
+inflammation | vzplanutí, zápal; zánět med.; -abil hořlavý, vznětlivý
 inflammatori | zánětlivý med.: -ette zápalka
 inflar | nadmout, nafouknout
 inflation | nadýmání; inflace: -atura boule, otok
 inflexer | ohnout
-inflexíbil | nepoddajný
+inflexibil | nepoddajný
 inflexion | ohnutí
 influentie | vliv, působení: -entiar ovlivňovat
 influent | vlivný
@@ -5600,7 +5779,7 @@ inmatricular | zapsat do matriky, imatrikulovat
 ínmediat | bezprostřední; -itá bezprostřednost
 ínmemorial | nepamětný
 inmerser | vnořit, ponořit
-inmersíbil | ponorný
+inmersibil | ponorný
 inmersion | ponoření
 inmigrar | přistěhovat se
 inmigration | přistěhoval/ci, -ectví inmixter vmísit, přimísit; ~ se vmísit se
@@ -5652,7 +5831,7 @@ inrangear | zařadit
 ínremovibilitá | nenávratnost
 ínremovibil | nenávratný
 ínresponsabilitá | nezodpovědnost
-ínresponsábil | nezodpovědný
+ínresponsabil | nezodpovědný
 ínreverent | neuctivý; -ie neúcta
 inrichar | (se) obohatit (se)
 inrolament | nábor; odvod voj.
@@ -5733,11 +5912,11 @@ integritá | celistvost, úplnost, nedílnost; bezúhonnost; -ar integrovat: -an
 intelectu | duch, rozum, chápavost; -al duševní, rozumový; -ale intelektuál, vzdělanec
 inteligent | inteligentní, bystrý, chápavý: -entie inteligence (schopnost i spol. třída)
 inteliger | chápat
-inteligíbil | srozumitelný
+inteligibil | srozumitelný
 intellectu | v. intelectu
 intelligent | v. inteligent
 intelliger | v. inteliger
-intelligíbil | v. inteligíbil
+intelligibil | v. inteligibil
 íntemperantie | nemírnost
 íntemperant | nemírný, nestřídmý
 intens(i) | prudký, silný, intenzívní (pocit)
@@ -5876,7 +6055,7 @@ investition | vklad kapitálu; investice
 investitura | uvedení v úřad
 invia, | -age zásilka
 inviar | pos(í)lat
-invidiábil | záviděníhodný
+invidiabil | záviděníhodný
 invidiar | závidět; -osi závistivý
 invidie | závist
 ínviolabil | neporušitelný, nedotknutelný
@@ -5905,7 +6084,7 @@ irigatori | zavlažovací
 irisar | vytvářet duhové barvy
 íris | duha; duhovka anat.
 iritar | (po)dráždit, popudit
-iritation | (po)dráždění, -ábil vznětlivý, popudlivý
+iritation | (po)dráždění, -abil vznětlivý, popudlivý
 Irland | Irsko; i-esi irský; i-eso Ir
 ironic | ironický
 ironie | ironie
@@ -6010,7 +6189,7 @@ jurnalístic | novinářský
 jurnalist | novinář
 justiciario | právní úředník
 justicie | spravedlnost; justice
-just | spravedlivý, správný; právě, zrovna; -esse, -itá správnost; -ificar ospravedlnit; -ificábil ospravedlnitelný
+just | spravedlivý, správný; právě, zrovna; -esse, -itá správnost; -ificar ospravedlnit; -ificabil ospravedlnitelný
 jute | juta bot.
 juvel | klenot, šperk, skvost; -ero klenotník; -eríe klenotnictví, klenoty; -ería klenotnictví (prodejna)
 júvena | panna, dívka
@@ -6071,7 +6250,7 @@ lallation | dětské broukání, žvatlání
 lama | lama zool.; láma (budhistický kněz); Dalai Lama
 lamelle | (= lámine) plátek (kovu), plíšek, destička
 lamentar | bědovat, naříkat
-lamentation | bědování, nářek: -ábil politováníhodný, žalostný
+lamentation | bědování, nářek: -abil politováníhodný, žalostný
 lamette | (= lámine rasatori) čepelka (holicí)
 lame | želízko; čepel (nože)
 laminar | válcovat (kovy)
@@ -6120,14 +6299,14 @@ lattug | v. latug
 latug | locika bot.
 Latvia | Lotyšsko; l-an lotyšský; l-ano Lotyš
 laube | loubí, besídka
-laudar | chválit; -ation chválení: -ábil chvályhodný, chvalitebný
+laudar | chválit; -ation chválení: -abil chvályhodný, chvalitebný
 laudativ | pochvalný
 laude | chvála, pochvala
 laure | vavřín; -at ověnčený vavřínem; -ate laureát
 lava | láva
 lavar | (u)mýt, prát
 lavende | levandule bot.
-lavera | pradlena; -ería prádelna; -ábil prací (látka); -age mytí (auta, vlasů)
+lavera | pradlena; -ería prádelna; -abil prací (látka); -age mytí (auta, vlasů)
 lavuore | umyvadlo; lava-machine pračka tech.
 lax | nedbalý, lhostejný, vlažný; uvolněný; -ar uvolnit, pustit (kořist); -ation tělesné ochabnutí med.; -ativ projímavý med.; -ative projímadlo; re-ar uvolnit se
 leccar | lízat, olizovat
@@ -6152,7 +6331,7 @@ legítim | oprávněný, zákonný; manželský (dítě); -ar oprávnit; prohlá
 legume(s) | zelenina
 legumine | luštěnina
 leguminosi | luštěninový
-leíbil | čitelný; -tion čtení (činnost)
+leibil | čitelný; -tion čtení (činnost)
 le | jej, jemu
 lemur | lemur zool.
 leni | mírný
@@ -6422,7 +6601,7 @@ maliciiosi | zlomyslný, škodolibý
 maligni | škodlivý; zhoubný, maligní med.
 malignitá | zhoubnost
 malin | zlomyslný; škodlivý; -itá zlomyslnost; škodlivost
-malleábil | kujný, tažný, poddajný
+malleabil | kujný, tažný, poddajný
 mallear | kout, táhnout
 mallie | oko (při pletení, na punčoše)
 malodorant | páchnoucí
@@ -6467,7 +6646,7 @@ manifestation | projev(ování), manifestace, demonstrace
 mani | mnohý, leckterý; -cos leccos
 manipular | zacházet s čím, manipulovat
 manivelle | klika stroje; axe de ~ zalomený hřídel
-manjage | jídlo; -allia žrádlo hanl.; -atoria jídelna: -ábil jedlý
+manjage | jídlo; -allia žrádlo hanl.; -atoria jídelna: -abil jedlý
 manjar | jíst
 manjuore | jesle, krmelec; koryto, žlab (ve chlévě)
 manna | mana
@@ -6484,7 +6663,7 @@ mantentor | údržbář
 manto | plášť (kabát)
 manufactura | továrna, výrobna
 manufacturero | výrobce
-manu | ruka; -al ruční; -ale příručka; -ade hrst; -ar ovládat (stroj); -ábil ovladatelný (stroj); -ette držadlo (páky)
+manu | ruka; -al ruční; -ale příručka; -ade hrst; -ar ovládat (stroj); -abil ovladatelný (stroj); -ette držadlo (páky)
 marcar | (o)značit; zaznamenat (gól)
 marca | značka; známka
 marcha | pochod; chod (stroje)
@@ -6612,7 +6791,7 @@ membritá | členství
 membrité | členstvo; dis-ar rozčlánkovat, rozčlenit
 mem | i, ba i, dokonce i
 me | mne, mě, mi; yo lava ~ myji se
-memorábil | památný, pamětihodný: -antie vzpomínka; -ativ památný; -ation pamatování: -isar učit se zpaměti
+memorabil | památný, pamětihodný: -antie vzpomínka; -ativ památný; -ation pamatování: -isar učit se zpaměti
 memorar | pamatovat (si)
 memorie | paměť; památka; vzpomínka: -iale památník; a-ar připomenout (komu co); re-ar vzpomínat; co-ar vzpomenout (výročí), připomínat si
 menaciar | hrozit
@@ -6761,7 +6940,7 @@ mirte | *my... myrta bot.
 mirtille | *my... borůvka; ~ rubi brusinka
 misanthrop | v. misantrop
 misantrop | škarohlíd, misantrop; -ie misantropie
-miserábil, | -i bídný, nuzný
+miserabil, | -i bídný, nuzný
 miserar | trpět bídu
 misere | bída, nouze
 misericordie | milosrdenství
@@ -6952,7 +7131,7 @@ mustre | vzor; vzorek
 musulmane | muslim
 mutabilitá | proměnlivost
 mutar | měnit (též hlas)
-mutation | změna, mutace; -ábil proměnlivý, schopný proměny
+mutation | změna, mutace; -abil proměnlivý, schopný proměny
 mutilar | zmrzačit, zkomolit
 mutilation | zmrzačení, zkomolení
 mut | němý; -o němý člověk, nemluva; -itá němota
@@ -7021,7 +7200,7 @@ negation | zápor i gram., negace
 negativ | negativní, záporný (věta, částice), zamítavý (odpověď)
 negligé | nedbalky
 negliger | nedbat, opominout; -ent nedbalý: -entie nedbalost
-negligíbil | zanedbatelný
+negligibil | zanedbatelný
 negociar | (pro-, vy)jednávat; obchodovat; -ante obchodník
 negociation | vyjednávání, (obchodní) jednání; obchodování
 negocie | obchod; záležitost
@@ -7105,7 +7284,7 @@ nostalgie | stesk po domově; teskná touha po něčem
 nota | poznámka
 notariatu | notářství
 notario | notář
-notar | poznamenat (si): -ábil vážený (občan), významný, vynikající (osobnost)
+notar | poznamenat (si): -abil vážený (občan), významný, vynikající (osobnost)
 note | nota hud.; nóta
 noticiárium | zápisník
 noticie | poznámka, stručné sdělení
@@ -7190,7 +7369,7 @@ obstination | umíněnost, svéhlavost, zarputilost, tvrdošíjnost
 obstructer | ucpat, zanést, zahradit, zatarasit (průchod); zabraňovat, zdržovat (jednání)
 obstruction | zábrana, překážka
 obtener | dostat, obdržet (žádané), dosáhnout, získat: -tion obdržení
-obteníbil | dosažitelný, k mání
+obtenibil | dosažitelný, k mání
 obtruder | vnutit (komu co)
 obtrusion | vnucování (se)
 obtrusiv | dotěrný
@@ -7434,7 +7613,7 @@ pallie | sláma
 palliosi | slamnatý
 palme | palma bot.
 palmiero | palmovník
-palpábil | hmatatelný (důkaz)
+palpabil | hmatatelný (důkaz)
 palpar | hmatat
 palpation | vyšetření pohmatem
 palpebrar | mrkat
@@ -7464,7 +7643,7 @@ pantheon | v. panteon
 panthere | v. pantere
 pantufle | trepka, bačkora
 pantuflon | muž "bačkora"
-papábil | způsobilý být papežem
+papabil | způsobilý být papežem
 papagaye | papoušek
 papal | papežský; -atu papežství; -ist papeženec; -isme papeženectví
 papa | papež
@@ -7513,7 +7692,7 @@ parcar | parkovat
 parcellar | parcelovat
 parcelle | parcela
 parc | park, sad
-pardon | odpuštění, prominutí; milost; ~ ! odpusťte!, promiňte!; -ar odpustit, prominout; -ábil odpustitelný, prominutelný; ín-ábil neodpustitelný
+pardon | odpuštění, prominutí; milost; ~ ! odpusťte!, promiňte!; -ar odpustit, prominout; -abil odpustitelný, prominutelný; ín-abil neodpustitelný
 parentese | závorka; metter in -s dát do závorek
 parenthese | v. parentese
 parent | příbuzný; -itá příbuznost; -ité příbuzenstvo
@@ -7572,7 +7751,7 @@ Pascha | v. Pasca
 pasment | prýmek; -ero prýmkař; -eríe prýmkařství, prýmkařské zboží; -ar ozdobit prýmky
 pasquill | hanopis, paskvil; literární a umělecký zmetek
 pasquinade | paskvináda (šaškovství, zvl. v jevištní podobě)
-passábil | schůdný, sjízdný; obstojný
+passabil | schůdný, sjízdný; obstojný
 passage | pasáž (i hud., v knize), průchod, průjezd, přechod (místo)
 passagero | cestující, pasažér; -ar projít, projet, přejít; míjet, plynout (o čase); -ante kolemjdoucí
 passa-parol | heslo
@@ -7696,7 +7875,7 @@ penúltim | předposlední
 percent | procento; -age procentní sazba; -ual procentní
 percepter | postřehnout (smysly), vnímat
 perception | vjem, vnímání
-perceptiv | vnímavý, -íbil vnímatelný
+perceptiv | vnímavý, -ibil vnímatelný
 perche | okoun zool.
 perconstructer | vybudovat, vystavět
 percurrer | zběžně projít n. projet n. pročíst; ujet (vzdálenost)
@@ -7715,7 +7894,7 @@ peregrinar | (pro)cestovat, (pro)putovat, bloudit; -age pouť (procesí) náb., 
 peregrination | cestování, putování, bloudění
 peregrino | poutník; baston de ~ poutnická hůl
 perenni | trvalý, stálý; víceletý bot.; plante ~ trvalka bot.
-perfect | dokonalý, bezvadný; -ion dokonalost; -íbil zdokonalitelný; -ionar zdokonalit
+perfect | dokonalý, bezvadný; -ion dokonalost; -ibil zdokonalitelný; -ionar zdokonalit
 perfid | proradný, věrolomný; -ie, -itá proradnost
 perfinir | dovést do konce
 perforar | proděravit, provrtat, perforovat
@@ -7748,7 +7927,7 @@ permanentie | trvalost, stálost, nepřetržitost
 permanent | trvalý, stálý, nepřetržitý
 permaner | trvat, neustávat
 permeabilitá | propustnost, prostupnost
-permeábil | propustný, prostupný
+permeabil | propustný, prostupný
 permear | prostoupit
 permisser | dovolit, povolit
 permission | dovolení, povolení
@@ -7947,7 +8126,7 @@ platine | platina chem.
 platinic | platinový
 plat | plochý, rovný, placatý; -e plát; -form plošina, nástupiště; -il talíř; -ó náhorní rovina; (velký) podnos
 platt | v. plat
-plausíbil | přijatelný, pravděpodobný
+plausibil | přijatelný, pravděpodobný
 plazza | místo; prostranství; náměstí
 plazzar | umístit
 plebeyan | plebejský
@@ -8054,7 +8233,7 @@ porc(o) | vepř, prase
 pore | pór anat.
 por | pro (účel); ~ que aby
 porro | pórek bot.
-portábil, | -ativ přenosný
+portabil, | -ativ přenosný
 porta | dveře, brána; branka, gól sport.
 porta-folie | pouzdro na spisy, aktovka; ministerské křeslo
 porta-moné | peněženka
@@ -8088,7 +8267,7 @@ posser | moci
 possession | držba, majetek, vlastnictví: -ssiv gram. přivlastňovací
 possessor | majitel, vlastník
 possibilisar | umožnit
-possíbil | možný; -ibilitá možnost
+possibil | možný; -ibilitá možnost
 postal | poštovní
 postament | podnož, podstavec, spodek
 posta | pošta; in-ar dát na poštu
@@ -8114,7 +8293,7 @@ pottero | hrnčíř; -ería hrnčířství (prodejna)
 povri | chudý, ubohý
 povritá, | -esse chudoba
 poy | potom, pak
-práctic | praktický; -a cvik, praxe; zvyklost; -al praktický: -ar provádět, provozovat; -ante praktikant; -ábil proveditelný; sjízdný, schůdný
+práctic | praktický; -a cvik, praxe; zvyklost; -al praktický: -ar provádět, provozovat; -ante praktikant; -abil proveditelný; sjízdný, schůdný
 Praga | Praha; p-an pražský; p-ano Pražan
 pram | prám (převoznický); -ero převozník
 prate | louka, lučina
@@ -8157,7 +8336,7 @@ prefecte | prefekt
 prefectura | prefektura
 preferentie | přednost, obliba
 preferer | dávat přednost (čemu), mit raději
-preferíbil | výhodnější, lepší
+preferibil | výhodnější, lepší
 prefixar | dát n. připojit na začátek (ěeho); spojit s předponou gram.
 prefixe | předpona gram.
 prega | modlitba
@@ -8262,7 +8441,7 @@ privilegiar | privilegovat, nadat výsadou
 privilegiat | privilegovaný, výsadní, požívající výhod
 privilegie | privilegium, výsada
 proa | přední díl, část; příď (lodi)
-probábil | pravděpodobný; -itá pravděpodobnost
+probabil | pravděpodobný; -itá pravděpodobnost
 problema | problém
 problemática | problematika
 problemátic | problematický
@@ -8416,7 +8595,7 @@ prunta | výpůjčka
 pruritar | svědět, svrbět
 pruritation | svědění, svrbění
 Prussia | Prusko; p-an pruský; p-ano Prus
-pruvábil | dokazatelný
+pruvabil | dokazatelný
 pruva | důkaz
 pruvar | dokázat
 psalme | žalm
@@ -8635,7 +8814,7 @@ rascalitá | darebáctví, lumpárna
 ras | holý; hladký; oholený; -ar (o)holit; -ator holič: -atoria holírna; -uore břitva, žiletka, holicí strojek
 raslar | řinčet, hrčet
 rasle | řinkot (zbraní), hrčení (povozu)
-rason | důvod; rozum; -ar uvažovat (logicky); odůvodnit: -ábil rozumný; -ament úvaha (logická); odůvodnění
+rason | důvod; rozum; -ar uvažovat (logicky); odůvodnit: -abil rozumný; -ament úvaha (logická); odůvodnění
 raspar | rašplovat
 raspe | rašple
 rassal | rasový (čistota); -isme rasismus; -ist rasista
@@ -8685,7 +8864,7 @@ recitation | přednes, recitace: -ator přednašeč, recitátor
 recitativ | recitační
 recivage | obdržená věc; příjem: -ement přijetí (zboží)
 reciver | dostat, obdržet
-recivíbil | k dostání
+recivibil | k dostání
 reclamar | dožadovat se (nápravy), urgovat (co), reklamo- vat
 reclamation | stížnost, urgence, reklamace
 reclame | reklama; far ~ por dělat reklamu (čemu)
@@ -8699,10 +8878,10 @@ recolleer | v. recoleer
 recollier | v. recolier
 recoltar | sklízet (úrodu)
 recolte | sklizeň, úroda, žeň, žně
-recomandábil | doporučeníhodný
+recomandabil | doporučeníhodný
 recomandar | doporučit
 recomandation | doporučení
-recommandábil | v. recomandábil
+recommandabil | v. recomandabil
 recommandar | v. recomandar
 recommandation | v. recomandation
 recompensar | odměnit, odplatit
@@ -8714,10 +8893,10 @@ reconciliation | (u)smíření, smír
 reconciliatori | smířlivý, smírný
 reconnossent | v. reconossent
 reconnosser | v. reconosser
-reconnossíbil | v. reconossíbil
+reconnossibil | v. reconossibil
 reconossent | rozeznávající (co): -entie poznání
 reconosser | poznat (po hlase)
-reconossíbil | poznatelný
+reconossibil | poznatelný
 reconvalescente | reconvalescent
 reconvalescentie | rekonvalescence, zotavování
 reconvalescer | zotavovat se (po nemoci)
@@ -8737,7 +8916,7 @@ recuperar | znovu získat, rekuperovat tech.; ~ se vzpamatovat se (ze ztráty)
 recuperation | znovuzískávání, rekuperace
 recurrer | utéci se (k)
 recurse | útočiště
-recusábil | odmítutelný (soudce, svědek)
+recusabil | odmítutelný (soudce, svědek)
 recusar | odmítnout (soudce pro předpojatost) práv.
 recusation | odmítnutí práv.
 redacter | redigovat
@@ -8747,7 +8926,7 @@ redempter | vykoupit
 redemption | vykoupení
 redemptor | vykupitel
 reducter | snížit, zmenšit (počet), redukovat
-reduction | snížení, zmenšení, redukce; -íbil redukovatelný
+reduction | snížení, zmenšení, redukce; -ibil redukovatelný
 reductiv | snižovací
 redute | hradba, násep, val
 refar | předělat
@@ -8805,7 +8984,7 @@ regnantie | panování, vládnutí
 regnar | panovat, vládnout
 regne | panství, vláda, říše (přírodní)
 regress | návrat, zpětný postup; úpadek; postih práv.; -er vracet se; -iv zpětný, regresívní; postihový, regresní
-regretábil | politováníhodný
+regretabil | politováníhodný
 regretar | litovat, želet (čeho)
 regrete | lítost, politování
 régul | pravidlo; -ar regulovat; -ation regulace; -ari pravidelný; -aritá pravidelnost; -ativ regulativní; -arisar uvést řád (do); zpravidelnit
@@ -8837,7 +9016,7 @@ relvía | železnice
 remachar | přežvykovat
 remanent | zbývající, zbytkový: -entie remanence fyz.
 remaner | zbývat, zůstat
-remarcábil | pozoruhodný
+remarcabil | pozoruhodný
 remarca | poznámka
 remarcar | poznamenat, podotknout; zpozorovat, všimnout si
 remediar | napravit (co); odpomoci (čemu)
@@ -8848,7 +9027,7 @@ reminiscenties | vzpomínky, paměti
 reminiscentie | vzpomínka
 reminiscer | vzpomínat
 remise | kůlna, remíza, vozovna
-remisser | vracet, zaslat zpět; přechodně polevit (o chorobě); odpustit (hříchy, trest); -íbil odpustitelný; -ion odpuštění; úleva, zmírnění
+remisser | vracet, zaslat zpět; přechodně polevit (o chorobě); odpustit (hříchy, trest); -ibil odpustitelný; -ion odpuštění; úleva, zmírnění
 remisse | vrácení zásilky; dočasná úleva choroby
 remissiv | promíjivý
 remorcar | vléci, táhnout (co)
@@ -8877,7 +9056,7 @@ renovar | obnovit, renovovat
 renovation | obnovení, renovace
 renta | důchod, renta
 rentario, | -ero rentiér
-rentar | vyplácet se, rentovat se; -ábil rentabilní; -abilitá rentabilita
+rentar | vyplácet se, rentovat se; -abil rentabilní; -abilitá rentabilita
 renunciar | vzdát se, odříci se, zříci se (čeho)
 renunciation | vzdání se, odřeknutí se, zřeknutí se, odmítnutí (čeho)
 renversar | překotit, převrátit, převrhnout; vyvrátit (teorii): -ament převrácení; převrat, zvrat
@@ -8923,7 +9102,7 @@ reprimande | pokárání, důtka
 reprochar | vyčítat, vytýkat
 reproche | výčitka, výtka
 reproducter | reprodukovat; rozmnožovat
-reproduction | reprodukce, rozmnožování; -íbil reprodukovatelný
+reproduction | reprodukce, rozmnožování; -ibil reprodukovatelný
 reproductiv | reprodukční
 repter | plazit se
 reptile | plaz
@@ -8969,13 +9148,13 @@ resonant | zvučící
 resonar | odrážet zvuk, (za)zní(va)t, zvučet; rozléhat se: -ation zvučení
 resorpter | vstřebávat, pohlcovatr, vsakovat
 resorption | vstřebávání, pohlcování, vsakování
-respectar | ctít, mít v úctě; -ábil úctyhodný, slušný
+respectar | ctít, mít v úctě; -abil úctyhodný, slušný
 respecte | úcta, vážnost
 respectosi | uctivý
 respirar | dýchat, oddychovat
 respiration | dýchání, dech: -ativ dýchací
 responder | odpovědět (nač)
-responsábil | (por) odpovědný (za): -abilitá odpovědnost
+responsabil | (por) odpovědný (za): -abilitá odpovědnost
 responsar | odpovídat (zač)
 response | odpověď
 ressor | pružné pero, pružina
@@ -9050,7 +9229,7 @@ reveríe | snění (touha)
 reversal | obrácený, opačný
 reversar | obrátit, překlopit
 reverse | rub, zadní strana
-reversíbil | oboustranný (látka), obratitelný
+reversibil | oboustranný (látka), obratitelný
 reversion | obrácení; návrat (k původnímu typu), reverze biol.; -siv zvratný, vracející se
 reverter | obrátit naruby
 revide, | -dentie shledání; til revide! na shledanou!; -ser přehlédnout, přezkoumat, (z)revidovat; -sion přehlédnutí, přezkoumání, revize
@@ -9105,7 +9284,7 @@ risca | nebezpečí, riziko
 riscar | dávat v sázku, riskovat: -ant riskující
 riscosi | nebezpečný, odvážný, riskantní
 rise, | -sion smích
-risíbil | směšný
+risibil | směšný
 ris | rýže; -iera rýžové pole, rýžoviště
 ritme | *rhyth... (ryt...) rytmus
 ritmica | rytmika
@@ -9193,7 +9372,7 @@ rumination | přežvykování: -ante přežvýkavec zool.
 rumore | pověst (nezaručená zpráva), řeči; hukot
 rum | rum
 rupter | zlomit, rozbít
-ruptíbil | rozbitný, křehký; rupte-furte
+ruptibil | rozbitný, křehký; rupte-furte
 ruption, | -ura zlomení; přerušení, prolomení, průlom
 rural | venkovský; polní (cesta)
 rurano | venkovan, sedlák
@@ -9297,7 +9476,7 @@ sarco | rakev
 sarment | úponka (vinné révy); -osi úponkovitý
 satanic | ďábelský, satanský
 satano | ďábel, satan
-sat | dost; -ie(tá) sytost; til satietá dosyta; -iar (na)sytit: -iábil nasytitelný
+sat | dost; -ie(tá) sytost; til satietá dosyta; -iar (na)sytit: -iabil nasytitelný
 satelite | satelit
 satellite | v. satelite
 satine | satén text.
@@ -9488,13 +9667,13 @@ senil | stařecký; -itá stařeckost
 senior | pán, pan; -a paní; -etta slečna; -atu hodnost nejstaršího člena; -ia feud. panství hist.; -itá stařešinství
 sénior | senior, stařešina (v kolektivu)
 sense | smysl (čeho); nonsense nesmysl
-sensíbil | citlivý (nač)
+sensibil | citlivý (nač)
 sensu | smysl fyziol.; -al smyslný; -alitá smyslnost
 sente | cit, pocit
 sentencial | odpovídající výroku; -ar odsoudit (k)
 sentencie | průpověď; výrok; rozsudek
 sentenciosi | duchaplný, poučný, myšlenkově bohatý; ostře formulovaný
-sentíbil | citelný
+sentibil | citelný
 sentinell(e) | hlídka, stráž
 sentir | cítit, pociťovat; -iment cit, pocit: -imental citový, sentimentální
 separabilitá | oddělitelnost; -ation oddělení, odloučení; -ativ oddělovací
@@ -9700,7 +9879,7 @@ snifflar | větřit, čenichat, čmuchat
 soaré | večírek (společenský)
 sobri | střízlivý; střídmý, mírný; -etá střízlivost; střídmost
 socialisme | socialismus
-societá | společnost (pospolitost): -eté společnost (skupina osob něčím spojených); -ábil družný, společenský; -ari sdružovací; -al sociální, společenský; -alist socialista
+societá | společnost (pospolitost): -eté společnost (skupina osob něčím spojených); -abil družný, společenský; -ari sdružovací; -al sociální, společenský; -alist socialista
 socio | druh, společník
 socle | podstavec
 soda | soda; sodovka
@@ -9730,7 +9909,7 @@ solo | sólo
 sol | sám
 soluabilitá, | -entie solventnost
 soluer | řešit
-soluíbil | rozpustný; řešitelný; -ibilitá rozpustnost; řešitelnost; -tion roztok; řešení; dis-er rozpouštět solv/ábil, -ent solventní
+soluibil | rozpustný; řešitelný; -ibilitá rozpustnost; řešitelnost; -tion roztok; řešení; dis-er rozpouštět solv/abil, -ent solventní
 sómmit(e) | vrchol(ek)
 somnámbul | náměsíční; -isme náměsíčnost; -ist náměsíčník
 somniar | snít; -aci snivý; -eríe snílkovství: -on snílek
@@ -9852,7 +10031,7 @@ squermar | šermovat
 squerma | šerm
 squermator | šermíř
 stab(e) | štáb voj.
-stábil | stálý; pevný, pevně umístěný; -isar stabilizovat: -isation stabilizace; -itá stabilita
+stabil | stálý; pevný, pevně umístěný; -isar stabilizovat: -isation stabilizace; -itá stabilita
 stadie | stav, stupeň vývoje, fáze, stadium
 stagnar | stát (o vodě); váznout, stagnovat
 stagnation | stojatost; váznutí, stagnace
@@ -9997,9 +10176,9 @@ sublím | vznešený; -ar sublimovat chem.; -itá vznešenost: -ate sublimát ch
 sublinear | podtrhnout; zdůraznit
 sublocatario | podnájemník
 sublocation | podnájem
-submarine | (= nave submersíbil) ponorka
+submarine | (= nave submersibil) ponorka
 submerser | ponořit, potopit, zatopit
-submersíbil | ponorný
+submersibil | ponorný
 submersion | ponoření; zátopa
 submetter | podřídit; předložit (návrh)
 submisser | podrobit, podmanit (koho); ~ se podrobit se: -ion podrobení, podřízení, poslušnost
@@ -10224,7 +10403,7 @@ surtir | vycházet, vyjít ven
 surtut | pracovní plášť; kombinéza, montérky
 survigilantie | dohled, dozor
 survigilar | dohlédnout (na)
-susceptíbil | velmi citlivý; nedůtklivý; -itá nedůtklivost
+susceptibil | velmi citlivý; nedůtklivý; -itá nedůtklivost
 suspect | podezřelý; -er podezřívat; -ion podezření
 suspender | zbavit úřadu, sesadit, suspendovat
 suspense | dočasné zproštění z úřadu
@@ -10321,7 +10500,7 @@ tarse | zánártí anat.
 tartane | tartan tex., sport.
 tartre | vinný (i zubní) kámen
 tartric | vinný (kámen, kyselina)
-tascábil | kapesní; in-ar dát do kapsy
+tascabil | kapesní; in-ar dát do kapsy
 tasca | kapsa
 tasse | šálek, hrnek, hrníček
 tastar | hmatat
@@ -10433,7 +10612,7 @@ terral, | -an, -estri (po)zemní, (po)zemský
 terra | země; zemina, půda; terr-etage přízemí; terr-globe zeměkoule; terr-tremore zemětřesení
 terren | pozemek, terén; geologický útvar; bass-terren nížina
 terrer | děsit, strašit
-terríbil | děsivý, hrozný, strašný; -ore hrůza, děs; teror; -orist terorista
+terribil | děsivý, hrozný, strašný; -ore hrůza, děs; teror; -orist terorista
 terrine | hluboká mísa (na polévku)
 territoria | území, teriotorium
 terrorisme | terorismus: -orisar terorizovat
@@ -10543,7 +10722,7 @@ toffette | chumáček
 toffosi | chumáčovitý
 toilette | toaletní stolek; toaleta; klozet
 tole | deska plechu
-tolerábil | snesitelný: -ation snášení, tolerování
+tolerabil | snesitelný: -ation snášení, tolerování
 tolerant | snášenlivý, tolerantní: -antie snášenlivost; tolerance tech.
 tolerar | snášet, tolerovat
 tombal | náhrobní; in-ar vložit do hrobu
@@ -10613,7 +10792,7 @@ traduction | překlad
 traductor | překladatel
 traer | táhnout, vléci
 tráffic | v. tráfic
-tráfic | obchod(ování); provoz, dopravní ruch; -ar (in) obchodovat; kšeftovat (s čím); -ante obchodník; kšeftař; -ábil sjízdný, schůdný; -ator směrovka, blinkr
+tráfic | obchod(ování); provoz, dopravní ruch; -ar (in) obchodovat; kšeftovat (s čím); -ante obchodník; kšeftař; -abil sjízdný, schůdný; -ator směrovka, blinkr
 traforar | provrtat
 traher | v. traer
 trahir | (pro)zradit
@@ -10743,7 +10922,7 @@ trillar | trylkovat
 trille | trylek
 trimestral | čtvrtletní
 trimestre | čtvrtletí
-trinca | napití, doušek; -ard pijan; -age nápoj, pití; -on pijan; -ada pití; -achar chlastat; -ábil pitný: -ator piják (čeho); -atoria pivnice
+trinca | napití, doušek; -ard pijan; -age nápoj, pití; -on pijan; -ada pití; -achar chlastat; -abil pitný: -ator piják (čeho); -atoria pivnice
 trincar | pít
 trincuore | brčko (na pití); trinca-moné zpropitné
 trin | trojjediný (Bůh); -itá trojjedinost; T- Trojice círk.
@@ -10922,7 +11101,7 @@ ursiera | medvědí doupě
 urso | medvěd
 urtíca | kopřiva
 urticarie | kopřivka med.
-usábil | použitelný
+usabil | použitelný
 usa | (po)užití
 usar | (po)uží(va)t; -ada, -ation (po)užívání: -antie zvyklost, uzance; -age (po)užívání
 usina | větší továrna, závod
@@ -10999,7 +11178,7 @@ van | marný, in van nadarmo; -itá marnost; marnivost; -itari, -itosi marnivý,
 va | (pomocné sloveso budoucího času): yo ~ ear půjdu
 vapor | (vodní) pára, výpar; -ar pářit se (vydávat páru); -ear měnit se v páru; -osi mlhavý; parnatý, plný páry; -isar odpařovat, proměnit v páru; -isation odpařování; -isator odpařovač
 variante | obměna, varianta
-variar | střídat se, měnit se; kolísat (o ceně); -ation změna, kolísání; -etá rozmanitost. různost, pestrost; -ábil proměnlivý; -ábile proměnná mat.; -abilitá proměnlivost
+variar | střídat se, měnit se; kolísat (o ceně); -ation změna, kolísání; -etá rozmanitost. různost, pestrost; -abil proměnlivý; -ábile proměnná mat.; -abilitá proměnlivost
 várice | křečová žíla, městka med.
 varicelle | plané neštovice
 varie | rozmanitý, různý, pestrý
@@ -11035,12 +11214,12 @@ velur | samet; -i sametový
 venal | prodejný, úplatný; -itá prodejnost, úplatnost
 venar | žilkovat
 venator | mstitel
-vende, | -ida, -ition prodej; -itor prodavač: -íbil prodejný (zboží)
+vende, | -ida, -ition prodej; -itor prodavač: -ibil prodejný (zboží)
 vendibilitá | prodejnost
 vendir | prod(áv)at
 venen | (= tóxico) jed; -osi jedovatý
 venerar | ctít, uctícvat
-veneration | úcta, uctívání; -ábil ctihodný, úctyhodný
+veneration | úcta, uctívání; -abil ctihodný, úctyhodný
 venerator | ctitel
 venerdí | pátek
 Vénere | (= Vénus) Venuše astr.
@@ -11085,7 +11264,7 @@ verne | jaro
 vernissage | nátěr obrazů lakem; zahájení
 vernissar | (na)lakovat; dodat lesku přen.
 vernisse | fermež, (průhledný) lak, nátěr
-ver | pravdivý, pravý, opravdový; -itá pravda, pravdivost: -itábil opravdový, pravdivý; -aci pravdomluvný; -acitá pravdomluvost; -simil pravděpodobný; -ificar ověřit (pravdivost); -ification ověření
+ver | pravdivý, pravý, opravdový; -itá pravda, pravdivost: -itabil opravdový, pravdivý; -aci pravdomluvný; -acitá pravdomluvost; -simil pravděpodobný; -ificar ověřit (pravdivost); -ification ověření
 verruca | v. veruca
 verrucosi | v. verucosi
 versar | (na)lít; prolévat (krev)
@@ -11131,7 +11310,7 @@ vexar | sužovat, trápit
 vexation | sužování
 vexatori | mučivý
 vez | krát: un vez jednou; du vez(es) dvakrát
-viábil | sjízdný
+viabil | sjízdný
 via | cesta (směr, dráha)
 viage | cesta (cestování); ~ circulari okružní cesta, turné: -ar cestovat; -ator cestovatel; -ante cestující
 viárium | jízdní řád
@@ -11215,7 +11394,7 @@ visco | jmelí bot.
 viscositá | vazkost, viskozita
 viscosi | vazký (tekutina), viskózní
 visette | muška (na pušce)
-vise | vidina, vize; pohled; a prim ~ na první pohled; -síbil viditelný; -sibilitá viditelnost; -sion vidění, zření; -sionari vizionářský
+vise | vidina, vize; pohled; a prim ~ na první pohled; -sibil viditelný; -sibilitá viditelnost; -sion vidění, zření; -sionari vizionářský
 visiere | hledí (středověké přilby); štítek čepice
 visionario | vizionář
 vision | v. vider
@@ -11236,7 +11415,7 @@ vitre | sklo
 viventar | oživit
 viver | žít
 vive | život; -ent živý, naživu; -entie žití; -id živý; jasný, svěží; sytý (barva); -achar živořit; -osi životný: -aci živý (temperament); -acitá živost
-vivicapábil | životaschopný
+vivicapabil | životaschopný
 vi | (= vide) hle, vida; viz
 vivificar | oživit
 vivification | oživení
@@ -11302,7 +11481,7 @@ vulcanite | vulkanit (tvrzený kaučuk)
 vulgarisme | hrubý výraz
 vulgari | sprostý, vulgární; obecný, všední
 vulgaritá | sprostota, vulgárnost; -isar vulgarizovat
-vúlnerábil | zranitelný
+vúlnerabil | zranitelný
 vúlnerar | (po-, z)ranit; -ation (po-, z)ranění
 vúlnere | rána, (po-, z)ranění
 vultar | klenout
