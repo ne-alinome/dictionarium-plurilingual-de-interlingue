@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910271129
+# Last modified 201910271616
 # See change log at the end of the file
 
 # ==============================================================
@@ -13,6 +13,7 @@
 # - asciidoctor-pdf
 # - dbtoepub
 # - dictfmt
+# - gforth 
 # - pandoc
 # - vim
 # - xsltproc
@@ -28,7 +29,7 @@ book_author=""
 publisher="ne.alinome"
 description=
 
-dict_basename=dictionarium_de_interlingue
+dict_basename=$(book_basename)
 dict_data_url=http://ne.alinome.net
 dict_data_format=c5
 
@@ -66,36 +67,36 @@ $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 dict: target/$(dict_basename).dict.dz
 
 .PHONY: mdf
-mdf: tmp/interlingue.txt
+mdf: target/$(book_basename).mdf
 
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
 
 # ==============================================================
-# Create the Interlingue MDF data file
+# Convert source data files to an intermediate format
+
+# The intermediate format makes the data easier to be interpreted
+# as a Forth program.
+
+tmp/%.txt: src/%.txt
+	sed "s@^ *@term{ @" $< | \
+	sed "s@ *# *@} $(basename $(notdir $<)){ @" | \
+	sed "s@ *#.*@}@" \
+	> $@
+
+tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
+	cat $^ | \
+	sort -d -f > $@
+
+# ==============================================================
+# Convert the intermediate format to MDF
 
 # The MDF format is used by several dictionary programs created by SIL
 # (http://sil.org), e.g. Lexique Pro and Toolbox.
 
-tmp/interlingue.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
-	cat $^ | \
-	sort | \
-	vim \
-		- \
-		-e \
-		-c '%substitute@\(\\lx .\{-} \+\\g\)\(...\+\)\n\1@\1\2 \\g@e' \
-		-c '%substitute@\\lx@\r&@e' \
-		-c '%substitute@\s\(\\g\a\a\)@\r\1@ge' \
-		-c "wq! $@"
-
-# ==============================================================
-# Convert text data files to pre-MDF files
-# (MDF markups, but still one line per record)
-
-tmp/%.txt: src/%.txt
-	sed "s@^@\\\\lx @" $< | \
-	sed "s@ | @ \\\\g$(basename $(notdir $<)) @" > $@
+target/$(book_basename).mdf: tmp/all.txt
+	gforth make/mdf.fs $< -e bye > $@
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -240,4 +241,5 @@ uninstall:
 #
 # 2019-10-26: Add note about the MDF format.
 #
-# 2019-10-27: Add the Czech source.
+# 2019-10-27: Add the Czech source. Create the MDF target with Gforth instead
+# of Vim.
