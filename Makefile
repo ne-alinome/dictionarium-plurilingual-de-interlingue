@@ -95,6 +95,7 @@ tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
 		--fold-case \
 		--comparison-type l \
 		--sort-order make/sort_order.txt \
+		--exclusion-file make/sort_exclusions.txt \
 		--quiet \
 		> $@
 
