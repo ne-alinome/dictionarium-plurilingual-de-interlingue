@@ -1,6 +1,6 @@
 = TO-DO of _Dictionarium de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-14
+:revdate: 2019-10-27
 
 // This file is part of project
 // _Dictionarium de Interlingue_
@@ -11,9 +11,9 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908160033
+// Last modified 201910271056
 
-== Esperanto
+== Esperanto (eo)
 
 - Fix "implorar - (al)voki, peti pri helpo".
 - Fix "interrupter - inter(rupt)i".
@@ -27,7 +27,13 @@
   (cicle) - ciklo".
 - Fix notation of comments, e.g. "avan (loc) - antaŭ".
 
-== German
+== German (de)
 
 - Fix "respít | Atempause, Ruhepause"
 - Fix "resultatar | resultieren, zum Ergebnis haben"
+
+== Czech (cs)
+
+- Confirm: "aquittar" or "aquittantiear". 
+- Confirm: "lignosculpture" -> ligne-sculpture".
+- Confirm: "taxí" -> "taxi".
