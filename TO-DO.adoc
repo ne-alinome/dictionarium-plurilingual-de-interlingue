@@ -11,12 +11,12 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910272359
+// Last modified 201910280007
 
 == General
 
-- Improve the sorting of the intermediate file with character
-  exclusions.
+- Add a field to note the word type (n., adj., adv., conj. prep., pref., suf.,
+  int., etc).
 
 == Esperanto (eo)
 
@@ -38,6 +38,7 @@
 
 - Fix "respít | Atempause, Ruhepause"
 - Fix "resultatar | resultieren, zum Ergebnis haben"
+- Homogenize notes "(Vorsilbe)" (prefix).
 
 == Czech (cs)
 
