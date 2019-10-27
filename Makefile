@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910271616
+# Last modified 201910271639
 # See change log at the end of the file
 
 # ==============================================================
@@ -86,8 +86,7 @@ tmp/%.txt: src/%.txt
 	> $@
 
 tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
-	cat $^ | \
-	sort -d -f > $@
+	sort -f $^ > $@
 
 # ==============================================================
 # Convert the intermediate format to MDF
@@ -242,4 +241,4 @@ uninstall:
 # 2019-10-26: Add note about the MDF format.
 #
 # 2019-10-27: Add the Czech source. Create the MDF target with Gforth instead
-# of Vim.
+# of Vim. Simplify the sorting of the intermediate file.
