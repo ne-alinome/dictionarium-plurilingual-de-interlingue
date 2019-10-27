@@ -13,6 +13,12 @@
 //
 // Last modified 201910271056
 
+== General
+
+- Replace "v." with "->" or any other mark, more legible in all
+  languages.
+- Improve the sorting of the intermediate file.
+
 == Esperanto (eo)
 
 - Fix "implorar - (al)voki, peti pri helpo".
@@ -39,3 +45,9 @@
 - Confirm: "aquittar" or "aquittantiear". 
 - Confirm: "lignosculpture" -> ligne-sculpture".
 - Confirm: "taxí" -> "taxi".
+- Confirm: "abassar" was duplicated: own term and derivated in the
+  "bass" entry. Both translations were not identical, and they have
+  been combined.
+- Add   "planimetrie".
+- Move the topic abbreviations, e.g. "bot.", "gram." to the start of
+  the term.
