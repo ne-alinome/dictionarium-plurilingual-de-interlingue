@@ -26,6 +26,8 @@
 - Fix notation of duplicated forms, e.g. "atra(c)tiv - altira", "cycle
   (cicle) - ciklo".
 - Fix notation of comments, e.g. "avan (loc) - antaŭ".
+- Fix: "a propó | interalie".
+- Confirm: "restoration | restoracio".
 
 == German (de)
 

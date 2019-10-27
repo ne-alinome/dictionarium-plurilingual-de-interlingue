@@ -3,7 +3,7 @@ abandonar | forlasi
 abassar | malaltigi
 abat | abato
 abatessa | abatino
-abatter | feligi
+abatter | faligi
 abderitano | Abderano
 abdicar | abdiki
 abdómine | abdomeno
@@ -85,7 +85,7 @@ adaptation | adapto
 addir | adicii
 adequat | adekvata
 adherer | adheri
-adíar | adiaŭi
+adiar | adiaŭi
 adío | adiaŭ
 adjacer | apudkuŝi, najbari
 adjunter | aligi, almeti
@@ -215,10 +215,10 @@ anelle | ringo
 anexer | aneksi
 angel | anĝelo
 anguill | angilo
-ángul | angulo
+angul | angulo
 animale | animalo
 animalic | animala
-ánim | animo
+anim | animo
 annual | jara
 annu | jaro
 anse | anso
@@ -468,7 +468,7 @@ beson | bezono
 bestial | bestia
 bestie | bestio
 bete | beto
-bétul | betulo
+betul | betulo
 bible | biblio
 bilie | galo
 billet | bileto
@@ -802,8 +802,9 @@ clove | najlo
 cluder | fermi
 cobold | koboldo
 cochemare | inkubo, terursonĝo
+cocina | (= cocinería) kuirejo
 cocinar | kuiri
-cocinería | kuirejo
+cocinería | (= cocina) kuirejo
 cocinero | kuiristo
 coclare | kulero
 code | kodo
@@ -1050,7 +1051,7 @@ criar | krii
 cribell | kribrilo
 crida (falliment) | bankroto
 cri | krio
-críminard | krimulo
+criminard | krimulo
 crímine | krimo
 crine | krino
 crochetar | kroĉeti
@@ -1079,7 +1080,7 @@ culpa | kulpo
 cultel | tranĉilo
 cultivar | kultivi
 cúmine | kumino
-cúmul | amaso
+cumul | amaso
 cumular | amasigi
 cuneo | kojno
 cunicul | kuniklo
@@ -1102,10 +1103,12 @@ custar | kosti
 customar | kutimi
 custom | kutimo
 cute | ledo
-cycle (cicle) | ciklo
-cyclon (ciclon) | ciklono
-cygne (cigne) | cigno
-cypress (cipress) | cipreso
+cicle | ciklo
+cycle | v. cicle
+ciclon | ciklono
+cyclon | v. ciclon
+cygne | v. cigne
+cypress | v. cipress
 damagear | damaĝi
 damage | damaĝo
 damnar | damni
@@ -1151,7 +1154,7 @@ demandar | peti
 deman | morgaŭ
 dement | freneza
 dementir | dementi
-demí- | duon
+demí- | duon-
 demí | duono
 demolir | malkonstrui
 denov(e) | denove
@@ -1194,7 +1197,7 @@ dever | devi
 devise | devizo
 devoet | sindona
 devorar | devori
-dextrí | dekstra
+dextri | dekstra
 diabete | diabeto
 diabol | diablo
 die | tago
@@ -1210,7 +1213,7 @@ dill | aneto
 diluer | dilui
 diluvie | diluvo
 diminuer | dimimui, etigi
-dinéar | tagmanĝi
+dinear | tagmanĝi
 diné | tagmanĝo
 dir | diri
 directer | direkti
@@ -1337,7 +1340,7 @@ etablissement | establ(aĵ)o
 etablisser | establi
 etage | etaĝo
 eterni | eterna
-etsí | kvankam
+etsí | v. benque
 eufonie | eŭfonio
 evacuar | evakui
 evanescer | sveni
@@ -1933,7 +1936,7 @@ lacear | laĉi
 lace | laĉo
 lacerar | disŝiri
 laconic | lakona
-lácrimar | larmi
+lacrimar | larmi
 lácrime | larmo
 lacte | lakto
 lacune | interspeco
@@ -1979,7 +1982,7 @@ lentille | lento
 lent | lanta, malrapida
 leon | leono
 lepra | lepro
-les | ilin
+les | ilin, al ili
 letor | leganto
 lette | lito
 lettre | letero
@@ -1989,7 +1992,7 @@ levere | levilo
 levi | malpeza
 levul | maldekstra
 lexico | vortaro
-ley | leĝo
+ley | v. lege
 libre | libro
 librería | librovendejo
 licer | lici
@@ -2024,7 +2027,7 @@ lob | lobo
 local | loka
 locar | loki
 loco | loko
-logíar | loĝi
+logiar | loĝi
 logí | loĝejo
 longitudine | longitudo
 long | longa
@@ -2062,7 +2065,7 @@ machine | maŝino
 machuore | makzelo
 macular | makuli
 macul | makulo
-magnánim | grandanima
+magnanim | grandanima
 magnific | grsndioza
 magri | magra
 mai | majo
@@ -2339,7 +2342,7 @@ nequam | neniel
 nequande | neniam
 nequant | neniom, tute nenio
 nequel | neniu
-nequi | neniu
+nequí | neniu
 nequó | nenio
 nestar | nesti
 nest | nesto
@@ -2367,7 +2370,7 @@ nocte | nokto
 nodar | nodi
 node | nodo
 noi | ni
-nóminar | nomi
+nominar | nomi
 nómine | nomo
 no! | ne!
 nonna | monahino
@@ -2376,7 +2379,7 @@ nord | nordo
 normal | normala
 norme | normo
 nor | nia
-nos | nin
+nos | nin, al ni
 nostalgic | nostalgia
 nostalgie | nostalgio
 notar | noti
@@ -2400,7 +2403,7 @@ null | neniu; nulo
 numerar | numeri
 númere | nombro
 numeró | numero
-númerosi | nombr(mult)-a
+numerosi | nombr(mult)-a
 nu … nu | jen … jen
 nu | nun
 nuptie | nupto
@@ -2521,9 +2524,9 @@ paddlar | pagajli
 paddle | pagajlo
 padelle | pato, muldilo
 pagano | pagano
-páginar | paĝonumeri
+paginar | paĝonumeri
 págine | paĝo
-paísage | pejzaĝo
+paisage | pejzaĝo
 país | kamparo
 palace | palaco
 palate | palato
@@ -2612,7 +2615,7 @@ payar | pagi
 pecca | peko
 peccar | peki
 pech | peĉo
-péctinar | kombi
+pectinar | kombi
 péctine | kombilo
 pectoral | brusta
 péctor | brusto
@@ -2769,7 +2772,7 @@ pollice | polekso, dikfingro
 polve | polvo
 pomiero | pomarbo
 pom | pomo
-pónderar | pezi
+ponderar | pezi
 póndere | pezo
 ponte | ponto
 pople | poplo
@@ -2952,7 +2955,7 @@ pulmon | pulmo
 pulular | svarmi
 pululation | svarmo
 púlvere | pulvoro
-púlverisar | pulvorigi
+pulverisar | pulvorigi
 púmice | pumiko
 pumpar | pumpi
 pumpe | pumpilo
@@ -2967,7 +2970,7 @@ pupille | pupilo
 puré | kaĉo
 purgar | purigi, laksigi
 pur | pura
-pusilánim | etanima
+pusilanim | etanima
 pussar | puŝi
 puteo | puto
 putor | putoro
@@ -3193,7 +3196,8 @@ restaurar | restaŭri
 restauration | restaŭro
 reste | resto
 restituer | restitui
-restoration | restoracio, gastería
+restoration | restoracio
+gastería | hostalo
 restrar | resti
 restre | restilo
 restricter | restrikti
@@ -3521,7 +3525,7 @@ slitte | sledo
 smeril | smirgo
 sobri | sobra
 social | socia, sociala
-societé | socio
+societé | asocio, societo
 socio | kunulo
 socle | soklo
 soflar | blovi
@@ -3772,7 +3776,7 @@ surprise | surprizo
 sur | sur
 surtida | eliro
 surtir | eliri
-su | sia
+su | sia, lia, ŝia, ĝia
 suspecter | suspekti
 suspection | suspekto
 suspect | suspekta
@@ -3836,7 +3840,7 @@ tauro | taŭro
 taverne | taverno
 taxon | melo
 teatre | teatro
-te | cin
+te | cin, al ci
 tegment | tegmento
 tegul | tegolo
 tema | temo
@@ -3929,7 +3933,7 @@ tombe | tombo
 tom | volumo
 tonder | tondi
 tonnage | tunaro
-tónnerar | tondri
+tonnerar | tondri
 tónnere | tondro
 tonne | tuno
 tonsille | tonsilo
@@ -4005,7 +4009,7 @@ trellie | krado
 trema | (tim)tremo
 tremer | tremi, skui
 tremore | tremiĝo
-trémul | tremolo
+tremul | tremolo
 trenar | treni
 trenché | tranĉeo
 tren | trajno, vagonaro
@@ -4052,8 +4056,8 @@ trute | truto
 tsar | caro
 tsaressa | carino
 tuberculose | tuberkulozo
-tubércul | tuberkulo
-túbere | túbero
+tubercul | tuberkulo
+túbere | tubero
 tube | tubo
 tuchar | tuŝi
 tu | ci
@@ -4090,7 +4094,7 @@ undear | ondi
 unde | ondo
 undular | ondumi
 unesim | unua
-úngul | ungo
+ungul | ungo
 union | unio
 unir | unuigi
 unitá | unueco
@@ -4167,7 +4171,8 @@ variole | variolo
 vase | vazo
 vassale | vasalo
 vast | vasta
-va: yo va far | mi faros
+va | (vorto uzata antaŭ infinitivoj por esprimi li estontecon) 
+yo va far | mi faros
 vegetariane | vegetarano
 vegetar | vegeti
 vehement | energia
@@ -4175,7 +4180,8 @@ vehicular | vehikli
 vehicul | vehiklo
 veler | vuali
 vele | vualo
-vell: yo vell far | ai farus
+vell | (vorto uzata antaŭ infinitivoj por esprimi li kondicionalon)
+yo vell far | mi farus
 veloci | rapida
 velur | veluro
 vende | vendo
@@ -4221,7 +4227,7 @@ vertú | virto
 veruca | veruko
 ver | vera
 verve | vervo
-vesícul | veziketo
+vesicul | veziketo
 vesperal | vespera
 vesper | vespero
 vespe | vespo
@@ -4232,7 +4238,7 @@ vestir | vesti
 veterinario | veterinaro
 vettar | vati
 vette | vato
-vé! | ve!
+ve! | ve!
 vexar | turmenti
 vez: du vez | duoble
 viaducte | viadukto
@@ -4317,12 +4323,12 @@ vomir | vomi
 voraci | vorema
 vorar | vori
 vor | via
-vos | vin
+vos | vin, al vi
 votar | voĉdoni
 vrec | ŝipruino
 vulcane | vulkano
 vulgari | vulgara
-vúlnerar | vundi
+vulnerar | vundi
 vúlnere | vundo
 vultar | volbigi
 vulte | volbo
