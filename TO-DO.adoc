@@ -11,12 +11,10 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910271847
+// Last modified 201910272359
 
 == General
 
-- Replace "v." with "->" or any other mark, more legible in all
-  languages.
 - Improve the sorting of the intermediate file with character
   exclusions.
 

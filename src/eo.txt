@@ -1105,10 +1105,10 @@ custar # kosti #
 customar # kutimi #
 custom # kutimo #
 cute # ledo #
-cycle # v. cicle #
-cyclon # v. ciclon #
-cygne # v. cigne #
-cypress # v. cipress #
+cycle # -> cicle #
+cyclon # -> ciclon #
+cygne # -> cigne #
+cypress # -> cipress #
 damagear # damaĝi #
 damage # damaĝo #
 damnar # damni #
@@ -1340,7 +1340,7 @@ etablissement # establ(aĵ)o #
 etablisser # establi #
 etage # etaĝo #
 eterni # eterna #
-etsí # v. benque #
+etsí # -> benque #
 eufonie # eŭfonio #
 evacuar # evakui #
 evanescer # sveni #
@@ -1993,7 +1993,7 @@ levere # levilo #
 levi # malpeza #
 levul # maldekstra #
 lexico # vortaro #
-ley # v. lege #
+ley # -> lege #
 libre # libro #
 librería # librovendejo #
 licer # lici #
