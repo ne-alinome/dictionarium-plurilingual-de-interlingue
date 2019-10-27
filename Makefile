@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910261156
+# Last modified 201910271129
 # See change log at the end of the file
 
 # ==============================================================
@@ -78,7 +78,7 @@ clean:
 # The MDF format is used by several dictionary programs created by SIL
 # (http://sil.org), e.g. Lexique Pro and Toolbox.
 
-tmp/interlingue.txt: tmp/de.txt tmp/eo.txt
+tmp/interlingue.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
 	cat $^ | \
 	sort | \
 	vim \
@@ -239,3 +239,5 @@ uninstall:
 # 2019-08-16: Create draft rules for creating the MDF file from the sources.
 #
 # 2019-10-26: Add note about the MDF format.
+#
+# 2019-10-27: Add the Czech source.
