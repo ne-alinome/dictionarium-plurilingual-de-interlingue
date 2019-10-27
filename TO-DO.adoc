@@ -11,13 +11,14 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910271056
+// Last modified 201910271847
 
 == General
 
 - Replace "v." with "->" or any other mark, more legible in all
   languages.
-- Improve the sorting of the intermediate file.
+- Improve the sorting of the intermediate file with character
+  exclusions.
 
 == Esperanto (eo)
 

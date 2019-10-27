@@ -3,19 +3,20 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910271639
+# Last modified 201910271843
 # See change log at the end of the file
 
 # ==============================================================
 # Requirements
 
-# - asciidoctor
-# - asciidoctor-pdf
+# - asciidoctor (http://asciidoctor.org)
+# - asciidoctor-pdf (http://asciidoctor.org)
 # - dbtoepub
-# - dictfmt
-# - gforth 
-# - pandoc
-# - vim
+# - dictfmt (http://dict.org)
+# - gforth (http://gnu.org/software/gforth)
+# - msort (http://billposer.org/Software/msort.html)
+# - pandoc (http://pandoc.org)
+# - vim (http://vim.org)
 # - xsltproc
 
 # ==============================================================
@@ -86,7 +87,16 @@ tmp/%.txt: src/%.txt
 	> $@
 
 tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
-	sort -f $^ > $@
+	cat $^ | \
+	msort \
+		--line \
+		--field-separators } \
+		--position 1 \
+		--fold-case \
+		--comparison-type l \
+		--sort-order make/sort_order.txt \
+		--quiet \
+		> $@
 
 # ==============================================================
 # Convert the intermediate format to MDF
@@ -241,4 +251,5 @@ uninstall:
 # 2019-10-26: Add note about the MDF format.
 #
 # 2019-10-27: Add the Czech source. Create the MDF target with Gforth instead
-# of Vim. Simplify the sorting of the intermediate file.
+# of Vim. Sort the intermediate file with Bill Poser's "msort" instead of GNU
+# "sort".
