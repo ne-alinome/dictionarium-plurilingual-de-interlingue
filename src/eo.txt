@@ -106,7 +106,7 @@ adoption # adopto #
 adorar # adori #
 adoration # adoro #
 adplu # aldone #
-a(d) saver # nome; tio estas #
+ad saver # -> a saver #
 ad u # kien #
 adular # flati #
 adulator # flatulo #
@@ -118,8 +118,8 @@ adversario # kontraŭulo #
 adversi # kontraŭa #
 advertiment # averto #
 advertir # averti #
-a(d)vocate # advokato #
-a(d)vocatie # advokateco #
+advocate # -> avocate #
+advocatie # -> avocatie #
 aerar # aerumi #
 aere # aero #
 afabil # afabla #
@@ -295,6 +295,7 @@ articul # artikolo #
 artisan # metiisto #
 artise # metio #
 artist # artisto #
+a saver # nome; tio estas #
 ascender # ascendi #
 ásino # azeno #
 asparge # aspargo #
@@ -343,8 +344,9 @@ atentate # atenco #
 atenter # atenti #
 atention # atento #
 atinger # atingi #
-atra(c)tiv # altira #
+atractiv # -> atrativ #
 atraer # altiri #
+atrativ # altira #
 atribuer # atribui #
 atribut # atributo #
 atroci # abomena, naŭza #
@@ -390,6 +392,8 @@ avigilar # veki #
 avion # avio #
 avise # avizo #
 avo # avo #
+avocate # advokato #
+avocatie # advokateco #
 axe # akso #
 axille # akselo #
 azur # lazuro #
@@ -493,7 +497,7 @@ bocca # buŝo #
 bollir # boli #
 bon # bona #
 bonna # vartistino #
-borde # bordo #
+bord # bordo #
 borgeso # burĝo #
 borse # burso #
 bosco # bosko #
@@ -594,7 +598,8 @@ camarado # kamarado #
 cambio # kambio #
 camel # kamelo #
 cámera # kamero #
-camin(e) # kameno #
+camine # kameno #
+camin # -> camine #
 camise # ĉemizo #
 campania # kamparo #
 campanie # kapanjo #
@@ -682,7 +687,7 @@ caut # singarda #
 cava # kavo #
 cavalcade # kavalkado #
 cavalcar # kavalkadi #
-cavaliero # kavaliro #
+cavalliero # kavaliro #
 cavall # ĉevalo #
 caverne # kaverno #
 cavi # kava #
@@ -967,7 +972,8 @@ conto # konto #
 contore # kontoro #
 contrabandar # kontrabandi #
 contrabande # kontrabando #
-contra(ct)er # kontrakti #
+contracter # -> contraer #
+contraer # kontrakti #
 contra # kontraŭ #
 contribuer # kontribui #
 contrir # aflikti #
@@ -1157,7 +1163,8 @@ dementir # dementi #
 demí- # duon- #
 demí # duono #
 demolir # malkonstrui #
-denov(e) # denove #
+denov # denove #
+denove # -> denov #
 densi # dense #
 dentage # dentaro #
 dente # dento #
@@ -1233,6 +1240,8 @@ divertisser # amuzigi #
 divider # dividi #
 divinar # diveni #
 divin # dia #
+durante # dum #
+durante que # dum #
 divorciar # divorci #
 divulgar # diskonigi #
 doane # dogano #
@@ -2416,9 +2425,10 @@ obedir # obei #
 obesi # dika #
 obesitá # dik(ec)o #
 objecte # objekto #
-obje(c)ter # objeti #
+objecter # -> objeter #
 objective # objektivo #
 objectiv # objektiva #
+objeter # objeti #
 obligation # obligacio #
 obliger # obligacii #
 obliqui # oblikva #
@@ -2568,7 +2578,7 @@ paroco # paroĥestro #
 parolórdine # vortordo #
 parol # vorto #
 parsimonie # avareco #
-part(e)nero # parulo, kunulo #
+partenero # parulo, kunulo #
 parte # parto #
 partial # parta #
 participar # partopreni #
@@ -2577,6 +2587,7 @@ particul # partikulo #
 partir # partigi #
 partisano # partiano #
 partise # partio #
+partnero # -> partenero #
 partú # ĉie #
 parturir # akuŝi, naski #
 Pascal # Paska #
@@ -3363,7 +3374,8 @@ scale # l.skalo 2.ŝtupetaro #
 scaliere # ŝtuparo #
 scarabé # skarabo #
 scarlat # skarlato #
-scarp(at) # kruta #
+scarpat # kruta #
+scarp # kruta #
 scatulle # skatolo #
 sceptre # sceptro #
 scientic # scienca #
@@ -3869,7 +3881,8 @@ tentar # tenti #
 tentation # tento #
 tenui # maldika #
 tepid # tepida #
-terebint(in)e # terebinto #
+terebintine # terebinto #
+terebinte # -> terebintine #
 terme # termofonto #
 terminar # termlimi #
 termine # termlimo #

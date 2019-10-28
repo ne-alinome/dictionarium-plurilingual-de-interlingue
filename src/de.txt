@@ -729,7 +729,8 @@ autencitá # Authentizität, Echtheit #
 autentic # autenthisch #
 autobus # Bus #
 autocrate # Autokrat, Alleinherrscher #
-auto(mobile) # Auto(mobil) #
+auto # -> automobile #
+automobile # Auto(mobil) #
 autor # Autor, Schriftsteller, Urheber #
 autoressa # Autorin, Schriftstellerin, Urheberin #
 autorisar # autorisieren #
@@ -806,7 +807,8 @@ ballade # Ballade #
 ballast # Ballast #
 ball # Ball (Fest- und Tanzveranstaltung) #
 balle # Ball (Sportgerät) #
-ballett(e) # Ballett #
+ballett # Ballett #
+ballett # -> balett #
 ballon # Ballon #
 balnear # baden #
 balneari # Bade- #
@@ -1047,7 +1049,7 @@ bonvenit # willkommen #
 bon vésper # guten Abend #
 bon viage # gute Reise #
 bordar # angrenzen, entlanggehen #
-bordell(e) # Bordell #
+bordell # Bordell #
 bord # Rand, Ufer, Bord (Schiff) #
 borgesacho # Spießbürger #
 borgese # Bürger (Stand) #
@@ -1290,7 +1292,8 @@ canale # Kanal #
 canalisar # kanalisieren #
 canallia # Kanailie, Pack, #
 canapé # Sofa, Couch #
-Canaries # Kanarische Inseln #
+Canarias # Kanarische Inseln #
+Canaries # -> Canarias #
 cancellaria # Kanzlei #
 cancellera # Kanzlerin #
 cancellero # Kanzler #
@@ -1424,13 +1427,13 @@ carpentero # Zimmermann #
 carre # Karren, Wagen #
 carrel # Kachel, Fliese #
 carruch(o) # Schubkarre #
-carrusell(e) # Karussell #
+carrusell # Karussell #
 carst # Karst #
 carteche # Kartätsche #
 carte de credite # Kreditkarte #
 carte geografic # Landkarte #
 carte # Karte #
-cartelle # Kartell #
+cartell # Kartell #
 carte postal # Postkarte #
 cartilágine # Knorpel #
 carton # Pappe, Karton #
@@ -1447,7 +1450,7 @@ casserol # Kochtopf #
 castanie # Kastanie #
 castaniero # Kastanienbaum #
 caste # Kaste #
-castelle # Burg, Schloss #
+castell # Burg, Schloss #
 castigar # züchtigen #
 castigation # Züchtigung #
 Castilia # Kastilien #
@@ -2970,7 +2973,7 @@ detonation # Explosion, Detonation, Knall #
 detonator # Zünder (Bombe) #
 detoriation # Beschädigung #
 detornar # krümmen, biegen #
-detorn # Krümmung, Biegung, Umweg, Abkehr #
+detorne # Krümmung, Biegung, Umweg, Abkehr #
 detracter # herabsetzen, beeinträchtigen #
 detractor # Lästerer, Kritiker #
 detra # hinter #
@@ -3297,7 +3300,8 @@ durabil # dauerhaft, haltbar #
 durada # Dauer #
 dura # Dauer #
 durantie # Dauer #
-durant (que) # während #
+durante # während #
+durante que # während #
 durar # dauern #
 duration # Dauer #
 dur # hart #
@@ -7614,6 +7618,7 @@ parquete # Parkett (Theater) #
 parquett # Parkett (getäfelter Fußboden) #
 parsimonie # Knauserei, Knickerigkeit #
 parsimoniosi # knauserig, knickerig #
+partenero # Partner, Teilhaber, Mitspieler #
 parte # Teil #
 partialitá # Parteilichkeit #
 partial # Teil-, partiell #
@@ -7631,7 +7636,7 @@ partisan # Parteigänger, Partisan #
 partisan # Partei-, parteilich #
 partise # Partei #
 partition # Teilung #
-partnero # Partner, Teilhaber, Mitspieler #
+partnero # -> partenero #
 parturir # gebären #
 parturition # Gebärvorgang, Geburt #
 partú # überall #
@@ -7644,7 +7649,8 @@ passabil # passabel, mittelmäßig, passierbar #
 passage # Passage, Durchgang, Korridor #
 passagero # Passagier #
 passante # Passant #
-pass(a)-parol # Passwort; Losung #
+pass-parol # Passwort; Losung #
+passa-parol # -> pass-parol #
 passar li nocte # die Nacht verbringen #
 passar un exámine # eine Prüfung bestehen #
 passar # vorbeigehen, verbringen, durchreisen #
@@ -7959,7 +7965,7 @@ pezze # Stück #
 pezzettar # abbröckeln #
 piaffada # Gestampfe, Stampfen (von Pferden) #
 piaffar # stampfen (von Pferden) #
-piani # leise #
+pian # leise #
 pianissim # pianissimo #
 pianist # Pianist, Klavierspieler #
 piano # Klavier #

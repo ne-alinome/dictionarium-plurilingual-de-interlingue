@@ -9,8 +9,8 @@ abatia # opatství #
 abattement # (s)kácení, porážení #
 abatter # (s)kácet, porážet (stromy) #
 abattoria # (= buchatoria) jatky #
-abbatessa # -> abatessa #
 abbate # -> abate #
+abbatessa # -> abatessa #
 abbatia # -> abatia #
 abbordar # -> abordar #
 abbreviar # -> abreviar #
@@ -60,7 +60,7 @@ abricot # meruňka #
 abrogar # odstranit, zrušit #
 abrogation # odstranění, zrušení #
 abrupt # strmý, srázný, příkrý; strohý, úsečný (řeč) #
-abscess(e) # hlíza, vřed, absces med. #
+abscess # hlíza, vřed, absces med. #
 abscissa # úsečka geom. #
 absenter se # vzdálit se #
 absentie # nepřítomnost, absence #
@@ -78,9 +78,9 @@ abstention # zdržování se (hlasování, komentáře apod.) #
 abstinente # abstinent #
 abstinentie # zdrženlivost (od požitků), abstinence #
 abstiner # zdržovat se (alkoholu, kouření apod.) #
+abstract # -> abstrat #
 abstracte # -> abstrate #
 abstraction # -> abstration #
-abstract # -> abstrat #
 abstraer # nepřihlížet (k), abstrahovat #
 abstraher # -> abstraer #
 abstrate # abstraktní pojem #
@@ -113,6 +113,7 @@ acceptabilitá # přijatelnost #
 acceptabil # přijatelný #
 acceptar # přijmout #
 acceptation # přijetí, akceptace (směnky) #
+access # -> acceder # XXX FIXME --
 accessibil # přístupný, dosažitelný, dostupný #
 accession # přistoupení (k) práv. #
 accessories de inseniament # učební pomůcky #
@@ -120,7 +121,6 @@ accessories de moda # módní doplňky #
 accessories # příslušenství #
 accessori # vedlejší, přídavný #
 access # přístup; příval (citu); záchvat med. # XXX FIXME --
-access # -> acceder # XXX FIXME --
 accidental # náhodný, nahodilý #
 accidente # příhoda, nehoda #
 accidentie # nahodilost #
@@ -133,12 +133,12 @@ accommodar # -> acomodar #
 accommodation # -> acomodation #
 accompaniament # -> acompaniament #
 accompaniar # -> acompaniar #
-accompleer li plane # -> acompleer li plane #
 accompleer # -> acompleer #
+accompleer li plane # -> acompleer li plane #
 accomplement # -> acomplement #
 accordar # -> acordar #
-accordeon # -> acordeon #
 accorde # -> acorde #
+accordeon # -> acordeon #
 accreditar # -> acreditar #
 accrocar # -> acrocar #
 accuchar # -> acuchar #
@@ -224,6 +224,7 @@ acustomar # se (a) zvykat si (na) #
 acutar # ostřit #
 acut # ostrý, špičatý; prudký, akutní #
 ad # (= a): admáxim nanejvýše; admínim nejméně, alespoň; ad u kam #
+ad # -> a; ad u kam # XXX FIXME --
 adaptabilitá # přizpůsobivost #
 adaptar # upravit, přizpůsobit #
 adaptatabil # přizpůsobivý #
@@ -302,7 +303,6 @@ adult # dospělý #
 adulterar # cizoložit #
 adulteration # cizoložství #
 adulterie # cizoložství #
-ad # -> a; ad u kam # XXX FIXME --
 adverbie # příslovce gram. #
 advere # sice, ovšem, zajisté #
 adversario # odpůrce, protivník, soupeř, sok #
@@ -332,8 +332,8 @@ affabil # -> afabil #
 affamar # -> afamar #
 affectar # -> afectar #
 affectation # -> afectation #
-affecter # -> afecter #
 affecte # -> afecte #
+affecter # -> afecter #
 affection # -> afection #
 affeminar # -> afeminar #
 affemination # -> afemination #
@@ -342,8 +342,8 @@ affichar # -> afichar #
 affiche # -> afiche #
 affiliar # -> afiliar #
 affiliation # -> afiliation #
-affinitá # -> afinitá #
 affini # -> afini #
+affinitá # -> afinitá #
 affirmar # -> afirmar #
 affirmation # -> afirmation #
 affixe # -> afixe #
@@ -688,8 +688,8 @@ animation # oživení #
 ánim # duše #
 annales # anály #
 annal # roční #
-annexer # -> anexer #
 annexe # -> anexe #
+annexer # -> anexer #
 annexion # -> anexion #
 annihilar # -> anihilar #
 annihilation # -> anihilation #
@@ -778,7 +778,7 @@ apatic # apatický #
 apatie # apatičnost, apatie #
 apellar # dovolávat se (čeho, koho); odvolávat se (ke komu, proti) #
 apellation # odvolání práv. #
-apell(e) # výzva #
+apell # výzva #
 apender # přivěsit, připojit #
 apendice # dodatek (díla); přívěsek slepého střeva med. #
 apendicite # zánět slepého střeva #
@@ -818,23 +818,23 @@ apostrof # *apostroph apostrof gram. #
 apostrofar # apostrofovat #
 apoteca # lékárna #
 apotecario # (též: farmacist) lékárník #
-apothecario # -> apotecario #
 apotheca # -> apoteca #
+apothecario # -> apotecario #
 apovrir # ochudit, ožebračit #
 apoyar (se) # opírat (se), podpírat #
 apoy # opora, podpěra #
 apparate # -> aparate #
-apparentie # -> aparentie #
 apparent # -> aparent #
+apparentie # -> aparentie #
 apparer # -> aparer #
 apparir # -> aparir #
 apparition # -> aparition #
+appart # -> apart #
 appartenentie # -> apartenentie #
 appartener # -> apartener #
-appart # -> apart #
 appellar # -> apellar #
 appellation # -> apellation #
-appell(e) # -> apell(e) #
+appell # -> apell #
 appender # -> apender #
 appéndice # -> apéndice #
 appercepter # -> apercepter #
@@ -1009,12 +1009,12 @@ arondar # zaokrouhlit, zaoblit, zakulatit #
 arosear # (po)kropit, zalít, zavlažit #
 arrangeament # -> arangeament #
 arrangear # -> arangear #
-arrendar # -> arendar #
 arrenda # -> arenda #
+arrendar # -> arendar #
 arrestar # -> arestar #
 arreste # -> areste #
-arrivar # -> arivar #
 arriva # -> ariva #
+arrivar # -> arivar #
 arrogant # -> arogant #
 arrogar # -> arogar #
 arrondar # -> arondar #
@@ -1097,8 +1097,8 @@ astenic # astenický #
 astenico # astenik #
 astenie # astenie med. #
 asterisco # hvězdička typ. #
-asthenico # -> astenico #
 asthenic # -> astenic #
+asthenico # -> astenico #
 asthenie # -> astenie #
 asthma # -> astma #
 astma # astma med. #
@@ -1152,8 +1152,8 @@ aterrer # vystrašit, poděsit, polekat #
 atestar # svědčit (o čem), dosvědčit #
 atestation # osvědčení #
 atheisme # -> ateisme #
-atheístic # -> ateístic #
 atheist # -> ateist #
+atheístic # -> ateístic #
 athlete # -> atlete #
 athletica, # -> atletica, #
 athletic # -> atletic #
@@ -1181,15 +1181,15 @@ atribution # přisouzení, udělení #
 atributiv # přívlastkový #
 atroci # ohavný, mrzký #
 atrocitá # ohavnost, mrzkost #
-attaccar # -> ataccar #
 attacca # -> atacca #
+attaccar # -> ataccar #
 attachament # -> atachament #
 attachar # -> atachar #
 attaché # -> ataché #
 attelage # -> atelage #
 attelar # -> atelar #
-attender # -> atender #
 attende # -> atende #
+attender # -> atender #
 attentar # -> atentar #
 attentate # -> atentate #
 attentator # -> atentator #
@@ -1259,7 +1259,7 @@ autocton # (autochton) domorodý, původní v dané oblasti #
 autoctone # domorodec, původní obyvatel #
 automate # automat #
 automatic # automatický #
-auto(móbile) # automobil #
+automobile # automobil #
 autopsie # (= obduction) pitva med. #
 autor # autor, původcem spisovatel #
 autoressa # autorka #
@@ -1354,8 +1354,8 @@ balladic # baladický #
 ballast # přítěž, balast #
 ball # bál (ples) #
 balle # míč; kulka #
-ballett(e) # balet #
-ballístic # balistický; -a balistika #
+ballett # balet #
+ballistic # balistický; -a balistika #
 ballotar # -> balotar #
 ballotation, # -> balotation, #
 balnear # koupat se; -eari koupelový: -ería lázně, koupele; -eatoria koupelna #
@@ -1482,10 +1482,13 @@ bibliofil # *bibliophil milovníík knih, bibliofil #
 bibliografie # *bibliographie bibliografie #
 biblioteca # knihovna #
 bibliotecario # knihovník #
-bibliothecario # -> bibliotecario #
 bibliotheca # -> biblioteca #
-bicicle(tte) # *bicy... jízdní kolo, bicykl #
-bi- # = dúplic dvojí (účel), dvojnásobný, dvojitý #
+bibliothecario # -> bibliotecario #
+bicicle # jízdní kolo, bicykl #
+biciclette # -> bicicle #
+bicycle # -> bicicle #
+bicyclette # -> biciclette #
+bi- # (= dúplic) dvojí (účel), dvojnásobný, dvojitý #
 bielle # ojnice; řídítka (kola) #
 bifurcar # se rozdělit se, rozdvojit se (vidlicovitě) #
 bifurcation, # -ament rozdělení, rozdvojení (cesty) #
@@ -1567,8 +1570,8 @@ bonvenida! # vítám(e) vás!, buďte vítán(i)! #
 bonvenir # (též: benevenir) (při-, u)vítat #
 bórax # borax chem. #
 bordar # lemovat, vroubit; a-ar přistát, přirazit ke břehu; a-age přistání #
-bord(e) # břeh; (o)kraj #
-bordell(e) # bordel, nevěstinec #
+bord # břeh; (o)kraj #
+bordell # bordel, nevěstinec #
 bordura # lem, obruba #
 borgesie # měšťáctvo #
 borgesité # měšťanstvo: -eso měšťan #
@@ -1636,7 +1639,8 @@ brilliar # zářit, třpitit se #
 brilliore # zářivost #
 brique # cihla; -tte briketa #
 brise # vánek, větřík #
-brit(annic) # britský #
+britannic # britský #
+brit # -> britannic #
 brite # Brit; (Grand) Britannia (Velká) Británie #
 brocate # brokát #
 brochar # brožovat (sešívat listy) #
@@ -1686,8 +1690,8 @@ budgete # rozpočet #
 bufete # bufet, (nádražní) výčep #
 bufetero # bufetář #
 buffa # fraška, žert #
-buffetero # -> bufetero #
 buffete # -> bufete #
+buffetero # -> bufetero #
 buffle # buvol #
 buffoneríe # čtveráctví #
 buffon # šprýmař #
@@ -1721,7 +1725,7 @@ butícario # majitel obchodu #
 buton # knoflík; -ar zapnout (na knoflíky); -iere knofl. dírka #
 button # -> buton #
 buttre # máslo #
-bux(e) # krabice, schránka #
+bux # krabice, schránka #
 cabane # chata, chalupa #
 cabine # kabina #
 cablar # kabelovat #
@@ -1810,7 +1814,7 @@ camomille # heřmánek #
 campania # niva, pláň, polnost #
 campanie # kampaň; (polní) tažení, výprava #
 campar # tábořit, kempovat #
-camp(e) # pole; tábor, kemp #
+camp # pole; tábor, kemp #
 camuflage # kamufláž #
 camuflar # zastírat, (za)maskovat #
 cánabe # konopí #
@@ -1819,7 +1823,7 @@ canale # průliv, průplav, kanál #
 canalisation # kanalizace #
 canallia # psí sběř, sebranka, holota #
 canapé # pohovka #
-Canarias # (= Ínsules Canáric) Kanárské ostrovy #
+Canarias # (= Insules Canaric) Kanárské ostrovy #
 canarí # kanár(ek) #
 cancellaria # kancléřství; kancelář (ministra) #
 cancellero # kancléř #
@@ -1871,8 +1875,8 @@ caporal # desátník voj., kaprál #
 capote # kapota (auta), kryt; plášť s kapucí #
 cáppares # kapary bot. #
 cappe # čepice, čapka, kapuce #
-cappellane # -> capellane #
 cappella # -> capella #
+cappellane # -> capellane #
 cappell-mastro # -> capell-mastro #
 cappote # -> capote #
 cappuce # -> capuce #
@@ -1935,10 +1939,10 @@ carrel # kachel, kachlička; -ar kachlíčkovat #
 carre # vůz (též auto), povoz #
 carriera # -> cariera #
 carrote # mrkev, karotka #
-carrusell(e) # kolotoč #
+carrusell # kolotoč #
 carte geográfic # mapa #
 carte # karta, lístek #
-cartell(e) # kartel obch. #
+cartell # kartel obch. #
 cartilágine # chrupavka #
 cartiláginosi # chrupavčitý #
 cartuche # náboj (též fot.), patrona #
@@ -1959,7 +1963,7 @@ cassino # kasino #
 castanie # kaštan (plod) #
 castaniero # kaštan (strom) #
 castellano # kastelán #
-castell(e) # zámek, hrad #
+castell # zámek, hrad #
 castigar # (tělesně) trestat; bít, kárat #
 castigation # (po)trestání; bití, (po)kárání #
 castor # bobr #
@@ -2003,7 +2007,7 @@ cauterisar # kauterizovat, leptat, vypalovat med. #
 caut # opatrný, obezřelý; -ion opatrnost; záruka, kauce #
 cavalcade # kavalkáda (řada jezdců) #
 cavalcar # jet na koni #
-cavall(e) # kůň všeob. #
+cavall # kůň všeob. #
 cavalliero # rytíř; kavalír #
 cavallo # kůň (hřebec); -a kobyla, klisna: -eríe jízda, jezdectvo, kavalerie voj. #
 caverne # jeskyně; dutina, kaverna med. #
@@ -2368,8 +2372,9 @@ collare # -> colare #
 collar # klížit #
 collateral # -> colateral #
 collation # -> colation #
-collecter # -> colecter #
+coll # -> col #
 collecte # -> colecte #
+collecter # -> colecter #
 collector # -> colector #
 collegial # -> colegial #
 collegie # -> colegie #
@@ -2384,7 +2389,6 @@ collocar # -> colocar #
 collocation # -> colocation #
 collódium # -> colódium #
 collusion # -> colusion #
-coll # -> col #
 colocar # umístit (zejm. vedle sebe) #
 colocation # umístění #
 colódium # kolódium chem. #
@@ -2458,9 +2462,9 @@ commemoration # -> comemoration #
 commemorativ # -> comemorativ #
 commendar # -> comendar #
 commende # -> comende #
+commenta # -> comenta #
 commentar # -> comentar #
 commentator # -> comentator #
-commenta # -> comenta #
 commercial # -> comercial #
 commerciar # -> comerciar #
 commercie # -> comercie #
@@ -2472,17 +2476,17 @@ commissente # -> comissente #
 commisser # -> comisser #
 commissionario # -> comissionario #
 commité # -> comité #
-commode # -> comode #
 commod # -> comod #
+commode # -> comode #
 commoer # -> comoer #
 commotion # -> comotion #
+commun # -> comun #
 communicaci # -> comunicaci #
 communicar # -> comunicar #
 communicate # -> comunicate #
 communient # -> comunient #
 communier # -> comunier #
 communion # -> comunion #
-commun # -> comun #
 commutar # -> comutar #
 commutation # -> comutation #
 commutativ # -> comutativ #
@@ -3520,7 +3524,8 @@ deschargear # vybí(je)t (el., i zbraň) #
 descorcar # odzátkovat #
 descorticar # zbavit kůry, odkornit #
 descortication # odkornění #
-descri(pte)r # popsat, (vy)líčit #
+descrir # popsat, (vy)líčit #
+descripter # -> descrir #
 description # -> descrition #
 descriptiv # -> descritiv #
 descrition # popis, (vy)líčení #
@@ -3606,8 +3611,10 @@ de sub # zpod #
 desunion # nejednota #
 desunir # rozštěpit #
 desunitá # nejednotnost #
-desvalor(is)ar # znehodnotit #
-desvalor(is)ation # znehodnocení #
+desvalorar # znehodnotit #
+desvalorisar # -> desvalorar #
+desvaloration # znehodnocení #
+desvalorisation # -> desvaloration #
 desvirginar # zbavit panenství #
 detalliar # podrobně #
 detallie # podrobnost, jednotlivost, detail #
@@ -3630,7 +3637,8 @@ detonar # vybouchnout, detonovat, vybuchovat, třaskat: -ation výbuch, detonace
 detonator # rozbuška #
 detornament # odklon; odvrácení #
 detornar # odklonit od směru; odvrátit (koho od čeho) #
-detorn(e) # objížďka, oklika; vytáčka #
+detorne # objížďka, oklika; vytáčka #
+detorn # -> detorne #
 detracter # zlehčit; odvést (pozornost) #
 detraction # zlehčování, pomlouvání; -iv zlehčující #
 detractor # pomlouvač #
@@ -3863,7 +3871,8 @@ divan # nízká pohovka, divan #
 divergentie # rozbíhavost; odchýlení (od) #
 divergent # rozbíhavý; odchylný #
 diverger # rozbíhat se geom.; odchylovat se #
-divers(i) # různý, rozmanitý #
+diversi # různý, rozmanitý #
+divers # -> diversi #
 diversitá # různost, rozmanitost #
 divertissement # zábava, kratochvíle #
 divertissent # zábavný #
@@ -3984,8 +3993,10 @@ dupar # ošidit, napálit; -ation ošálení; -ator podvodník, šejdíř #
 dupe # důvěřivec, hlupák #
 duperíe # šejdířství #
 dúplic # dvojí (účel), dvojitý, dvojnásobný; -ar zdvojit, zdvojnásobit; -ation zdvojnásobení; -ator rozmnožovač: -itá dvojitost, zdvojení, dvojkolejnost (v řízení) #
-durant(e) que # kdežto, zatím co #
-durant(e) # za, během (války) #
+durante que # kdežto, zatím co #
+durante # za, během (války) #
+durant # -> durante #
+durant que # -> durante que #
 durantie # trvalost #
 durar # trvat; -ation trvání; -abil trvalý, trvanlivý; -ada trvání #
 dura # trvání #
@@ -3997,8 +4008,8 @@ ear # jít, chodit #
 ebriar # opít #
 ebri(e) # opilý #
 ebrietá # opilost; in-ar (se) opít (se) #
-ecclesial, # -> eclesial, #
 ecclesia # -> eclesia #
+ecclesial, # -> eclesial, #
 ecclesie # -> eclesie #
 echelon # stupňovitý sled, formace voj.; stupeň (ve vedení) #
 echó # -> ecó #
@@ -4048,21 +4059,21 @@ efervescent # šumivý; překypující přen. #
 efervescer # (vz)kypět, šumět, pěnit #
 effaciar # -> efaciar #
 effaruchar # -> efaruchar #
-effecter # -> efecter #
 effecte # -> efecte #
+effecter # -> efecter #
 effectivar # -> efectivar #
 effectuabil # -> efectuabil #
 effectuar # -> efectuar #
 effectuation # -> efectuation #
-effervescentie # -> efervescentie #
 effervescent # -> efervescent #
+effervescentie # -> efervescentie #
 effervescer # -> efervescer #
 efficaci # -> eficaci #
 efficient # -> eficient #
 effigie # -> efigie #
 effilat # -> efilat #
-effluentie # -> efluentie #
 effluent # -> efluent #
+effluentie # -> efluentie #
 effluer # -> efluer #
 effoliar # -> efoliar #
 effortiar # -> efortiar #
@@ -4240,8 +4251,8 @@ epitete # básnický přívlastek; přídomek, epiteton #
 epithete # -> epitete #
 épocal # epochální #
 época # období, doba, epocha, éra #
-épochal # -> épocal #
 épocha # -> época #
+épochal # -> épocal #
 epol # rámě, rameno, plece; plecko #
 epopé # epopej #
 épos # epos, epická báseň #
@@ -5569,8 +5580,8 @@ Holland # Holandsko; h-esi holandský; h-eso Holanďan #
 homage # hold #
 homare # humr zool. #
 hom # člověk; -an lidský, člověčí; -anité lidstvo; -anitá lidství, člověčenství #
-homeopat # homeopat; -ie homeopatie; -ic homeopatický #
 homeopath # -> homeopat #
+homeopat # homeopat; -ie homeopatie; -ic homeopatický #
 homicide # vrah #
 homicidie # vražda #
 homogen # homogenní; -itá homogennost #
@@ -5635,8 +5646,8 @@ ili # oni, ony #
 illuder # -> iluder #
 illuminar # -> iluminar #
 illumination # -> ilumination #
-illusionist # -> ilusionist #
 illusion # -> ilusion #
+illusionist # -> ilusionist #
 illustrar # -> ilustrar #
 illustration # -> ilustration #
 illustrator # -> ilustrator #
@@ -6929,9 +6940,11 @@ matte # rohož #
 matur # dospělý, zralý; -itá dospělost, zralost #
 matutines # ranní mše círk. #
 maximal # největší, nejvyšší, krajní #
-max(im) bon # (= bonissim) nejlepší #
+max bon # (= bonissim) nejlepší #
+maxim bon # -> max bon #
 máxime # životní zásada, pravidlo #
-max(im) # nej- #
+max # nej- #
+maxim # -> max #
 máximum # nejvyšší míra n. množství #
 may # květen #
 meandre # zákrut (řeky) #
@@ -7176,8 +7189,8 @@ módus # modus #
 moer # přimět, pohnout (koho k čemu) #
 mofa # plíseň #
 mofar # plesnivět #
-moffar # -> mofar #
 moffa # -> mofa #
+moffar # -> mofar #
 moffosi # -> mofosi #
 mofosi # plesnivý #
 mohamedane # mohamedán #
@@ -7613,11 +7626,11 @@ ofertar # nabízet #
 offender # -> ofender #
 offense # -> ofense #
 offensive # -> ofensive #
-offertar # -> ofertar #
 offerta # -> oferta #
+offertar # -> ofertar #
 officero # -> oficero #
-officiario # -> oficiario #
 officia # -> oficia #
+officiario # -> oficiario #
 officie # -> oficie #
 officina # -> oficina #
 oficero de ordonantie # pobočník (dříve důstojnický sluha) #
@@ -7965,7 +7978,7 @@ pasquinade # paskvináda (šaškovství, zvl. v jevištní podobě) #
 passabil # schůdný, sjízdný; obstojný #
 passage # pasáž (i hud., v knize), průchod, průjezd, přechod (místo) #
 passagero # cestující, pasažér; -ar projít, projet, přejít; míjet, plynout (o čase); -ante kolemjdoucí #
-passa-parol # heslo #
+pass-parol # heslo #
 passa-témpor # kratochvíle #
 passate # pasát (vítr); minulost; minulý čas gram. #
 Passione # pašije círk. #
@@ -8165,8 +8178,8 @@ perplex # rozpačitý, zaražený, zmatený; -itá rozpačitost #
 per # pomocí (čeho) #
 perquisiter # prohledat (úředně) #
 perquisition # prohlídka (úřední) #
-perruquero # -> peruquero #
 perruque # -> peruque #
+perruquero # -> peruquero #
 perruquiere # -> peruquiere #
 persecuter # pronásledovat, stíhat #
 persecution # pronásledování, stíhání #
@@ -8227,7 +8240,8 @@ pezze # kus #
 piaffar # hrabat (o koni) , dupat #
 pianino # pianino #
 pianist # pianista #
-pian(i) # tichý, tiše; -íssim velmi slabě hud. #
+pian # tichý, tiše; -íssim velmi slabě hud. #
+piani # => pian #
 piano # piano #
 picar # bodat, píchat #
 pica # steh; bod(nutí) #
@@ -8333,7 +8347,8 @@ planca # deska, prkno #
 plancette # destička #
 planear # plachtit, vznášet se #
 plane # (= projecte) plán #
-plan(i) # plochý, rovný #
+plan # plochý, rovný #
+plani # => plan #
 plani- # (ve složeninách vztah k rovině) #
 plantar # sázet (rostliny); -age, -ation sázení, výsadba; plantáž; -ator plantážník #
 plantatoria # školka #
@@ -8607,7 +8622,8 @@ prepucio # předkožka anat. #
 prería # prérie, step #
 prerogative # přednostní právo, výsada #
 presbit # *presbyt (= long-vident) dalekozraký; -ie dalekozrakost #
-prescri(pte)r # předepsat #
+prescrir # předepsat #
+prescripter # -> prescrir #
 prescription # -> prescrition #
 prescrition # předpis #
 presc # skoro, téměř, málem #
@@ -10661,9 +10677,9 @@ suppositorie # -> supositorie #
 suppresser # -> supresser #
 suppression # -> supression #
 suppressiv # -> supressiv #
+supp # -> sup #
 suppurar # -> supurar #
 suppuration # -> supuration #
-supp # -> sup #
 supra # nahoře, výše (v textu) #
 suprem # vrchní, nejvyšší; svrchovaný; -itá, -atie svrcho- vanost; nadřazenost, převaha přen.; -ate supremát círk. #
 supresser # potlačit #
@@ -10807,7 +10823,7 @@ tavernero # krčmář, vinárník #
 taxar # oceňovat, odhadovat (úředně) #
 taxa # sazba, taxa (poplatek n. cena za úkon) #
 taxation # ocenění, odhad (úřední): -ator odhadce #
-taxí # taxi, taxík #
+taxi # taxi, taxík #
 taxon # jezevec #
 taxuo # tis bot. #
 tchec # český (týkající se Čech, Moravy a Slezska); čeština; -o Čech #
@@ -10935,8 +10951,8 @@ thénare # -> ténare #
 theologic # -> teologic #
 theologie # -> teologie #
 theologo # -> teologo #
-theoremátic # -> teoremátic #
 theorema # -> teorema #
+theoremátic # -> teoremátic #
 theoric # -> teoric #
 theorie # -> teorie #
 theorisar # -> teorisar #
