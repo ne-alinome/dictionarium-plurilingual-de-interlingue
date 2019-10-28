@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910271843
+# Last modified 201910282224
 # See change log at the end of the file
 
 # ==============================================================
@@ -86,7 +86,7 @@ tmp/%.txt: src/%.txt
 	sed "s@ *#.*@}@" \
 	> $@
 
-tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt
+tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt tmp/see.txt
 	cat $^ | \
 	msort \
 		--line \
@@ -254,3 +254,5 @@ uninstall:
 # 2019-10-27: Add the Czech source. Create the MDF target with Gforth instead
 # of Vim. Sort the intermediate file with Bill Poser's "msort" instead of GNU
 # "sort".
+#
+# 2019-10-28: Add the cross-references file, <src/see.txt>.

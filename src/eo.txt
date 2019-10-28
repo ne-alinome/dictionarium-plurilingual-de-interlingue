@@ -106,7 +106,6 @@ adoption # adopto #
 adorar # adori #
 adoration # adoro #
 adplu # aldone #
-ad saver # -> a saver #
 ad u # kien #
 adular # flati #
 adulator # flatulo #
@@ -118,8 +117,6 @@ adversario # kontraŭulo #
 adversi # kontraŭa #
 advertiment # averto #
 advertir # averti #
-advocate # -> avocate #
-advocatie # -> avocatie #
 aerar # aerumi #
 aere # aero #
 afabil # afabla #
@@ -344,7 +341,6 @@ atentate # atenco #
 atenter # atenti #
 atention # atento #
 atinger # atingi #
-atractiv # -> atrativ #
 atraer # altiri #
 atrativ # altira #
 atribuer # atribui #
@@ -599,7 +595,6 @@ cambio # kambio #
 camel # kamelo #
 cámera # kamero #
 camine # kameno #
-camin # -> camine #
 camise # ĉemizo #
 campania # kamparo #
 campanie # kapanjo #
@@ -972,7 +967,6 @@ conto # konto #
 contore # kontoro #
 contrabandar # kontrabandi #
 contrabande # kontrabando #
-contracter # -> contraer #
 contraer # kontrakti #
 contra # kontraŭ #
 contribuer # kontribui #
@@ -1111,10 +1105,6 @@ custar # kosti #
 customar # kutimi #
 custom # kutimo #
 cute # ledo #
-cycle # -> cicle #
-cyclon # -> ciclon #
-cygne # -> cigne #
-cypress # -> cipress #
 damagear # damaĝi #
 damage # damaĝo #
 damnar # damni #
@@ -1164,7 +1154,6 @@ demí- # duon- #
 demí # duono #
 demolir # malkonstrui #
 denov # denove #
-denove # -> denov #
 densi # dense #
 dentage # dentaro #
 dente # dento #
@@ -1349,7 +1338,6 @@ etablissement # establ(aĵ)o #
 etablisser # establi #
 etage # etaĝo #
 eterni # eterna #
-etsí # -> benque #
 eufonie # eŭfonio #
 evacuar # evakui #
 evanescer # sveni #
@@ -2002,7 +1990,6 @@ levere # levilo #
 levi # malpeza #
 levul # maldekstra #
 lexico # vortaro #
-ley # -> lege #
 libre # libro #
 librería # librovendejo #
 licer # lici #
@@ -2425,7 +2412,6 @@ obedir # obei #
 obesi # dika #
 obesitá # dik(ec)o #
 objecte # objekto #
-objecter # -> objeter #
 objective # objektivo #
 objectiv # objektiva #
 objeter # objeti #
@@ -2587,7 +2573,6 @@ particul # partikulo #
 partir # partigi #
 partisano # partiano #
 partise # partio #
-partnero # -> partenero #
 partú # ĉie #
 parturir # akuŝi, naski #
 Pascal # Paska #
@@ -2701,7 +2686,7 @@ petre # ŝtono #
 petrin # ŝtona #
 petrosel # petroselo #
 pezze # peco #
-pian(i) # mallaŭte #
+pian # mallaŭte #
 picar # piki #
 pic # pinto #
 picter # pentri #
@@ -2739,7 +2724,7 @@ pivot # pivoto #
 plafon # plafono #
 plage # plaĝo #
 planca # planko #
-plani # ebena #
+plan # ebena #
 plantar # planti #
 plante # planto #
 planura # ebenaĵo #
@@ -3882,7 +3867,6 @@ tentation # tento #
 tenui # maldika #
 tepid # tepida #
 terebintine # terebinto #
-terebinte # -> terebintine #
 terme # termofonto #
 terminar # termlimi #
 termine # termlimo #

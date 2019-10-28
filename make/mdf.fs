@@ -12,11 +12,11 @@
 \ term and its translation on every line) and converts it into an
 \ MDF file, sending the result to standard output,
 \
-\ Last modified 201910271605
+\ Last modified 201910282330
 
 \ ==============================================================
 
-80 constant /term
+80 chars constant /term
   \ Max length of a term, in bytes.
 
 create term /term allot
@@ -31,7 +31,7 @@ term /term erase
 : term@ ( -- ca len ) term count ;
   \ Fetch string _ca len_ from the term buffer.
 
-: same-term? ( ca len -- f ) term@ str= ;
+: term= ( ca len -- f ) term@ str= ;
   \ Is term _ca len_ the same one already stored in the term buffer?
 
 : new-term ( ca len -- ) 2dup term! cr ." \lx " type cr ;
@@ -39,7 +39,7 @@ term /term erase
   \ and display it as an MDF field.
 
 : term{ ( "ccc<}>" -- )
-  '}' parse 2dup same-term? if 2drop else new-term then ;
+  '}' parse 2dup term= if 2drop else new-term then ;
   \ Parse a term "ccc", delimited by "}". If it's new, print it,
   \ including its MDF mark.  Otherwise discard it.
 
@@ -61,7 +61,13 @@ term /term erase
   \ Parse the Esperanto translation, delimited by "}" and print it as
   \ an MDF field on a new line.
 
+: see{ ( "ccc<}>" -- ) ." \mn " '}' parse type cr ;
+  \ Parse a cross-reference to a main entry, delimited by "}" and
+  \ print it as an MDF field on a new line.
+
 \ ==============================================================
 \ Change log
 
 \ 2019-10-27: Start.
+\
+\ 2019-10-28: Add `see{` for cross-references.

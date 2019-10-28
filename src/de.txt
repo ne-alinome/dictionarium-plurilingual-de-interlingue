@@ -729,7 +729,6 @@ autencitá # Authentizität, Echtheit #
 autentic # autenthisch #
 autobus # Bus #
 autocrate # Autokrat, Alleinherrscher #
-auto # -> automobile #
 automobile # Auto(mobil) #
 autor # Autor, Schriftsteller, Urheber #
 autoressa # Autorin, Schriftstellerin, Urheberin #
@@ -808,7 +807,6 @@ ballast # Ballast #
 ball # Ball (Fest- und Tanzveranstaltung) #
 balle # Ball (Sportgerät) #
 ballett # Ballett #
-ballett # -> balett #
 ballon # Ballon #
 balnear # baden #
 balneari # Bade- #
@@ -1293,7 +1291,6 @@ canalisar # kanalisieren #
 canallia # Kanailie, Pack, #
 canapé # Sofa, Couch #
 Canarias # Kanarische Inseln #
-Canaries # -> Canarias #
 cancellaria # Kanzlei #
 cancellera # Kanzlerin #
 cancellero # Kanzler #
@@ -7636,7 +7633,6 @@ partisan # Parteigänger, Partisan #
 partisan # Partei-, parteilich #
 partise # Partei #
 partition # Teilung #
-partnero # -> partenero #
 parturir # gebären #
 parturition # Gebärvorgang, Geburt #
 partú # überall #
@@ -7650,7 +7646,6 @@ passage # Passage, Durchgang, Korridor #
 passagero # Passagier #
 passante # Passant #
 pass-parol # Passwort; Losung #
-passa-parol # -> pass-parol #
 passar li nocte # die Nacht verbringen #
 passar un exámine # eine Prüfung bestehen #
 passar # vorbeigehen, verbringen, durchreisen #

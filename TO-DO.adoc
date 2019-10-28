@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910282126
+// Last modified 201910282222
 
 == General
 
@@ -19,14 +19,14 @@
   pref., suf., int., etc).
 - Consult "partenere" (new form, but used only once in Cosmoglotta)
   and "partnero" (old form, but used).
-- Move all redirections to their own file, because they are shared by
-  all languages.
 - Confirm `ballett # -> balett #`: The dictionaries included
   "ballett(e)" but in Cosmoglotta only "balett" is used.
 - Consult/fix "cavall-/caval-".
 - Note both meaning of "plan": noun (=plane) and adjective (=plani).
 - Use "=>" to point to more used alternatives, e.g. with/out euphonic
   desinenties. 
+- Confirm "época/epoca" ("época" and "épocal" were used in the Czech
+  dictionary(.
 
 == Esperanto (eo)
 
@@ -58,3 +58,4 @@
 - Add   "planimetrie".
 - Move the topic abbreviations (e.g. "bot.", "gram.", "obch.") to the
   start of the term.
+- Split synonyms (search for ", #").  
