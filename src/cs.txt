@@ -4661,11 +4661,11 @@ evocation # vyvolá(vá)ní #
 evoluer # vyvinout se #
 evolutionist # evolucionista #
 evolution # vývoj, vývin, evoluce #
-evolutionXXX-tionari # vývojový, evoluční (teorie) #
+evolutionari # vývojový, evoluční (teorie) #
 exacerbar # podráždit, rozjitřit; zhoršit (nemoc); zostřit (spor, bolest) #
 exacerbation # podráždění, rozjitření; zhoršení, zostření #
 exact # přesný; exaktní #
-exactXXX-itá # přesnost #
+exactitá # přesnost #
 exaltar # velebit, vynášet (chválit); uvést ve vytržení #
 exaltation # vytržení, exaltace; vynášení, velebení #
 exáminar # zkoušet (žáka); vyšetřit, prohlédnout (pacienta) #
@@ -4679,7 +4679,7 @@ exaudition # vyslyšení #
 excavar # vyhloubit, vykopat #
 excavation, # -age hloubení, kopání; výkop, vykopávka #
 excedent # překračující #
-excedentXXX-dentie, # -ss výstřelek, vybočení z mezí, výtržnost #
+excedentie, # -ss výstřelek, vybočení z mezí, výtržnost #
 exceder # překročit, přestoupit, přesáhnout (míru) #
 excellentie # výtečnost; E-entie čestný titul význ. osob #
 excellent # výborný, výtečný #
@@ -4691,7 +4691,7 @@ excerpter # vypisovat #
 excerpte # výpisek, výtah #
 excessiv # nemírný, přehnaný, přílišný #
 exchange # výměna #
-exchangeXXX-ar # vyměnit (zač), vyměnit si (vzájemně), směnit #
+exchangear # vyměnit (zač), vyměnit si (vzájemně), směnit #
 exciser # vyříznout, vykrojit, vystřihnout #
 excision # operativní odnětí, vyříznutí; výstřižek #
 excitabil # vznětlivý, popudlivý #
@@ -4702,7 +4702,7 @@ exclamation # zvolání, výřik #
 exclamativ # zvolací #
 excluder # vyloučit, vyjmout #
 exclusion # vyloučení, vyjmutí #
-exclusionXXX-siv # výlučný, výhradní #
+exclusiv # výlučný, výhradní #
 exclusivitá # výlučnost, výhradnost #
 excomunier # vyobcovat (z církve) #
 excomunion # vyobcování #
@@ -4898,10 +4898,12 @@ facial # lícní, obličejový #
 faciata # políček, facka #
 facie # obličej, tvář #
 facil # snadný, lehký #
-facilXXX-itá # snadnost; -isar usnadnit #
+facilitá # snadnost #
+facilisar # usnadnit #
 facte # skutečnost, skutek, fakt #
 factic # faktický, skutečný #
-facticXXX-iv # faktivní gram.; -or činitel, faktor #
+factiv # faktivní gram. #
+factor # činitel, faktor #
 factoria # obchodní stanice (obvykle v zámoří) #
 factura # účet, faktura #
 facultá # schopnost, oprávnění; fakulta škol. #
@@ -4915,17 +4917,21 @@ fagottist # fagotista #
 falce # kosa #
 falcero # žnec #
 falcette # srp #
-falcetteXXX-ear # sekat, kosit #
+falcear # sekat, kosit #
 falcon # sokol #
-falconXXX-ero # sokolník #
+falconero # sokolník #
 fallibilitá # omylnost, klamnost (např. vnímání) #
 falliment # úpadek (finanční) #
-fallimentXXX-ibil # omylný, klamný #
+fallibil # omylný, klamný #
 fallir # neuspět, selhat, propadnout; chybit, minout se #
-fallirXXX-ida # upadání #
+fallida # upadání #
 falsette # falzet hud. (hlavový způsob zpěvu u muž. hlasů) #
 fals # nepravdivý; nepravý, falešný #
-falsXXX-ar # překroutit (pravdu); -itá faleš(nost); -ificar padělat, falšovat; -ification padělání, falšování; -ator padělatel, falzifikátor #
+falsar # překroutit (pravdu) #
+falsitá # faleš(nost) #
+falsificar # padělat, falšovat #
+falsification # padělání, falšování #
+falsator # padělatel, falzifikátor #
 fama # pověst #
 fame # hlad #
 familial # rodinný #
@@ -4941,13 +4947,13 @@ fanatic # fanatický #
 fanático # fanatik #
 fanátisme # fanatismus #
 fanfaron # prášil, chvástal, vychloubač #
-fanfaronXXX-ar # vychloubat se #
+fanfaronar # vychloubat se #
 fango # bláto, bahno; špína #
 fangosi # blátivý, zablácený #
-fantasie # *ph... fantazie #
-fantoma # *ph... přelud, přízrak, vidina #
-faraon # *ph... faraón #
-faraonXXX-ic # faraónský #
+fantasie # fantazie #
+fantoma # přelud, přízrak, vidina #
+faraon # faraón #
+faraonic # faraónský #
 farcear # nadívat #
 farce # nádivka kuch. #
 far conossentie (con) # seznámit se (s) #
@@ -4965,15 +4971,16 @@ fariséo # *ph... farizej #
 farmacia # *ph... lékárna #
 farmacie # lékárnictví #
 farmacist # lékárník #
-farmacistXXX-éutic # lékárnický, lékárenský (průmysl) #
-farmacopé # *ph... úřední seznam léků, farmakopéa #
+farmacéutic # lékárnický, lékárenský (průmysl) #
+farmacopé # úřední seznam léků, farmakopéa #
 farme # hospodářství, statek; farma #
 farmero # farmář #
 far reclame por # dělat reklamu (čemu) #
 farse # fraška (i div.); šprým, žertovný kousek #
 faruchi # divoký, plachý #
-fasan # *ph... bažant #
-fasanXXX-a # bažantí slepice; -iera bažantnice #
+fasan # bažant #
+fasana # bažantí slepice #
+fasaniera # bažantnice #
 fasce # svazek, otep #
 fascie # povázka anat. #
 fascinant # okouzlující #
@@ -4984,7 +4991,8 @@ fascist # fašista #
 faseol # *ph... fazole bot. #
 fase # *ph... stupeň (vývojový), udobí, fáze (i el., astr.) #
 fasson # tvar, podoba, střih #
-fassonXXX-ar # dát tvar, modelovat , upravit; -ament modelování, úprava #
+fassonar # dát tvar, modelovat , upravit #
+fassonament # modelování, úprava #
 fatalisme # fatalismus #
 fatal # osudný; smrtelný #
 fate # osud #
@@ -4997,7 +5005,9 @@ faucada # prskání, prskot #
 faucar # prskat (o kočce) #
 fauce # chřtán, jícen #
 favorabil # příznivý #
-favorabilXXX-ar # podporovat (koho), přát (komu); -isar dávat někomu přednost, nadržovat mu; -ite oblíbenec; favorit #
+favorar # podporovat (koho), přát (komu) #
+favorisar # dávat někomu přednost, nadržovat mu #
+favorite # oblíbenec; favorit #
 favore # přízeň; laskavost #
 favoritisme # protekcionářství #
 fayance # fajáns #
@@ -5006,12 +5016,16 @@ febre # horečka #
 febrosi # horečnatý #
 februar # únor #
 fec # lejno, výkal #
-fecXXX-al # fekální; -allia chátra; -ar kálet #
+fecal # fekální #
+fecallia # chátra #
+fecar # kálet #
 fecund # úrodný, plodný #
-fecundXXX-ar # oplodnit; -itá plodnost #
-féderar # sdružit #
-féderarXXX-al # spolkový, svazový: -ation sdružení, svaz, federace #
-féderativ # federativní #
+fecundar # oplodnit #
+fecunditá # plodnost #
+federar # sdružit #
+federal # spolkový, svazový #
+federation # sdružení, svaz, federace #
+federativ # federativní #
 fédere # spolek, svaz #
 feéric # čarovný, kouzelný, pohádkový; fe-raconta pohádka #
 feeríe # pohádková, výpravná hra #
@@ -5028,23 +5042,28 @@ fémina # žena #
 fémininitá # ženskost #
 féminin # ženský #
 fémur # stehno #
-fémurXXX-al # stehenní #
+fémural # stehenní #
 fender # (roz)štípat, (roz)štěpit, rozbít (atom) #
 fenestre # okno #
 fenícul # fenykl #
 fenómen # *ph... jev, úkaz, neobyčejný zjev #
-fenómenXXX-al # výjimečný, znamenitý #
+fenomenal # výjimečný, znamenitý #
 fen # seno #
-fenXXX-iere # seník; -ar sušit seno #
+feniere # seník #
+fenar # sušit seno #
 fension # (roz)štěpení #
 fensura # puklina, štěrbina #
 ferie # výroční trh, veletrh #
 ferment # kvas #
-fermentXXX-ar # kvasit; -ation kvašení #
+fermentar # kvasit #
+fermentation # kvašení #
 feroci # divoký; zuřivý (šelma) #
 ferocitá # divokost, zuřivost #
 ferrar # okovat #
-ferrarXXX-age # kování (výrobek); -atura okování (koně); -ic železnatý; -in železný #
+ferrage # kování (výrobek) #
+ferratura # okování (koně) #
+ferric # železnatý #
+ferrin # železný #
 ferre # železo #
 ferroglattar # žehlit #
 ferroglattuore # žehlička #
@@ -5055,19 +5074,21 @@ ferrovía # železnice #
 ferruinat # rezavý #
 ferruine # rez #
 fertil # úrodný, výnosný #
-fertilXXX-itá # úrodnost, výnosnost: -isar zúrodnit #
+fertilitá # úrodnost, výnosnost #
+fertilisar # zúrodnit #
 férul # metla (na děti) #
 ferver # horlit #
 fervid # horlivý #
-fervidXXX-ent # horoucí #
+fervient # horoucí #
 fervore # horlivost #
-festal, # -iv sváteční #
+festal # sváteční #
+festiv # sváteční #
 festar # (o)slavit #
 festa # svátek; slavnost, oslava #
 festinar # hodovat #
 festine # hostina, hody #
 feston # věncoví, girlanda #
-festonXXX-ar # ověnčit #
+festonar # ověnčit #
 fetal # plodový, fetální, zárodečný #
 feter # smrdět #
 fetiche # fetiš #
@@ -5092,10 +5113,10 @@ fiction # zdání, smyšlenka #
 fictiv # smyšlený, zdánlivý, fiktivní #
 fide # důvěra, víra #
 fidel # věrný #
-fidelXXX-itá # věrnost #
+fidelitá # věrnost #
 fider # důvěřovat, věřit #
 fier # hrdý, pyšný (nač) #
-fierXXX-itá # hrdost (ušlechtilá) #
+fieritá # hrdost (ušlechtilá) #
 fi! # fuj! #
 figue # fík #
 figuiero # fíkovník #
@@ -5104,7 +5125,8 @@ figura # postava, figura #
 figurar # zobrazit; být uveden (kde) #
 figuration # znázornění #
 filantrop # *philanth... filantrop #
-filantropXXX-ic # filantropický; -ie filantropie #
+filantropic # filantropický #
+filantropie # filantropie #
 filatelic # filatelistický #
 filatelie # *ph... filatelie #
 filatelist # filatelista #
@@ -5113,7 +5135,7 @@ file # řada (osob, vozů); soubor inf. #
 filharmonic # filharmonický #
 filharmonie # *ph... filharmonie #
 filia # dcera #
-filiaXXX-al # synovský, dceřiný; pobočný, vedlejší #
+filial # synovský, dceřiný; pobočný, vedlejší #
 filiale # pobočka, filiálka #
 fílical # kapraďový #
 fílice # kapraď, -í, -ina #
@@ -5123,20 +5145,28 @@ Filipines # *Philippin... Filipíny; f-esi filipínský; f-eso Filipínec #
 filistinisme # filistrismus #
 filistino # *ph... šosák, filistr #
 film # film #
-filmXXX-ar # filmovat; film-actor filmový herec #
-fil # nit, příze; metall-fil, ferrofil drát #
-filXXX-ar # příst; -ade, -age předivo; -atura předení; -ero přadlák; -ería přádelna #
+filmar # filmovat #
+film-actor # filmový herec #
+fil # nit, příze #
+metall-fil # drát #
+ferrofil # drát #
+filar # příst #
+filade, # -age předivo #
+filatura # předení #
+filero # přadlák #
+filería # přádelna #
 filologic # filologický #
 filologie # filologie #
 filologo # *ph... filolog #
 filosof # *philosoph filozof #
-filosofXXX-ie # filozofie; -ic filozofický #
+filosofie # filozofie #
+filosofic # filozofický #
 filtrar # filtrovat, cedit #
 filtre # filtr, cedník #
 filú # dareba, uličník, holomek #
 finale # finále sport.; koncovka gram. #
 financiar # financovat #
-financiarXXX-ari # finanční #
+financiari # finanční #
 financiero # finančník #
 financies # finance pl, peněžní prostředky #
 fine de semane # víkend #
@@ -5144,18 +5174,25 @@ fine # konec #
 fingrale # náprstek #
 fingre # prst #
 finir # (do-, s-, u)končit, dodělat #
-finirXXX-ition # (do-, s-, u)končení, dodělání; -al konečný, závěrečný #
+finition # (do-, s-, u)končení, dodělání #
+final # konečný, závěrečný #
 fin # jemný #
-finXXX-esse # jemnost, jemný odstín; důvtip #
-Finland # Finsko; f-esi finský; finština; f-eso, finno Fin #
+finesse # jemnost, jemný odstín; důvtip #
+Finland # Finsko #
+finlandesi # finský; finština #
+finlandeso, # finno Fin #
 firma # firma, podnik #
 firmament # nebeská báň, obloha #
 firm # pevný #
-firmXXX-itá # pevnost; -ar zpevnit; -ation zpevnění #
+firmitá # pevnost #
+firmar # zpevnit #
+firmation # zpevnění #
 fiscal # berní, daňový #
 fisco # státní pokladna #
-físic # *phy... (fy...) fyzický #
-físicXXX-a # fyzika; -al fyzikální; -o fyzik #
+fisic # *phy... (fy...) fyzický #
+fisica # fyzika #
+fisical # fyzikální #
+fisico # fyzik #
 fisiologic # fyziologický #
 fisiologie # *phy... (fy...) fyziologie #
 fisiologo # fyziolog #
@@ -5166,13 +5203,16 @@ fissura # prasklina, trhlina #
 fístul # píštěl med. #
 fito- # *phyto- (fyto-) (ve složeninách značí vztah k rostlinám) #
 fix # pevný (bod); stálý (plat) #
-fixXXX-ar # (při-, u)pevnit; upřít (zrak, pozornost); určit, stanovit; -ation (při-, u)pevnění: -ator ustalovač; -itá stálost #
+fixar # (při-, u)pevnit; upřít (zrak, pozornost); určit, stanovit #
+fixation # (při-, u)pevnění #
+fixator # ustalovač #
+fixitá # stálost #
 flac # kaluž, louže #
 flacon # flakón, lahvička na voňavku #
 flad # placka #
 flagellation # bičování #
 flagelle # důtky, karabáč; metla, bič přen.; zool. bičík #
-flagelleXXX-ar # bičovat #
+flagellar # bičovat #
 flagga # vlajka, prapor #
 flagrant # zjevný (křivda), do očí bijící #
 flagrar # planout, šlehat #
@@ -5186,13 +5226,15 @@ flare # čich, větření #
 flattar # lichotit #
 flattosi # lichotivý, lichotný #
 flatu # závan; větry (ve vnitřnostech) #
-flatuXXX-ar # vypouštět větry; -ent, -osi nadýmavý; -entie, -ositá nadýmání, větry #
+flatuar # vypouštět větry #
+flatuent, # -osi nadýmavý #
+flatuentie, # -ositá nadýmání, větry #
 flaute # flétna #
 flautist # flétnista #
 fleche # šíp, šipka #
 flechiere # toulec #
 flegma # *ph... netečnost #
-flegmaXXX-tic # netečný #
+flegmatic # netečný #
 flexer # ohnout, skrčit #
 flexibil # ohebný #
 flexion # ohýbání, flexe #
@@ -5203,11 +5245,16 @@ flittre # cetka #
 floc # vločka (sněhová i ovesná) #
 florette # fleret sport. (pružný kord s kuličkou na konci) #
 flor # květ(ina) #
-florXXX-al # květinový; -ar kvést; -ear, -escer kvést, vzkvétat; -escent kvetoucí (i přen.); -escentie květenství; -ist květinář #
+floral # květinový #
+florar # kvést #
+florear, # -escer kvést, vzkvétat #
+florescent # kvetoucí (i přen.) #
+florescentie # květenství #
+florist # květinář #
 flóscul # květnaté slovo n. výraz; bezobsažná věta #
 flotta # loďstvo (válečné n. obch.) #
 flottar # plout (o předmětu); plavit (dříví) #
-flottarXXX-ator # plavec (dříví) #
+flottator # plavec (dříví) #
 flottuore # vor #
 flox # *ph... flox, plaměnka bot. #
 fluctuar # kolísat, měnit se (např. počet obyvatel) #
@@ -5216,9 +5263,12 @@ fluentie # plynulost #
 fluent # plynulý, tekoucí #
 fluer # plynout, téci #
 fluor # fluor chem. #
-fluorXXX-escentie # fluorescence; -escer fluoreskovat; -ide fluorid #
-flut # (mořský) příliv; re- odliv #
-flutXXX-ear # přítékat a odtékat #
+fluorescentie # fluorescence #
+fluorescer # fluoreskovat #
+fluoride # fluorid #
+flut # (mořský) příliv #
+reflut # odliv #
+flutear # přítékat a odtékat #
 fluvial # říční (plavba, přístav) #
 fluvie # řeka #
 focal # ohniskový #
@@ -5238,20 +5288,25 @@ fomentar # podněcovat; přikládat teplý obklad med. #
 fomentation # teplý obklad med. #
 fondería # slévárna #
 fonder # tavit, slévat, lít (kovy) #
-fonderXXX-age # slévání: -ero slévač #
+fondage # slévání #
+fondero # slévač #
 fonde # tavba #
 fonetic # *ph... fonetický #
-foneticXXX-a # fonetika; -o fonetik #
+fonetica # fonetika #
+fonetico # fonetik #
 fontane # kašna, fontána #
 fonte # pramen, zdroj; zřídlo #
 football # [fútbol] kopaná, fotbal #
 forar # vrtat #
 forator # vrták (nástroj) #
 foren # cizí; cizinecký, zahraniční #
-forenXXX-ia # cizina; -o cizinec #
+forenia # cizina #
+foreno # cizinec #
 fore # otvor, díra #
 forest # les #
-forestXXX-al # lesní; -ero lesník; forest-cultura lesnictví #
+forestal # lesní #
+forestero # lesník #
+forest-cultura # lesnictví #
 forfetari # paušální (odměna) #
 forfete # (= summa total) paušál #
 forfícul # škvor #
@@ -5267,31 +5322,45 @@ formíca # mravenec #
 formícar # hemžit se #
 formíciera # mraveniště #
 fórmul # formule, vzorec #
-fórmulXXX-ar # slovně vyjádřit; vyslovit: -ation způsob slovního vyjádření, formulace #
+fórmular # slovně vyjádřit; vyslovit #
+formulation # způsob slovního vyjádření, formulace #
 forn(e) # kamna, plotna; pec; pečící trouba #
 for # pryč #
 forrage # krmivo, píce #
 forragero # krmič #
 fórsan # snad #
 fort # silný, mocný, vydatný #
-fortXXX-ie # síla; -iar nutit; -ificar opevnit; upevnit, posílit; -ification opevnění, pevnost: -eresse pevnost, tvrz #
+fortie # síla #
+fortiar # nutit #
+fortificar # opevnit; upevnit, posílit #
+fortification # opevnění, pevnost #
+forteresse # pevnost, tvrz #
 fortun # štěstí, štěstěna; (šťastná) náhoda #
-fortunXXX-osi # šťastný (osud); -at šťastný (výsledek) #
+fortunosi # šťastný (osud) #
+fortunat # šťastný (výsledek) #
 fórum # fórum #
 fosfate # *phosph... fosfát chem. #
 fosfor # *phosph... fosfor chem. #
-fosforXXX-escer # fosforeskovat: -ic fosforečný #
+fosforescer # fosforeskovat #
+fosforic # fosforečný #
 fossar # hloubit #
 fosse # jáma, příkop #
 fossette # důlek, jamka #
-fossetteXXX-uore # nástroj na hloubení #
+fossuore # nástroj na hloubení #
 fossil # fosilní geol. #
-fossilXXX-e # fosilie #
-fotograf # *photograph fotograf #
-fotografXXX-ar # fotografovat; -ic fotografický; -ie fotografie (snímek i umění) #
-foton # *ph... foton fyz. #
-foto # *ph... fotka, foto #
-fotoXXX-amator # fotoamatér; -a(p)parate fotoaparát, -archive fotoarchiv; -céllul fotobuňka: -eléctric fotoelektrický; -montage fotomontáž #
+fossile # fosilie #
+fotograf # fotograf #
+fotografar # fotografovat #
+fotografic # fotografický #
+fotografie # fotografie (snímek i umění) #
+foton # foton fyz. #
+foto # fotka, foto #
+foto-amator # fotoamatér #
+foto-aparate # fotoaparát #
+foto-archive # fotoarchiv #
+foto-céllul # fotobuňka #
+foto-eléctric # fotoelektrický #
+foto-montage # fotomontáž #
 fox # liška zool. #
 foxtrott # foxtrot #
 foyatri # ohnivý (jako oheň) #
@@ -5304,47 +5373,57 @@ fracasse # řinčení, třeskot #
 fracter # (roz)lámat, přelomit, zlomit, rozbít #
 fractionari # frakcionářský #
 fractura # zlomenina #
-fracturaXXX-ion # zlomek (též mat.); oddělená část, frakce; -ional zlomkový; dílčí, oddělený #
+fraction # zlomek (též mat.); oddělená část, frakce #
+fractional # zlomkový; dílčí, oddělený #
 fragil # křehký, rozbitný #
-fragilXXX-itá # křehkost, lámavost #
+fragilitá # křehkost, lámavost #
 fragment # zlomek., úlomek, část #
-fragmentXXX-ari # zlomkovitý, neúplný #
+fragmentari # zlomkovitý, neúplný #
 frambere # malina #
 frame # rám, rámec; podstavec #
 francesi # francouzský; francouzština #
 franceso # Francouz; F-ia Francie #
 franc-masson # svobodný zednář #
 franc # upřímný, otevřený #
-francXXX-itá, # -ore upřímnost, otevřenost #
+francitá, # -ore upřímnost, otevřenost #
 frange # třáseň, třepení #
 frappada # bouchání, klepání, ťukání #
 frappar # bouchat, klepat, ťukat (na dveře) #
 frappa # ťuk #
-frappaXXX-ant # nápadný, do očí bijící #
+frappant # nápadný, do očí bijící #
 frase # *ph... věta, fráze #
-fraseXXX-ologie # frazeologie #
+fraseologie # frazeologie #
 fratern # (= fratrin) bratrský #
-fraternXXX-al # bratrský (vztah); z bratrovy strany (příbuzný); -itá bratrství; -ité bratrstvo; -isar (se) sbratřit (se); -isation sbratření #
+fraternal # bratrský (vztah); z bratrovy strany (příbuzný) #
+fraternitá # bratrství #
+fraternité # bratrstvo #
+fraternisar # (se) sbratřit (se) #
+fraternisation # sbratření #
 fratre # bratr #
 fratrin # bratrský #
 fraudar # podvádět, šidit #
-fraudarXXX-atori, # -osi podvodný #
+fraudatori # podvodný #
+fraudosi podvodný #
 fraude # podvod #
 fraudero # podvodník #
 fraxine # olše #
 fren # brzda #
-frenXXX-ar # (za)brzdit; držet na uzdě; -ation brzdění #
+frenar # (za)brzdit; držet na uzdě #
+frenation # brzdění #
 frenesie # *ph... frenezie #
 frenetic # frenetický #
 frenetico # frenetik #
 frequent # častý #
-frequentXXX-ar # navštěvovat (školu, divadlo), chodit často kam; -at rušný, frekventovaný (ulice); -ation docházka; -ie frekvence, četnost výskytu; kmitočet #
+frequentar # navštěvovat (školu, divadlo), chodit často kam #
+frequentat # rušný, frekventovaný (ulice) #
+frequentation # docházka #
+frequentie # frekvence, četnost výskytu; kmitočet #
 fresar # frézovat #
 fresbere # jahoda #
 fresberiero # jahodník #
 fresco # freska #
 frete # náklad #
-freteXXX-ar # nakládat #
+fretear # nakládat #
 friabil # drolivý #
 friar # drobit, drolit #
 fricassé # zadělávané maso, frikasé #
@@ -5353,25 +5432,32 @@ frictionar # mazat, třít (nemocného #
 friction # tření #
 friger # zábst: yo frige je mi zima #
 frigid # studený; chladný, frigidní #
-frigidXXX-iditá # chlad; chladnost, frigidita; -idar (o)chladnout; -idari chladicí; -idator ochlazovač; -ore zima, chlad; -orífic chladicí #
+frigiditá # chlad; chladnost, frigidita #
+frigidar # (o)chladnout #
+frigidari # chladicí #
+frigidator # ochlazovač #
+frigore # zima, chlad #
+frigorific # chladicí #
 frigorificar # (o)chladit, (z)mrazit #
 fringille # (též: pinson) pěnkava zool. #
 fripon # šibal, taškář, dareba #
-friponXXX-ar # taškařit; -eríe taškařina #
+friponar # taškařit #
+friponeríe # taškařina #
 frir # smažit, péci (na pekáči) #
 frisc # čerstvý, svěží #
-friscXXX-ore # svěžest #
+friscore # svěžest #
 friser # kadeřit (vlasy) #
 frisero # kadeřník #
-friseroXXX-ion # kadeření #
+frision # kadeření #
 frisson # chvění, mrazení (po těle) #
-frissonXXX-ar # třást se (zimou, hrůzou) #
+frissonar # třást se (zimou, hrůzou) #
 frisura # kadeření, kadeře #
 fritura # smažení; smaženina #
 frivol # lehkovážný #
-frivolXXX-itá # lehkovážnost #
-frontal # čelní, přední; a-ar čelit, vzdorovat #
-frontalXXX-iera # hranice #
+frivolitá # lehkovážnost #
+frontal # čelní, přední #
+afrontar # čelit, vzdorovat #
+frontiera # hranice #
 fronte # čelo; průčelí; fronta #
 fronton # ozdobný štít, lomenice #
 fro # od (směr i odlišení) #
@@ -5381,17 +5467,21 @@ frottation # tření, drhnutí #
 fructe # ovoce, plod (i přen.) #
 fructiero # ovocný strom #
 fructose # fruktóza #
-fructoseXXX-osi # ovocný: -uosi plodný (užitečný); -iferi plodonosný; ovocnářský: -ificar využít, zhodnotit #
+fructosi # ovocný #
+fructuosi # plodný (užitečný) #
+fructiferi # plodonosný; ovocnářský #
+fructificar # využít, zhodnotit #
 frufrutar # šustit (o dámských šatech) #
 frugal # střídmý, skromný (jídlo, život) #
-frugalXXX-itá # střídmost #
+frugalitá # střídmost #
 frument # pšenice #
 frustrar # zklamat, zmařit (naději) #
 frustration # zklamání, frustrace #
 ftise # *phthis/e souchotiny #
 ftisic # souchotinářský #
 fugida # únik, útěk #
-fugidaXXX-ient # prchající; -itor uprchlík #
+fugient # prchající #
+fugitor # uprchlík #
 fugir # uprchnout #
 fugitiv # chvilkový (známost); prchavý (okamžik) #
 fularde # šátek (na krk) #
@@ -5404,7 +5494,8 @@ fúlmine # blesk #
 fumicar # udit #
 fumication # udění #
 fum # kouř, dým #
-fumXXX-ar # kouřit, čadit, dýmat; -ator kuřák #
+fumar # kouřit, čadit, dýmat #
+fumator # kuřák #
 fundament # základ #
 fundar # založit #
 fundation # založení; nadace; -ator zakladatel #
@@ -5413,42 +5504,55 @@ funebre # smutek #
 funebri # smuteční #
 funel # nálevka, trychtýř #
 funeral # pohřební #
-funeralXXX-e # pohřeb #
+funerale # pohřeb #
 funest # zlověstný; neblahý, zhoubný (vliv) #
-funestXXX-ie # zlověstnost #
+funestie # zlověstnost #
 fungo # houba #
 fungosi # houbovitý (nádor); zamořený houbou #
-funícul # vlákno bot.; provazec (semenný aj.) med. #
-funículXXX-are # (pozemní) lanovka #
+funicul # vlákno bot.; provazec (semenný aj.) med. #
+funiculare # (pozemní) lanovka #
 furb # prohnaný #
-furbXXX-on # darebák, podvodník; -eríe prohnanost #
+furbon # darebák, podvodník #
+furberíe # prohnanost #
 furca # vidle, vidlice, vidlička #
 furer # zuřit, běsnit #
 furette # fretka zool. #
 furgon # nákladní vůz, (uzavřený) vagón #
 furie # vztek, zuření, zběsilost #
-furieXXX-ore # zuřivost, běsnění; -iar rozzuřit, rozvsteklit #
+furiore # zuřivost, běsnění #
+furiar # rozzuřit, rozvsteklit #
 furiosi # vzteklý, zuřivý, divoký, zběsilý #
 furniment # poskytnutí #
 furnir # poskytovat; dodávat, dodat; vybavit #
 furnition # poskytování (informací) #
-furnitionXXX-itor # poskytovatel, dodavatel: -itura dodávka #
+furnitor # poskytovatel, dodavatel #
+furnitura # dodávka #
 furte # krádež #
-furteXXX-or # zloděj; -iv kradmý (pohled), tajný; -ero zloděj #
+furtor # zloděj #
+furtiv # kradmý (pohled), tajný #
+furtero # zloděj #
 furteríe # zlodějna #
 furter # (u)krást #
-furúncul # vřed, nežit #
+furuncul # vřed, nežit #
 fuser # tavit, slévat; sloučit (se) #
 fusil # puška #
-fusilXXX-ar # (od-, za)střelit; -ada střelba; -ero střelec #
+fusilar # (od-, za)střelit #
+fusilada # střelba #
+fusilero # střelec #
 fusion # tavba, slévání; sloučení, splynutí, fúze #
-fusionXXX-ionar # sloučit (se), splynout: -ibil tavitelný; -ibilitá tavitelnost; -íbile, -ette pojistka el. #
+fusionar # sloučit (se), splynout #
+fusibil # tavitelný #
+fusibilitá # tavitelnost #
+fusibile, # (= fusette) pojistka el. #
+fusette # (= fusibile) pojistka el. #
 fusuore # tavný kelímek, tyglík #
 futil # nicotný, malicherný #
-futilXXX-itá # nicot/a, -nost, malichernost: -age nicotnost (bezcenná věc) #
+futilitá # nicot/a, -nost, malichernost #
+futilage # nicotnost (bezcenná věc) #
 future # budoucnost; budoucí čas gram. #
 futuri # budoucí, příští #
-futuriXXX-itá # budoucnost; -ist futurista #
+futuritá # budoucnost #
+futurist # futurista #
 futurisme # futurismus #
 gage # zástava; in-ar (= dar in gage) dát do zástavy; des-ar vyplatit (zástavu) #
 galactic # galaktický #

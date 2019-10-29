@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910291557
+// Last modified 201910291748
 
 == General
 
@@ -31,6 +31,8 @@
 - Confirm Caucas/Caucasia.
 - Confirm déxteri/dexteri.
 - Confirm episcop/epíscop.
+- Confirm fédere/federe.
+- Confirm fenómen/fenomen.
 
 == Esperanto (eo)
 
