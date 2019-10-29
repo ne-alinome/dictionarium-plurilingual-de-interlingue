@@ -4254,13 +4254,13 @@ editorial # vydavatelský, redaktorský, redakční #
 editoriale # redakční článek, úvodník #
 educar # vychovávat #
 education # výchova, vychování; vzdělání (školní) #
-educationXXX-ator # vychovatel #
+educatator # vychovatel #
 educativ # výchovný #
-e- # (ex-) vy- (předpona): educar, elaborar, emigrar, evacuar #
+e- # (= ex-) vy- (předpona) #
 efaciar # smazat, vymazat, zahladit #
 efaruchar # vyděsit, polekat, vyplašit #
 efecter # mít účinek, působit #
-efecterXXX-iv # účinný, působivý #
+efectiv # účinný, působivý #
 efecte # účinek, efekt fyz., tech., dojem #
 efectivar # prosadit #
 efectuabil # uskutečnitelný, proveditelný #
@@ -4272,9 +4272,9 @@ efervescentie # (vz)kypění, šumění, pěnění #
 efervescent # šumivý; překypující přen. #
 efervescer # (vz)kypět, šumět, pěnit #
 eficaci # účinný, působivý #
-eficaciXXX-tá # účinnost, působivost #
+eficacitá # účinnost, působivost #
 eficient # účinný (žádoucím směrem), vhodný (pro daný účel) #
-eficientXXX-ie # schopnost (výkonu), účinnost, efektivnost #
+eficientie # schopnost (výkonu), účinnost, efektivnost #
 efigie # obraz, podob(izn)a (na minci), figur(in)a #
 efilat # ostrý, tenký (nabroušený) #
 efluentie # vytékání #
@@ -4287,13 +4287,21 @@ efrenat # rozpustilý, bezuzdný #
 efuser # rozlévat ,vyzařovat;-ion prolévání, vylévání, vytékání, výtok, efúze (plynů) #
 efusiv # efuzívní, výlevný #
 egal # stejný, rovný, rovnající se (komu, čemu) #
-egalXXX-itá # rovnost; -itari rovnostářský; -isar vyrovnávat (ve hře): -isation vyrovnávání, srovnávání na stejnou úroveň #
+egalitá # rovnost #
+egalitari # rovnostářský #
+egalisar # vyrovnávat (ve hře) #
+egalisation # vyrovnávání, srovnávání na stejnou úroveň #
 egardar # příhlédnout (k čemu) #
 egard(e) # ohled #
-Egiptia # *Egy... Egypt; e-an egyptský; e-ano Egypťan #
+Egiptia # Egypt #
+egiptian # egyptský #
+egiptiano # Egypťan #
 eglefin # treska (skvrnitá) #
 ego # vlastní já #
-egoXXX-céntric # egocentrický; -ist sobec, egoista: -isme sobectví, egoismus; -ístic sobecký, samolibý #
+egocentric # egocentrický #
+egoist # sobec, egoista #
+egoisme # sobectví, egoismus #
+egoistic # sobecký, samolibý #
 ejacular # vyrážet (slova); vystříknout, ejakulovat #
 ejecter # vyhazovat (hlínu) #
 ejection # vyhazování #
@@ -4304,39 +4312,43 @@ elapser # uplynout, uběhnout #
 elargar # rozšířit #
 elargation # rozšíření #
 elástic # pružný, elastický #
-elásticXXX-itá # pružnost, elastičnost #
+elásticitá # pružnost, elastičnost #
 Elbe # Labe #
 electer # volit #
 election # volba #
-electionXXX-or # volič; -iv volební (období): -ibil volitelný #
+elector # volič #
+electiv # volební (období) #
+electibil # volitelný #
 electoral # volební (místnost) #
 eléctric # elektrický #
-eléctricXXX-itá # elektřina #
+eléctricitá # elektřina #
 electrocuter # popravit (na el. křesle) #
 electrocution # poprava #
 electrolisar # *electroly... elektrolyzovat #
 electrolise # elektrolýza #
-electroliseXXX-te # elektrolyt #
+electrolite # elektrolyt #
 electrolitic # elektrolytický #
 elefante # *eleph... slon #
 elefantin # sloní #
 elegant # elegantní #
-elegantXXX-ie # elegance #
+elegantie # elegance #
 elegie # elegie, žalozpěv #
 element # prvek, složka; živel #
-elementXXX-al # živelný; -ari základní eleva žákyně; chovanka #
-element # prvek, složka; živel #
-elementXXX-al # živelný; -ari základní elev/e, -o žák; chovanec #
+elemental # živelný #
+elementari # základní #
+eleve # žák; chovanec #
+elevo # žák; chovanec #
+eleva # žákyně; chovanka #
 elevar se # zdvihat se, tyčit se #
 elevar # zvýšit; povznést (mysl); pěstovat, vychovávat #
 elevation # zvýšení, vyvýšení, zdvih; povznesení (mysli) #
 elevator # výtah, zdviž; zdvihač #
 elf # skřítek, diblík #
-elfXXX-a # víla #
+elfa # víla #
 elider # vynechat, vypustit gram #
 eliminar # vyloučit, vyřadit #
 elimination # vyloučení, vyřazení #
-eliminationXXX-atori # vylučovací sport. #
+eliminatori # vylučovací sport. #
 elipse # elipsa #
 elipsoide # elipsoid #
 eliptic # elipsov(it)ý, eliptický #
@@ -4349,7 +4361,7 @@ elogie # chvála, pochvala, chvalořeč #
 elongar # prodloužit tech. (protažením) #
 elongation # prodloužení #
 eloquent # výmluvný #
-eloquentXXX-ie # výmluvnost #
+eloquentie # výmluvnost #
 elucidar # vyjasnit, osvětlit #
 elucidation # vyjasnění, osvětlení #
 elucubrar # s námahou vypracovat #
@@ -4365,16 +4377,16 @@ embarassament # nesnáz, překážka #
 embarassar # uvést do rozpaků; překážet, vadit #
 embarasse # nesnáz, překážka; tíseň, rozpaky #
 emblema # (od)znak, symbol, emblém #
-emblemaXXX-tic # emblémový #
+emblematic # emblémový #
 embolic # embolický #
 embolie # embolie med. #
 embrasura # výklenek (okna, dveří); střílna #
 embrion # *embry... embryo #
-embrionXXX-ic # zárodečný, počáteční, nevyvinutý #
+embrionic # zárodečný, počáteční, nevyvinutý #
 emendabil # pozměnitelný #
 emendar # zlepšit (situaci), opravit (chyby v textu), vylepšit (text); pozměnit, doplnit (návrh) #
 emendation # zlepšení, oprava, vylepšení #
-emendationXXX-ament # doplněk (zákona) #
+emendament # doplněk (zákona) #
 emerit # vysloužilý (jsoucí na odpočinku); zasloužilý (umělec) #
 emerser # vynořit se, vyčnívat (z vody) #
 emersion # vynoření #
@@ -4385,14 +4397,14 @@ emigrante # emigrant, vystěhovalec #
 emigrar # emigrovat, vystěhovat se (ze země) #
 emigration # emigrace, vystěhovalectví #
 eminent # vynikající, význačný, znamenitý #
-eminentXXX-entie # vynikající vlastnost, znamenitost; věhlas #
+eminentie # vynikající vlastnost, znamenitost; věhlas #
 eminer # vynikat #
 emissario # emisar, posel #
 emisser # vysílat, vydávat, vypouštět #
 emission # vyzařování, sálání (tepla); vydání, emise (známek, bankovek); vysílání, emise (elektronů) #
 emoer # pohnout, dojmout #
 emotion # pohnutí, dojetí, emoce #
-emotionXXX-tiv # citově zabarvený, emotivní #
+emotiv # citově zabarvený, emotivní #
 empiric # zkušenostní #
 empirie # zkušenost #
 employar # zaměstnávat #
@@ -4404,8 +4416,8 @@ emulsiv # (= de emulsion) emulzní #
 encáustic # vosková barva; vosk na leštění podlah #
 enciclopedic # encyklopedický #
 enciclopedie # *ency... encyklopedie #
-enclític # příklonný gram. #
-enclíticXXX-a # příklonka gram. #
+enclitic # příklonný gram. #
+enclitica # příklonka gram. #
 endemic # endemický #
 endemie # endemie #
 endivie # štěrbák zahr. #
@@ -4442,7 +4454,7 @@ epiderma # pokožka anat. #
 epidermic # pokožkový #
 Epifanie # *Epiph... svátek Tří králů #
 epigraf # *epigraph nápis, epigraf #
-epigrafXXX-ic # epigrafický #
+epigrafic # epigrafický #
 epigramma # epigram #
 epigrammatic # epigramatický #
 epilepsie # epilepsie med. #
@@ -4450,7 +4462,7 @@ epileptic # epileptický #
 epileptico # epileptik #
 epilog # epilog #
 epíscop # biskup #
-epíscopXXX-al # biskupský; -atu, -ia biskupství #
+epíscopal # biskupský; -atu, -ia biskupství #
 episodari # upravený ve formě dopisů #
 episode # epizoda #
 episodic # epizod/ický, -dní epístul epištola bibl. a círk. #
@@ -4461,8 +4473,9 @@ epoca # období, doba, epocha, éra #
 epol # rámě, rameno, plece; plecko #
 epopé # epopej #
 épos # epos, epická báseň #
-eqivoc # dvojsmyslný, dvojznačný #
-eqivocXXX-ar # mluvit dvojsmyslně, vytáčet se; -al dvojznačný, obojaký #
+equivoc # dvojsmyslný, dvojznačný #
+equivocar # mluvit dvojsmyslně, vytáčet se #
+equivocal # dvojznačný, obojaký #
 equal # rovný, stejný #
 equation # rovnice mat. #
 equilateral # (rovno-, stejno)stranný #
@@ -4471,11 +4484,13 @@ equilibrie # rovnováha #
 equilibrist # ekvilibrista, provazolezec #
 equinoctie # rovnodennost #
 equip # mužstvo (posádka); družstvo, tým sport. #
-equipXXX-ar # vybavit, vystrojit; -ament vybavení, výstroj; -age ekvipáž #
+equipar # vybavit, vystrojit #
+equipament # vybavení, výstroj #
+equipage # ekvipáž #
 equitá # rovnost, spravedlivost, spravedlnost (přirozená) #
 equivalentie # rovnocennost, ekvivalence #
 equivalent # rovnocenný #
-equivalentXXX-ente # protihodnota, ekvivalent #
+equivalente # protihodnota, ekvivalent #
 equivaler # rovnat se (komu, čemu) #
 equi- # (ve složeninách značí rovno-, stejno- ) #
 eradicar # vykořenit, vymýtit #
@@ -4486,7 +4501,7 @@ erasura # vymazání, vymazané místo #
 erecter # vzpřímit, vztyčit #
 erectibil # vztyčitelný #
 erection # vzpřímení, vztyčení #
-erectionXXX-iv # topořivý #
+erectiv # topořivý #
 eremite # poustevník #
 ergo # tedy, tudíž, proto #
 érica # vřes; érica-prates vřesoviště #
@@ -4495,17 +4510,19 @@ eroder # (na-, roz)hlodat, (na-, roz)rušit #
 erosion # (na-, roz) hlodání, (na-, roz)rušení #
 erosiv # erozívní #
 erotic # erotický #
-eroticXXX-a # erotika #
+erotica # erotika #
 erra # chyba #
 errar # chybovat, mýlit se; bloudit #
-errarXXX-ari # pochybený; -osi chybný; -atic bludný geol. #
+errari # pochybený #
+errosi # chybný #
+erratic # bludný geol. #
 errore # omyl #
 eruca # housenka zool. #
 erudir # vzdělávat #
 erudition # vědecké vzdělání, učenost, zběhlost #
 erudito # učenec, vzdělanec #
 erupter # vybouchnout (sopka), soptit; vyrazit (vyrážka) #
-erupterXXX-ion # výbuch (sopečný), erupce; vyrážka med. #
+eruption # výbuch (sopečný), erupce; vyrážka med. #
 escadre # oddíl váleč. loďstva n. letectva, eskadra #
 escadron # jezdecká setnina, eskadrona #
 escalar # vystupňovat (útok) #
@@ -4554,7 +4571,7 @@ estalage # výkladní skříň #
 estalar # rozprostřít; vystavit (zboží) #
 estete # estét #
 estetic # estetický #
-esteticXXX-ica # estetika #
+estetica # estetika #
 estetisme # estetismus #
 estimabil # úctyhodný, vážený #
 estimar # vážit si, cenit si #
@@ -4569,7 +4586,7 @@ etablissement # založení, zřízení, ustavení; závod, podnik; zaměstnanci 
 etablisser se # usadit se, usídlit se #
 etablisser # založit, zřídit, usadit (kde); umístit (v povolání), etablovat #
 etage # poschodí, patro, podlaží #
-etageXXX-re # polička #
+etagere # polička #
 etage subterran # suterén #
 etalon # cejchovní míra #
 etappe # úsek, etapa; období, vývojový stupeň #
@@ -4582,8 +4599,8 @@ eternisar # zvěčnit #
 eternitá # věčnost #
 eterni # věčný #
 etic # mravní, morální, etický #
-eticXXX-a # etika (nauka o mravnosti) #
-etile # *ethy... (ety...) etyl chem. #
+etica # etika (nauka o mravnosti) #
+etile # (ety...) etyl chem. #
 etilene # etylén #
 etilic # etylnatý #
 etimologic # etymologický #
@@ -4617,7 +4634,7 @@ evaluar # ocenit, ohodnotit #
 evaluation # ocenění, ohodnocení #
 evanescement # mdloba #
 evanescent # prchavý, pomíjivý #
-evanescentXXX-entie # (z)mizení, vyprchání; prchavost #
+evanescentie # (z)mizení, vyprchání; prchavost #
 evanescer # omdlít; (z)mizet, ztrácet se, vyprchat #
 evangelic # evangelický #
 evangelie # evangelium #
@@ -4629,13 +4646,14 @@ evasiv # úhybný, vyhýbavý #
 eveniment # událost #
 evenir # udát se #
 eventual # případný #
-eventualXXX-itá # možnost, možný případ #
+eventualitá # možnost, možný případ #
 eversar # vylít #
 eversuore # výlevka #
 evicter # vystrnadit, vypudit; soudně vystěhovat; zbavit držby #
 eviction # vypuzení; soudní vystěhování #
 evident # zřejmý, patrný #
-evidentXXX-ie # zřejmost, očividnost; evidence; -iar ozřejmit #
+evidentie # zřejmost, očividnost; evidence #
+evindentiar # ozřejmit #
 evitabil # vyhnutelný #
 evitar # vyhnout se (čemu) #
 evocar # vybavit, vyvolat (vzpomínky) #
@@ -4709,20 +4727,22 @@ execrar # proklínat #
 execration # proklínání, zatracování #
 executer # vykonat, provést, splnit; vyřídit (objednávku); popravit (odsouzence) #
 execution # vykonání, provedení, vyřízení, splnění; zabavení, soudní vymáhání #
-executionXXX-iv # výkonný; -ive výkonná moc, exekutiva #
+executiv # výkonný #
+executive # výkonná moc, exekutiva #
 executor # vykonavatel #
 exemplare # exemplář #
 exemplari # příkladný #
 exemple # příklad #
 exempt # vyňatý (z), osvobozený (od), zproštěný (čeho) #
-exemptXXX-er # vyjmout (z), osvobodit (od), zprostit (čeho); -ion vynětí, osvobození, zproštění #
+exempter # vyjmout (z), osvobodit (od), zprostit (čeho) #
+exemption # vynětí, osvobození, zproštění #
 exercida # výcvik #
 exercir # (vy)cvičit; vykonávat, provozovat (funkci, praxi) #
-exercirXXX-itie # cvičení, (vý)cvik; vykonávání (funkce) #
+exercirtie # cvičení, (vý)cvik; vykonávání (funkce) #
 exhalar # exhalovat #
 exhalation # exhalace #
 exhauster # vyčerpat, vyprázdnit, vypumpovat; vysílit #
-exhausterXXX-ion # vyčerpání (zásob); vysílení #
+exhaustion # vyčerpání (zásob); vysílení #
 exhaustiv # vyčerpávající, důkladný, úplný; vysilující #
 exhaustor # čerpadlo #
 exhibir # ukazovat co na odiv #
@@ -4733,13 +4753,13 @@ exhortativ, # -atori vybízecí #
 exhumar # exhumovat #
 exhumation # exhumace #
 exigent # vyžadující, náročný #
-exigentXXX-entie # požadavek, náročnost #
+exigentie # požadavek, náročnost #
 exiger # vyžadovat, požadovat #
 exiliar # vyhnat (ze země), vypovědět, poslat do vyhnanství #
 exiliate # vyhnanec #
 exilie # vyhnanství #
 existent # jsoucí; nynější #
-existentXXX-entie # bytí, jsoucnost, trvání, výskyt; živobytí, život #
+existentie # bytí, jsoucnost, trvání, výskyt; živobytí, život #
 exister # být, žít, trvat, existovat #
 exlogiar # se vystěhovat se #
 exonerar # osvobodit (od čeho) #
@@ -4748,7 +4768,7 @@ exorbitant # přemrštěný (o ceně), přehnaný #
 exorcisar # vymítat (ďábla, zlé duchy) #
 exorcisation # vymítání #
 exot # rostlina n. živočich cizokraj. původu #
-exotXXX-ic # exotický #
+exotic # exotický #
 expander # rozšířit (se), rozpínat (se) #
 expansion # roztažení, rozpětí, rozpínání, expanze #
 expansiv # rozpínavý #
@@ -4761,14 +4781,15 @@ expectoration # vykašlávání #
 expediente # prostředek v nouzi, východisko #
 expedir # vypravit, zasílat, odbavit, odeslat #
 expedition # výprava (vědecká, válečná); vypravení, odeslání, zásilka #
-expeditionXXX-itiv # hbitý, rychlý, spěšný #
+expeditiv # hbitý, rychlý, spěšný #
 expeditor # zasílatel, odesílatel #
 expenses # náklady, výlohy, režie #
-expensesXXX-er # vydat, utratit; vynaložit (úsilí) #
+expenser # vydat, utratit; vynaložit (úsilí) #
 expense # výdaj, vydání, útrata #
 expensiv # nákladný #
 experientie # zkušenost #
-experientieXXX-iment # pokus: -imental pokusný #
+experiment # pokus #
+experimental # pokusný #
 experimentar # dělat pokusy #
 experir # zažít, zakusit #
 experte # odborník, znalec #
@@ -4779,18 +4800,18 @@ expirar # vydechnout; skonat; vypršet (o lhůtě) #
 expiration # vydechnutí, výdech; skon; vypršení, uplynutí (lhůty) #
 explicar # vysvětlit, vyložit #
 explication # vysvětlení, výklad #
-explicationXXX-ativ # vysvětlující, vysvětlovací #
+explicativ # vysvětlující, vysvětlovací #
 explicit # výslovný, jasný; zřetelný #
 exploder # explodovat, vybuchnout #
 explorar # (pro)zkoumat, ohledat, pátrat #
 exploration # zkoumání, průzkum, výzkum #
 explorator # badatel, výzkumník #
 explosion # výbuch #
-explosionXXX-siv # výbušný, třaskavý #
+explosiv # výbušný, třaskavý #
 explosive # třaskavina, výbušnina #
 explotar # těžit, zužitkovat; vykořisťovat #
 explotation # těžba, dobývání, zužitkování; vykořisťování #
-explotationXXX-ator # vykořisťovatel #
+explotator # vykořisťovatel #
 explotero # těžař #
 exponente # exponent #
 exponer # vystavit (účinkům); exponovat #
@@ -4802,13 +4823,15 @@ exposition # expozice (i fot.) #
 expositor # vystavovotel #
 expresser # vyjádřit #
 expression # vyjádření, výraz #
-expressionXXX-ionisme # expresionismus; -ionist expresionista; -iv výrazný; vyjadřovací #
+expressionisme # expresionismus #
+expressionist # expresionista #
+expressiv # výrazný; vyjadřovací #
 expressivitá # výraznost #
 exprompte # spatra (bez přípravy) #
 expropriar # vyvlastnit #
 expropriation # vyvlastnění #
 expulser # vyloučit (ze školy), vypudit, vyhnat, vykázat #
-expulserXXX-ion # vyloučení, vypuzení, vykázání #
+expulsion # vyloučení, vypuzení, vykázání #
 expurgar # vyčistit #
 expurgation # vyčištění #
 exquisit # vybraný, znamenitý #
@@ -4819,7 +4842,7 @@ extatic # extatický #
 extender # roztáhnout, rozšířit, rozprostírat #
 extensibilitá # roztažitelnost #
 extension # roztažení, rozšíření, rozpětí #
-extensionXXX-siv # rozsáhlý, značný: -sibil roztažitelný #
+extensiv # rozsáhlý, značný: -sibil roztažitelný #
 extenuar # vyčerpat, vysílit #
 extenuation # vyčerpání, vysílení #
 exteriore # (ze)vnějšek; exteriér #
@@ -4845,11 +4868,15 @@ extradition # vydání (zločince) extra(c)te výňatek, výtah; výtažek #
 extradition # vydání (zločince) extra/(h)er, -(ct)er vytáhnout, vytrhnout (zub) #
 extradtion # vytažení, vytržení (zubu) #
 extran # cizozemský, zahraniční #
-extranXXX-ia # cizina, zahraničí #
+extrania # cizina, zahraničí #
 extraordinari # mimořádný, zvláštní, nevšední #
 extraterrestri # mimozemský #
 extravagant # přemrštěný, výstřední #
-extravagantXXX-ar # chovat se výstředně; -antie přepjatost, výstřednost; extrem krajní, extrémní; -itá (nejzazší) konec, krajnost: -ist extremista; -isme extremismus #
+extravagar # chovat se výstředně #
+extravagantie # přepjatost, výstřednost; extrem krajní, extrémní #
+extravagitá # (nejzazší) konec, krajnost #
+extravagist # extremista #
+extravagisme # extremismus #
 Extrem Oriente # Dálný Východ #
 exuberant # hojný, oplývající, překypující (čím) #
 exuberantie # přemíra, hojnost #
@@ -4857,12 +4884,15 @@ exuberar # oplývat (čím) #
 exultar # (za)jásat, (za)plesat, -ation (za)jásání #
 ex # z, ze #
 fabe # bob bot. #
-fábricar # vyrábět #
-fábricarXXX-ante # továrník, výrobce; -ate (tovární) výrobek #
-fábrication # výroba #
+fabricar # vyrábět #
+fabricante # továrník, výrobce #
+fabricate # (tovární) výrobek #
+fabrication # výroba #
 fábrica # továrna, výrobna #
-fábul # bajka #
-fábulXXX-ar # bájit; -ist bajkář; -osi vybájený #
+fabul # bajka #
+fabular # bájit #
+fabulist # bajkář #
+fabulosi # vybájený #
 facette # faseta, broušená ploška (drahokamu) #
 facial # lícní, obličejový #
 faciata # políček, facka #

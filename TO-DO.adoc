@@ -30,6 +30,7 @@
 - Convert notation "(= X)" into independent cross references.
 - Confirm Caucas/Caucasia.
 - Confirm déxteri/dexteri.
+- Confirm episcop/epíscop.
 
 == Esperanto (eo)
 
