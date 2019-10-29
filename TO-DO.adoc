@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910290053
+// Last modified 201910291557
 
 == General
 
@@ -29,6 +29,7 @@
   dictionary).
 - Convert notation "(= X)" into independent cross references.
 - Confirm Caucas/Caucasia.
+- Confirm déxteri/dexteri.
 
 == Esperanto (eo)
 

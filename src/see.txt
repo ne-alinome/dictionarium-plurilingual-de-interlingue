@@ -763,4 +763,8 @@ cynico # -> cinico #
 cyste # -> ciste #
 clorophyll # -> clorofill #
 chlorophyll # -> clorofill #
-cosmicographic -> cosmicografic
+cosmicographic # -> cosmicografic #
+dattil # -> datil #
+dextrogyrat # -> dextrogirat #
+dynamic # -> dinamic #
+dynastie # -> dinastie #

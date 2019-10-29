@@ -3311,7 +3311,7 @@ damageosi # škodlivý #
 damage # škoda #
 damnar # zatratit, proklít #
 damnation # zatracení, věčné prokletí #
-damnationXXX-abil # zavrženíhodný #
+damnabil # zavrženíhodný #
 dandy # hejsek, floutek #
 danesi # dánský, dánština #
 daneso # Dán; D-ia Dánsko #
@@ -3324,30 +3324,32 @@ Danubio # Dunaj; d-an dunajský #
 dar # dát #
 dar nascentie a # zplodit #
 data # (= factes) údaje, skutečnosti, data (zvl. životopisná) #
-dataXXX-e # datum #
-datar # datovat; database databáze #
-dátil # datle #
-dátilXXX-iero # datlovník #
+date # datum #
+datar # datovat #
+database # databáze #
+datil # datle #
+datiliero # datlovník #
 dative # dativ gram. #
 dax # jezevec #
 debarcar # vylodit se; vyložit (z lodi); vystoupit na břeh #
-debarcarXXX-ament # vylodění, přistání (lodi) #
+debarcament # vylodění, přistání (lodi) #
 debarcatoria # přístaviště #
 debattar # debatovat, rokovat #
 debatte # debata, rokování #
 debetar # zatížit účet (koho) částkou, zapsat na stranu "má dáti" #
 debete # účetní položka "má dáti", pasívum, debet #
-débil # slabý #
-débilXXX-isar # oslabit; -itá slabost (zprav. tělesná) #
+debil # slabý #
+debilisar # oslabit #
+debilitá # slabost (zprav. tělesná) #
 debir # být dlužen #
 debite # dluh; vina bibl. #
-debiteXXX-itor # dlužník; viník bibl. #
+debitor # dlužník; viník bibl. #
 debitosi # zadlužený #
 debochar # hýřit, oddávat se prostopášnostem #
 debordar # překročit (řeku); přestoupit (zákon); vystoupit (z břehů) #
 debordation # překročení, přestoupení, vystoupení #
 debut # (za-, po)čátek, první vystoupení, debut #
-debutXXX-ar # debutovat; -ante začátečník, debutant #
+debutar # debutovat; -ante začátečník, debutant #
 decadentie # úpadek #
 decadent # úpadkový, dekadentní #
 decader # upadat, klesnout; scházet #
@@ -3363,7 +3365,7 @@ deceder # zemřít, zesnout #
 decembre # prosinec #
 decennie # desetiletí; desáté výročí #
 decent # decentní, nevtíravý, vkusný #
-decentXXX-entie # slušnost #
+decentie # slušnost #
 decepter # zklamat (koho) #
 deception # podvod, klam(ání) #
 deceptiv # klamný, ošidný; a(p)parentie es deceptiv zdání klame #
@@ -3376,7 +3378,8 @@ deciffration # dešifrování #
 decigramme # decigram #
 decilitre # decilitr #
 decimal # desetinný #
-decimalXXX-ene # desítka; -ade dekáda, období deseti dnů #
+decene # desítka #
+decade # dekáda, období deseti dnů #
 decimar # decimovat (ničit, oslabovat) #
 decimation # decimování #
 decimetre # decimetr #
@@ -3403,7 +3406,7 @@ decomposir # rozložit (i chem) #
 decomposition # rozklad #
 decorar # (o-, vy)zdobit; vyznamenat (řádem) #
 decoration # (o-, vý)zdoba; vyznamenání, řád #
-decorationXXX-ativ # ozdobný, okrasný, dekorativní, dekorační #
+decorativ # ozdobný, okrasný, dekorativní, dekorační #
 decorator # dekoratér #
 decovrir # odkrýt, odhalit, objevit #
 decovrition # odkrytí, ohalení, objev(ení) #
@@ -3420,17 +3423,18 @@ dedicar # věnovat; zasvětit (komu co); připsat (komu) dílo #
 dedication # věnování, zasvěcení, připsání #
 dedoanar # proclít #
 deducter # dedukovat, vyvozovat; odvozovat (původ) #
-deducterXXX-ion # dedukování, dedukce, závěr #
+deduction # dedukování, dedukce, závěr #
 deductiv # deduktivní #
 defecar # vyprázdnit (střeva); pročistit, odkalit #
 defecation # vyprázdnění (střev), pročištění, odkalení #
 defecator # odkalovač #
 defecte # nedostatek, vada, kaz, chyba, porucha, defekt #
-defecteXXX-ion # selhání #
+defection # selhání #
 defectiv # vadný, chybný, defektní #
 defender # hájit, bránit, obhajovat #
 defense, # -sion obrana; obhajoba #
-defense,XXX-siv # defenzívní, obranný; -sive defenzíva, obrana, odrážení útoků #
+defensiv # defenzívní, obranný #
+defensive # defenzíva, obrana, odrážení útoků #
 defensor # obránce (i sport.); obhájce; ochránce (víry) #
 defetar # porazit voj. #
 defete # porážka voj. #
@@ -3444,7 +3448,8 @@ definir # určit, vymezit, definovat #
 definition # určení, vymezení, definice #
 definitiv # rozhodný, konečný, definitivní #
 defí # výzva (k zápasu) #
-defíXXX-ar # vyzvat; -ation vyzvání, výzva #
+defiar # vyzvat #
+defiation # vyzvání, výzva #
 de flanca # z boku #
 deflorar # deflorovat, zbavit panenství; zbavit květů #
 defluentie, # -tion odtékání, odtok #
@@ -3453,13 +3458,14 @@ deforestar # odlesnit #
 deforestation # odlesnění #
 deformar # změnit tvar; znetvořit, deformovat #
 deformation # změna tvaru, znetvoření, deformace #
-deformationXXX-ativ # deformační: -i pokroucený, pokřivený #
+deformativ # deformační #
+deformi # pokroucený, pokřivený #
 deformitá # deformita med. #
 defraudante # defraudant #
-defraudanteXXX-ation # zpronevěra, defraudace #
+defraudation # zpronevěra, defraudace #
 defraudar # zpronevěřit, defraudovat #
 degel # obleva, tání #
-degelXXX-ar # (roz)tát #
+degelar # (roz)tát #
 degenerar # upadat, chátrat #
 degeneration # upadání, chátrání #
 degradar # degradovat, ponížit #
@@ -3484,7 +3490,7 @@ delfine # *delphine delfín #
 deliberar # rokovat, uvažovat; (po)radit se (navzájem), usnést se #
 deliberation # rokování, porada, debata; usnesení #
 delicatesse # lahůdka, pochoutka, delikatesa #
-delicatesseXXX-ie # potěšení, slast #
+delicie # potěšení, slast #
 delicat # jemný, křehký, choulostivý #
 deliciosi # chutný, lahodný, výtečný; rozkošný #
 delicte # přečin, delikt #
@@ -3503,12 +3509,12 @@ demarche # diplomatický zákrok #
 demascar # demaskovat, odhalit (něčí špatnou zatajenou vlastnost) #
 demascation # demaskování, stržení masky, odhalení #
 dement # dementní, slabomyslný #
-dementXXX-ie # demence, slabomyslnost; -ar zbavit rozumu #
+dementie # demence, slabomyslnost; -ar zbavit rozumu #
 dementir # úředně popřít, vyvrátit #
 demí # půl, polovic, polovina, půlka; demí-ciec poloslepý #
 demisser # odstoupit, podat demisi #
 demissionar # odstoupit, vzdát se úřadu #
-demissionarXXX-ionario # kdo odstupuje #
+demissionario # kdo odstupuje #
 demission # složení úřadu, odstoupení, demise #
 democrate # demokrat #
 democratic # demokratický #
@@ -3516,7 +3522,8 @@ democratie # demokracie #
 demolir # zbourat, demolovat #
 demolition # zbourání, demolice #
 demon # démon, zlý duch, běs, ďábel #
-demonXXX-ic # démonický, ďábelský; -isar změnit v démona #
+demonic # démonický, ďábelský #
+demonisar # změnit v démona #
 demonstrar # vyložit (názorně), předvést, demonstrovat #
 demonstration # vyložení, předvedení, demonstrace #
 demonstrativ # demonstartivní, okázalý; ukazovací gram. #
@@ -3535,9 +3542,9 @@ denov # znovu, opět, zase #
 densallia # houští, houština #
 densi # hustý, hutný #
 densitá # hustota, hutnost #
-densitáXXX-ore # hustota (míra) #
+densore # hustota (míra) #
 dental # zubní #
-dentalXXX-age # chrup #
+dentage # chrup #
 dentatura # ozubení #
 dentelle # krajka #
 dentellera # krajkářka #
@@ -3549,10 +3556,15 @@ denunciar # udávat, donášet #
 denunciation # udávání, donášení #
 denunciator # udavač, donašeč #
 denuncia # udání #
-Deo # Bůh (křesťanský); Dómino Deo Pánbůh; deal božský #
-DeoXXX-essa # bohyně; -ist deista: -isme deismus; -itá božství #
-Deo # Bůh (křesťanský); Dómino Deo Pánbůh; deificar prohlásit za boha #
-Deo # Bůh (křesťanský); Dómino Deo Pánbůh; de/o bůh (pohanský) #
+Deo # Bůh (křesťanský) #
+Dómino Deo # Pánbůh #
+deo # bůh (pohanský) #
+deal # božský #
+deessa # bohyně #
+deist # deista #
+deisme # deismus #
+deitá # božství #
+deificar # prohlásit za boha #
 de # od, z (předl. 2. pádu) #
 departament # oddělení, odbor #
 departe # odjezd, odchod #
@@ -3563,7 +3575,7 @@ dependent # (de) závislý, odkázaný (na) #
 dependentie # závislost #
 depender # (de) záviset, záležet (na) #
 deperir # slábnout, chřadnout, ztrácet se před očima #
-deperirXXX-ition # slábnutí, chřadnutí #
+deperition # slábnutí, chřadnutí #
 deplazzar # přemístit, posunout #
 deplazzation # přemístění #
 deplorabil # žalostný, politováníhodný #
@@ -3574,16 +3586,16 @@ depopulation # vylidnění #
 deportar # vykázat, vypovědět (ze země); násilím odvléci, deportovat #
 deportation # vykázání, vypovězení; deportace #
 deposir # odložit (šat); uložit (peníze); složit (kauci) #
-deposirXXX-itor # ukladatel, deponent #
+depositor # ukladatel, deponent #
 deposite # vklad #
-depositeXXX-ition # uložení, složení #
+depositition # uložení, složení #
 depositoria # úschovna, depozitář #
 depó # sklad, skladiště #
 deposseder # zbavit majetku, vyvlastnit #
 depoy # od té doby #
 depravar # zkazit (mravně) #
 depravation # zkaženost, zpustlost #
-depravationXXX-ator # kdo někoho mravně kazí #
+depravator # kdo někoho mravně kazí #
 deprender # odebrat, ubrat #
 deprenion # odeb(í)rání #
 deprense # ubrání #
@@ -3627,7 +3639,7 @@ descargar # složit (náklad); stáhnout (progr. n. data do PC) #
 descendentie # sestupnost #
 descender # sestoupit, sestupovat, klesat #
 descense # sestup, sjezd; spád, svah #
-descenseXXX-sion # sestoupení, sestup; -dente potomek, následovník #
+descension # sestoupení, sestup; -dente potomek, následovník #
 deschargear # vybí(je)t (el., i zbraň) #
 descorcar # odzátkovat #
 descorticar # zbavit kůry, odkornit #
@@ -3640,9 +3652,9 @@ desde nu # od nynějška #
 desde # od #
 deserter # zběhnout, dezertovat #
 desertion # zběhnutí, dezerce #
-desertionXXX-or # dezertér, zběh #
+desertor # dezertér, zběh #
 desert # pustý, neobydlený #
-desertXXX-e # poušť, pustina #
+deserte # poušť, pustina #
 deservir # odnášet, sklízet (se stolu); prokázat (komu) špatnou službu #
 desesperantie # zoufalství, zoufalost #
 desesperar # zoufat (nad čím) #
@@ -3659,20 +3671,22 @@ desflorar # odkvést, (u-, z)vadnout #
 desfloration # odkvétání, uvadání, vadnutí #
 desflorear # odkvétat, uvadat #
 desfortun # neštěstí #
-desfortunXXX-osi # nešťastný #
+desfortunosi # nešťastný #
 desgageament # vyplacení (zástavy) #
 desgagear # vyplatit (získat zpět) #
 desgust # znechucení #
-desgustXXX-ar # znechutit #
+desgustar # znechutit #
 deshonest # nečestný, nepoctivý #
-deshonestXXX-ie # nečestnost, nepoctivost #
+deshonestie # nečestnost, nepoctivost #
 deshonor # pohana, potupa #
-deshonorXXX-ar # hanobit, zneuctít; -ation hanobení, zneuctění; -abil potupný, hanebný #
+deshonorar # hanobit, zneuctít #
+deshonoration # hanobení, zneuctění #
+deshonorabil # potupný, hanebný #
 designabil # ustanovitelný #
 designar # označit, určit, ustanovit (do funkce) #
 designation # označení, ustanovení (do funkce) #
 desilusion # rozčarování #
-desilusionXXX-ar # rozčarovat #
+desilusionar # rozčarovat #
 desinbarcar # vylodit (se) #
 desinbarcation # vylodění #
 desinclinar # odklonit #
@@ -3686,10 +3700,10 @@ desmelioration # zhoršení #
 desmetter # odložit (šat) #
 desmoblar # vyklidit (místnost) #
 desocupat # nezaměstnaný #
-desocupatXXX-ion # nezaměstnanost #
+desocupation # nezaměstnanost #
 desolar # zpustošit #
 desolat # zpustošený; bezútěšný; pustý #
-desolatXXX-ation # zpustošení; bezútěšnost; pustota, prázdnota #
+desolation # zpustošení; bezútěšnost; pustota, prázdnota #
 despecte # nevážnost, pohrdání #
 despecter # nevážit si, pohrdat, přezírat, nerespektovat #
 despectosi # pohrdlivý #
@@ -3705,26 +3719,26 @@ despotic # despotický #
 despotisme # despotismus #
 despreciation # znevážení, podceňování #
 desprecie # podcenění, nevážnost, neúcta, pohrdání #
-desprecieXXX-ar # znevážit, podceňovat, pohrdat #
+despreciar # znevážit, podceňovat, pohrdat #
 des- # (předpona s významen opaku) #
 desquietar # (se) znepokojit (se) #
 dessert # dezert, zákusek #
 dessimil # nepodobný, různý #
-dessimilXXX-itá # nepodobnost, různost #
+dessimilitá # nepodobnost, různost #
 dessinar # (na)kreslit, (na)rýsovat #
-dessinarXXX-ator # kreslíř, návrhář #
+dessinator # kreslíř, návrhář #
 dessine # kresba, výkres, nákres, (ná)rys #
 dessinuore # rýsovadlo #
 destinar # určit (k čemu) #
 destinatario # adresát, příjemce #
 destine # osud #
-destineXXX-ation # určení (k čemu); místo určení; -ator určovatel #
+destination # určení (k čemu); místo určení; -ator určovatel #
 destituer # sesadit, zbavit úřadu #
 destituibil # sesaditelný #
 destitution # sesazení #
 destructer # zničit, zmařit #
 destruction # zničení, zmar, zkáza, úplný rozklad #
-destructionXXX-or # ničitel #
+destructor # ničitel #
 destructiv # ničivý, zhoubný #
 de sub # zpod #
 desunion # nejednota #
@@ -3738,7 +3752,8 @@ detallie # podrobnost, jednotlivost, detail #
 detecter # zjistit, objevit, odkrýt, odhalit #
 detective # detektiv #
 detector # detektor, indikátor, čidlo #
-detectorXXX-ion # odhalování, pátrání; el. detekce; usměrnění; -iv pátravý; detektivní #
+detection # odhalování, pátrání; el. detekce; usměrnění #
+detectiv # pátravý; detektivní #
 de témpor a témpor # občas #
 detener # zadržet #
 detention # zadržení, vazba #
@@ -3760,11 +3775,12 @@ detornar # odklonit od směru; odvrátit (koho od čeho) #
 detorne # objížďka, oklika; vytáčka #
 detracter # zlehčit; odvést (pozornost) #
 detraction # zlehčování, pomlouvání #
-detractionXXX-iv # zlehčující #
+detractiv # zlehčující #
 detractor # pomlouvač #
 detra # za, vzadu #
 detriment # škoda, újma #
-detrimentXXX-ar # škodit; -al škodlivý #
+detrimentar # škodit #
+detrimental # škodlivý #
 devaluar # devalvovat, znehodnotit #
 devaluation # devalvace #
 devastar # zpustošit #
@@ -3788,11 +3804,11 @@ devorar # (z)hltat, požírat, sežrat (hltavě) #
 devoration # požírání #
 devotion # oddanost #
 déxteri # obratný, zručný #
-déxteriXXX-tá # obratnost, zručnost #
+dexteritá # obratnost, zručnost #
 dextre # pravá strana; a dextre vpravo #
-dextreXXX-ogirat # *-ogyrat pravotočivý fyz., chem. #
+dextrogirat # pravotočivý fyz., chem. #
 dextri # pravý, (nacházející se) na pravé straně #
-dextrorsi # pravotočivý bot. #
+dextrorsi # pravotočivý bot. # XXX TODO -- Confirmar.
 diabete # cukrovka (nemoc) #
 diabetic # diabetický #
 diabetico # diabetik #
@@ -3800,10 +3816,10 @@ diábol # čert, ďábel #
 diaboleríe # rozpustilost, rošťáctví #
 diabolic # čertovský, ďábelský #
 diacon # jáhen, diakon círk. #
-diaconXXX-atu # jáhenství, diakonát #
+diaconatu # jáhenství, diakonát #
 diadem # diadém #
 diafan # *diaph... průsvitný, průhledný #
-diafanXXX-e # diafán #
+diafane # diafán #
 diafragma # *diaph... bránice med. #
 diagnose # diagnóza #
 diagnostica # diagnostika #
@@ -3811,10 +3827,12 @@ diagnostic # diagnostický #
 diagonale # úhlopříčka #
 diagonal # úhlopříčný, diagonální geom. #
 diagramma # diagram #
-dial, # -ari denní #
-dial,XXX-ario # deník (časopis) #
+dial # denní #
+diari # denní #
 dialectal # nářeční #
-dialectalXXX-ic # dialektický; -ica dialektika; -ico dialektik #
+dialectic # dialektický #
+dialectica # dialektika #
+dialectico # dialektik #
 dialecte # nářečí, dialekt #
 dialectologie # dialektologie #
 dialog # dialog #
@@ -3825,24 +3843,23 @@ diametre # průměr (tělesa, kruhu) #
 diante # karafiát #
 diapason # tónový rozsah hlasu n. nástroje; ladička #
 diaré # průjem med. #
-diário # deník (časopis) #
-diárium # deník (zápisník), diář #
-diárium # deník (zápisník), diář #
+diario # deník (časopis) #
+diarium # deník (zápisník), diář #
 diatermic # diatermický #
 diatermie # diatermie #
 diatribe # hanlivý spis, hanopis #
 dictar # diktovat, předpisovat #
 dictate # diktát (vnucené rozhodnutí, příkaz; též diktovaný text) #
-dictateXXX-ator # diktátor; -atori diktátorský, pánovitý, rozkazovačný #
+dictator # diktátor; -atori diktátorský, pánovitý, rozkazovačný #
 dictatura # diktatura #
 diction # dikce, způsob vyjadřování; přednes; výslovnost #
-dictionXXX-árium # slovník #
-didáctic # didaktický #
-didácticXXX-a # didaktika #
+dictionarium # slovník #
+didactic # didaktický #
+didactica # didaktika #
 die # den #
 diese # křížek hud. # XXX FIXME --
 dietar # držet dietu #
-dietarXXX-ic # dietní #
+dietic # dietní #
 diete # strava; dieta #
 dietica # dietetika #
 difamar # pomlouvat #
@@ -3850,14 +3867,15 @@ difamation # pomluva, utrhačství #
 difamatori # hanlivý, utrhačný #
 diferential # diferenciální mat. #
 diferentie # rozdíl, diference #
-diferentieXXX-ent # odlišný, rozdílný #
+diferent # odlišný, rozdílný #
 diferer # lišit se #
 difracter # ohýbat (paprsky) #
 difraction # ohyb #
 difractor # difraktor fyz. #
 difterite # *diphth... záškrt #
 diftong # *diphth... dvojhláska #
-diftongXXX-al, # -ic dvojhláskový #
+diftongal # dvojhláskový #
+diftongic # dvojhláskový #
 difuser # rozšířit, propagovat; rozptýlit #
 difusion # šíření, rozšiřování; rozptýlení #
 diga # hráz (rybníka apod.), přehrada (vodní) #
@@ -3868,7 +3886,7 @@ dignar # poctít, vyznamenat #
 digni de # hoden (čeho) #
 digni # důstojný, čestný #
 dignitá # důstojnost, hodnost, vysoký úřad #
-dignitáXXX-itario # hodnostář #
+dignitario # hodnostář #
 digresser # odchýlit se, odbočit #
 digression # odbočení #
 dilatar # rozšířit, zvětšit (objem); roztáhnout (kovy teplem) #
@@ -3878,33 +3896,41 @@ dilettante # diletant #
 dilettantisme # diletantismus #
 diligence # (poštovní) dostavník #
 diligent # pilný, přičinlivý #
-diligentXXX-ie # píle, přičinlivost #
+diligentie # píle, přičinlivost #
 dill # kopr #
 diluer # rozředit #
 dilution # zředění, roztok #
 diluvie # potopa, zátopa #
 dimension # rozměr, dimenze #
-dimensionXXX-al # rozměrový #
+dimensional # rozměrový #
 diminuer # zmenšit; snížit (cenu) #
 diminution # zmenšení, úbytek; snížení (cen) #
-diminutionXXX-tiv # zdrobňující, deminutivní gram. #
+diminutiv # zdrobňující, deminutivní gram. #
 diminutive # zdrobnělina, deminutivum gram. #
-dinámica # dynamika #
-dinámicaXXX-isme # dynamismus; -ite dynamit; -o dynamo #
-dinámic # *dy... dynamický #
+dinamica # dynamika #
+dinamisme # dynamismus #
+dinamite # dynamit #
+dinamo # dynamo #
+dinamic # dynamický #
 dinámometre # siloměr #
 dinastic # dynastický #
-dinastie # *dy... dynastie #
+dinastie # dynastie #
 diné # oběd #
-dinéXXX-ar # obědvat #
+dinear # obědvat #
 diocesan # diecézní #
 diocese # diecéze #
 diploma # diplom #
 diplomate # diplomat #
-diplomateXXX-atic # diplomatický; -atie diplomacie; -ática diplomatika #
+diplomatic # diplomatický #
+diplomatatie # diplomacie #
+diplomatática # diplomatika #
 diplomatist # diplomatik (historik) #
 direct # přímý #
-directXXX-er # směrovat (zásilku); řídit; -ion směr; vedení, řízení; -iv direktivní; -ive příkaz, směrnice; -or ředitel #
+directer # směrovat (zásilku); řídit #
+direction # směr; vedení, řízení #
+directiv # direktivní #
+directive # příkaz, směrnice #
+director # ředitel #
 dir li messe # sloužit mši #
 dir # říci, povědět #
 discade # rozpad #
@@ -3924,7 +3950,7 @@ discrepantie # rozpor, neshoda, nesrovnalost #
 discrepant # rozporný, nesouhlasný, odporující si #
 discrepar # odporovat si #
 discret # mlčenlivý, ohleduplný, taktní #
-discretXXX-ion # mlčenlivost #
+discretion # mlčenlivost #
 disculpar # ospravedlnit, omluvit #
 disculpation # ospravedlnění #
 discurrer # přednášet, promlouvat, rozprávět #
@@ -3950,7 +3976,7 @@ disperser # roztrousit, rozptýlit, rozprášit #
 dispersion # rozptýlení, rozptyl, disperze #
 dispezzar # rozbít, roztrhat (na kusy) #
 disponente # disponent #
-disponenteXXX-ibil # použitelný, dostupný, k dispozici #
+disponibil # použitelný, dostupný, k dispozici #
 disponer # volně nakládat (čím) #
 disponibilitá # dostupnost #
 disposir # rozestavit, umístit (po ruce) #
@@ -3959,12 +3985,12 @@ disputar # debatovat, diskutovat, přít se, hádat se #
 disputation # učená hádka, debata #
 disputator # diskutér, účastník diskuse #
 dissecter # rozčlenit, rozřezat, rozkrájet; (roz)pitvat #
-dissecterXXX-ion # rozčlenění, rozřezání, rozkrájení, pitva #
+dissection # rozčlenění, rozřezání, rozkrájení, pitva #
 dissertar # pojednávat (učeně) #
 dissertation # vědecké pojednání #
 dissidentie # odštěpení, rozkol #
 dissident # odštěpenecký, disidentní #
-dissidentXXX-ente # disident #
+dissidente # disident #
 dissider # odštěpit se, být nekonformní #
 dissimular # tajit, skrývat; předstírat; přetvařovat se #
 dissimulation # tajení, skrývání; přetvářka; předstírání #
@@ -3973,23 +3999,26 @@ dissipation # rozehnání; mrhání #
 dissoluer # rozpustit chem. #
 dissolution # rozpuštění, roztok chem. #
 dissuader # rozmluvit (komu co); odradit (koho od čeho) #
-dissuaderXXX-sion # odrazování #
+dissuasion # odrazování #
 dissuasiv # odrazující, odmítavý #
 distantie # vzdálenost #
 distant # vzdálený #
 distar # vzdálit (od) #
 distillar # destilovat #
 distillate # destilát #
-distillateXXX-ation # destilace; -ator destilátor #
+distillation # destilace; -ator destilátor #
 distillería # lihovar #
 distint # odlišný, rozdílný #
-distintXXX-er # rozlišit, rozeznat; -ion rozezná(vá)ní, rozlišení; rozdíl (národností, stavů); -iv rozlišovací; -et ušlechtilý, jemný, vybraný (chování) #
+distinter # rozlišit, rozeznat #
+distintion # rozezná(vá)ní, rozlišení; rozdíl (národností, stavů) #
+distintiv # rozlišovací #
+distintet # ušlechtilý, jemný, vybraný (chování) #
 distracter # odvrátit (pozornost); rozptýlit (mysl) #
 distraction # odvrácení; rozptýlení, zábava #
-distractionXXX-iv # rozptyl/ovací, -ující distribu/er rozdělit, roznést, rozeslat #
-distraction # odvrácení; rozptýlení, zábava #
-distractionXXX-iv # rozptyltion rozdělování, rozesílání, roznáška #
-distracttiv # rozdělovací; distribuční (síť) #
+distractiv # rozptyl/ovací, -ující #
+distribuer # rozdělit, roznést, rozeslat #
+distribution # rozdělování, rozesílání, roznáška #
+distributiv # rozdělovací; distribuční (síť) #
 districte # obvod (městský); okres #
 disturbant # rušící #
 disturbar # (vy)rušit #
@@ -4013,7 +4042,10 @@ divertisser # bavit, obveselovat #
 divider con # sdílet (s) #
 divider # (roz)dělit #
 divin # božský #
-divinXXX-itá # božství, božská podstata; -ar hádat: -ation hádání; -ator hadač, jasnovidec #
+divinitá # božství, božská podstata #
+divinar # hádat #
+divination # hádání #
+divinator # hadač, jasnovidec #
 divisibil # dělitelný #
 division # (roz)dělení, dělba (práce); oddělení (organizační); divize voj. #
 divorciar # rozvést (manželský pár) #
@@ -4027,34 +4059,39 @@ do bemoll # ces #
 docente # učitel #
 docer # učit #
 docil # učelivý; poddajný #
-docilXXX-itá # učelivost; poddajnost #
+docilitá # učelivost; poddajnost #
 dock # loděnice, dok #
-dockXXX-ero # přístavní dělník, dokař #
+dockero # přístavní dělník, dokař #
 doctor # (de, in) doktor (čeho) #
-doctorXXX-al # doktorský; -atu doktorát #
+doctoral # doktorský #
+doctoratu # doktorát #
 doctrinal # naučný #
 doctrinari # doktrinářský #
 doctrine # nauka, učení #
 doct # učený, vzdělaný #
 document # listina, dokument, průkaz #
-documentXXX-ar # dokumentovat: -ari dokumentární #
+documentar # dokumentovat #
+documentari # dokumentární #
 do diese # cis # XXX FIXME --
 dogma # dogma #
 dogmatic # dogmatický #
-dogmaticXXX-atica # dogmatika: -ático dogmatik #
+dogmatica # dogmatika #
+dogmatico # dogmatik #
 dogmatisme # dogmatismus #
 dolent # bolavý #
-dolentXXX-entie # bolení; -ore bolest: -orar bolet; rmoutit, trápit přen. #
+dolentie # bolení #
+dolore # bolest #
+dolorar # bolet; rmoutit, trápit přen. #
 doler # bolet #
 dóllar # dolar #
 dolosi # bolest/ivý, -ný #
 dom de comercie # obchodní dům #
 dom # dům #
 domene # doména #
-doméstic # domácí, domácký; krotký #
-domésticXXX-o # sluha; -a služeb- ná; -ar ochočit #
-dóminar # panovat, ovládat; vévodit (čemu) #
-dóminarXXX-ia # panství, vláda; oblast #
+domestic # domácí, domácký; krotký #
+domestico # sluha; -a služeb- ná; -ar ochočit #
+dominar # panovat, ovládat; vévodit (čemu) #
+dominia # panství, vláda; oblast #
 dómino # pán; vládce #
 domitabil # krotitelný #
 domitar # krotit (šelmy) #
@@ -4062,14 +4099,18 @@ domitation # krocení #
 dom monumental # radnice #
 dom patrin # rodný dům #
 don # dar #
-donXXX-ar # dát, darovat; -ation darování; -ator dárce #
+donar # dát, darovat #
+donation # darování #
+donator # dárce #
 donjuan # donchuán #
-donjuanXXX-esc # donchuánský #
+donjuanesc # donchuánský #
 dorlotar # hýčkat, mazlit #
 dorlotation # mazlení #
 dorloton # mazlivka #
 dorme # spánek #
-dormeXXX-itor # spáč; -itoria ložnice: -ient spící #
+dormitor # spáč #
+dormitoria # ložnice #
+dormient # spící #
 dormir # spát #
 dormitiv # uspávací (prostředek) #
 dorsal # hřbetní, dorzální #
@@ -4082,16 +4123,18 @@ dote # věno #
 dozen # tucet #
 drachar # mlátit (obilí) #
 drachator # mlatec #
-drachatorXXX-atoria # mlat; -allia plevy #
+drachatoria # mlat #
+drachallia # plevy #
 drachuore # cep #
 dracon # drak #
 dragé # cukrátko; pilulka #
 draggar # rýpat (bagrem), hloubit #
 draggator # bagr (říční) #
 drama # drama #
-dramaXXX-tic # dramatický #
+dramatic # dramatický #
 drap # sukno #
-drapXXX-ar # soukat; -eríe drapérie, látkový závěs #
+drapar # soukat #
+draperíe # drapérie, látkový závěs #
 drástic # drastický #
 drenage, # -ation odvodňování (též med.) #
 drenar # odvodňovat, vysoušet (pozemky) #
@@ -4100,12 +4143,13 @@ dressor # cvičitel (zvířat) #
 dressura # výcvik #
 driade # *dryade víla (lesní) #
 drill # vrták (nástroj) #
-drillXXX-ar # vrtat; drill-machine vrtačka #
+drillar # vrtat #
+drill-machine # vrtačka #
 drivar # být hnán (proudem n. větrem) #
 drive # unášení (proudem) #
 drogue # droga #
 droguería # drogérie (prodejna) #
-drogueríaXXX-eríe # drogérie (drogistické zboží) #
+drogueríe # drogérie (drogistické zboží) #
 droguist # drogista #
 drolleríe # čtveráctví; komedie #
 drolli # žertovný, rozpustilý #
@@ -4122,20 +4166,24 @@ duche # sprcha (lázeň) #
 duchuore # sprcha (sprchový kout) #
 ducter # vést #
 ductibil # poddajný #
-ductibilXXX-or # vůdce #
+ductor # vůdce #
 ductilitá # tažnost #
 ductil # tažný (kov) #
 duction # vedení #
-ductionXXX-iv # vodivý #
+ductiv # vodivý #
 duc # vévoda #
-ducXXX-atu # vévodství; -al vévodský; -essa vévodkyně #
+ducatu # vévodství #
+ducal # vévodský #
+ducessa # vévodkyně #
 du # dva, dvě #
-duXXX-al # dvojný, duálový gram.; -alisme dvojitost, podvojnost; dualismus filoz.; -ant dvacet #
+dual # dvojný, duálový gram. #
+dualisme # dvojitost, podvojnost; dualismus filoz. #
+duant # dvacet #
 duell # souboj #
-duellXXX-ar # bít se v souboji; -ante duelant #
+duellar # bít se v souboji; -ante duelant #
 duésim rádica # (= rádica quadratic) druhá odmocnina #
 duett # duet hud. #
-duettXXX-ist # duetista #
+duettist # duetista #
 du in cub # dvě na třetí #
 dulci # sladký #
 dulcitá # sladkost #
@@ -4148,7 +4196,10 @@ dupation # ošálení; -ator podvodník, šejdíř #
 dupe # důvěřivec, hlupák #
 duperíe # šejdířství #
 dúplic # dvojí (účel), dvojitý, dvojnásobný #
-dúplicXXX-ar # zdvojit, zdvojnásobit; -ation zdvojnásobení; -ator rozmnožovač: -itá dvojitost, zdvojení, dvojkolejnost (v řízení) #
+duplicar # zdvojit, zdvojnásobit #
+duplication # zdvojnásobení #
+duplicator # rozmnožovač #
+duplicitá # dvojitost, zdvojení, dvojkolejnost (v řízení) #
 durante que # kdežto, zatím co #
 durante # za, během (války) #
 durantie # trvalost #
@@ -4156,7 +4207,7 @@ durar # trvat #
 duration # trvání; -abil trvalý, trvanlivý; -ada trvání #
 dura # trvání #
 dur # tvrdý #
-durXXX-itá # tvrdost #
+duritá # tvrdost #
 e # a #
 eabil # schůdný #
 eada # chůze, chození #
@@ -4180,9 +4231,12 @@ ecologic # ekologický #
 ecologie # ekologie #
 ecologo # ekolog #
 econom # ekonom, národohospodář #
-economXXX-ie # hospodářství (i národní); šetrnost, spořivost; -ic hospodárný, šetrný: -isar šetřit; dobře hospodařit; -isation hospodárnost #
+economie # hospodářství (i národní); šetrnost, spořivost #
+economic # hospodárný, šetrný #
+economisar # šetřit; dobře hospodařit #
+economisation # hospodárnost #
 ecó # ozvěna; ohlas #
-ecóXXX-ar # ozývat se ozvěnou #
+ecoar # ozývat se ozvěnou #
 ecran de television # obrazovka #
 ecran # (promítací) plátno #
 eczema # ekzém #
@@ -4190,11 +4244,13 @@ edelweiss # protěž bot. #
 edicte # edikt, výnos, proklamace #
 edificar # (vy)budovat, postavit #
 edification # výstavba, budování #
-edificationXXX-ator # budovatel #
+edificator # budovatel #
 edificie # budova, stavba #
 editer # vydávat #
 edition # vydání; série #
-editionXXX-or # vydavatel, editor; -oria vydavatelství; -orial vydavatelský, redaktorský, redakční #
+editor # vydavatel, editor #
+editoria # vydavatelství #
+editorial # vydavatelský, redaktorský, redakční #
 editoriale # redakční článek, úvodník #
 educar # vychovávat #
 education # výchova, vychování; vzdělání (školní) #
