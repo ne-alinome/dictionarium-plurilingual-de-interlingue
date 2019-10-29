@@ -1,6 +1,6 @@
 = TO-DO of _Dictionarium de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-10-28
+:revdate: 2019-10-29
 
 // This file is part of project
 // _Dictionarium de Interlingue_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910282222
+// Last modified 201910290053
 
 == General
 
@@ -26,7 +26,9 @@
 - Use "=>" to point to more used alternatives, e.g. with/out euphonic
   desinenties. 
 - Confirm "época/epoca" ("época" and "épocal" were used in the Czech
-  dictionary(.
+  dictionary).
+- Convert notation "(= X)" into independent cross references.
+- Confirm Caucas/Caucasia.
 
 == Esperanto (eo)
 
@@ -59,3 +61,11 @@
 - Move the topic abbreviations (e.g. "bot.", "gram.", "obch.") to the
   start of the term.
 - Split synonyms (search for ", #").  
+- Confirm "bande|bandar|bandage" or "bande|bandear|bandeage".
+- Confirm "canceric/cánceric", "camforic/cámforic",
+  "canonic/cánonic"... The accented versions are used in the Czech
+  dictionary, but they don't seem right. In fact in this dictionary
+  most derivates are accented after the main root, what is not the way
+  Interlingue works.
+- Convert old terms marked with "*".
+- Review temporary marks "XXX-" added during automatic splitting..

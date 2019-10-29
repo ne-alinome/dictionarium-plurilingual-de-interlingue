@@ -245,8 +245,15 @@ avellane # -> avelane #
 avellaniero # -> avelaniero #
 ballett # -> balett #
 ballotament # -> balotament #
+balotament # => balotation #
 ballotar # -> balotar #
 ballotation # -> balotation #
+bankruptie # -> bancrotte #
+baryton # -> bariton #
+barytonist # baritonist #
+bastonada # -> bastonation #
+cade # => caida #
+camphor # -> camfor #
 barril # -> baril #
 bibliotheca # -> biblioteca #
 bibliothecario # -> bibliotecario #
@@ -748,3 +755,12 @@ zenithe # -> zenite #
 índistinct # -> índistint #
 ínintelligibil # -> íninteligibil #
 ínopportun # -> ínoportun #
+anthropophago # ->  antropofago #
+anthropophagie # -> antropofagie #
+cinematograph # -> cinematograf #
+cynic # -> cinic #
+cynico # -> cinico #
+cyste # -> ciste #
+clorophyll # -> clorofill #
+chlorophyll # -> clorofill #
+cosmicographic -> cosmicografic
