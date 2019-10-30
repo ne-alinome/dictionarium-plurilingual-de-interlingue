@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910301722
+// Last modified 201910302130
 
 == General
 
@@ -81,3 +81,4 @@
 - Fix "inflex-" -> "ínflex-".
 - Quote the expanded forms introduced by "zkr.".
 - Note sinonyms: turbulada, turbulament, turbulation, turbulantie.
+- Consul/fix "computer": it's used as a foreign (English) word.
