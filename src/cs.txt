@@ -6926,7 +6926,8 @@ inventariar # provádět inventuru #
 inventarie # inventář; inventura #
 inventer # vynalézt, vymyslit #
 invention # vynález; výmysl #
-inventionXXX-iv # vynalézavý; -ivitá vynalézavost #
+inventiv # vynalézavý #
+inventivitá # vynalézavost #
 inventor # vynálezce #
 ínversimil # nepravděpodobný #
 inversi # obrácený, opačný, zpětný (chod stroje), invertní #
@@ -7249,7 +7250,7 @@ legion # legie #
 legionXXX-ario # legionář #
 legislater # dávat zákony #
 legislation # zákonodárství, legislativa #
-legislationXXX-iv # zákonodárný #
+legislativ # zákonodárný #
 legislatura # zákonodárný sbor, legislatura #
 legítim # oprávněný, zákonný; manželský (dítě) #
 legítimXXX-ar # oprávnit; prohlásit za zákonné (legitimní), -ation oprávnění; -itá oprávněnost, zákonnost #
@@ -7654,7 +7655,12 @@ manto # plášť (kabát) #
 manufactura # továrna, výrobna #
 manufacturero # výrobce #
 manu # ruka #
-manuXXX-al # ruční; -ale příručka; -ade hrst; -ar ovládat (stroj); -abil ovladatelný (stroj); -ette držadlo (páky) #
+manual # ruční #
+manuale # příručka #
+manuade # hrst #
+manuar # ovládat (stroj) #
+manuabil # ovladatelný (stroj) #
+manuette # držadlo (páky) #
 marcar # (o)značit; zaznamenat (gól) #
 marca # značka; známka #
 marcha # pochod; chod (stroje) #
@@ -7820,7 +7826,9 @@ meningite # zánět mozkových blan #
 menstruar # mít menstruaci #
 menstruation # menstruace, měsíčky #
 mensu # měsíc (kalendářní) #
-mensuXXX-al # měsíční; -ale měsíčník: -alitá měsíční splátka #
+mensual # měsíční #
+mensuale # měsíčník #
+mensualitá # měsíční splátka #
 mental # duševní #
 mentalitá # mentalita #
 mente # mysl, duch #
@@ -7840,7 +7848,9 @@ mercator # trhovec #
 mercenari # žoldnéřský #
 mercenariXXX-o # žoldnéř #
 mercero # obchodník #
-merceroXXX-eríe # obchod (činnost): -ería obchod (místnost); -ar obchodovat #
+merceríe # obchod (činnost) #
+mercería # obchod (místnost) #
+mercar # obchodovat #
 merce # zboží #
 mercurdí # středa #
 mercurie # rtuť chem. #
@@ -9497,7 +9507,7 @@ portretist # portrétista #
 Portugal # Portugalsko; p-esi (též: portuguesi) portugalský; portugalština; p-eso (též: portugueso) Portrugalec #
 portuore # nosítka #
 portu # přístav #
-portuXXX-ari # přístavní #
+portari # přístavní #
 posa # postoj, póza; stání modelem #
 posar # stát modelem #
 posarXXX-ero # pozér #
@@ -9543,7 +9553,7 @@ potentXXX-ie # síla, moc(nost); mocnina mat.: -ial potenciální; -iar zesilova
 potte # hrnec, nádoba #
 potteríe # hrnčířství (hrnčířské zboží) #
 pottero # hrnčíř #
-potteroXXX-ería # hrnčířství (prodejna) #
+pottería # hrnčířství (prodejna) #
 povri # chudý, ubohý #
 povritá, # -esse chudoba #
 poy # potom, pak #
@@ -9728,7 +9738,8 @@ process(e) # proces (postup, průběh, vývoj), pochod chem. #
 process(e)XXX-ion # procesí círk. #
 processor # procesor tech. #
 processu # proces, spor, přelíčení (soudní) #
-processuXXX-al # proces(uál)ní; -ar (contra) vést proces (proti), soudně stíhat #
+processual # proces(uál)ní #
+processuar (contra) # vést proces (proti), soudně stíhat #
 proclamar # (veřejně) prohlásit, vyhlásit #
 proclamation # provolání, (veřejné) prohlášení, výzva, proklamace #
 procrastinar # odkládat (ze dne na den) #
@@ -9833,7 +9844,7 @@ propriXXX-etá # vlastnictví; -etario majitel, vlastník #
 pro # pro (příčina), kvůli, z, ze #
 propulser # pohánět (vpřed) #
 propulsion # pohon; pohyb dopředu #
-propulsionXXX-iv # pohonný #
+propulsiv # pohonný #
 propulsor # hnací motor #
 pro que # poněvadž, protože #
 pro quo # proč? #
@@ -9959,7 +9970,10 @@ pumpe # pumpa #
 pumpero # hasič; pumpař #
 punch # punč #
 punctu # bod, tečka #
-punctuXXX-al # přesný, dochvilný; -alitá přesnost, dochvilnost; -ar tečkovat; -ation tečkování #
+punctual # přesný, dochvilný #
+punctualitá # přesnost, dochvilnost #
+punctuar # tečkovat #
+punctuation # tečkování #
 pund # libra (váha) #
 puniade # hrst #
 puniadeXXX-ale # dýka; -alar (pro)bodnout (dýkou) #
@@ -10228,7 +10242,7 @@ reception # příjem, přijetí; recepce #
 receptionXXX-ionist # recepční úředník #
 receptor # příjemce; přijímač rad.; sluchátko telef. #
 receptu # předpis, recept med., kuch. #
-receptuXXX-ar # předepsat (o léku) #
+receptuar # předepsat (o léku) #
 recidive # návrat, opakování (nemoci, trest. činu), recidiva #
 recidiveXXX-ist # recidivista #
 recipiente # nádoba, nádrž(ka) #
@@ -10390,7 +10404,7 @@ rejunter # dohonit, dostihnout (koho) #
 relaborar # předělat, přepracovat #
 relater # (a) vztahovat se (nač) #
 relation # vztah, poměr, spojení #
-relationXXX-iv # poměrný, relativní; vztažný gram. #
+relativ # poměrný, relativní; vztažný gram. #
 relaxament, # -ation uvolnění, relaxace #
 relaxar se # uvolnit se, oddychnout si #
 relaxar # uvolnit (svaly, kázeň) #
@@ -10522,7 +10536,7 @@ repugnant # odpuzující #
 repugnar # odpuzovat #
 repulser # (ostře) odmítnout, odvrhnout #
 repulsion # odmítnutí, odvržení #
-repulsionXXX-iv # odmítavý #
+repulsiv # odmítavý #
 repulsori # repulzní (motor) #
 repussar # odrazit, odstrčit #
 reputar # ctít (dobré jméno) #
@@ -10713,7 +10727,8 @@ ritme # *rhyth... (ryt...) rytmus #
 ritmica # rytmika #
 ritmic # rytmický #
 ritu # obřad #
-rituXXX-al # rituální; -ale rituál #
+ritual # rituální #
+rituale # rituál #
 rivale # sok, soupeř #
 rivalisar # soupeřit #
 rivalitá # soupeření #
@@ -10920,7 +10935,7 @@ santXXX-esse, # -itá svatost; -ificar posvětit: -ification posvěcení; -uári
 san # zdráv, zdravý #
 sapateríe # obuvnictví (obuvnické zboží) #
 sapatero # obuvník, švec #
-sapateroXXX-ería # obuvnictví (prodejna) #
+sapatería # obuvnictví (prodejna) #
 sapate # střevíc, bota #
 saper # chutnat (jak) #
 sapid # chutný #
@@ -11116,11 +11131,11 @@ seditiosi # buřičský, povstalecký #
 sedlar # (o)sedlat #
 sedlation # (o)sedlání #
 sedlero # sedlář #
-sedleroXXX-ería # sedlářství #
+sedlería # sedlářství #
 sedle # sedlo #
 seducter # svádět #
 seduction # svádění, svedení, svod #
-seductionXXX-iv # svůdný, lákavý #
+seductiv # svůdný, lákavý #
 seductor # svůdce #
 segallia # (též: seg-púlvere) piliny #
 sega # pila #
@@ -11171,7 +11186,8 @@ sénior # senior, stařešina (v kolektivu) #
 sense # smysl (čeho); nonsense nesmysl #
 sensibil # citlivý (nač) #
 sensu # smysl fyziol. #
-sensuXXX-al # smyslný; -alitá smyslnost #
+sensual # smyslný #
+sensualitá # smyslnost #
 sente # cit, pocit #
 sentencial # odpovídající výroku #
 sentencialXXX-ar # odsoudit (k) #
@@ -11258,7 +11274,9 @@ severi # přísný; drsný, krutý (počasí) #
 severitá # přísnost; krutost #
 sextette # sextet, -o hud. #
 sexu # pohlaví; mluv. rod gram. #
-sexuXXX-al # pohlavní, sexuální: -alitá pohlavnost, sexualita; -ologo sexuolog #
+sexual # pohlavní, sexuální #
+sexualitá # pohlavnost, sexualita #
+sexuologo # sexuolog #
 sfere # *sph... koule geom.; oblast činnosti; sféra #
 sferic # kulový (plocha), sférický #
 sferoide # sféroid geom. #
@@ -11567,7 +11585,12 @@ spirite # duch (strašidlo, přízrak) #
 spiritisme # spiritismus #
 spiritist # spiritista #
 spíritu # duch (osobnost) #
-spírituXXX-al # duchovní; -alisar oduchovnit; -alisme spiritualismus; -alist spiritualista; -alitá duchovno(st); -osi duchaplný, oduševnělý #
+spiritual # duchovní #
+spiritualisar # oduchovnit #
+spiritualisme # spiritualismus #
+spiritualist # spiritualista #
+spiritualitá # duchovno(st) #
+spirituosi # duchaplný, oduševnělý #
 splendent # lesknoucí se #
 splender # lesknout se, zářit #
 splendid # skvělý, nádherný #
@@ -11658,7 +11681,7 @@ statue # socha #
 statueXXX-tte # soška #
 statura # postava #
 statu # stav (situace) #
-statuXXX-al # stavový #
+statual # stavový #
 statutari # daný stanovami #
 statute # stanovy, řád #
 stellari # hvězdný #
@@ -12114,7 +12137,8 @@ tango # tango #
 tank # (= carre curassat de combatte) tank voj. #
 tannar # vyčinit (kůži) #
 tannero # koželuh #
-tanneroXXX-ería # koželužna: -eríe koželužství #
+tannería # koželužna #
+tanneríe # koželužství #
 tannine # tanin, kyselina tříslová #
 tanta # teta #
 tantieme # tantiéma #
@@ -12298,7 +12322,7 @@ textilXXX-e # textil #
 textor # tkadlec #
 textorXXX-age, # -ura tkanina, tkanivo: -eríe tkané zboží, tkaniny #
 textu # text #
-textuXXX-al # textový, doslovný (citát) #
+textual # textový, doslovný (citát) #
 Tibet # Tibet; t-an tibetský; t-ano Tibeťan #
 tibia # holeň, holenní kost anat. #
 ticar # tikat; tic-tac tik tak; tic-tacament tikot, tikání #
@@ -12698,7 +12722,9 @@ tumoral, # -orosi nádorový, nádorovitý #
 túmul # mohyla; náhrobek #
 túmulXXX-ari # mohylový, mohylovitý #
 tumultu # vřava, hluk, povyk; sběh lidí #
-tumultuXXX-ar # povykovat: -ari davový (násilí); -osi bouřlivý, divoký; bouřlivácký #
+tumultuar # povykovat #
+tumultari # davový (násilí) #
+tumultosi # bouřlivý, divoký; bouřlivácký #
 túngsten # (= wólfram) wolfram chem. #
 túnica # starořímský spodní šat hist. #
 túnnel # tunel #
@@ -12832,14 +12858,15 @@ usarXXX-ada, # -ation (po)užívání: -antie zvyklost, uzance; -age (po)užív�
 usina # větší továrna, závod #
 ustular # pálit, ožehovat #
 usufructu # požívání, požitky #
-usufructuXXX-ar # požívat; -ario poživatel #
+usufructuar # požívat #
+usufructario # poživatel #
 usu # obyčej, zvyk #
-usuXXX-al # obvyklý, obyčejný #
+usual # obvyklý, obyčejný #
 usura # lichva #
 usurar # lichvařit #
 usurarXXX-ari # lichvářský #
 usurero # lichvář #
-usureroXXX-eríe # lichvářství #
+usureríe # lichvářství #
 usurpar # uchvátit, osvojit si (neprávem) #
 usurpation # uchvácení #
 usurpationXXX-ator # uchvatitel #
