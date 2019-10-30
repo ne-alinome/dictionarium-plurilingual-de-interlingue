@@ -776,3 +776,7 @@ phasan # -> fasan #
 photograph # -> fotograf #
 photo # -> foto #
 photon # -> foton #
+subtraher # -> subtraer #
+subtrahende # -> subtraende #
+subtracter # -> subtraer #
+subtraction # -> subtration #

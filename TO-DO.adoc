@@ -1,6 +1,6 @@
 = TO-DO of _Dictionarium de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-10-29
+:revdate: 2019-10-30
 
 // This file is part of project
 // _Dictionarium de Interlingue_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910291748
+// Last modified 201910301236
 
 == General
 
@@ -33,6 +33,9 @@
 - Confirm episcop/epíscop.
 - Confirm fédere/federe.
 - Confirm fenómen/fenomen.
+- Confirm hidráulica/hidrAUlica.
+- Confirm hipérbol, hipérbolic.
+- Confirm infirm(er)/ínfirm(er).
 
 == Esperanto (eo)
 
@@ -53,6 +56,7 @@
 - Fix "respít | Atempause, Ruhepause"
 - Fix "resultatar | resultieren, zum Ergebnis haben"
 - Homogenize notes "(Vorsilbe)" (prefix).
+- Fix "inflex-" -> "ínflex-".
 
 == Czech (cs)
 
@@ -72,4 +76,6 @@
   most derivates are accented after the main root, what is not the way
   Interlingue works.
 - Convert old terms marked with "*".
-- Review temporary marks "XXX-" added during automatic splitting..
+- Review temporary marks "XXX-" added during automatic splitting.
+- Mark both entries "importar" with numbers.
+- Fix "inflex-" -> "ínflex-".
