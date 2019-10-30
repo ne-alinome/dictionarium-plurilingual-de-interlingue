@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910301236
+// Last modified 201910301722
 
 == General
 
@@ -79,3 +79,5 @@
 - Review temporary marks "XXX-" added during automatic splitting.
 - Mark both entries "importar" with numbers.
 - Fix "inflex-" -> "ínflex-".
+- Quote the expanded forms introduced by "zkr.".
+- Note sinonyms: turbulada, turbulament, turbulation, turbulantie.

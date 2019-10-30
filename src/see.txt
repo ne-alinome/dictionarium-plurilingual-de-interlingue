@@ -796,3 +796,6 @@ crocheteríe # = crochetage #
 crucero # = cruceator #
 curvament # = curvation #
 curvatura # = curvation #
+rhachite # -> rachite #
+rhachitic # -> rachitic #
+rhachitide # -> rachitide #
