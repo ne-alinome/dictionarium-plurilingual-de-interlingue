@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910302130
+// Last modified 201910302137
 
 == General
 
@@ -36,6 +36,8 @@
 - Confirm hidráulica/hidrAUlica.
 - Confirm hipérbol, hipérbolic.
 - Confirm infirm(er)/ínfirm(er).
+- Confirm órgane/organe (different meanings in the Czech dictionary).
+- Homogenize the criteria of relvia/relvía and similar compounds.
 
 == Esperanto (eo)
 
