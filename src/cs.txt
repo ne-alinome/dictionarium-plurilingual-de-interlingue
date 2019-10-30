@@ -6944,7 +6944,7 @@ invia, # -age zásilka #
 inviar # pos(í)lat #
 invidiabil # záviděníhodný #
 invidiar # závidět #
-invidiarXXX-osi # závistivý #
+invidiosi # závistivý #
 invidie # závist #
 ínviolabil # neporušitelný, nedotknutelný #
 invitar # zvát, pozvat #
@@ -7182,9 +7182,9 @@ lansarXXX-ator # vrhač sport.: -ero kopiník hist. #
 lanse # *lanci/e kopí, oštěp #
 lansette # ručička (hodinek); lanceta med. #
 lanuge # chmýří; prachové peří #
-lápidari # stručný, úsečný; vytesaný do kamene (o písmu) #
-lápidariXXX-osi # kamenitý #
-lápidar # kamenovat (koho) #
+lapidari # stručný, úsečný; vytesaný do kamene (o písmu) #
+lapidosi # kamenitý #
+lapidar # kamenovat (koho) #
 lápide # kámen #
 lappallia # lapálie (maličkost) #
 lappar # záplatovat #
@@ -7463,7 +7463,7 @@ luctar # zápasit #
 luctero # zápasník #
 lucte # zápas, boj #
 luctu # smutek (po kom) #
-luctuXXX-osi # plný smutku #
+luctuosi # plný smutku #
 lude # hra #
 ludeXXX-dette # hračka #
 luder # hrát (si) #
@@ -7503,7 +7503,7 @@ luvear # lavírovat nám. #
 luxar # vykloubit, vymknout #
 luxation # vykloubení, vymknutí #
 luxu # luxus, přepych #
-luxuXXX-osi # luxusní, přepychový #
+luxuosi # luxusní, přepychový #
 luxuriar # žít v přepychu, rozkoši, rozmařilosti #
 luxurie # rozkoš, rozmařilost #
 luxuriosi # bujný, rozmařilý #
@@ -7713,7 +7713,7 @@ martirisar # umučit #
 martiro # *martyr... mučedník #
 martre # kuna zool. #
 marvel # div, zázrak #
-marvelXXX-osi # podivuhodný, zázračný #
+marvelosi # podivuhodný, zázračný #
 masca # maska, škraboška #
 mascar # maskovat, zakrý(va)t #
 máscul # samec #
@@ -7975,8 +7975,8 @@ miop # *my... krátkozraký #
 miopXXX-ie # krátkozrakost #
 miosótis # *my... pomněnka #
 mirabelle # mirabelka (plod) #
-mirácul # zázrak #
-miráculXXX-osi # zázračný #
+miracul # zázrak #
+miraculosi # zázračný #
 mirage # fata morgána, přelud #
 mirar # divit se; mířit #
 mira # údiv #
@@ -8160,7 +8160,7 @@ movette # racek #
 movida, # -entie pohyb #
 movida,XXX-ement # pohyb; hnutí; ruch, provoz #
 muc # hlen #
-mucXXX-osi # hlenovitý; -ositá hlenovitost #
+mucosi # hlenovitý; -ositá hlenovitost #
 mudde # bahno, kal #
 muddosi # bahnitý #
 muff # rukávník #
@@ -8270,7 +8270,7 @@ naufrage # ztroskotání (lodi) #
 naufrageXXX-ar # ztroskotat #
 nausea # nevolnost (od žaludku) #
 nausear # zvedat žaludek; ošklivit si #
-nausearXXX-osi # nechutný, odporný #
+nauseosi # nechutný, odporný #
 nauseativ # zvedající žaludek #
 náutic # plavební, plavecký #
 náuticXXX-a # plavectví, mořeplavecké umění #
@@ -8332,7 +8332,7 @@ nequí jamá # nikdo nikdy #
 nequí # nikdo #
 nequó # nic #
 nerval # nervový #
-nervalXXX-osi # nervózní #
+nervalosi # nervózní #
 nerve # nerv #
 nervositá # nervozita #
 nestar # hnízdit #
@@ -8367,7 +8367,7 @@ nitricXXX-ate # dusičnan, nitrát; -ite dusitan; -ogen dusík #
 nitrosi # dusitý #
 ni un iota # ani ň = nic #
 nival # sněžný #
-nivalXXX-osi # sněhový (mrak) #
+nivosi # sněhový (mrak) #
 nivear # sněžit #
 nivell # hladina, úroveň (životní) #
 nivellXXX-ar # vyrovnat (úroveň); -ation, -ament vyrovnání (úrovně); -ette vodováha: -isation vyrovnávání (zvl. platové) na stejnou úroveň #
@@ -8591,7 +8591,7 @@ olive # oliva (plod) #
 oliviero # oliva (strom) #
 ombrage # stínování #
 ombrar # stínit #
-ombrarXXX-osi # stinný #
+ombrosi # stinný #
 ombrel # slunečník #
 ombre # stín #
 ómine # zlé znamení, osudná předzvěst #
@@ -8710,7 +8710,10 @@ ošetřováníXXX-ar # (pri) pečovat, starat se (o koho, oč); -osi pečlivý, 
 osse # kost #
 ossificar # zkostnatět #
 ossin # kostěný #
-ossinXXX-osi # kostnatý; -age kosti; -ament, -atura kostra; -ette kůstka #
+ossosi # kostnatý #
+ossage # kosti #
+ossament, # -atura kostra #
+ossette # kůstka #
 ostage # rukojmí #
 ostentar # stavět na odiv #
 ostentation # okázalost, vyzývavost #
@@ -9506,8 +9509,14 @@ ponton # ponton, mostní člun #
 popisovat # n. líčit #
 popisovatXXX-at # podrobný #
 pople # topol #
-pópul # lid #
-pópulXXX-osi # lidnatý; -ari lidový, národní; populární: -aritá popularita; -ache lůza; -arisar popularizovat: -ar obývat, osídlit, zalidnit; -ation obyvatelstvo; lidnatost #
+popul # lid #
+populosi # lidnatý #
+populari # lidový, národní; populární #
+popularitá # popularita #
+populache # lůza #
+popularisar # popularizovat #
+popular # obývat, osídlit, zalidnit #
+population # obyvatelstvo; lidnatost #
 porca # prasnice #
 porcaXXX-ería # vepřín; -eríe svinstvo; -in vepřový, prasečí #
 porcine # vepřové (maso) #
@@ -10046,8 +10055,9 @@ pusilánim # malodušný, bojácný #
 pussada # strkanice #
 pussar # strkat, tlačit, posunovat #
 pus # (= sú(p)pur) hnis #
-pústul # puchýřek, vřídek, uher, neštovička #
-pústulXXX-osi # puchýřkovitý, uhrovitý; -ar tvořit n. působit puchýřky #
+pustul # puchýřek, vřídek, uher, neštovička #
+pustulosi # puchýřkovitý, uhrovitý #
+pustular # tvořit n. působit puchýřky #
 putativ # domnělý práv. #
 putch # puč #
 putchXXX-ist # pučista #
@@ -10773,7 +10783,7 @@ rivetation # nýtování #
 rivete # nýt #
 rixard # rváč #
 rixar # rvát se #
-rixarXXX-osi # rvavý #
+rixosi # rvavý #
 rixe # rvačka, pranice #
 robe # dámské šaty, róba; roucho #
 robinete # kohoutek (vodovodu) #
@@ -10846,7 +10856,7 @@ rugby # ragby #
 rugida, # -iment řvaní #
 rugir # řvát (o lvu) #
 rugosi # drsný (na hmat), vrásčitý #
-rugosiXXX-ositá # drsnost, vrásčitost #
+rugosiitá # drsnost, vrásčitost #
 ruinar # (z)ničit, (z)ruinovat; podlomit (zdraví); přivést na mizinu #
 ruine # záhuba, zkáza; zbořenina, zřícenina; cader in -es chátrat, rozpadat se #
 ruinosi # zhoubný, zkázonosný; sešlý, na spadnutí #
@@ -10986,7 +10996,7 @@ sarclar # plít (záhon) #
 sarcluore # plečka (nástroj) #
 sarco # rakev #
 sarment # úponka (vinné révy) #
-sarmentXXX-osi # úponkovitý #
+sarmentosi # úponkovitý #
 satanic # ďábelský, satanský #
 satano # ďábel, satan #
 sat # dost #
@@ -11099,13 +11109,14 @@ scrir # psát #
 scrite # písemnost #
 scriteXXX-itiv # písemný; -ition psaní: -itor pisatel, spisovatel #
 scritura # písmo, rukopis #
-scróful # krtice med. #
-scrófulXXX-osi # krtičnatý #
+scroful # krtice med. #
+scrofulosi # krtičnatý #
 scrotal # týkající se šourku #
 scrote # šourek med. #
 scrumage # skrumáž sport. (shluk hráčů před brankou) #
-scrúpul # ohled (morální), zábrana; výčitka svědomí #
-scrúpulXXX-osi # přepjatě přísný, svědomitý, úzkostlivý; -ositá přepjatá přísnost, svědomitost, úzkostlivost #
+scrupul # ohled (morální), zábrana; výčitka svědomí #
+scrupulosi # přepjatě přísný, svědomitý, úzkostlivý #
+scrupulositá # přepjatá přísnost, svědomitost, úzkostlivost #
 scrutine # hlasování, volební kolo; sčít. hlasů (při volbách) #
 scruvar # (při-, za)šroubovat #
 scruvation # šroubování #
@@ -11441,7 +11452,7 @@ sínusXXX-oide # sinusoida #
 sirena # siréna myt. #
 sirene # siréna (píšťala) #
 sirop # sirup #
-siropXXX-osi # sirupovitý #
+siroposi # sirupovitý #
 sirotar # srkat, pomalu popíjet #
 sisme # *seism/e zemětřesení #
 sismologie # seizmologie #
@@ -11670,7 +11681,8 @@ squadre # úhelník geom. #
 squadron # jezdecká setnina, eskadrona #
 squale # žralok #
 squall # náraz větru #
-squallXXX-osi, # -i bouřlivý, větrný #
+squallosi # (= squalli) bouřlivý, větrný #
+squallosi # (= squallosi) bouřlivý, větrný #
 squame # šupina biol. #
 squamosi # šupinatý #
 squelette # kostra, skelet #
@@ -11764,7 +11776,11 @@ stopplage # paběrky #
 stopplera # paběrkovačka #
 stopple # strniště #
 storc # čáp #
-storm # bouře, bouřka; storm-atacca zteč; storm-ataccar #
+storm # bouře, bouřka #
+storm-atacca zteč #
+storm-ataccar # vzít útokem, ztéci #
+stormosi # bouřlivý, prudký #
+stormear # bouřit, hnát se (o větru) #
 stovar # dusit (maso) #
 strabar # šilhat #
 strabarXXX-isme # šilhavost #
@@ -11931,7 +11947,7 @@ sucrarXXX-age # cukrování, slazení; sladké jídlo; -ero cukrovarník; -ería
 sucre # cukr #
 sucrosi # cukernatý #
 suc # šťáva #
-sucXXX-osi # šťavnatý #
+sucosi # šťavnatý #
 sucumber # podlehnout (čemu), podřídit se #
 sucuore # sosák (hmyzu) #
 sucuoreXXX-ette # dudlík (láhve) #
@@ -13033,7 +13049,7 @@ vende,XXX-itor # prodavač: -ibil prodejný (zboží) #
 vendibilitá # prodejnost #
 vendir # prod(áv)at #
 venen # (= tóxico) jed #
-venenXXX-osi # jedovatý #
+venenosi # jedovatý #
 venerar # ctít, uctícvat #
 veneration # úcta, uctívání #
 venerationXXX-abil # ctihodný, úctyhodný #
@@ -13112,7 +13128,7 @@ vértice # vrchol, témě, temeno #
 vertígine # závrať #
 vertíginosi # závratný (výška, rychlost) #
 vertú # ctnost #
-vertúXXX-osi # ctnostný #
+vertuosi # ctnostný #
 veruca # bradavice med. #
 verucosi # bradavčitý #
 verve # verva, zápal, nadšení #
@@ -13331,7 +13347,7 @@ voluntá # svob. vůle #
 voluptá # rozkoš (smyslná) #
 volupton # rozkošník #
 voluptosi # rozkošnický #
-voluptosiXXX-ositá # rozkošnictví #
+voluptositá # rozkošnictví #
 vomida, # -ition zvracení #
 vomir # vrhnout, zvracet #
 vomitive # prostředek na zvracení, dávidlo #
@@ -13367,8 +13383,6 @@ vultur # sup zool. #
 vulturXXX-in # supí #
 vulve # vulva anat. #
 vu # vy #
-vzít # útokem, ztéci #
-vzítXXX-osi # bouřlivý, prudký; -ear bouřit, hnát se (o větru) #
 warf # loděnice #
 Warszawa # Varšava #
 watch # stráž #
