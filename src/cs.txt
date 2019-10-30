@@ -296,7 +296,9 @@ aflictiv # zarmucující #
 afollat # zneklidněný, poblázněný, velmi rozrušený #
 aforisme # *aph... aforismus #
 afrancar # vyplácet poštovné, frankovat #
-África # Afrika; a-an africký; a-ano Afričan #
+África # Afrika #
+african # africký #
+africano # Afričan #
 afrontar # čelit, vzdorovat #
 afuste # lafeta (děla) #
 agate # achát geol. #
@@ -1401,7 +1403,9 @@ bosillar # břídit, hudlařit #
 bosillatura # hudlařina #
 bosillage # hudlaření #
 bosillero # hudlař, fušer #
-Bosnia # Bosna; b-an bosenský; b-ano Bosňák #
+Bosnia # Bosna #
+bosnian # bosenský #
+bosniano # Bosňák #
 bossar # hrbatit (hřbet) #
 bossat # hrbatý #
 bossato # hrbáč #
@@ -1435,7 +1439,9 @@ brandy # brandy, vínovice, pálenka #
 brane # (= residue de cereales) otruby #
 brase # žár #
 brasiere # žároviště; in-ar zapálit, roznítit #
-Brasilia # Brazílie; b-an brazilský; b-ano Brazilec #
+Brasilia # Brazílie #
+brasilian # brazilský #
+brasiliano # Brazilec #
 brassade # sáh (míra) #
 brasselett # náramek #
 brasse # rámě, paže, rameno #
@@ -1444,7 +1450,8 @@ bravo! # výborně!, bravo! #
 brav # udatný, statečný #
 bravitá # udatnost, statečnost; -ar vzdorovat, čelit (čemu); -ade husarský kousek; -ore statečnost, chrabrost #
 breche # průlom (v opevnění, též přen.) #
-Bretonia # Bretaň; b-an bret/aňský, -onský #
+Bretonia # Bretaň #
+bretonian # bret/aňský, -onský #
 brevetar # patentovat #
 brevete # patent #
 brevi # krátký (časově), stručný #
@@ -1525,7 +1532,9 @@ bulbosi # hlíznatý #
 bul de nive # sněhová koule #
 bul de sapon # mýdlová bublina #
 bulevard # (okružní) třída, bulvár #
-Bulgaria # Bulharsko; b-an bulharský; b-ano Bulhar #
+Bulgaria # Bulharsko #
+bulgarian # bulharský #
+bulgariano # Bulhar #
 bul # koule; bublina #
 bulle # bula (papežská) #
 bulletine # bulletin, úřední listina, věstník #
@@ -2030,7 +2039,9 @@ chicane # zlomyslné obtěžování, šikana #
 chic # vkus, elegance; vkusný, elegantní #
 chifon # hadr, cár #
 chifonar # roztrhat na cáry #
-Chile # Chile; ch-an chilský; ch-ano Chilan #
+Chile # Chile #
+chilan # chilský #
+chilano # Chilan #
 chimené # komín #
 chimenero # kominík #
 chimere # vidina, přelud; výmysl #
@@ -3000,7 +3011,9 @@ corsare # korzár, pirát #
 cor # sbor (pěvecký), chor #
 corsetera # korzetářka #
 corsete # šněrovačka #
-Corsica # Korsika; c-an korsický; c-ano Korsičan #
+Corsica # Korsika #
+corsican # korsický #
+corsicano # Korsičan #
 corte # dvůr, nádvoří; dvůr (sídlo vladaře); soudní dvůr; dvorec, hřiště, kurt #
 cortege # družina, svita, doprovod; průvod (zejm. pohřební) #
 cortesar # dvořit se #
@@ -3209,7 +3222,9 @@ crusbere # rybíz #
 crusberiero # rybízový keř #
 crustacé # korýš #
 cruste # kůr(k)a; in-ar vykládat (ozdobně) #
-Cuba # Kuba; c-an kubánský; c-ano Kubánec #
+Cuba # Kuba #
+cuban # kubánský #
+cubano # Kubánec #
 cubar # krájet na kostičky #
 cubatura # krychlový obsah, objem, kubatura #
 cubic # kubický, krychlový #
@@ -3315,7 +3330,8 @@ customari # (= customal) obvyklý #
 acustomar # přivyknout #
 custositá # nákladnost #
 cute # kůže (vydělaná) #
-cutin # kožený; sub-an podkožní (inj.) #
+cutin # kožený #
+subcutan # podkožní (inj.) #
 cuttre # kutr (jednostěžník) #
 cuve # káď, vana #
 cuve panificatori # díž(e) #
@@ -3337,7 +3353,8 @@ dangerosi # nebezpečný #
 dansar # tančit #
 dansa # tanec #
 dansero # tanečník #
-Danubio # Dunaj; d-an dunajský #
+Danubio # Dunaj #
+danubian # dunajský #
 dar # dát #
 dar nascentie a # zplodit #
 data # (= factes) údaje, skutečnosti, data (zvl. životopisná) #
@@ -4641,7 +4658,9 @@ eufonie # *euph... libozvučnost, libozvuk #
 eunuc # (= castrato) eunuch #
 euritmic # eurytmický #
 euritmie # *eurhyth... (euryt...) eurytmie #
-Europa # Evropa; e-an evropský; e-ano Evropan #
+Europa # Evropa #
+europan # evropský #
+europano # Evropan #
 eutanasie # euthanasie med. #
 evacuar se # mít stolici #
 evacuar # vyklidit, odsunout; vyprázdnit (střeva, žaludek) #
@@ -5928,7 +5947,8 @@ guidon # řídítka (u kola) #
 guilde # cech #
 guillotinar # gilotionovat #
 guillotine # gilotina #
-Guinea # Guinea; g-an quinejský #
+Guinea # Guinea #
+guinean # quinejský #
 guirlande # girlanda #
 guitarre # kytara #
 guitarrist # kytarista #
@@ -5971,7 +5991,8 @@ hache # sekera #
 hagar # oplotit #
 hagatura # oplocení #
 hag(a) # (živý) plot #
-Haiti # Haiti; h-an hajtský #
+Haiti # Haiti #
+haitian # hajtský #
 hala # dech #
 halade # dechnutí; in-ar vdechovat; in-ation vdechování #
 halar # dýchat #
@@ -6021,7 +6042,8 @@ exhaustor # čerpadlo #
 havarie # havárie #
 haver # mít, vlastnit #
 haver sete # mít žízeň #
-Hawai # Havaj; h-an havajský #
+Hawai # Havaj #
+hawaian # havajský #
 hay du possibilitás # jsou dvě možnosti #
 hay # je, existuje #
 hebréa # Hebrejka, židovka #
@@ -7001,7 +7023,9 @@ isotope # izotop chem. #
 Israel # Izrael; i-ian izraelský (občan); i-iano Izraelec; i-ite izraelita (Žid) #
 israelitic # izraelský (náboženství) #
 istme # zemská šíje; úžina #
-Italia # Itálie; i-an italský; italština; i-ano Ital #
+Italia # Itálie #
+italian # italský; italština #
+italiano # Ital #
 iterar # opakovat #
 iteration # opakování #
 iterativ # opakovací #
@@ -7111,7 +7135,10 @@ justiciario # právní úředník #
 justicie # spravedlnost; justice #
 just quande # jakmile #
 just # spravedlivý, správný; právě, zrovna #
-justXXX-esse, # -itá správnost; -ificar ospravedlnit; -ificabil ospravedlnitelný #
+justesse # (= justitá) správnost #
+justitá # (= justesse) správnost #
+justificar # ospravedlnit #
+justificabil # ospravedlnitelný #
 jute # juta bot. #
 juvel # klenot, šperk, skvost #
 juvelero # klenotník #
@@ -7140,10 +7167,11 @@ kirsch # (= cherry-brandy) višňovka, višňový likér #
 kivi # kivi zool. #
 knut # karabáč, bič #
 kolkhoz # kolchoz #
-kolkhozXXX-ian # kolchozniano kolchozník #
-kolkhoz # kolchoz #
-kolkhozXXX-ian # kolchozn/í, -ický #
-Koréa # Korea; k-an korejský; korejština; k-ano Korejec #
+kolkhozian # kolchozn/í, -ický #
+kolchozniano # kolchozník #
+Koréa # Korea #
+korean # korejský; korejština #
+koreano # Korejec #
 krádež # vloupáním; rupte-furtard lupič #
 Kraków # Krakov #
 labial # retný gram. #
@@ -7188,8 +7216,8 @@ lade # plech #
 ladero # klempíř #
 lago # jezero #
 lagune # laguna #
-láic # laický, neodborný #
-láicXXX-o # laik, neodborník #
+laic # laický, neodborný #
+laico # laik, neodborník #
 la # ji, jí #
 lallar # broukat, žvatlat #
 lallation # dětské broukání, žvatlání #
@@ -7197,7 +7225,7 @@ lama # lama zool.; láma (budhistický kněz); Dalai Lama #
 lamelle # (= lámine) plátek (kovu), plíšek, destička #
 lamentar # bědovat, naříkat #
 lamentation # bědování, nářek #
-lamentationXXX-abil # politováníhodný, žalostný #
+lamentabil # politováníhodný, žalostný #
 lamette # (= lámine rasatori) čepelka (holicí) #
 lame # želízko; čepel (nože) #
 laminar # válcovat (kovy) #
@@ -7253,7 +7281,9 @@ latitúdine # zeměpisná šířka #
 latrine # latrína, záchod (obyčejný) #
 latte # lať(ka) #
 latug # locika bot. #
-Latvia # Lotyšsko; l-an lotyšský; l-ano Lotyš #
+Latvia # Lotyšsko #
+latvian # lotyšský #
+latviano # Lotyš #
 laube # loubí, besídka #
 laudar # chválit #
 laudation # chválení: -abil chvályhodný, chvalitebný #
@@ -7353,7 +7383,9 @@ Líbano # Libanon; l-esi libanonský; l-eso Libanonec #
 li Bass Tatras # Nízké Tatry #
 libéllul # šídlo, vážka (hmyz) #
 libertin # prostopášný #
-libertinXXX-o # prostopášník; -ar vést prostopášný život; -age prostopášnost #
+libertino # prostopášník #
+libertinar # vést prostopášný život #
+libertinage # prostopášnost #
 líber # volný, svobodný #
 líberXXX-al # svobodomyslný; -alisme liberalismus; -ar (de) osvobodit (od čeho); -ation osvobození; -ator osvoboditel; -tá svoboda #
 libration # librace astr. #
@@ -7526,7 +7558,7 @@ lúmine # světlo #
 lúminosi # světelný, svítící, jasný #
 lunari # lunární, měsíční #
 lunatic # (též: somnámbul) náměsíčný #
-lunaticXXX-o # náměsíčník (i hanl.) #
+lunatico # náměsíčník (i hanl.) #
 lunedí # pondělí #
 lune # luna, měsíc #
 luniform # měsícovitý #
@@ -7540,7 +7572,9 @@ lúpul # chmel #
 lupus # lupus med. #
 lurar # vnadit (návnadou) #
 lure # vnadidlo, (ná)vnada #
-Lusatia # Lužice; l-an lužický; l-ano Lužičan #
+Lusatia # Lužice #
+lusatian # lužický #
+lusatiano # Lužičan #
 luscinia # slavík #
 lusor # hráč #
 lustrar # dodat třpytu (čemu), krášlit #
@@ -7748,13 +7782,16 @@ marmelade # marmeláda #
 marmite # hrnec na vaření (s poklicí) #
 marmor # mramor #
 marmotte # svišť #
-Marocco # Maroko; m-an marocký; m-ano Marokánec #
+Marocco # Maroko #
+maroccan # marocký #
+maroccano # Marokánec #
 marodar # plenit (při lupičských nájezdech) #
 marodero # plenitel #
 maron # (jedlý) kaštan (plod) #
 maronXXX-iero # (jedlý) kaštan (strom) #
 marotte # koníček, záliba #
-Mars # Mars; m-ane Marťan #
+Mars # Mars #
+marsane # Marťan #
 marte # březen #
 martell # kladivo #
 martellar # bušit kladivem, kovat #
@@ -7834,7 +7871,14 @@ medial # (pro)střední; průměrný #
 medialXXX-ation # prostřednictví #
 mediator # prostředník; in-at okamžitý, bezprostřední; inter-e mezihra #
 médic # lékařský #
-médicXXX-o # lékař, medik; -al lékařský; -ar léčit: -ine medicína, lékařství; -inal lékařský, hojivý; -inar podávat lék; -ament lék; -astro mastičkář, šarlatán #
+médico # lékař, medik #
+medical # lékařský #
+medicar # léčit #
+medicine # medicína, lékařství #
+medicinal # lékařský, hojivý #
+medicinar # podávat lék #
+medicament # lék #
+medicastro # mastičkář, šarlatán #
 medie # prostředek #
 medievial # středověký #
 medievie # středověk #
@@ -7904,7 +7948,7 @@ mercatoría # tržnice #
 mercator # obchodník #
 mercator # trhovec #
 mercenari # žoldnéřský #
-mercenariXXX-o # žoldnéř #
+mercenario # žoldnéř #
 mercero # obchodník #
 merceríe # obchod (činnost) #
 mercería # obchod (místnost) #
@@ -8063,8 +8107,9 @@ mission # poslání; misie; delegace, mise #
 missionXXX-ionario # misionář #
 misterie # *my... záhada #
 misteriosi # záhadný #
-místic # *my... mystický #
-místicXXX-o # mystik; -isme mysticismus #
+mistic # *my... mystický #
+mistico # mystik #
+misticisme # mysticismus #
 mistificar # *my... oklamat, mystifikovat #
 mistification # mystifikace #
 mite # *myth... (myt...) báje, mýtus #
@@ -8109,7 +8154,8 @@ mofa # plíseň #
 mofar # plesnivět #
 mofosi # plesnivý #
 mohamedane # mohamedán #
-Moldavia # Mold/ávie, -avsko; m-an moldavský #
+Moldavia # Mold/ávie, -avsko #
+moldavian # moldavský #
 moldavite # vltavín geol. #
 molecul # molekula #
 moleculari # molekulární #
@@ -8147,7 +8193,8 @@ moné # peníze #
 monetari # mincovní, peněžní; měnový #
 monete # peníz, mince #
 moneteXXX-etar # razit mince #
-Mongolia # Mongolsko; m-an mongolský, mongolština #
+Mongolia # Mongolsko #
+mongolan # mongolský, mongolština #
 monir # napomenout, upomenout #
 monition # napomenutí, upomínka #
 monitionXXX-itor # monitor voj. (i počítačový) #
@@ -8166,7 +8213,10 @@ monstruositá # obrovitost, ohromnost; nestvůrnost #
 montage, # -ura montáž, sestavení (přístroje) #
 montante # svislá hrana (veřejí), sloupek tech. #
 montar # stoupat (na horu, do kopce, po schodech) #
-montarXXX-an # horský; -ania horstvo (pohoří); -aniosi, -osi hornatý #
+montan # horský #
+montania # horstvo (pohoří) #
+montaniosi # (= montosi) hornatý #
+montosi # (= montaniosi) hornatý #
 monte # hora, kopec #
 monter # montovat, sestavit (přístroj) #
 montero # montér #
@@ -8184,7 +8234,9 @@ mora # odklad, průtah, (po)zdržení #
 morar # odložit, (po)zdržet #
 morarXXX-tori # moratorní #
 morasse # bažina, močál #
-Moravia # Morava; m-an moravský; m-ano Moravan #
+Moravia # Morava #
+moravian # moravský #
+moraviano # Moravan #
 morbe # nemoc, choroba #
 morbere # moruše (plod) #
 morberiero # moruše (strom) #
@@ -8250,7 +8302,7 @@ multiplication # násobení, množení #
 multiplicar # násobit #
 multiform # mnohotvárný #
 mundal # světový #
-mundalXXX-an # světský #
+mundan # světský #
 mundano # světák #
 munde # svět #
 municipalité # městská vrchnost #
@@ -8294,11 +8346,12 @@ musulmane # muslim #
 mutabilitá # proměnlivost #
 mutar # měnit (též hlas) #
 mutation # změna, mutace #
-mutationXXX-abil # proměnlivý, schopný proměny #
+mutabil # proměnlivý, schopný proměny #
 mutilar # zmrzačit, zkomolit #
 mutilation # zmrzačení, zkomolení #
 mut # němý #
-mutXXX-o # němý člověk, nemluva; -itá němota #
+muto # němý člověk, nemluva #
+mutitá # němota #
 mutual # vzájemný #
 mutualitá # (= mutualisme) vzájemnost #
 mutualisme # (= mutualitá) vzájemnost #
@@ -8451,8 +8504,10 @@ nivellation # (= nivellation) vyrovnání (úrovně) #
 nivellette # vodováha #
 nivellisation # vyrovnávání (zvl. platové) na stejnou úroveň #
 nive # sníh #
-nóbil # šlechtický, urozený #
-nóbilXXX-o # šlechtic; -itá, -esse šlechtictví, urozenost; -ité šlechta #
+nobil # šlechtický, urozený #
+nobilo # šlechtic #
+nobilitá, # -esse šlechtictví, urozenost #
+nobilité # šlechta #
 noblesse # jemné chování #
 nobli # šlechetný, ušlechtilý #
 nocer # škodit #
@@ -8484,7 +8539,9 @@ normalXXX-alisation # normalizace #
 normativ # normativní (určující normu) #
 norme # norma, obvyklá míra #
 nor # náš #
-Norvegia # Norsko; n-an norský; norština; n-ano Nor #
+Norvegia # Norsko #
+norvegan # norský; norština #
+norvegano # Nor #
 nos # nám, nás #
 nostalgie # stesk po domově; teskná touha po něčem #
 nota # poznámka #
@@ -8844,7 +8901,8 @@ paddlar # pádlovat #
 paddle # pádlo #
 padelle # pánev, omeletník #
 pagan # pohanský #
-paganXXX-o # pohan; -isme pohanství #
+pagano # pohan #
+paganisme # pohanství #
 pagayar # pádlovat, veslovat #
 pagaye # pádlo, veslo (lopatovité) #
 page # páže hist. #
@@ -8852,7 +8910,9 @@ págine # strana, stránka (knihy) #
 págineXXX-al # stránkový; -ar stránkovat; -ation stránkování #
 pag. # (zkr. págine) str., strana, stránka (knihy) #
 país # kraj(ina), země; domov #
-paísXXX-an # venkovský; -ano venkovan, sedlák; -age krajina (obraz) #
+paisan # venkovský #
+paisano # venkovan, sedlák #
+paisage # krajina (obraz) #
 palace # palác #
 pálatal # patrový fon. #
 pálate # patro anat. #
@@ -8946,7 +9006,8 @@ parafine # parafín #
 parafrasar # parafrázovat #
 parafrase # *paraphras... parafráze #
 paragraf # *paragraph paragraf; odstavec (zákona) #
-Paraguay # Paraguay; p-an paraquayský #
+Paraguay # Paraguay #
+paraguayan # paraquayský #
 paralise # *paraly... ochromení, ochrnutí #
 paralitic # ochrnutý #
 paraliticXXX-sar # ochromit #
@@ -9073,7 +9134,8 @@ pastille # pastilka #
 pastinaca # pastinák bot. #
 pastosi # těstovitý #
 pasturar # hnát (stádo) #
-Patagonia # Patagonie; p-an patagonský #
+Patagonia # Patagonie #
+patagonian # patagonský #
 patentar # patentovat #
 patente # výhradní právo, patent #
 patere # hák (na šaty), věšák #
@@ -9297,9 +9359,13 @@ persequer # sledovat, pronásledovat; pokračovat (v čem) #
 perseverantie # vytrvalost #
 perseverar # vytrvat #
 persiane # žaluzie #
-Persia # Persie hist. (dnešní Írák); p-an perský; p-ic perský (záliv); p-ano Peršan #
+Persia # Persie hist. (dnešní Írák) #
+persan # perský #
+persic # perský (záliv) #
+persano # Peršan #
 pérsic # broskev (plod) #
-pérsicXXX-iero # broskvoň; -iera brosk. sad #
+persiciero # broskvoň #
+persiciera # brosk. sad #
 persiflar # posmívat se, pošklebovat se #
 persistent # pevný, vytrvalý #
 persistentXXX-entie # stálost, vytrvalost #
@@ -9321,7 +9387,9 @@ perturbation # rušení, vyrušování #
 perturbator # rušitel #
 perturbativ, # -atori rušivý #
 per un gladie # mečem #
-Perú # Peru; p-an peruánský; p-ano Peruánec #
+Perú # Peru #
+peruan # peruánský #
+peruano # Peruánec #
 peruque # paruka #
 peruquero # parukář #
 peruquiere # pouzdro na paruku #
@@ -9583,7 +9651,7 @@ poetic # básnický #
 poetica # poetika #
 poetisar # zbásnit #
 polac # polský; polština #
-polacXXX-o # Polák #
+polaco # Polák #
 polémica # polemika #
 polémic # polemický #
 polémisar # polemizovat #
@@ -9593,7 +9661,8 @@ policist # policista #
 polifonic # polyfonický #
 polifonie # *polyph... (polyf...) polyfonie #
 poliglott # *poly... polyglot #
-Polinesia # *Poly... Polynésie; p-an polynéský #
+Polinesia # *Poly... Polynésie #
+polinesian # polynéský #
 polip # *polyp polyp med. #
 polir # hladit (kov), (vy)leštit #
 polític # politický #
@@ -9628,8 +9697,9 @@ pónderar # vážit (co); zvažovat (důvod) #
 póndere # váha; závaží #
 pontal # mostní #
 ponte # most #
-pontífic # pontifikální #
-pontíficXXX-o # papež; velekněz; -atu pontifikát #
+pontific # pontifikální #
+pontifico # papež; velekněz #
+pontificatu # pontifikát #
 ponton # ponton, mostní člun #
 popisovat # n. líčit #
 popisovatXXX-at # podrobný #
@@ -9692,7 +9762,7 @@ possessionXXX-ssiv # gram. přivlastňovací #
 possessor # majitel, vlastník #
 possibilisar # umožnit #
 possibil # možný #
-possibilXXX-ibilitá # možnost #
+possibilitá # možnost #
 postal # poštovní #
 postament # podnož, podstavec, spodek #
 posta # pošta; in-ar dát na poštu #
@@ -9700,8 +9770,8 @@ postar # postavit, umístit (hlídky) #
 posteriore # zadek #
 posteriori # pozdější; zadní #
 posterité # potomstvo #
-pósthum # posmrtný #
-pósthumXXX-o # pohrobek #
+posthum # posmrtný #
+posthumo # pohrobek #
 postilion # postilión (kočí pošt. dostavníku; "poštovský panáček") #
 posto # místo, stanoviště #
 post- # (= pos-) (ve složeninách značí následnost, po-): pósthum #
@@ -9723,7 +9793,9 @@ povritá, # -esse chudoba #
 poy # potom, pak #
 práctic # praktický #
 prácticXXX-a # cvik, praxe; zvyklost; -al praktický: -ar provádět, provozovat; -ante praktikant; -abil proveditelný; sjízdný, schůdný #
-Praga # Praha; p-an pražský; p-ano Pražan #
+Praga # Praha #
+pragan # pražský #
+pragano # Pražan #
 pram # prám (převoznický) #
 pramero # převozník #
 prate # louka, lučina #
@@ -9929,7 +10001,9 @@ producterXXX-ion # výroba; produkce (filmu); -iv produktivní, plodný, výnosn
 producte # výrobek, produkt #
 productor # výrobce #
 profan # světský (nenáboženský); laický #
-profanXXX-o # laik, neodborník: -ar znesvětit; -ation znesvěcení, zneuctění, zneužití #
+profano # laik, neodborník #
+profanar # znesvětit #
+profanation # znesvěcení, zneuctění, zneužití #
 professer # provozovat (povolání); přednášet (na univerzitě) #
 professerXXX-ion # povolání, profese #
 professional # profesionální #
@@ -10079,8 +10153,8 @@ provisori # prozatímní, dočasný #
 provocar # (vy)provokovat, podněcovat, dráždit; vyvolat, způsobit #
 provocation # provokace #
 provocator # provokatér #
-próxim # nejbližší, příští; blízký, nedaleký; blízko #
-próximXXX-o # bližní: -itá blízkost, sousedství #
+proxim # nejbližší, příští; blízký, nedaleký; blízko #
+proximo # bližní: -itá blízkost, sousedství #
 prudent # opatrný, rozvážný #
 prudentXXX-ie # opatrnost, rozvážnost #
 prud # upejpavý #
@@ -10093,7 +10167,9 @@ pruntation # vypůjčení #
 prunta # výpůjčka #
 pruritar # svědět, svrbět #
 pruritation # svědění, svrbění #
-Prussia # Prusko; p-an pruský; p-ano Prus #
+Prussia # Prusko #
+prussian # pruský #
+prussiano # Prus #
 pruvabil # dokazatelný #
 pruva # důkaz #
 pruvar # dokázat #
@@ -10518,7 +10594,7 @@ redemptor # vykupitel #
 re diese # dis # XXX FIXME --
 reducter # snížit, zmenšit (počet), redukovat #
 reduction # snížení, zmenšení, redukce #
-reductionXXX-ibil # redukovatelný #
+reductibil # redukovatelný #
 reductiv # snižovací #
 redute # hradba, násep, val #
 refar # předělat #
@@ -10645,7 +10721,8 @@ reminiscentie # vzpomínka #
 reminiscer # vzpomínat #
 remise # kůlna, remíza, vozovna #
 remisser # vracet, zaslat zpět; přechodně polevit (o chorobě); odpustit (hříchy, trest) #
-remisserXXX-ibil # odpustitelný; -ion odpuštění; úleva, zmírnění #
+remissibil # odpustitelný #
+remission # odpuštění; úleva, zmírnění #
 remisse # vrácení zásilky; dočasná úleva choroby #
 remissiv # promíjivý #
 remorcar # vléci, táhnout (co) #
@@ -10730,7 +10807,7 @@ reprochar # vyčítat, vytýkat #
 reproche # výčitka, výtka #
 reproducter # reprodukovat; rozmnožovat #
 reproduction # reprodukce, rozmnožování #
-reproductionXXX-ibil # reprodukovatelný #
+reproductibil # reprodukovatelný #
 reproductiv # reprodukční #
 repter # plazit se #
 reptile # plaz #
@@ -10795,7 +10872,7 @@ respiration # dýchání, dech #
 respirativ # dýchací #
 responder # odpovědět (nač) #
 responsabil # (por) odpovědný (za) #
-responsabilXXX-abilitá # odpovědnost #
+responsabilitá # odpovědnost #
 responsar # odpovídat (zač) #
 response # odpověď #
 ressor # pružné pero, pružina #
@@ -10907,7 +10984,8 @@ reyia # království #
 reyessa # královna #
 reyatu # královský úřad #
 reyal # královský #
-Rhen # Rýn; r-an rýnský #
+Rhen # Rýn #
+rhenan # rýnský #
 rhódium # rhódium chem. #
 ricanar # ušklíbat se; uštěpačně se smát #
 rich # bohatý #
@@ -10977,7 +11055,9 @@ roman # román #
 romanXXX-ce # romance; -esc v románském slohu, romaneskní; románový; -ic románský (sloh); -ico Román: -ist romanista; -isar porománštit #
 romántic # romantický #
 románticXXX-a # romantika; -o romantik #
-Roma # Řím; r-an římský; r-ano Říman #
+Roma # Řím #
+roman # římský #
+romano # Říman #
 rombe # kosočtverec #
 romboide # kosodélník #
 roncada, # -ament chrápání #
@@ -11536,7 +11616,8 @@ shrapnell # šrapnel #
 sibilante # sykavka gram. #
 sibilant # sykavý #
 sibilar # syčet #
-Sibiria # Sibiř; s-an sibiřský #
+Sibiria # Sibiř #
+sibirian # sibiřský #
 sicc # suchý, uschlý #
 siccXXX-ore # sucho; -ar (u)sušit; -ation sušení, schnutí; -itá suchost; příkrost přen. #
 síderal # hvězdný (o čase) #
@@ -11567,7 +11648,9 @@ significativ # významný (úsměv, pohled) #
 si # jestli(že) #
 silent # mlčící; tichý #
 silentXXX-ie # mlčení, ticho; -iosi tichý; zamlklý #
-Silesia # Slezsko; s-an slezský; s-ano Slezan #
+Silesia # Slezsko #
+silesian # slezský #
+silesiano # Slezan #
 silf # *sylph (sylf) skřítek #
 silfXXX-a # víla #
 silicate # křemičitan, silikát #
@@ -11697,7 +11780,7 @@ slittar # sáňkovat #
 slittation # sáňkování #
 slitte # saně, sáně #
 slovac # slovenský; slovenština #
-slovacXXX-o # Slovák #
+slovaco # Slovák #
 Slovakia # Slovensko #
 smeralde # smaragd geol. #
 smeril # smirek geol. #
@@ -11744,10 +11827,15 @@ solitá # samota #
 solitáXXX-itari # osaměý; samotářský: -itario samotář; -itude osamělost, samota #
 solo # sólo #
 sol # sám #
-soluabilitá, # -entie solventnost #
 soluer # řešit #
 soluibil # rozpustný; řešitelný #
-soluibilXXX-ibilitá # rozpustnost; řešitelnost; -tion roztok; řešení; dis-er rozpouštět solv/abil, -ent solventní #
+soluibilitá # rozpustnost; řešitelnost #
+solution # roztok; řešení #
+dissoluer # rozpouštět #
+solvabil # # (= solvent) solventní #
+solvent # (= solvabil) solventní #
+solvabilitá, # (= solventie) solventnost #
+solventie # (= solvabilitá) solventnost #
 sómmit(e) # vrchol(ek) #
 somnámbul # náměsíční #
 somnámbulXXX-isme # náměsíčnost; -ist náměsíčník #
@@ -12495,7 +12583,7 @@ taxi # taxi, taxík #
 taxon # jezevec #
 taxuo # tis bot. #
 tchec # český (týkající se Čech, Moravy a Slezska); čeština #
-tchecXXX-o # Čech #
+tcheco # Čech #
 Tchekia # Česko (Čechy, Morava a Slezsko) #
 teatral # divadelní #
 teatral # divadelní #
@@ -12685,7 +12773,7 @@ tirage # táhnutí; tah (v loterii); náklad, tiráž (knihy) #
 tirannic # tyranský #
 tirannie # *ty... tyranie #
 tirannisar # tyranizovat #
-tirannisarXXX-o # tyran #
+tiranno # tyran #
 tirar precis # zasáhnout (cíl) #
 tirar # táhnout (za sebou, k sobě); čepovat, stáčet; střílet #
 tira # tah (i ve hře); rána, výstřel; tir-bestie tažné zvíře, tahoun; tir-carre tahač tech. #
@@ -13037,7 +13125,7 @@ tuchar # dotýkat se #
 tui # tvůj #
 tu lava te # myješ se #
 tulip # tulipán #
-tulipXXX-an # tulipánový #
+tulipan # tulipánový #
 tulle # tyl (tkanina) #
 tumefar # zduřet, opuchnout #
 tumefation # zduření, opuchnutí #
@@ -13346,7 +13434,9 @@ venerator # ctitel #
 venerdí # pátek #
 Vénere # (= Vénus) Venuše astr. #
 venéric # venerický, pohlavní (nemoc) #
-Venezia # Benátky; v-an benátský; v-ano Benátčan #
+Venezia # Benátky #
+venezian # benátský #
+veneziano # Benátčan #
 vene # žíla #
 venida # příchod #
 convenir # sejít se, scházet se; (kmen perfekta: «vent»): «convention, intervention»
@@ -13450,7 +13540,7 @@ vestiere # šatník #
 vestigie # stopa, šlépěj #
 vestir # oblékat, šatit #
 veterinari # veterinární #
-veterinariXXX-o # veterinář #
+veterinario # veterinář #
 veto # veto #
 vexar # sužovat, trápit #
 vexation # sužování #
@@ -13505,7 +13595,8 @@ vigore # životní síla, zdatnost; platnost (úřední); in vigore pravomocný 
 vigorosi # silný, zdatný #
 vigorosiXXX-orar # posilnit, osvěžit; oživit #
 vilan # hanebný, podlý #
-vilanXXX-o # lotr, padouch; -ie hanebnost #
+vilano # lotr, padouch #
+vilanie # hanebnost #
 vili # nízký, sprostý #
 vilitá # nízkost, sprostota #
 villagean, # -esi vesnický #
@@ -13752,9 +13843,14 @@ yo vell ear # šel bych #
 yufte # juchta kožel. #
 yug # jařmo, jho #
 yugoslav # jugoslávský #
-yugoslavXXX-o # Jugoslávec; Y-ia Jugoslávie #
+yugoslavo # Jugoslávec #
+Yugoslavia # Jugoslávie #
 yun # mladý #
-yunXXX-o # mladík; -a mladá dívka; -esse mladost; -itá mládí; -ité mládež #
+yuno # mladík #
+yuna # mladá dívka #
+yunesse # mladost #
+yunitá # mládí #
+yunité # mládež #
 zebrat # pruhovaný #
 zebra # zebra zool. #
 zebre # zebra zool. #
