@@ -7089,7 +7089,9 @@ jungle # džungle #
 junior # mladší (osoba); synátor žert. #
 juniores # dorostenci sport. #
 junt # spolu, dohromady #
-juntXXX-er # spojit; -ion spojení; -ura spojení, kloub tech. #
+junter # spojit #
+juntion # spojení #
+juntura # spojení, kloub tech. #
 jup # sukně #
 jupon # spodnička #
 jurament # přísaha #
@@ -7097,7 +7099,11 @@ jurar # přísahat; dušovat se #
 jure # právo #
 jurie # porota práv., um. #
 jurist # právník #
-juristXXX-ístic # právnický; -ídic právní, právnický; -isdiction soudní pravomoc; -isprudentie právnictví, práva; -ato porotce #
+juristístic # právnický #
+jurídic # právní, právnický #
+jurisdiction # soudní pravomoc #
+jurisprudentie # právnictví, práva #
+jurato # porotce #
 jurnal(e) # noviny, deník #
 jurnalístic # novinářský #
 jurnalist # novinář #
@@ -7108,7 +7114,9 @@ just # spravedlivý, správný; právě, zrovna #
 justXXX-esse, # -itá správnost; -ificar ospravedlnit; -ificabil ospravedlnitelný #
 jute # juta bot. #
 juvel # klenot, šperk, skvost #
-juvelXXX-ero # klenotník; -eríe klenotnictví, klenoty; -ería klenotnictví (prodejna) #
+juvelero # klenotník #
+juveleríe # klenotnictví, klenoty #
+juvelería # klenotnictví (prodejna) #
 júvena # panna, dívka #
 júvenil # mladistvý #
 júven(o) # mládenec, jinoch #
@@ -8109,7 +8117,9 @@ molestar # obtěžovat #
 molestation, # -ie obtěžování #
 molinage # melivo #
 molinar # mlít (obilí) #
-molinarXXX-ero # mlynář; -eríe mlynářství; -ería mlýnice #
+molinero # mlynář #
+molineríe # mlynářství #
+molinería # mlýnice #
 moline # mlýn #
 moll # měkký #
 mollitá, # -esse měkkost; -ar měkčit #
@@ -9028,7 +9038,9 @@ paru # sýkorka #
 Pascal # velikonoční #
 Pasca # Velikonoce #
 pasment # prýmek #
-pasmentXXX-ero # prýmkař; -eríe prýmkařství, prýmkařské zboží; -ar ozdobit prýmky #
+pasmentero # prýmkař #
+pasmenteríe # prýmkařství, prýmkařské zboží #
+pasmentar # ozdobit prýmky #
 pasquill # hanopis, paskvil; literární a umělecký zmetek #
 pasquinade # paskvináda (šaškovství, zvl. v jevištní podobě) #
 passabil # schůdný, sjízdný; obstojný #
@@ -9449,7 +9461,7 @@ piste # (závodní) dráha; sjezdovka #
 pistillari # pestíkový #
 pistille # pestík bot. #
 pistol # pistole, bambitka #
-pistolXXX-ero # pistolník #
+pistolero # pistolník #
 piston # píst, klapka #
 pistuore # moždíř #
 pivot # čep (otočný) #
@@ -9589,7 +9601,7 @@ políticXXX-a # politika; -o politik; -astro politikář: -itá političnost #
 polition # hlazení #
 politura # politura #
 polit # zdvořilý, uhlazený #
-politXXX-esse # zdvořilost, uhlazenost #
+politesse # zdvořilost, uhlazenost #
 polka # polka (tanec) #
 póllen # pel, pyl #
 póllice # palec #
@@ -9645,7 +9657,7 @@ porta-folie # pouzdro na spisy, aktovka; ministerské křeslo #
 porta-moné # peněženka #
 porta-plum # násadka na pero #
 portario # dveřník #
-portarioXXX-ero # vrátný #
+portero # vrátný #
 portar # nést, nosit #
 portator # nosič #
 porta-voce # hlásná truba, megafon, tlampač #
@@ -9662,7 +9674,7 @@ portu # přístav #
 portari # přístavní #
 posa # postoj, póza; stání modelem #
 posar # stát modelem #
-posarXXX-ero # pozér #
+posero # pozér #
 posdatar # opatřovat pozdějším datem, postdatovat #
 posir # klást, položit; umístit, postavit #
 position # poloha, postavení, postoj #
@@ -9713,7 +9725,7 @@ práctic # praktický #
 prácticXXX-a # cvik, praxe; zvyklost; -al praktický: -ar provádět, provozovat; -ante praktikant; -abil proveditelný; sjízdný, schůdný #
 Praga # Praha; p-an pražský; p-ano Pražan #
 pram # prám (převoznický) #
-pramXXX-ero # převozník #
+pramero # převozník #
 prate # louka, lučina #
 prebendario # obročník #
 prebende # obročí, prebenda (důchod i pozemek) #
@@ -9948,7 +9960,9 @@ programmar # programovat #
 programmarXXX-atic # programo-vý (prohlášení); -ation programování #
 programmator # programátor #
 progress # pokrok, prospěch (škol.) #
-progressXXX-er # dělat pokroky, postupovat; -ion postup, progrese; řada mat.; -iv progresívní #
+progresser # dělat pokroky, postupovat #
+progression # postup, progrese; řada mat. #
+progressiv # progresívní #
 prohibir # zakázat #
 prohibition # zákaz #
 prohibitiv # zakazující #
@@ -9971,11 +9985,11 @@ promesse # (pří)slib #
 promesser # (při)slíbit #
 promessori # obsahující závazek #
 prominente # přední osobnost #
-prominenteXXX-er # vynikat #
+prominer # vynikat #
 prominentie # výtečnost, vynikající postavení #
 prominent # vynikající #
-prominent # vynikající, význačný #
-prominentXXX-ie # význačnost #
+prominent # vynikající, význačný # XXX FIXME --
+prominentXXX-ie # význačnost # XXX FIXME --
 promoer # povýšit (koho), podpořit; napomoci (čemu) #
 promoerXXX-tion # povýšení, postup #
 promontorie # předhoří; mys #
@@ -10571,7 +10585,8 @@ regnantie # panování, vládnutí #
 regnar # panovat, vládnout #
 regne # panství, vláda, říše (přírodní) #
 regress # návrat, zpětný postup; úpadek; postih práv. #
-regressXXX-er # vracet se; -iv zpětný, regresívní; postihový, regresní #
+regresser # vracet se #
+regressiv # zpětný, regresívní; postihový, regresní #
 regretabil # politováníhodný #
 regretar # litovat, želet (čeho) #
 regrete # lítost, politování #
@@ -10646,7 +10661,7 @@ remar # veslovat #
 remation # veslování #
 remator # veslař #
 renascentie # obrození, obroda, nový rozkvět, renesance #
-renascentieXXX-er # obrodit se, znovu rozkvést, vzklíčit #
+renascer # obrodit se, znovu rozkvést, vzklíčit #
 rendevú # schůzka, dostaveníčko; rande hovor. #
 rendiment, # -ition výnos, výtěžek #
 rendir # vrátit, odevzdat, odvést; prokázat (službu) #
@@ -10886,12 +10901,19 @@ revúe # časopios, revue; přehlídka, přehled #
 revulser # odvádět (bolest) med. #
 revulsion # odvedení (bolesti) #
 rey # král #
-reyXXX-er # kralovat; -entie kralování; -ia království: -essa královna; -atu královský úřad; -al královský #
+reyer # kralovat #
+reyentie # kralování #
+reyia # království #
+reyessa # královna #
+reyatu # královský úřad #
+reyal # královský #
 Rhen # Rýn; r-an rýnský #
 rhódium # rhódium chem. #
 ricanar # ušklíbat se; uštěpačně se smát #
 rich # bohatý #
-richXXX-esse # bohatství; -o boháč; -ard bohatec #
+richesse # bohatství #
+richo # boháč #
+richard # bohatec #
 ricochettar # odrazit se, odskočit (o kulce) #
 ricochette # odraz #
 ridelle # žebřina (vozu) #
@@ -11102,8 +11124,9 @@ salopona # šmudla, špindíra #
 salpetre # ledek chem. #
 salpetrosi # ledkový #
 salsice # párek, uzenka #
-salsicería, # -eríe uzenářství, uzeniny #
-salsicería,XXX-ero # uzenář #
+salsicería # (= salsiceríe) uzenářství, uzeniny #
+salsiceríe # (= salsicería) uzenářství, uzeniny #
+salsicero # uzenář #
 saltarelle # kobylka (hmyz); italský lidový tanec #
 saltar # (vy)skočit #
 salta # skok #
@@ -11368,7 +11391,7 @@ sega # pila #
 segar # řezat #
 segation # řezání; -ería pila (podnik): -uore koza (na řezání) #
 seglar # plachtit (na vodě) #
-seglarXXX-ero # výrobce plachet #
+seglero # výrobce plachet #
 seglator # plachtař sport. #
 segle # plachta (lodi) #
 segment # úsek med., zool.; úseč geom. #
@@ -11483,7 +11506,7 @@ servilisme # (= servilitá) otrockost, podlízavost, patolízalství #
 servir li messe # ministrovat (při mši) #
 servir # sloužit #
 servitor # služebník, sluha; server tech. #
-servitorXXX-ero # číšník #
+servero # číšník #
 servitudario # nevolník #
 servitude # nevolnictví #
 servo # nevolník #
@@ -11752,7 +11775,7 @@ sonuore # (= sonette) zvonek #
 sorcie # kouzlo, -ar kouzlit, čarovat #
 sorcieríe # kouzelnictví, čarodějnictví; čáry #
 sorciero # čaroděj #
-sorcieroXXX-era # čaroděj/ka, -nice #
+sorciera # čaroděj/ka, -nice #
 sordid # špinavý #
 sordidar # (u-, za)špinit #
 sordidage # (= sordidallia) špína #
@@ -12006,7 +12029,7 @@ strapaciar # trmácet (koho), namáhat #
 strapacie # trmácení, námaha, útrapa #
 strapaciosi # namáhavý, úmorný #
 strap # řemen #
-strapXXX-ero # řemenář #
+strapero # řemenář #
 stratagema # válečná lest, úskok #
 strategic # strategický #
 strategie # strategie #
@@ -12022,7 +12045,7 @@ strettXXX-e # mořská úžina #
 striar # pruhovat, rýhovat #
 stricnine # *strych... strychnin #
 strict # přesný; přísný, stručný, striktní #
-strictXXX-esse # striktnost #
+strictesse # striktnost #
 strident # ječivý, pronikavý #
 strider # ječet, vřískat #
 strie # pruh, rýha #
@@ -12045,7 +12068,10 @@ studiosi # pilný, přičinlivý #
 stuffage # vycpávka #
 stuffar # vycpat #
 stult # hloupý, pošetilý #
-stultXXX-esse # hloupost, pošetilost; -o, -on hlupák, pošetilec; -eríe hloupost (kousek) #
+stultesse # hloupost, pošetilost #
+stulto # (= stulton) hlupák, pošetilec #
+stulton # (= stulto) hlupák, pošetilec #
+stulteríe # hloupost (kousek) #
 stul # židle #
 stump # pahýl; špaček, nedopalek (cigarety) #
 stupefar # ohromit, omráčit (smysly) #
@@ -12242,7 +12268,8 @@ superficial # povrchový; povrchní; zběžný #
 superficie # povrch, hladina; plocha #
 superfilm # velkofilm #
 superflú # přebytečný, zbytečný #
-superflúXXX-er # přebývat, zbývat: -itá přebytečnost, zbytečnost #
+superfluer # přebývat, zbývat #
+superfluitá # přebytečnost, zbytečnost #
 superhoman # nadlidský #
 superimpost(e) # daňová přirážka #
 superiori # vyšší, vrchní, hořejší; nadřazený, nadřízený #
@@ -12320,7 +12347,8 @@ survigilar # dohlédnout (na) #
 susceptibil # velmi citlivý; nedůtklivý #
 susceptibilitá # nedůtklivost #
 suspect # podezřelý #
-suspectXXX-er # podezřívat; -ion podezření #
+suspecter # podezřívat #
+suspection # podezření #
 suspender # zbavit úřadu, sesadit, suspendovat #
 suspense # dočasné zproštění z úřadu #
 suspension # sesazení #
@@ -12335,7 +12363,7 @@ sutura # šití, sešití; šev #
 suvenire # památka, upomínka #
 sved # švédský; švédština; S-ia Švédsko; s-o Švéd #
 svelt # štíhlý #
-sveltXXX-esse # štíhlost #
+sveltesse # štíhlost #
 svimmada # plavání #
 svimmator # plavec #
 svimmero # plavčík #
@@ -12629,7 +12657,7 @@ timer # bát se, obávat se #
 timid # bázlivý, plachý; nesmělý, -iditá bázlivost #
 timidXXX-idisar # děsit #
 timon # oj (vozu); kormidlo #
-timonXXX-ero # kormidelník #
+timonero # kormidelník #
 timore # bázeň, obava, strach #
 timpane # *ty... bubínek anat. #
 timpanic # bubínkový #
@@ -12901,7 +12929,7 @@ tren # vlak; vlečka (šatů) #
 trepidar # zachvět se #
 trepidation # zachvění, znepokojení #
 tresor # poklad; pokladna #
-tresorXXX-ero # pokladník #
+tresorero # pokladník #
 tressar # proplétat, plést (vlasy) #
 tresse # cop; pletenec (vlasů) #
 trestale # trnož; kozlík #
@@ -12941,7 +12969,7 @@ Trinitá # Trojice círk. #
 tripes # dršťky, vnitřnosti, droby #
 trison # trojzvuk #
 trist # smutný, truchlivý #
-tristXXX-esse # smutek #
+tristesse # smutek #
 tri # tři #
 triturar # drtit, rozmělnit #
 trituration # drcení, rozmělnění #
@@ -12983,7 +13011,7 @@ truelle # zednická lžíce #
 truffle # lanýž bot. #
 truisme # všednost, banálnost; všední, obyklé rčení #
 trumpetar # (za)troubit, vytrubovat #
-trumpetarXXX-ero # trubač #
+trumpetero # trubač #
 trumpete # trubka, trumpeta; trouba (hlásná) #
 trumpetist # trumpetista #
 trump # trumf #
@@ -13565,7 +13593,13 @@ vite # réva #
 viticultor # vinař #
 viticultura # vinařství #
 vitrage # okenní tabule #
-vitrageXXX-ero # sklenář; -eríe skleněné zboží; -ería sklárna; -i, -in skleněný; -ine výkladní skříň; -osi skelný, sklovitý #
+vitrero # sklenář #
+vitreríe # skleněné zboží #
+vitrería # sklárna #
+vitri # (= vitrin) skleněný #
+vitrin # (= vitri) skleněný #
+vitrine # výkladní skříň #
+vitrosi # skelný, sklovitý #
 vitrale # chrámové okno, barevné ozdobné okno #
 vitrallia # střepy #
 vitre # sklo #
