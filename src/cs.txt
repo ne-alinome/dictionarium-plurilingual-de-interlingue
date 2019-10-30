@@ -6935,7 +6935,7 @@ inversiv # inverzní (fotomateriál) #
 inverter # obrátit (chod stroje); převrátit (slovosled), -sion obrácení, obrat; převrácení #
 investigar # zkoumat, vyšetřovat; pátrat #
 investigation # výzkum; pátrání #
-investigationXXX-ativ # výzkumný #
+investigativ # výzkumný #
 investigator # badatel; vyšetřovatel #
 investir # investovat; uvést v úřad #
 investition # vklad kapitálu; investice #
@@ -8259,7 +8259,8 @@ nase # nos #
 nasse # vrš, síť #
 natalitá # porodnost #
 native # rodák #
-nativeXXX-ivitá # narození: -al rodný (kraj, ves) #
+nativitá # narození #
+natal rodný (kraj, ves) #
 nativ # rodilý, rodem; domovský #
 nátrium # sodík chem. #
 naturalitá # přirozenost #
@@ -8475,8 +8476,10 @@ objecter # namítat #
 objecterXXX-ion # námitka: -ionar namítat, mít námitky; -iv věcný, objektivní: -ive objektiv #
 objecte # věc, předmět (poznání, myšlení); předmět gram.; objekt (samostatná stavba) #
 objectivitá # objektivnost #
-obliga, # -ation závazek, povinnost #
-obliga,XXX-ativ, # -atori povinný, závazný #
+obliga # (= obligation ) závazek, povinnost #
+obligation # (= obliga) závazek, povinnost #
+obligativ # (= obligatori) povinný, závazný #
+obligatori # (= obligativ)  povinný, závazný #
 obligantie # ochota, laskavost #
 obligar # zavázat (k čemu) #
 obliqui # šikmý, kosý; nepřímý gram. #
@@ -8616,7 +8619,8 @@ opalin # opálový #
 ópera # opera #
 operar # působit (o léku); fungovat, pracovat; operovat (koho) #
 operation # působení, činnost; operace (i voj.) #
-operationXXX-ativ # operativní (činný); -ator operátor; operatér med. #
+operativ # operativní (činný) #
+operator # operátor; operatér med. #
 operatori # operační (sál, zákrok) #
 operette # opereta #
 opiate # opiát, narkotikum #
@@ -8637,7 +8641,7 @@ opression # potlačování; útlak, útisk #
 opressor # potlačovatel, utiskovatel #
 optar # volit, rozhodnout se (pro) #
 optation # opce #
-optationXXX-ativ # opční #
+optativ # opční #
 optative # optativ gram. #
 óptic # optický #
 ópticXXX-a # optika; -o optik #
@@ -8710,7 +8714,7 @@ ossinXXX-osi # kostnatý; -age kosti; -ament, -atura kostra; -ette kůstka #
 ostage # rukojmí #
 ostentar # stavět na odiv #
 ostentation # okázalost, vyzývavost #
-ostentationXXX-ativ # okázalý, vyzývavý #
+ostentativ # okázalý, vyzývavý #
 ostre # ústřice #
 ost # východ (svět. strana); O- Východ (východní Evropa a Asie) #
 otite # zánět (středního) ucha #
@@ -9570,7 +9574,7 @@ post- # (= pos-) (ve složeninách značí následnost, po-): pósthum #
 postular # požadovat, dožadovat se #
 postulate # předpoklad #
 postulation # požadavek, žádost #
-postulationXXX-ativ # týkající se požadavku #
+postulativ # týkající se požadavku #
 postura # držení, postavení #
 potasse # draslo, potaš chem. #
 potate # brambor, zemák #
@@ -10612,7 +10616,7 @@ respecte # úcta, vážnost #
 respectosi # uctivý #
 respirar # dýchat, oddychovat #
 respiration # dýchání, dech #
-respirationXXX-ativ # dýchací #
+respirativ # dýchací #
 responder # odpovědět (nač) #
 responsabil # (por) odpovědný (za) #
 responsabilXXX-abilitá # odpovědnost #
@@ -13293,7 +13297,7 @@ vocalisar # vokalizovat hud., gram. #
 vocalisation # vokalizace #
 vocar # (za-, z)volat #
 vocation # povolání #
-vocationXXX-ative # vokativ gram. #
+vocative # vokativ gram. #
 voce # hlas #
 vocosi # hlasitý #
 vocosiXXX-ear # pokřikovat #
