@@ -45,8 +45,8 @@ accusator # -> acusator #
 accustomar # -> acustomar #
 aconnossement # -> aconossement #
 aconnosser # -> aconosser #
-ad # => a
-ad- # => a-
+ad # = a
+ad- # = a-
 adjuncter # -> adjunter #
 adjunction # -> adjuntion #
 advocate # -> avocate #
@@ -245,14 +245,14 @@ avellane # -> avelane #
 avellaniero # -> avelaniero #
 ballett # -> balett #
 ballotament # -> balotament #
-balotament # => balotation #
+balotament # = balotation #
 ballotar # -> balotar #
 ballotation # -> balotation #
 bankruptie # -> bancrotte #
 baryton # -> bariton #
 barytonist # baritonist #
 bastonada # -> bastonation #
-cade # => caida #
+cade # = caida #
 camphor # -> camfor #
 barril # -> baril #
 bibliotheca # -> biblioteca #
@@ -622,10 +622,10 @@ pathétic # -> patétic #
 perruque # -> peruque #
 perruquero # -> peruquero #
 perruquiere # -> peruquiere #
-piani # => pian #
+piani # = pian #
 pinacotheca # -> pinacoteca #
 pirotéchnic # -> pirotécnic #
-plani # => plan #
+plani # = plan #
 platt # -> plat #
 postillion # -> postilion #
 prescripter # -> prescrir #
@@ -780,3 +780,19 @@ subtraher # -> subtraer #
 subtrahende # -> subtraende #
 subtracter # -> subtraer #
 subtraction # -> subtration #
+bifurcament # = bifurcation #
+bruida # = brue #
+celibatario # = celibo #
+clamada # = clamore #
+compostor # = compostero #
+concubinatu # = concubinage #
+contenentie # = contenete #
+cornatura # = cornament #
+covation # = covada #
+cretatri # = cretosi #
+crinat # = crinosi #
+crialliar # = criachar #
+crocheteríe # = crochetage #
+crucero # = cruceator #
+curvament # = curvation #
+curvatura # = curvation #

@@ -1128,7 +1128,7 @@ balneatoria # koupelna #
 balne # koupel, lázeň #
 balnuore # vana #
 balotar # tajně hlasovat; losovat #
-balotation, # tajné hlasování; losování #
+balotation # tajné hlasování; losování #
 balsam # balzám #
 balsamic # balzámový #
 baltic # baltský; li (Mare) Báltic Baltské moře, Balt, Baltik #
@@ -1289,7 +1289,7 @@ bicicle # jízdní kolo, bicykl #
 bi- # (= dúplic) dvojí (účel), dvojnásobný, dvojitý #
 bielle # ojnice; řídítka (kola) #
 bifurcar # se rozdělit se, rozdvojit se (vidlicovitě) #
-bifurcation, # -ament rozdělení, rozdvojení (cesty) #
+bifurcation # rozdělení, rozdvojení (cesty) #
 bigamie # bigamie #
 bigamist # bigamista #
 bigott # pobožnůstkářský #
@@ -1485,7 +1485,7 @@ bronzin # bronzový #
 brossar # kartáčovat #
 brosse # kartáč #
 brove # obočí #
-brue, # -ida hluk, hřmot, lomoz #
+brue # hluk, hřmot, lomoz #
 bruiosi # hlučný #
 bruir # hlučet #
 brular # hořet; pálit (o slunci) #
@@ -1923,7 +1923,7 @@ celebri # proslulý, slavný #
 celebritá # proslulost, sláva; proslulá osobnost, celebrita, hvězda celest, -ial (= cielest) nebeský #
 celibatu # celibát, bezženství #
 celibi # svobodný (neženatý) #
-celibo, # -atario svobodný mládenec, neženatý muž #
+celibo # svobodný mládenec, neženatý muž #
 céllarero # sklepník #
 céllare # sklep #
 cellul # buňka #
@@ -2011,7 +2011,8 @@ charpie # cupanina #
 charta # charta (listina závažnějšího státně polit. významu) #
 chascun # každý #
 chassar # honit, lovit #
-chassator, # -ero lovec #
+chassator # (= chassator) lovec #
+chasser # (= chassero) lovec #
 chasse # hon, lov #
 chassí # šasi, podvozek #
 chast # cudný, čistý (mravně); zdrženlivý #
@@ -2176,7 +2177,11 @@ clacca # tlesknutí; klapnutí #
 claccar # (za)tleskat, plácat; klapat #
 claffar # hafat, ňafat, štěkat #
 clamar # volat, křičet #
-clamore, # -ada volání, křik; ex-ar vykřiknout, zvolat; ex-ation výkřik, zvolání; de-ar deklamovat, recitovat, přednášet; a-ar veřejně projevit souhlas #
+clamore # volání, křik #
+exclamar # vykřiknout, zvolat #
+exclamation # výkřik, zvolání #
+declamar # deklamovat, recitovat, přednášet #
+aclamar # veřejně projevit souhlas #
 clamp # svorka #
 clan # klan, rod; klika (zájmová skupina), gang #
 clapotar # šplíchat, šplouchat #
@@ -2295,7 +2300,8 @@ coincidentie # shoda, souběh #
 coincider # přihodit se současně, shodovat se #
 coiter # souložit #
 coite # soulož #
-colaborante, # -ero spolupracovník #
+colaborante # (= colaborero) spolupracovník #
+colaborero # (= colaborante) spolupracovník #
 colaborar # spolupracovat #
 colare # límec, límeček, kolárek #
 colateral # stojící na téže straně; ekvivalentní (slovní výraz) #
@@ -2361,7 +2367,9 @@ comande # rozkaz, příkaz, povel; komando #
 comandite # podílnictví #
 combatte # boj, bitva #
 combatter # bojovat, zápasit #
-combattente, # -or bojující, bojovník; -iv bojovný, bojechtivý #
+combattente # (= combattor) bojující, bojovník #
+combattor # (= combattente) bojující, bojovník #
+combattiv # bojovný, bojechtivý #
 combattivitá # bojovnost, bojechtivost #
 combinar # spojovat, slučovat, sestavovat, kombinovat #
 combination # spojování, slučování, sestava #
@@ -2466,7 +2474,7 @@ composir # složit, skládat #
 composition # složení, sestavení, sladba; úloha (školní) #
 compositor # skladatel #
 composte # kompost #
-compostero, # -or sazeč #
+compostero # sazeč #
 composter # sázet typ. #
 compot # kompot #
 compra # koupě, nákup #
@@ -2550,7 +2558,7 @@ concret # konkrétní, určitý, věcný #
 concretisar # konkretizovat, uskutečnit #
 concretisation # konkretizace, uskutečnění #
 concubina # družka #
-concubinage, # -atu konkubinát (soužití bez sňatku) #
+concubinage # konkubinát (soužití bez sňatku) #
 concurrentie # soutěžení, konkurence #
 concurrer # sběhnout se; závodit, soutěžit, konkurovat #
 concurrente # soupeř, konkurent #
@@ -2783,7 +2791,7 @@ contemporane # současník #
 contemporanie # současnost, dnešek #
 contemporan # současný, moderní, dnešní #
 contener # obsahovat, pojmout #
-contenete, # -entie obsah, náplň #
+contenete # obsah, náplň #
 content # spokojený #
 contentar (se) # (u)spokojit (se) #
 contentiv # uspokojovací #
@@ -2965,7 +2973,7 @@ cornat # (pa)rohatý #
 cornette # kornet hud. #
 cornosi # rohovinatý #
 cornin # parohový, rohovinový, kostěný (knoflík) #
-cornament, # -atura parohy #
+cornament # parohy #
 coroborar # posílit, posilovat #
 coroboration # posilování #
 coroder # korodovat, rozežírat #
@@ -3032,7 +3040,7 @@ cotlette # kotleta #
 coton # bavlna #
 cotonage # bavlněný materiál #
 cotórnice # křepelka zool. #
-covada, # -ation sezení na vejcích, vysezení #
+covada # sezení na vejcích, vysezení #
 covar # sedět na vejcích, vysedět #
 covatura # násada kuřat #
 covert # obálka #
@@ -3101,7 +3109,7 @@ crete # křída geol. #
 cretinisme # kreténismus #
 cretino # kretén med.; blbec hovor. #
 creton # kreton text. #
-cretosi, # -atri křídov(it)ý #
+cretosi # křídov(it)ý #
 crevar # puknout #
 crevation # puklina #
 creve # rak #
@@ -3114,7 +3122,7 @@ críminard # kriminálník; in-ar obvinit #
 crímine # zločin #
 crine # žíně; srst #
 criniera # hříva #
-crinosi, # -at srstnatý #
+crinosi # srstnatý #
 crippe # jesle, žlab #
 cripta # *cry... krypta stav. #
 criptografie # *cryptographie (cryptografie) kryptografie #
@@ -3130,7 +3138,8 @@ cristalleríe # skleněné zboží #
 cristallisar # krystalizovat #
 Crist-festa # Vánoce #
 cristian # křesťanský #
-cristiano, # -a křesťan, -ka #
+cristiano # křesťan, -ka #
+cristiana # křesťan, -ka #
 cristianisme # křesťanství #
 cristianes # křesťanstvo #
 cristianité # křesťanstvo #
@@ -3147,12 +3156,12 @@ criar # křičet #
 criada # křik, volání #
 criard # křikloun #
 crieríe # křiklounství #
-criachar, # -alliar vřískat, řvát, hulákat #
+criachar # vřískat, řvát, hulákat #
 croacada # krákání, krákorání #
 croacar # krákat, krákorat #
 Croatia # Chorvatsko; c-ic chorvatský; c-o Chorvat #
 croc # hák, skoba; vidlice (telefonu); a-ar pověsit, zavěsit #
-crochetage, # -eríe háčkování (postup i výsledek) #
+crochetage # háčkování (postup i výsledek) #
 crochetar # háčkovat #
 crochete # háček #
 crocodile # krokodýl #
@@ -3171,7 +3180,7 @@ cruca # berla #
 crucear # křížit (plány, rasy); křižovat (o lodi) #
 cruceament # křížení; křižování #
 cruceament # křížení; křižování #
-cruceator, # -ero křižník #
+cruceator # křižník #
 crucificar # ukřižovat #
 crucial # křížový anat.; rozhodný, rozhodující, kritický #
 cruce # kříž; crucevia křižovatka #
@@ -3278,7 +3287,7 @@ cursu # kurz (učební) #
 curtagero # makléř obch. #
 curt # krátký #
 curtitá # krátkost; a-ar přikrátit, zkrátit #
-curvation, # -ament, -atura zakřivení #
+curvation # zakřivení #
 curve # křivka geom.; zatáčka #
 curvar # z(a)křivit, ohnout #
 curvi # křivý #
