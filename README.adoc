@@ -11,27 +11,45 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202008251745
+// Last modified 202008251838
 
 == Interlingue
 
-=== Pri ti projecte
+Scope:: Crear un dictionarium plurilingual de Interlingue in pluri
+formates (DICT, EPUB, MDF, ODT, PDF e altris).
 
-Scope:: Crear un modern e actualisabil dictionarium plurilingual de
-Interlingue.
+Lingues:: In prim tis del Interlingue-dictionariums ja disponibil in
+diversi documentes digital: esperantic (Bedřich Plavec, 2005), german
+(Thomas Schmidt, 2014) e tchec (Bedřich Plavec, 2006); poy anc
+http://github.com/ne-alinome/english-interlingue-dictionary[anglesi
+(Charles Kemp e F.R. Pope, 1956)] e altris.
 
-Formates final:: DICT, EPUB, ODT, PDF e altris.
+Statu:: Li data del dictionariums individual german, tchec e
+esperantic es convertibil in un document MDF ("Multi-lingual
+Dictionary Format"), un del formates creat de http://sil.org[SIL] por
+su programmas.
 
-Formate del data:: Database textual MDF ("Multi-lingual Dictionary
-Format"), un del formates creat de http://sil.org[SIL] por su
-programas.
-
-Lingues:: In prim tis del Interlingue-dictionariums ya disponibil in
-diversi documentes digital: anglesi (Charles Kemp e F.R. Pope, 1958),
-esperantic (Bedřich Plavec, 2005), german (Thomas Schmidt,
-2014), e tchec (Bedřich Plavec, 2006). Poy anc hispan e altris, secun
-li colaboratores.
-
-Autor:: Marcos Cruz, 2019.
+Autor:: Marcos Cruz, 2019..2020.
 
 Web-loc:: http://ne.alinome.net[ne.alinome.net]
+
+== Esperanto
+
+Celo:: Krei plurlingvan vortaron Interlingvean en pluraj formatoj
+(DICT, EPUB, MDF, ODT, PDF kaj aliaj).
+
+Lingvoj:: Por komenco, tiuj de la Interlingveaj vortaroj jam
+disponeblaj en diversaj diĝitaj dokumentoj: Esperanta (Bedřich Plavec,
+2005), germana (Thomas Schmidt, 2014) kaj ĉeka (Bedřich Plavec, 2006);
+poste ankaŭ
+http://github.com/ne-alinome/english-interlingue-dictionary[angla
+(Charles Kemp e F.R. Pope, 1956)] kaj aliaj.
+
+Stato:: La datenoj de la individuaj vortaroj germana, ĉeka kaj
+Esperanta estas konverteblaj en dosieron MDF ("Multi-lingual
+Dictionary Format"), unu el la formatoj kreitaj de http://sil.org[SIL]
+por ĝiaj programoj.
+
+Aŭtoro:: Marcos Cruz, 2019..2020.
+
+Retejo:: http://ne.alinome.net[ne.alinome.net]
