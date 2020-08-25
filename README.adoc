@@ -1,6 +1,8 @@
 = Dictionarium plurilingual de Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-14
+:revdate: 2020-08-25
+:toc:
+:toc-title:
 
 // This file is part of project
 // _Dictionarium plurilingual de Interlingue_
@@ -11,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202008251838
+// Last modified 202008251848
 
 == Interlingue
 
