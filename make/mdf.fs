@@ -1,6 +1,6 @@
 \ mdf.fs
 \
-\ This file is part of project _Dictionarium de Interlingue_
+\ This file is part of project _Dictionarium plurilingual de Interlingue_
 \
 \ by Marcos Cruz (programandala.net) http://ne.alinome.net
 \
@@ -12,7 +12,7 @@
 \ term and its translation on every line) and converts it into an
 \ MDF file, sending the result to standard output,
 \
-\ Last modified 201910282330
+\ Last modified 202008251747
 
 \ ==============================================================
 
@@ -71,3 +71,5 @@ term /term erase
 \ 2019-10-27: Start.
 \
 \ 2019-10-28: Add `see{` for cross-references.
+\
+\ 2020-08-25: Update project's name.

@@ -1,9 +1,9 @@
-= TO-DO of _Dictionarium de Interlingue_
+= TO-DO of _Dictionarium plurilingual de Interlingue_
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-10-30
 
 // This file is part of project
-// _Dictionarium de Interlingue_
+// _Dictionarium plurilingual de Interlingue_
 //
 // by Marcos Cruz (programandala.net)
 // http://ne.alinome.net
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201910302137
+// Last modified 202008251745
 
 == General
 

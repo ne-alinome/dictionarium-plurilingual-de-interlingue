@@ -1,9 +1,9 @@
-# Makefile of _Dictionarium de Interlingue_
+# Makefile of _Dictionarium plurilingual de Interlingue_
 
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201910282224
+# Last modified 202008251756
 # See change log at the end of the file
 
 # ==============================================================
@@ -24,10 +24,10 @@
 
 VPATH=./src:./target
 
-book_basename=dictionarium_de_interlingue
-title="Dictionarium de Interlingue"
+book_basename=dictionarium_plurilingual_de_interlingue
+title="Dictionarium plurilingual de Interlingue"
 book_author=""
-publisher="ne.alinome"
+publisher="ne alinome"
 description=
 
 dict_basename=$(book_basename)
@@ -256,3 +256,5 @@ uninstall:
 # "sort".
 #
 # 2019-10-28: Add the cross-references file, <src/see.txt>.
+#
+# 2020-08-25: Update the project's name. Update the editor's name.
