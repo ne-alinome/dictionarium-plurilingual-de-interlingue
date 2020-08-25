@@ -10539,7 +10539,7 @@ recluder # zamknout, zavřít #
 reclusion # odloučení (samota) #
 recognoscer # prozkoumat, zjišťovat (před akcí) #
 recognoscida # průzkum #
-recoleer # (se) sebrat se, vzchopit se #
+recoleer (se) # sebrat se, vzchopit se #
 recolier # posbírat #
 recoltar # sklízet (úrodu) #
 recolte # sklizeň, úroda, žeň, žně #
@@ -11832,7 +11832,7 @@ soluibil # rozpustný; řešitelný #
 soluibilitá # rozpustnost; řešitelnost #
 solution # roztok; řešení #
 dissoluer # rozpouštět #
-solvabil # # (= solvent) solventní #
+solvabil # (= solvent) solventní #
 solvent # (= solvabil) solventní #
 solvabilitá, # (= solventie) solventnost #
 solventie # (= solvabilitá) solventnost #
@@ -13429,7 +13429,7 @@ venen # (= tóxico) jed #
 venenosi # jedovatý #
 venerar # ctít, uctícvat #
 veneration # úcta, uctívání #
-venerationXXX-abil # ctihodný, úctyhodný #
+venerabil # ctihodný, úctyhodný #
 venerator # ctitel #
 venerdí # pátek #
 Vénere # (= Vénus) Venuše astr. #

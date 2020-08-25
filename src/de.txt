@@ -9450,7 +9450,7 @@ restricter # einschränken, beschränken #
 restriction # Einschränkung, Beschränkung #
 restrictiv # einschränkend, beschränkend, restriktiv #
 resultant # schließlich #
-resultatar # resultieren, zum Ergebnis haben #
+resultar # resultieren, zum Ergebnis haben #
 resultate # Ergebnis, Resultat #
 resumar # resümieren, kurz zusammenfassen #
 resumate # Kurzzusammenfassung #
