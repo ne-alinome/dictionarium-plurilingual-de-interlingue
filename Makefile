@@ -3,11 +3,11 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202008251756
+# Last modified 202008251804
 # See change log at the end of the file
 
 # ==============================================================
-# Requirements
+# Requirements {{{1
 
 # - asciidoctor (http://asciidoctor.org)
 # - asciidoctor-pdf (http://asciidoctor.org)
@@ -20,7 +20,7 @@
 # - xsltproc
 
 # ==============================================================
-# Config
+# Config {{{1
 
 VPATH=./src:./target
 
@@ -35,7 +35,7 @@ dict_data_url=http://ne.alinome.net
 dict_data_format=c5
 
 # ==============================================================
-# Interface
+# Interface {{{1
 
 .PHONY: all
 all: epub pdf
@@ -75,7 +75,7 @@ clean:
 	rm -f target/* tmp/*
 
 # ==============================================================
-# Convert source data files to an intermediate format
+# Convert source data files to an intermediate format {{{1
 
 # The intermediate format makes the data easier to be interpreted
 # as a Forth program.
@@ -100,7 +100,7 @@ tmp/all.txt: tmp/cs.txt tmp/de.txt tmp/eo.txt tmp/see.txt
 		> $@
 
 # ==============================================================
-# Convert the intermediate format to MDF
+# Convert the intermediate format to MDF {{{1
 
 # The MDF format is used by several dictionary programs created by SIL
 # (http://sil.org), e.g. Lexique Pro and Toolbox.
@@ -109,7 +109,7 @@ target/$(book_basename).mdf: tmp/all.txt
 	gforth make/mdf.fs $< -e bye > $@
 
 # ==============================================================
-# Convert Asciidoctor to PDF
+# Convert Asciidoctor to PDF {{{1
 
 target/%.adoc.a4.pdf: src/%.adoc
 	asciidoctor-pdf \
@@ -121,7 +121,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to DocBook
+# Convert Asciidoctor to DocBook {{{1
 
 .SECONDARY: tmp/$(book_basename).adoc.xml
 
@@ -129,10 +129,10 @@ tmp/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
-# Convert DocBook to EPUB
+# Convert DocBook to EPUB {{{1
 
 # ------------------------------------------------
-# With dbtoepub
+# With dbtoepub {{{2
 
 target/$(book_basename).adoc.xml.dbtoepub.epub: \
 	tmp/$(book_basename).adoc.xml \
@@ -141,7 +141,7 @@ target/$(book_basename).adoc.xml.dbtoepub.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With pandoc
+# With pandoc {{{2
 
 target/$(book_basename).adoc.xml.pandoc.epub: \
 	tmp/$(book_basename).adoc.xml \
@@ -160,7 +160,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With xsltproc
+# With xsltproc {{{2
 
 target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 	rm -fr tmp/xsltproc/* && \
@@ -184,7 +184,7 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
-# Convert DocBook to OpenDocument
+# Convert DocBook to OpenDocument {{{1
 
 target/$(book_basename).adoc.xml.pandoc.odt: \
 	tmp/$(book_basename).adoc.xml \
@@ -201,7 +201,7 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-# Convert the original data file to "dict_data_format"
+# Convert the original data file to "dict_data_format" {{{1
 
 .SECONDARY: tmp/$(dict_basename).$(dict_data_format)
 
@@ -211,7 +211,7 @@ tmp/%.$(dict_data_format): src/%.txt
 	vim -e -S make/tidy_data.vim $@
 
 # ==============================================================
-# Convert dictionary data to dict format
+# Convert dictionary data to dict format {{{1
 
 target/%.dict: tmp/%.$(dict_data_format)
 	dictfmt \
@@ -222,7 +222,7 @@ target/%.dict: tmp/%.$(dict_data_format)
 		< $<
 
 # ==============================================================
-# Install and uninstall dict
+# Install and uninstall dict {{{1
 
 %.dict.dz: %.dict
 	dictzip --force $<
@@ -243,7 +243,7 @@ uninstall:
 	/etc/init.d/dictd restart
 
 # ==============================================================
-# Change log
+# Change log {{{1
 
 # 2019-08-14: Start.
 #
